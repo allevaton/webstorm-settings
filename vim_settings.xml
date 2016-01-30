@@ -56,8 +56,8 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" timestamp="1454114786141">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" timestamp="1454128655607">
+        <mark key="'" line="52" column="0" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -184,7 +184,6 @@
       <jump line="74" column="4" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/gulpfile.js" />
       <jump line="48" column="12" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/gulpfile.js" />
       <jump line="48" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" />
       <jump line="139" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/tasks/build.js" />
       <jump line="129" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/tasks/build.js" />
@@ -194,6 +193,7 @@
       <jump line="134" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/build/background.js" />
       <jump line="123" column="4" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/build/background.js" />
       <jump line="106" column="6" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/build/background.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -227,7 +227,7 @@
         <text encoding="base64">TXIg</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">VFdpdGNoIA==</text>
@@ -252,6 +252,7 @@
         <entry>.w</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
