@@ -37,13 +37,6 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/SPProject/index.html" timestamp="1442968507175">
-        <mark key="'" line="262" column="0" />
-        <mark key="[" line="270" column="122" />
-        <mark key="]" line="270" column="158" />
-        <mark key="^" line="270" column="158" />
-        <mark key="." line="270" column="158" />
-      </file>
       <file name="$USER_HOME$/Documents/WebstormProjects/aai/template.html" timestamp="1443052609269">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="82" column="77" />
@@ -60,6 +53,24 @@
       <file name="$USER_HOME$/WebstormProjects/SPProject/js/grayscale.js" timestamp="1437426041358">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" timestamp="1454112868292">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/SPProject/index.html" timestamp="1442968507175">
+        <mark key="'" line="262" column="0" />
+        <mark key="[" line="270" column="122" />
+        <mark key="]" line="270" column="158" />
+        <mark key="^" line="270" column="158" />
+        <mark key="." line="270" column="158" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/.editorconfig" timestamp="1454112381295">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/application.hbs" timestamp="1444265604972">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="2" column="30" />
@@ -68,9 +79,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="16" filename="$USER_HOME$/WebstormProjects/SPProject/index.html" />
-      <jump line="146" column="20" filename="$USER_HOME$/WebstormProjects/SPProject/index.html" />
-      <jump line="63" column="0" filename="$USER_HOME$/WebstormProjects/SPProject/css/grayscale.css" />
       <jump line="5" column="0" filename="$USER_HOME$/WebstormProjects/SPProject/css/grayscale.css" />
       <jump line="132" column="0" filename="$USER_HOME$/WebstormProjects/SPProject/index.html" />
       <jump line="126" column="16" filename="$USER_HOME$/WebstormProjects/SPProject/index.html" />
@@ -168,37 +176,40 @@
       <jump line="100" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/gulpfile.js" />
       <jump line="74" column="4" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/gulpfile.js" />
       <jump line="48" column="12" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/gulpfile.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNiI+PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNCI+CiAgICAgICAgICAgIDxsYWJlbD5TZW1lc3RlcgogICAgICAgICAgICAgICAgPHNlbGVjdCBjbGFzcz0iZm9ybS1jb250cm9sIGlucHV0LWxnIj4KICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHNlbGVjdGVkPlNlbGVjdCBhIHNlbWVzdGVyLi4uPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgPG9wdGlvbj5TcHJpbmcgMjAxNjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgIDxvcHRpb24+RmFsbCAyMDE1PC9vcHRpb24+CiAgICAgICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="2" type="4">
-        <text>Rails is omakase</text>
-      </register>
-      <register name="3" type="4">
-        <text>title</text>
-      </register>
-      <register name="4" type="4">
-        <text>}</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">e3sjZWFjaCBwb3N0IGluIG1vZGVsfX0KICB7e2Jsb2ctcG9zdH19Cnt7L2VhY2h9fQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNCI+CiAgICAgICAgICAgIDxsYWJlbD5TZW1lc3RlcgogICAgICAgICAgICAgICAgPHNlbGVjdCBjbGFzcz0iZm9ybS1jb250cm9sIGlucHV0LWxnIj4KICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHNlbGVjdGVkPlNlbGVjdCBhIHNlbWVzdGVyLi4uPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgPG9wdGlvbj5TcHJpbmcgMjAxNjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgIDxvcHRpb24+RmFsbCAyMDE1PC9vcHRpb24+CiAgICAgICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="3" type="4">
+        <text>Rails is omakase</text>
+      </register>
+      <register name="4" type="4">
+        <text>title</text>
+      </register>
+      <register name="5" type="4">
+        <text>}</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">e3sjZWFjaCBwb3N0IGluIG1vZGVsfX0KICB7e2Jsb2ctcG9zdH19Cnt7L2VhY2h9fQo=</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZzBnCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>j</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
