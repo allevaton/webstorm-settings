@@ -47,11 +47,11 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/emberjs-test/ember-cli-build.js" timestamp="1454289137564">
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
-        <mark key="^" line="30" column="25" />
+      <file name="$USER_HOME$/WebstormProjects/emberjs-test/ember-cli-build.js" timestamp="1454304537241">
+        <mark key="[" line="30" column="58" />
+        <mark key="]" line="30" column="58" />
+        <mark key="." line="30" column="58" />
+        <mark key="^" line="30" column="64" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/emberjs-test/app/templates/application.hbs" timestamp="1454287595194">
         <mark key="[" line="4" column="5" />
@@ -206,40 +206,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNiI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICBhcHAuaW1wb3J0KCdib3dlcl9jb21wb25lbnRzL2Jvb3RzdHJhcC9kaXN0L2Nzcy9ib290c3RyYXAubWluLmNzcycpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>bower_components</text>
+        <text>min</text>
       </register>
       <register name="2" type="4">
-        <text>bower_components</text>
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PGgxPkhlbGxvIHdvcmxkITwvaDE+Cg==</text>
+      <register name="3" type="4">
+        <text>min</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PGgyIGlkPSJ0aXRsZSI+V2VsY29tZSB0byBFbWJlcjwvaDI+Cg==</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">VFdpdGNoIA==</text>
+        <text>css</text>
       </register>
       <register name="6" type="4">
-        <text>Boilerplate</text>
+        <text>css</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvYm9vdHN0cmFwLmpzJyk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>Electron</text>
+        <text>node_modules</text>
       </register>
       <register name="9" type="4">
-        <text>boilerplate</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>bower_components</text>
+        <text>min</text>
       </register>
     </registers>
     <search>
