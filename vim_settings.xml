@@ -28,6 +28,11 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/reactjs-test/.eslintrc" timestamp="1454378108324">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/SPProject/css/grayscale.css" timestamp="1438609931129">
         <mark key="'" line="188" column="8" />
         <mark key="[" line="75" column="0" />
@@ -52,6 +57,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/reactjs-test/preprocessor.js" timestamp="1454378123516" />
       <file name="$USER_HOME$/WebstormProjects/emberjs-test/ember-cli-build.js" timestamp="1454304537241">
         <mark key="[" line="30" column="58" />
         <mark key="]" line="30" column="58" />
@@ -70,6 +76,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/reactjs-test/package.json" timestamp="1454377970812" />
       <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/background.js" timestamp="1454128655607">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="22" column="0" />
@@ -213,14 +220,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhcHAuaW1wb3J0KCdib3dlcl9jb21wb25lbnRzL2Jvb3RzdHJhcC9kaXN0L2Nzcy9ib290c3RyYXAubWluLmNzcycpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>,</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAiciIK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9IiI+Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>min</text>
-      </register>
-      <register name="3" type="4">
-        <text>.</text>
       </register>
       <register name="4" type="4">
         <text>min</text>
@@ -229,22 +236,22 @@
         <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>css</text>
+        <text>min</text>
       </register>
       <register name="7" type="4">
+        <text>.</text>
+      </register>
+      <register name="8" type="4">
         <text>css</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBhcHAuaW1wb3J0KCd2ZW5kb3IvYm9vdHN0cmFwLmpzJyk7Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text>node_modules</text>
+        <text>css</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
