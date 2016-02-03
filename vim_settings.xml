@@ -21,6 +21,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/crypto-assignment3/package.json" timestamp="1454465696387">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/gulpfile.js" timestamp="1454118980739">
         <mark key="'" line="48" column="12" />
         <mark key="[" line="32" column="19" />
@@ -51,7 +56,6 @@
         <mark key="^" line="82" column="77" />
         <mark key="." line="82" column="77" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/electron-test/tasks/start.js" timestamp="1454465281433" />
       <file name="$USER_HOME$/WebstormProjects/classy/app/index.html" timestamp="1444265195960">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="60" />
@@ -219,29 +223,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhcHAuaW1wb3J0KCdib3dlcl9jb21wb25lbnRzL2Jvb3RzdHJhcC9kaXN0L2Nzcy9ib290c3RyYXAubWluLmNzcycpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>,</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAiciIK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9IiI+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>min</text>
-      </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>min</text>
       </register>
       <register name="6" type="4">
-        <text>min</text>
-      </register>
-      <register name="7" type="4">
         <text>.</text>
       </register>
+      <register name="7" type="4">
+        <text>min</text>
+      </register>
       <register name="8" type="4">
-        <text>css</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
         <text>css</text>
