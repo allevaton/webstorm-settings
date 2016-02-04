@@ -156,10 +156,13 @@
         <mark key="." line="25" column="28" />
         <mark key="[" line="24" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1454562429446">
-        <mark key="'" line="75" column="0" />
+      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1454616670498">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="51" column="31" />
+        <mark key="^" line="51" column="31" />
+        <mark key="." line="51" column="31" />
         <mark key="k" line="92" column="0" />
-        <mark key="[" line="68" column="77" />
+        <mark key="[" line="51" column="26" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/SPProject/css/grayscale.css" timestamp="1438609931129">
         <mark key="'" line="188" column="8" />
@@ -187,10 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="4" filename="$USER_HOME$/workspace/cryptography/assignment3/tasks/build.js" />
-      <jump line="48" column="4" filename="$USER_HOME$/workspace/cryptography/assignment3/tasks/build.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/workspace/cryptography/assignment3/tasks/build.js" />
-      <jump line="126" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/tasks/build.js" />
       <jump line="69" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/tasks/build.js" />
       <jump line="50" column="4" filename="$USER_HOME$/workspace/cryptography/assignment3/tasks/build.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/cryptography/assignment3/app/app.html" />
@@ -278,7 +277,6 @@
       <jump line="67" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
       <jump line="35" column="6" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
       <jump line="56" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
       <jump line="54" column="4" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/node_modules/c3/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/node_modules/c3/package.json" />
       <jump line="19" column="4" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/node_modules/c3/package.json" />
@@ -287,46 +285,51 @@
       <jump line="82" column="4" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
       <jump line="53" column="4" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
+      <jump line="140" column="4" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">bmFtZSA=</text>
-      </register>
-      <register name="2" type="4">
         <text>header</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgLy9tYXRoLnN0ZAo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>key</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGNsYXNzPSJjb250cm9sLWxhYmVsIg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Ly8g</text>
-      </register>
-      <register name="6" type="4">
         <text>stdMedians</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>st</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">bmFtZSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAiY29weXJpZ2h0IjogIsKpIDIwMTYsIHlvdXIgY29tcGFueSBoZXJlIiwK</text>
+      <register name="9" type="4">
+        <text>TODO</text>
       </register>
       <register name="8" type="4">
-        <text>TODO</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncmVldFw+</text>
       </register>
       <register name="-" type="4">
-        <text>header</text>
+        <text>key</text>
       </register>
     </registers>
     <search>
@@ -345,7 +348,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>wa</entry>
         <entry>retab</entry>
-        <entry>action RenameElement</entry>
         <entry>wq</entry>
         <entry>we</entry>
         <entry>.w</entry>
@@ -357,6 +359,7 @@
         <entry>Autoformat</entry>
         <entry>j</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
