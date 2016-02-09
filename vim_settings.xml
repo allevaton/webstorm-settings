@@ -38,8 +38,8 @@
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/index.html" timestamp="1455031971101">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" timestamp="1455038455940">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" timestamp="1455040652355">
+        <mark key="'" line="52" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="9" column="67" />
         <mark key="." line="13" column="0" />
@@ -218,12 +218,12 @@
         <mark key="." line="82" column="77" />
         <mark key="[" line="82" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CourseInput.js" timestamp="1455038277344">
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CourseInput.js" timestamp="1455040702866">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="19" column="37" />
-        <mark key="^" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="[" line="19" column="36" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="20" />
+        <mark key="[" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/reactjs-test/cfg/base.js" timestamp="1454702679919">
         <mark key="'" line="32" column="4" />
@@ -322,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/PeopleList.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/PeopleList.js" />
       <jump line="40" column="6" filename="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/PeopleList.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/PeopleList.js" />
@@ -417,11 +416,12 @@
       <jump line="43" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
       <jump line="38" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CourseList.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CourseInput.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
     </jumps>
     <registers>
       <register name="3" type="2">
