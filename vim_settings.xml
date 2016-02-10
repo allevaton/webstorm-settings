@@ -471,44 +471,44 @@
       <jump line="60" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/bootstrap.config.js" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>serif</text>
-      </register>
-      <register name="2" type="4">
-        <text>js</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBsb2FkZXI6ICcnCg==</text>
+      </register>
+      <register name="2" type="8">
+        <text>h</text>
+      </register>
+      <register name="1" type="4">
+        <text>ttps://github.com/pistiolasm/SPProject.git</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2FkZXI6ICdzdHlsZS1sb2FkZXIhY3NzLWxvYWRlciFsZXNzLWxvYWRlcicK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyogQmFzZSBBcHBsaWNhdGlvbiBTdHlsZXMgKi8K</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>fanm</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>font-</text>
+      </register>
+      <register name="5" type="4">
+        <text>serif</text>
+      </register>
+      <register name="4" type="4">
+        <text>js</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSgnYm9vdHN0cmFwLXdlYnBhY2shLi4vYm9vdHN0cmFwLmNvbmZpZycpOwo=</text>
+        <text encoding="base64">LyogQmFzZSBBcHBsaWNhdGlvbiBTdHlsZXMgKi8K</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY291cnNlc1w+</text>
       </register>
       <register name="-" type="4">
-        <text>js</text>
+        <text>ttps://github.com/pistiolasm/SPProject.git</text>
       </register>
     </registers>
     <search>
@@ -538,8 +538,8 @@
         <entry>noh</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
-        <entry>q</entry>
         <entry>j</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
