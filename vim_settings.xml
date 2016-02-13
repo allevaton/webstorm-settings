@@ -35,12 +35,19 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/jsbuilding-tests/dist/app.js" timestamp="1455384969554" />
       <file name="$USER_HOME$/WebstormProjects/emberjs-test/app/templates/application.hbs" timestamp="1454287595194">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/webpack.config.js" timestamp="1455396327873" />
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" timestamp="1455399614108">
+        <mark key="'" line="32" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/PersonInput.js" timestamp="1454960411786">
         <mark key="'" line="60" column="2" />
@@ -182,6 +189,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/classes/Point.js" timestamp="1455397620777">
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/reactjs-test/src/components/Main/App.js" timestamp="1454703231581">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="29" />
@@ -235,6 +247,12 @@
         <mark key="]" line="10" column="1" />
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/index.js" timestamp="1455398205269">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/actions/PeopleActions.js" timestamp="1454911902209">
         <mark key="'" line="0" column="0" />
@@ -321,9 +339,6 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1455244831654">
-        <mark key="'" line="65" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/CourseList.js" timestamp="1454822781163">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -409,10 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CourseInput.js" />
-      <jump line="42" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
-      <jump line="48" column="11" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
       <jump line="10" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
       <jump line="29" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
@@ -509,58 +520,63 @@
       <jump line="21" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="36" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="6" column="17" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
+      <jump line="32" column="6" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>dist</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY291cnNlc1w+</text>
+        <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJicm93c2VyaWZ5IHNyYyAtbyBkaXN0L2FwcC5qcyAtdCBbIGJhYmVsaWZ5IC0tcHJlc2V0cyBbIGVzMjAxNSBdIF0iLAo=</text>
+        <text encoding="base64">Z3VscC50YXNrKCdjbGVhbicsICgpID0+IHsKICBndWxwLnNyYygnYnVpbGQvKicpLnBpcGUocm0oKSk7CiAgZ3VscC5zcmMoJ2Rpc3QvKicpLnBpcGUocm0oKSk7Cn0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBndWxwLnNyYygnZGlzdC8qJykucGlwZShybSgpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBndWxwLnNyYygnYnVpbGQvKicpLnBpcGUocm0oKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>t</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBndWxwLnNyYygnZGlzdC8qJykucGlwZShybSgpKTsK</text>
       </register>
       <register name="4" type="4">
-        <text>*</text>
+        <text>dist</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC5waXBlKG1pbmlmeSgpKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>build</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5waXBlKHNvdXJjZW1hcHMud3JpdGUoKSkK</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC5waXBlKHNvdXJjZW1hcHMuaW5pdCgpKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>(</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY291cnNlc1w+</last-search>
+      <last-search encoding="base64">XDw7XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY291cnNlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDw7XD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxfY291cnNlc1w+</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
@@ -578,8 +594,8 @@
         <entry>ww</entry>
         <entry>j</entry>
         <entry>action RenameElement</entry>
-        <entry>noh</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
