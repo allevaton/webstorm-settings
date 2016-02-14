@@ -39,11 +39,12 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/webpack.config.js" timestamp="1455396327873" />
-      <file name="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" timestamp="1455405714171">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" timestamp="1455422401486">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+        <mark key="." line="22" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/PersonInput.js" timestamp="1454960411786">
         <mark key="'" line="60" column="2" />
@@ -121,7 +122,6 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/gulp-test/build/app.js" timestamp="1455403701291" />
       <file name="$USER_HOME$/WebstormProjects/reactjs-test/src/components/TodoList/TodoList.js" timestamp="1454703300057">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="9" column="36" />
@@ -336,6 +336,7 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1455421804370" />
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/CourseList.js" timestamp="1454822781163">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -421,9 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
-      <jump line="26" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Header.js" />
       <jump line="8" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Header.js" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Header.js" />
@@ -515,16 +513,19 @@
       <jump line="32" column="6" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
       <jump line="31" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
       <jump line="6" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
       <jump line="43" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
       <jump line="18" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
       <jump line="20" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
-      <jump line="26" column="8" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
+      <jump line="28" column="2" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>dist</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -533,31 +534,31 @@
         <text encoding="base64">Z3VscC50YXNrKCdjbGVhbicsICgpID0+IHsKICBndWxwLnNyYygnYnVpbGQvKicpLnBpcGUocm0oKSk7CiAgZ3VscC5zcmMoJ2Rpc3QvKicpLnBpcGUocm0oKSk7Cn0pOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>dist</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text>entry</text>
+      <register name="2" type="2">
+        <text encoding="base64">CnZhciBiYWJlbCA9IHJlcXVpcmUoJ2d1bHAtYmFiZWwnKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>dist</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>entry</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
         <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>j</text>
+        <text>/</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -568,7 +569,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDw7XD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -589,10 +590,10 @@
         <entry>q</entry>
         <entry>action GotoDeclaration</entry>
         <entry>ww</entry>
-        <entry>j</entry>
         <entry>action RenameElement</entry>
         <entry>noh</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
