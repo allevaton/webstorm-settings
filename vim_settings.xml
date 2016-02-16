@@ -91,6 +91,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/authenticators/LeopardWebAuthenticator.js" timestamp="1455594511275" />
       <file name="$USER_HOME$/WebstormProjects/jsbuilding-tests/src/classes/Point.js" timestamp="1455385030915">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="6" />
@@ -212,6 +213,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="14" column="40" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/authenticators/BaseAuthenticator.js" timestamp="1455594442170">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" timestamp="1455330275330">
         <mark key="'" line="36" column="6" />
@@ -529,7 +536,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>require</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -537,32 +544,34 @@
       <register name="0" type="2">
         <text encoding="base64">UG9pbnQucHJvdG90eXBlLmdldFggPSBmdW5jdGlvbiAoKSB7CiAgcmV0dXJuIHRoaXMueDsKfTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgUG9pbnQgewogIGNvbnN0cnVjdG9yICh4LCB5KSB7CiAgICB0aGlzLnggPSB4OwogICAgdGhpcy55ID0geTsKICB9CgogIGdldFggKCkgewogICAgcmV0dXJuIHRoaXMueDsKICB9CgogIGdldFkgKCkgewogICAgcmV0dXJuIHRoaXMueTsKICB9Cn0K</text>
+      <register name="1" type="4">
+        <text>require</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFBvaW50IGZyb20gJy4vY2xhc3Nlcy9Qb2ludCc7Cgo=</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly92YXIgUG9pbnQgPSByZXF1aXJlKCcuL2NsYXNzZXMvUG9pbnQnKTsK</text>
+      <register name="3" type="4">
+        <text>{
+  
+};</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnZhciBiYWJlbCA9IHJlcXVpcmUoJ2d1bHAtYmFiZWwnKTsK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBOaWNrIG9uIDIvMTUvMjAxNi4KICovCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>dist</text>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTmljayBvbiAyLzE1LzIwMTYuCiAqLwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>entry</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgUG9pbnQgewogIGNvbnN0cnVjdG9yICh4LCB5KSB7CiAgICB0aGlzLnggPSB4OwogICAgdGhpcy55ID0geTsKICB9CgogIGdldFggKCkgewogICAgcmV0dXJuIHRoaXMueDsKICB9CgogIGdldFkgKCkgewogICAgcmV0dXJuIHRoaXMueTsKICB9Cn0K</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IFBvaW50IGZyb20gJy4vY2xhc3Nlcy9Qb2ludCc7Cgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly92YXIgUG9pbnQgPSByZXF1aXJlKCcuL2NsYXNzZXMvUG9pbnQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
