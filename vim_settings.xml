@@ -91,7 +91,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/authenticators/LeopardWebAuthenticator.js" timestamp="1455594511275" />
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/authenticators/LeopardWebAuthenticator.js" timestamp="1455598227272">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/jsbuilding-tests/src/classes/Point.js" timestamp="1455385030915">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="6" />
@@ -214,11 +219,12 @@
         <mark key="^" line="14" column="40" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/authenticators/BaseAuthenticator.js" timestamp="1455594442170">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/authenticators/BaseAuthenticator.js" timestamp="1455598101464">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" timestamp="1455330275330">
         <mark key="'" line="36" column="6" />
@@ -433,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Header.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Header.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Header.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Header.js" />
@@ -533,45 +538,44 @@
       <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/src/classes/Point.js" />
       <jump line="13" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/src/classes/Point.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/src/authenticators/BaseAuthenticator.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>require</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UG9pbnQucHJvdG90eXBlLmdldFggPSBmdW5jdGlvbiAoKSB7CiAgcmV0dXJuIHRoaXMueDsKfTsK</text>
+        <text encoding="base64">ICByZXR1cm4gdGhpcy5faXNBdXRoOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>require</text>
+        <text>,</text>
       </register>
-      <register name="2" type="4">
-        <text>(</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-  
-};</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBOaWNrIG9uIDIvMTUvMjAxNi4KICovCg==</text>
+      <register name="5" type="4">
+        <text>,</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTmljayBvbiAyLzE1LzIwMTYuCiAqLwo=</text>
+      <register name="6" type="4">
+        <text>}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgUG9pbnQgewogIGNvbnN0cnVjdG9yICh4LCB5KSB7CiAgICB0aGlzLnggPSB4OwogICAgdGhpcy55ID0geTsKICB9CgogIGdldFggKCkgewogICAgcmV0dXJuIHRoaXMueDsKICB9CgogIGdldFkgKCkgewogICAgcmV0dXJuIHRoaXMueTsKICB9Cn0K</text>
+      <register name="7" type="4">
+        <text>{</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFBvaW50IGZyb20gJy4vY2xhc3Nlcy9Qb2ludCc7Cgo=</text>
+      <register name="8" type="4">
+        <text>assign</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly92YXIgUG9pbnQgPSByZXF1aXJlKCcuL2NsYXNzZXMvUG9pbnQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -599,7 +603,6 @@
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>s</entry>
-        <entry>action Forward</entry>
         <entry>q</entry>
         <entry>action GotoDeclaration</entry>
         <entry>ww</entry>
@@ -607,6 +610,7 @@
         <entry>noh</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>j</entry>
+        <entry>action Forward</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
