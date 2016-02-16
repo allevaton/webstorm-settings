@@ -91,10 +91,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/authenticators/LeopardWebAuthenticator.js" timestamp="1455598227272">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="10" />
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/authenticators/LeopardWebAuthenticator.js" timestamp="1455603175680">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
         <mark key="^" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/jsbuilding-tests/src/classes/Point.js" timestamp="1455385030915">
@@ -259,11 +259,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/index.js" timestamp="1455581787915">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="40" />
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/index.js" timestamp="1455603087199">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/actions/PeopleActions.js" timestamp="1454911902209">
         <mark key="'" line="0" column="0" />
@@ -271,9 +271,6 @@
         <mark key="]" line="27" column="28" />
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1455581955571">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/SPProject/index.html" timestamp="1442968507175">
         <mark key="'" line="262" column="0" />
@@ -542,7 +539,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>LeopardWebAuthenticator</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -551,31 +548,31 @@
         <text encoding="base64">ICByZXR1cm4gdGhpcy5faXNBdXRoOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>LeopardWebAuthenticator</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text>Point</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocG9pbnQuZ2V0WCgpLCBwb2ludC5nZXRZKCkpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">dmFyIHBvaW50ID0gbmV3IFBvaW50KDEsIDIpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>Point</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text>classes</text>
       </register>
       <register name="7" type="4">
-        <text>{</text>
+        <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>assign</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
