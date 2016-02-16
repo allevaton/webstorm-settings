@@ -100,7 +100,7 @@
         <mark key="." line="9" column="27" />
         <mark key="[" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1455633961785">
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1455640367504">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="14" column="40" />
@@ -273,7 +273,7 @@
         <mark key="." line="23" column="1" />
         <mark key="[" line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" timestamp="1455634237907">
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" timestamp="1455640364521">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="45" column="33" />
         <mark key="^" line="45" column="33" />
@@ -451,9 +451,6 @@
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/webpack.config.js" timestamp="1455396327873" />
     </filemarks>
     <jumps>
-      <jump line="44" column="9" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CourseList.js" />
       <jump line="27" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CourseList.js" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/SemesterStore.js" />
@@ -495,10 +492,6 @@
       <jump line="31" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="40" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="26" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="21" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Main.js" />
       <jump line="20" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Main.js" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Main.js" />
@@ -519,10 +512,7 @@
       <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/src/classes/Point.js" />
       <jump line="13" column="0" filename="$USER_HOME$/WebstormProjects/gulp-test/src/classes/Point.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Main.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
@@ -530,7 +520,6 @@
       <jump line="22" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/gulpfile.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/src/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/gulpfile.js" />
@@ -551,6 +540,17 @@
       <jump line="25" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/gulpfile.js" />
       <jump line="20" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/gulpfile.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/gulpfile.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
     </jumps>
     <registers>
       <register name="3" type="2">
