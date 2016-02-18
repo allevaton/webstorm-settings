@@ -9,11 +9,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" timestamp="1455776340244">
-        <mark key="'" line="46" column="4" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-        <mark key="^" line="14" column="29" />
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" timestamp="1455833703650">
+        <mark key="'" line="72" column="2" />
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="69" column="29" />
+        <mark key="." line="69" column="29" />
+        <mark key="^" line="69" column="29" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/callback-counter/src/test/Test.js" timestamp="1455761820667">
         <mark key="[" line="0" column="0" />
@@ -21,11 +22,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" timestamp="1455763300618">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="26" />
-        <mark key="." line="46" column="26" />
-        <mark key="^" line="46" column="26" />
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" timestamp="1455834026699">
+        <mark key="'" line="41" column="2" />
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="54" column="44" />
+        <mark key="^" line="54" column="44" />
+        <mark key="." line="54" column="44" />
       </file>
       <file name="/JavaScript Console" timestamp="1455776231327">
         <mark key="[" line="0" column="0" />
@@ -36,6 +38,13 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" timestamp="1455833807738">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+        <mark key="^" line="172" column="19" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="30" column="7" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
@@ -43,57 +52,95 @@
       <jump line="18" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="11" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
-      <jump line="23" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
-      <jump line="39" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="5" column="22" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="20" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="13" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="36" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="28" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="15" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
-      <jump line="42" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="26" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="12" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="46" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
+      <jump line="40" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="2" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="43" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="42" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="19" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="57" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="24" column="8" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="7" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="98" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="30" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="72" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="142" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="32" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="49" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="79" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="55" column="23" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="23" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="48" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="24" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="72" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="151" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="108" column="8" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
+      <jump line="175" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5vbignZXJyb3InLCBndXRpbC5sb2cpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQuZXF1YWwoeCwgMik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="1" type="4">
+        <text>h</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+      <register name="2" type="4">
+        <text>j</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIGNhbGxiYWNrIGFyZ3MgYXJyYXkKICAgIC8vIGNhbGxiYWNrIGFyZ3MgYXJndW1lbnRzCg==</text>
       </register>
       <register name="5" type="4">
-        <text>args</text>
+        <text>they</text>
       </register>
       <register name="6" type="4">
-        <text>args</text>
+        <text>'</text>
       </register>
-      <register name="7" type="4">
-        <text>concat</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYy5jYWxsKGZ1bmN0aW9uIChuKSB7CiAgICAgICAgeCArPSBuOwogICAgICB9LCAxKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQuZXF1YWwoeCwgMik7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>toString</text>
+        <text>arguments</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -112,10 +159,11 @@
       </history-search>
       <history-cmd>
         <entry>bn</entry>
-        <entry>action RenameElement</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>j</entry>
         <entry>q</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -135,6 +183,9 @@
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>shift ctrl pressed TAB</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -142,6 +193,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
