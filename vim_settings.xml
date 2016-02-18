@@ -3,11 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" timestamp="1455761831122">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" timestamp="1455762747802">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" timestamp="1455763060809">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="29" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/callback-counter/src/test/Test.js" timestamp="1455761820667">
         <mark key="[" line="0" column="0" />
@@ -15,55 +22,65 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" timestamp="1455761759657">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="32" column="6" />
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" timestamp="1455763300618">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="26" />
+        <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/package.json" timestamp="1455761695702">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/package.json" timestamp="1455763139282">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="30" column="7" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+    </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>Testng</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">VGVzdCA=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">PSA=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdCB7CiAgY29uc3RydWN0b3IgKHRleHQpIHsKICAgIHRoaXMudGV4dCA9IHRleHQ7CiAgfQp9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTmljayBvbiAyLzE3LzIwMTYuCiAqLwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgd2F0Y2ggPSByZXF1aXJlKCdndWxwLXdhdGNoJyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAibWFpbiI6ICJndWxwZmlsZS5qcyIsCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>ing</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
       <register name="-" type="4">
-        <text>Testng</text>
+        <text>buildDir</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC5vbignZXJyb3InLCBndXRpbC5sb2cpCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>buildDir</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBndWxwLnNyYyhbYCR7c3JjRGlyfS8qKi8qLmpzYF0pCiAgICAucGlwZShyb2xsdXAoKSkKICAgIC5vbignZXJyb3InLCBndXRpbC5sb2cpCiAgICAucGlwZShiYWJlbCh7CiAgICAgIHByZXNldHM6IFsnZXMyMDE1J10KICAgIH0pKQogICAgLm9uKCdlcnJvcicsIGd1dGlsLmxvZykKICAgIC5waXBlKHVnbGlmeSgpKQogICAgLm9uKCdlcnJvcicsIGd1dGlsLmxvZykKICAgIC5waXBlKGd1bHAuZGVzdChidWlsZERpcikpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC5waXBlKHNvdXJjZW1hcHMud3JpdGUoJy4nLCB7CiAgICAgIGluY2x1ZGVDb250ZW50OiBmYWxzZSwKICAgICAgc291cmNlUm9vdDogZnVuY3Rpb24gKGZpbGUpIHsKICAgICAgICByZXR1cm4gcGF0aC5qb2luKHBhdGgucmVsYXRpdmUoZmlsZS5wYXRoLCBzcmNEaXIpLCBzcmNEaXIpOwogICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5vbignZXJyb3InLCBndXRpbC5sb2cpCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>}</text>
+      </register>
+      <register name="9" type="4">
+        <text>{</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -79,6 +96,9 @@
       </history-search>
       <history-cmd>
         <entry>bn</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -95,7 +115,22 @@
         <text>ctrl pressed TAB</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>shift ctrl pressed TAB</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
