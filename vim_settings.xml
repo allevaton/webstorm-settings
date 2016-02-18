@@ -3,18 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" timestamp="1455762747802">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" timestamp="1455763060809">
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" timestamp="1455776254013">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="29" />
-        <mark key="." line="34" column="29" />
-        <mark key="^" line="34" column="29" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" timestamp="1455776340244">
+        <mark key="'" line="46" column="4" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/callback-counter/src/test/Test.js" timestamp="1455761820667">
         <mark key="[" line="0" column="0" />
@@ -28,6 +27,9 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
+      <file name="/JavaScript Console" timestamp="1455776231327">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/callback-counter/package.json" timestamp="1455763139282">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="22" />
@@ -38,13 +40,27 @@
     <jumps>
       <jump line="30" column="7" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="4" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="18" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="23" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="39" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="5" column="22" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="13" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="28" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="42" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="12" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
+      <jump line="46" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>buildDir</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -52,32 +68,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC5vbignZXJyb3InLCBndXRpbC5sb2cpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>buildDir</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBndWxwLnNyYyhbYCR7c3JjRGlyfS8qKi8qLmpzYF0pCiAgICAucGlwZShyb2xsdXAoKSkKICAgIC5vbignZXJyb3InLCBndXRpbC5sb2cpCiAgICAucGlwZShiYWJlbCh7CiAgICAgIHByZXNldHM6IFsnZXMyMDE1J10KICAgIH0pKQogICAgLm9uKCdlcnJvcicsIGd1dGlsLmxvZykKICAgIC5waXBlKHVnbGlmeSgpKQogICAgLm9uKCdlcnJvcicsIGd1dGlsLmxvZykKICAgIC5waXBlKGd1bHAuZGVzdChidWlsZERpcikpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pKQo=</text>
+      <register name="5" type="4">
+        <text>args</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC5waXBlKHNvdXJjZW1hcHMud3JpdGUoJy4nLCB7CiAgICAgIGluY2x1ZGVDb250ZW50OiBmYWxzZSwKICAgICAgc291cmNlUm9vdDogZnVuY3Rpb24gKGZpbGUpIHsKICAgICAgICByZXR1cm4gcGF0aC5qb2luKHBhdGgucmVsYXRpdmUoZmlsZS5wYXRoLCBzcmNEaXIpLCBzcmNEaXIpOwogICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text>args</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC5vbignZXJyb3InLCBndXRpbC5sb2cpCg==</text>
+      <register name="7" type="4">
+        <text>concat</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text>()</text>
       </register>
       <register name="9" type="4">
-        <text>{</text>
+        <text>toString</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -99,6 +115,7 @@
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>j</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
