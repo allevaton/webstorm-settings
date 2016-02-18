@@ -2,19 +2,104 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" timestamp="1455761831122">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/test/Test.js" timestamp="1455761820667">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" timestamp="1455761759657">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="32" column="6" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/callback-counter/package.json" timestamp="1455761695702">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text>Testng</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">VGVzdCA=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PSA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgVGVzdCB7CiAgY29uc3RydWN0b3IgKHRleHQpIHsKICAgIHRoaXMudGV4dCA9IHRleHQ7CiAgfQp9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTmljayBvbiAyLzE3LzIwMTYuCiAqLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3Qgd2F0Y2ggPSByZXF1aXJlKCdndWxwLXdhdGNoJyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAibWFpbiI6ICJndWxwZmlsZS5qcyIsCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>ing</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>Testng</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx9XD4=</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry encoding="base64">XDx9XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>bn</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed TAB</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed TAB</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
