@@ -12,12 +12,12 @@
         <mark key="." line="13" column="22" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" timestamp="1455892777148">
-        <mark key="'" line="87" column="6" />
-        <mark key="]" line="43" column="36" />
-        <mark key="^" line="43" column="36" />
-        <mark key="." line="43" column="36" />
-        <mark key="[" line="43" column="37" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" timestamp="1455895656053">
+        <mark key="'" line="47" column="6" />
+        <mark key="]" line="51" column="11" />
+        <mark key="^" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="[" line="50" column="60" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/emberjs-test/app/templates/application.hbs" timestamp="1454287595194">
         <mark key="]" line="5" column="0" />
@@ -131,13 +131,13 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1455894003976">
-        <mark key="'" line="40" column="0" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="j" line="61" column="6" />
-        <mark key="[" line="22" column="23" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1455896007699">
+        <mark key="'" line="20" column="2" />
+        <mark key="]" line="28" column="0" />
+        <mark key="m" line="52" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="j" line="62" column="6" />
+        <mark key="[" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/src/test/Test.js" timestamp="1455638139766">
         <mark key="]" line="0" column="14" />
@@ -500,8 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="54" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="58" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
@@ -530,7 +528,6 @@
       <jump line="62" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="27" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="35" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="15" column="10" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="19" column="16" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
@@ -554,7 +551,6 @@
       <jump line="45" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="47" column="17" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="18" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="61" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="51" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
@@ -597,43 +593,47 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="60" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="47" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="35" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="46" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
     </jumps>
     <registers>
       <register name="3" type="4">
         <text>.</text>
       </register>
-      <register name="2" type="4">
-        <text>state</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBjbGFzc2VzID0gQ2xhc3NEYXRhU3RvcmUuc2VhcmNoQnlDb3Vyc2UodGhpcy5wcm9wcy5uYW1lKSB8fCBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChkLnN1Ymouc2VhcmNoKG1hdGNoZXNbMV0pICE9PSAtMSkgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text>=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text>Loading</text>
       </register>
       <register name="5" type="4">
-        <text>[]</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>this</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>d.crse == matches[2]</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y2xhc3NlcyA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -674,6 +674,7 @@
         <entry>action ShowErrorDescription</entry>
         <entry>j</entry>
         <entry>noh</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
