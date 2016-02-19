@@ -12,9 +12,12 @@
         <mark key="." line="13" column="22" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" timestamp="1455891001679">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="61" column="5" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" timestamp="1455892777148">
+        <mark key="'" line="87" column="6" />
+        <mark key="]" line="43" column="36" />
+        <mark key="^" line="43" column="36" />
+        <mark key="." line="43" column="36" />
+        <mark key="[" line="43" column="37" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/emberjs-test/app/templates/application.hbs" timestamp="1454287595194">
         <mark key="]" line="5" column="0" />
@@ -128,13 +131,13 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1455890713286">
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1455894003976">
         <mark key="'" line="40" column="0" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="66" column="56" />
-        <mark key="." line="26" column="16" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
         <mark key="j" line="61" column="6" />
-        <mark key="[" line="26" column="16" />
+        <mark key="[" line="22" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/src/test/Test.js" timestamp="1455638139766">
         <mark key="]" line="0" column="14" />
@@ -497,17 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/styles/App.less" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="51" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="20" column="10" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Main.js" />
-      <jump line="53" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="32" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/cfg/defaults.js" />
-      <jump line="14" column="1" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/cfg/defaults.js" />
-      <jump line="40" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/cfg/defaults.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="54" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="58" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
@@ -517,7 +509,6 @@
       <jump line="29" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="44" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="59" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/ClassDataActions.js" />
       <jump line="6" column="15" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CalendarStore.js" />
@@ -530,7 +521,6 @@
       <jump line="13" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="48" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="45" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="25" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="16" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
@@ -552,51 +542,64 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="29" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassList.js" />
       <jump line="23" column="10" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassList.js" />
       <jump line="12" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassList.js" />
       <jump line="59" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="60" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="67" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="28" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="47" column="17" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="18" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="61" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="51" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="26" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="41" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="80" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="60" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="84" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="62" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="61" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="41" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="51" column="50" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="62" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="81" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="80" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="23" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="33" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="40" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="60" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="64" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="87" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="55" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="43" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="70" column="31" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="41" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="60" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
     </jumps>
     <registers>
       <register name="3" type="4">
