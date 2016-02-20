@@ -62,6 +62,13 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" timestamp="1455946453149">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" timestamp="1455850452989">
         <mark key="'" line="37" column="4" />
         <mark key="[" line="54" column="44" />
@@ -100,7 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="26" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="12" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
       <jump line="46" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
@@ -200,6 +206,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
       <jump line="45" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
       <jump line="25" column="4" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -260,11 +267,12 @@ var</text>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
-        <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action Back</entry>
         <entry>j</entry>
         <entry>q</entry>
+        <entry>action RenameElement</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
