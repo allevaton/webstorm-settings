@@ -62,12 +62,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" timestamp="1455946453149">
+      <file name="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" timestamp="1455991078692">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="45" />
+        <mark key="^" line="10" column="45" />
+        <mark key="." line="10" column="45" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" timestamp="1455850452989">
         <mark key="'" line="37" column="4" />
@@ -210,7 +210,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>const</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -219,18 +219,18 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnQuZXF1YWwoeCwgMik7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>title</text>
+      </register>
+      <register name="2" type="4">
         <text>const</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>var
 var
 var
 var
 var
 var</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
