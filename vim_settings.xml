@@ -36,6 +36,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" timestamp="1456012043268">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/keystone-test/routes/index.js" timestamp="1455923048851">
         <mark key="'" line="46" column="0" />
       </file>
@@ -212,7 +217,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>title</text>
+        <text>dest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -221,36 +226,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnQuZXF1YWwoeCwgMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZ3VscCA9IHJlcXVpcmUoJ2d1bHAnKTsKCmNvbnN0IHNyY0RpciA9ICdzcmMnOwoKZ3VscC50YXNrKCdkZWZhdWx0JywgZnVuY3Rpb24gKCkgewogIHJldHVybiBndWxwLnNyYyhgJHtzcmNEaXJ9LyoqLyouanNgKTsKfSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>title</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC5waXBlKGd1bHAuZGVzdCgpKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>const</text>
+        <text>dest</text>
       </register>
-      <register name="4" type="8">
-        <text>var
-var
-var
-var
-var
-var</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>gulp</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>dest</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>retr</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>gjgj</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
