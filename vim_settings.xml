@@ -1,275 +1,680 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="M" line="16" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/webpack.config.js" />
+      <mark key="J" line="60" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
+    </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/index.js" timestamp="1455776254013">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/classes/Point.js" timestamp="1455581960455">
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/models/User.js" timestamp="1455992333392">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="9" column="1" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" timestamp="1455895656053">
+        <mark key="'" line="47" column="6" />
+        <mark key="]" line="51" column="11" />
+        <mark key="^" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="[" line="50" column="60" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/package.json" timestamp="1455945081514" />
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" timestamp="1455992453198">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/emberjs-test/app/templates/application.hbs" timestamp="1454287595194">
         <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="4" />
+        <mark key="[" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" timestamp="1456013047094">
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/CourseActions.js" timestamp="1455746284979">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/package.json" timestamp="1454114136697">
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+        <mark key="[" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/Main.js" timestamp="1454834839192">
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="9" column="10" />
+        <mark key="[" line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/index.html" timestamp="1455071393890">
+        <mark key="'" line="11" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/jsbuilding-tests/package.json" timestamp="1455384844003">
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="[" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseStore.js" timestamp="1455714359098">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="58" column="28" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassColors.js" timestamp="1455746317544">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/dispatcher/Dispatcher.js" timestamp="1454821787430">
+        <mark key="'" line="5" column="3" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/routes/views/contact.js" timestamp="1455923123188">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" timestamp="1456027208208">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="52" column="34" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="34" />
-        <mark key="^" line="52" column="34" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/routes/index.js" timestamp="1455923048851">
-        <mark key="'" line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/routes/views/blog.js" timestamp="1455923157332">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" timestamp="1455833703650">
-        <mark key="'" line="72" column="2" />
-        <mark key="[" line="69" column="25" />
-        <mark key="]" line="69" column="29" />
-        <mark key="." line="69" column="29" />
-        <mark key="^" line="69" column="29" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/routes/views/post.js" timestamp="1455923090925">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" timestamp="1455992311656">
-        <mark key="'" line="16" column="2" />
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="45" />
-        <mark key="^" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" timestamp="1455850452989">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="54" column="44" />
-        <mark key="]" line="54" column="44" />
-        <mark key="^" line="54" column="44" />
-        <mark key="." line="54" column="44" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/updates/0.0.1-admins.js" timestamp="1455923026934">
-        <mark key="." line="17" column="3" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1455776231327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/routes/views/index.js" timestamp="1455923103180">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/server.js" timestamp="1454823408197">
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" timestamp="1455945219325">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/jsbuilding-tests/src/classes/Point.js" timestamp="1455385030915">
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="6" />
+        <mark key="[" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" timestamp="1455850907949">
-        <mark key="'" line="108" column="8" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="6" />
-        <mark key="." line="138" column="6" />
-        <mark key="^" line="172" column="19" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/constants/CourseConstants.js" timestamp="1455164003686">
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/routes/views/gallery.js" timestamp="1455923108773">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/sources/index.json" timestamp="1455745635044">
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="[" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/keystone-test/.env" timestamp="1455992475505" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/actions/AppActions.js" timestamp="1454816354396">
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="[" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/gulpfile.js" timestamp="1454118980739">
+        <mark key="'" line="48" column="12" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+        <mark key="[" line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/CalendarActions.js" timestamp="1455746263597">
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="17" />
+        <mark key="[" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/reactjs-test/src/components/TodoList/TodoList.js" timestamp="1454703300057">
+        <mark key="'" line="16" column="0" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="[" line="9" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CalendarStore.js" timestamp="1455746151944">
+        <mark key="'" line="3" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1455896007699">
+        <mark key="'" line="20" column="2" />
+        <mark key="]" line="28" column="0" />
+        <mark key="m" line="52" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="j" line="62" column="6" />
+        <mark key="[" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/src/test/Test.js" timestamp="1455638139766">
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/classy/app/templates/application.hbs" timestamp="1444265604972">
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="[" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/stores/Store.js" timestamp="1454832797860">
+        <mark key="'" line="24" column="1" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="[" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/server.js" timestamp="1455125258940">
+        <mark key="'" line="16" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/actions/PeopleActions.js" timestamp="1454911902209">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="[" line="27" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CourseList.js" timestamp="1455299231729">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="32" column="40" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/styles/App.less" timestamp="1455722973238">
+        <mark key="'" line="24" column="0" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="[" line="20" column="20" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/src/index.js" timestamp="1455581787915">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CourseColors.js" timestamp="1455656468540">
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="4" />
+        <mark key="[" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/styles/App.css" timestamp="1454836261813">
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/emberjs-test/ember-cli-build.js" timestamp="1454304537241">
+        <mark key="]" line="30" column="58" />
+        <mark key="^" line="30" column="64" />
+        <mark key="." line="30" column="58" />
+        <mark key="[" line="30" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassList.js" timestamp="1455887619440">
+        <mark key="'" line="12" column="4" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" timestamp="1455422401486">
+        <mark key="'" line="16" column="0" />
+        <mark key="]" line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="[" line="22" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/bootstrap.config.less" timestamp="1455071626466">
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="[" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/index.js" timestamp="1455299447130">
+        <mark key="'" line="12" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/SemesterStore.js" timestamp="1455246655150">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="33" column="29" />
+        <mark key="^" line="33" column="29" />
+        <mark key="." line="33" column="29" />
+        <mark key="[" line="32" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/cfg/base.js" timestamp="1454833163285">
+        <mark key="'" line="42" column="0" />
+        <mark key="]" line="34" column="55" />
+        <mark key="^" line="34" column="55" />
+        <mark key="." line="34" column="55" />
+        <mark key="[" line="34" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/gulpfile.js" timestamp="1455639533227">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/constants/SemesterConstants.js" timestamp="1455164010373">
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="23" />
+        <mark key="[" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/PersonInput.js" timestamp="1454960411786">
+        <mark key="'" line="60" column="2" />
+        <mark key="]" line="42" column="10" />
+        <mark key="^" line="42" column="10" />
+        <mark key="." line="42" column="10" />
+        <mark key="[" line="41" column="29" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/classy/app/templates/components/semester-selector.hbs" timestamp="1444265518657">
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="[" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Header.js" timestamp="1455299235312">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/PeopleList.js" timestamp="1454955535403">
+        <mark key="'" line="20" column="6" />
+        <mark key="]" line="46" column="17" />
+        <mark key="^" line="46" column="17" />
+        <mark key="." line="46" column="17" />
+        <mark key="[" line="46" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/CourseItem.js" timestamp="1454822836093">
+        <mark key="'" line="29" column="0" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="[" line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/cfg/dev.js" timestamp="1454831479850">
+        <mark key="'" line="26" column="2" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="3" column="33" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/tasks/build.js" timestamp="1454118675131">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="[" line="23" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" timestamp="1455723972880">
+        <mark key="'" line="29" column="0" />
+        <mark key="]" line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+        <mark key="m" line="21" column="8" />
+        <mark key="." line="18" column="26" />
+        <mark key="[" line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/Dispatcher.js" timestamp="1454808796479">
+        <mark key="'" line="45" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="45" column="25" />
+        <mark key="." line="46" column="0" />
+        <mark key="[" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/package.json" timestamp="1455125864360">
+        <mark key="'" line="12" column="4" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+        <mark key="[" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/PeopleItem.js" timestamp="1454835161736">
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="18" column="59" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/dispatcher/AppDispatcher.js" timestamp="1454833216669">
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="[" line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/WebstormProjects/aai/template.html" timestamp="1443052609269">
+        <mark key="'" line="33" column="0" />
+        <mark key="]" line="82" column="77" />
+        <mark key="^" line="82" column="77" />
+        <mark key="." line="82" column="77" />
+        <mark key="[" line="82" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CourseInput.js" timestamp="1455715064733">
+        <mark key="'" line="20" column="10" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/constants/Constants.js" timestamp="1454815781517">
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="[" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/stores/AppStore.js" timestamp="1454833572216">
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="[" line="3" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1455290032560">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="433" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" timestamp="1455826293182">
+        <mark key="'" line="20" column="2" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="20" column="3" />
+        <mark key="[" line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/CourseList.js" timestamp="1454822781163">
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/SPProject/index.html" timestamp="1442968507175">
+        <mark key="'" line="262" column="0" />
+        <mark key="]" line="270" column="158" />
+        <mark key="^" line="270" column="158" />
+        <mark key="." line="270" column="158" />
+        <mark key="[" line="270" column="122" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/index.html" timestamp="1454808014995">
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="[" line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/classy/app/index.html" timestamp="1444265195960">
+        <mark key="]" line="25" column="60" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="[" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/reactjs-test/src/components/Main/App.js" timestamp="1454703231581">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="[" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/cfg/base.js" timestamp="1455723391486">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+        <mark key="[" line="30" column="34" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/reactjs-test/src/index.js" timestamp="1454702607320">
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="[" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Main.js" timestamp="1455723247353">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="6" column="56" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="6" column="56" />
+        <mark key="[" line="6" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/bootstrap.config.js" timestamp="1455125935152">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="69" column="2" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/ClassDataActions.js" timestamp="1455746260693">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/constants/ClassDataConstants.js" timestamp="1455714440971">
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="[" line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/constants/PeopleConstants.js" timestamp="1454837489058">
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/cfg/defaults.js" timestamp="1455723492443">
+        <mark key="'" line="40" column="8" />
+        <mark key="]" line="60" column="22" />
+        <mark key="^" line="60" column="22" />
+        <mark key="." line="60" column="22" />
+        <mark key="[" line="60" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/stores/PeoplStore.js" timestamp="1454833647373">
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/SemesterActions.js" timestamp="1455746294518">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/jsbuilding-tests/src/index.js" timestamp="1455385091315">
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="0" column="19" />
+        <mark key="[" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer-scraper/src/index.js" timestamp="1455638281346">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="[" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/stores/PeopleStore.js" timestamp="1454960405309">
+        <mark key="'" line="25" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
-      <jump line="24" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
-      <jump line="72" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/src/CallbackCounter.js" />
-      <jump line="151" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="36" column="2" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="26" column="32" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="48" column="18" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="37" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/gulpfile.js" />
-      <jump line="84" column="16" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="61" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="37" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="13" column="4" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="148" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="175" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="133" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="109" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="85" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="157" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="132" column="6" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="135" column="19" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="108" column="8" filename="$USER_HOME$/WebstormProjects/callback-counter/test/tests.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/routes/index.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/routes/views/contact.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/WebstormProjects/keystone-test/routes/views/contact.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/routes/views/blog.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="20" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="24" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="42" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="18" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="44" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="45" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/WebstormProjects/keystone-test/keystone.js" />
-      <jump line="28" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" />
-      <jump line="15" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/models/Post.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/models/User.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/models/User.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/models/User.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/models/User.js" />
-      <jump line="5" column="1" filename="$USER_HOME$/WebstormProjects/keystone-test/models/User.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/models/User.js" />
-      <jump line="29" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/WebstormProjects/keystone-test/gulpfile.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="37" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="43" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="29" column="6" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="27" column="6" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="17" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="36" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="45" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/gulpfile.js" />
+      <jump line="58" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="44" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="59" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/ClassDataActions.js" />
+      <jump line="6" column="15" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/CalendarStore.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/ClassDataActions.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/CourseActions.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/CourseActions.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="69" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="13" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="25" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="15" column="10" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="19" column="16" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="28" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="18" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="47" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="22" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="29" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassList.js" />
+      <jump line="23" column="10" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassList.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassList.js" />
+      <jump line="59" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="67" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="28" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="61" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="51" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="84" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="61" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="41" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="51" column="50" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="62" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="81" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="80" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="23" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="33" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="40" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="60" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="64" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="87" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="55" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="43" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="70" column="31" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="41" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="60" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="47" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="35" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="46" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
     </jumps>
     <registers>
-      <register name="-" type="4">
-        <text>dest</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQuZXF1YWwoeCwgMik7Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTmljayBvbiAyLzIwLzIwMTYuCiAqLwo=</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZ3VscCA9IHJlcXVpcmUoJ2d1bHAnKTsKCmNvbnN0IHNyY0RpciA9ICdzcmMnOwoKZ3VscC50YXNrKCdkZWZhdWx0JywgZnVuY3Rpb24gKCkgewogIHJldHVybiBndWxwLnNyYyhgJHtzcmNEaXJ9LyoqLyouanNgKTsKfSk7Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC5waXBlKGd1bHAuZGVzdCgpKQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChkLnN1Ymouc2VhcmNoKG1hdGNoZXNbMV0pICE9PSAtMSkgewo=</text>
       </register>
-      <register name="5" type="4">
-        <text>dest</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>Loading</text>
       </register>
-      <register name="7" type="4">
-        <text>gulp</text>
-      </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text>.</text>
       </register>
-      <register name="9" type="4">
-        <text>dest</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="9" type="4">
+        <text>d.crse == matches[2]</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoKQo=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDw7XD4=</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search encoding="base64">XDw7XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern encoding="base64">XDw7XD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxfY291cnNlc1w+</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action Back</entry>
-        <entry>j</entry>
+        <entry>bp</entry>
+        <entry>wa</entry>
+        <entry>retab</entry>
+        <entry>wq</entry>
+        <entry>we</entry>
+        <entry>.w</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
+        <entry>s</entry>
+        <entry>action Forward</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>ww</entry>
+        <entry>set nornu</entry>
         <entry>q</entry>
         <entry>action RenameElement</entry>
-        <entry>wa</entry>
+        <entry>qw</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>j</entry>
+        <entry>noh</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -277,40 +682,67 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed J</text>
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed TAB</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed TAB</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed TAB</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
