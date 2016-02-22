@@ -173,8 +173,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" timestamp="1456107558150">
+      <file name="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" timestamp="1456108535695">
         <mark key="'" line="23" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="2" />
+        <mark key="^" line="10" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/CourseActions.js" timestamp="1455746284979">
         <mark key="'" line="0" column="0" />
@@ -608,7 +612,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>}</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -616,32 +620,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3JlcXVlc3QnKTsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>function</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>}</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>url</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y2hlZXJpby5yZWEK</text>
-      </register>
-      <register name="7" type="4">
-        <text>request</text>
       </register>
       <register name="8" type="4">
         <text>request</text>
       </register>
       <register name="9" type="4">
-        <text>requi</text>
+        <text>request</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
