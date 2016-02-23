@@ -6,8 +6,8 @@
       <mark key="J" line="60" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" timestamp="1456260030869">
-        <mark key="'" line="36" column="2" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" timestamp="1456268562495">
+        <mark key="'" line="47" column="6" />
         <mark key="]" line="67" column="0" />
         <mark key="^" line="66" column="27" />
         <mark key="." line="67" column="0" />
@@ -66,12 +66,12 @@
         <mark key="." line="9" column="27" />
         <mark key="[" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1456262647505">
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1456268744361">
         <mark key="w" line="0" column="0" />
-        <mark key="'" line="60" column="6" />
+        <mark key="'" line="54" column="12" />
         <mark key="]" line="97" column="34" />
         <mark key="m" line="94" column="0" />
-        <mark key="." line="97" column="34" />
+        <mark key="." line="52" column="33" />
         <mark key="j" line="101" column="6" />
         <mark key="[" line="97" column="34" />
       </file>
@@ -267,8 +267,8 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" timestamp="1456263170850">
-        <mark key="'" line="60" column="10" />
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" timestamp="1456268710614">
+        <mark key="'" line="101" column="0" />
         <mark key="]" line="69" column="55" />
         <mark key="^" line="69" column="55" />
         <mark key="." line="69" column="55" />
@@ -329,6 +329,9 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/sources/wit.201630.json" timestamp="1456268559526">
+        <mark key="'" line="0" column="1200" />
+      </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/constants/SelectedClassesConstants.js" timestamp="1456262959840">
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
@@ -350,17 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/styles/App.less" />
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="53" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="33" column="12" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="13" column="44" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="41" column="10" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="82" column="5" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
@@ -396,7 +388,6 @@
       <jump line="36" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="56" column="12" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="59" column="12" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="36" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="31" column="13" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="43" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
@@ -430,14 +421,12 @@
       <jump line="41" column="10" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="94" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="40" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="20" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="60" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="50" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="98" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/SemesterStore.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="40" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
@@ -449,7 +438,21 @@
       <jump line="40" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="515" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/sources/wit.201630.json" />
+      <jump line="0" column="1200" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/sources/wit.201630.json" />
+      <jump line="47" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
+      <jump line="52" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="39" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
       <jump line="60" column="10" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/Calendar.js" />
+      <jump line="40" column="8" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="97" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="62" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
+      <jump line="54" column="12" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
     </jumps>
     <registers>
       <register name="3" type="4">
@@ -486,16 +489,16 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw7XD4=</text>
+        <text>Lab</text>
       </register>
       <register name="-" type="4">
         <text>rett</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw7XD4=</last-search>
+      <last-search>Lab</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw7XD4=</last-pattern>
+      <last-pattern>Lab</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -503,6 +506,8 @@
       <history-search>
         <entry encoding="base64">XDxfY291cnNlc1w+</entry>
         <entry encoding="base64">XDw7XD4=</entry>
+        <entry>COMP</entry>
+        <entry>Lab</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
@@ -516,16 +521,16 @@
         <entry>action Forward</entry>
         <entry>action GotoDeclaration</entry>
         <entry>qw</entry>
-        <entry>noh</entry>
         <entry>2</entry>
         <entry>$</entry>
         <entry>set nornu</entry>
         <entry>action Back</entry>
         <entry>ww</entry>
-        <entry>q</entry>
         <entry>j</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>noh</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
