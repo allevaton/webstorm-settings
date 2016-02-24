@@ -143,7 +143,8 @@
         <mark key="." line="66" column="45" />
         <mark key="[" line="66" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/big-calendar/package.json" timestamp="1456347684963">
+      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/big-calendar/package.json" timestamp="1456352103318">
+        <mark key="'" line="36" column="2" />
         <mark key="]" line="27" column="53" />
         <mark key="[" line="27" column="31" />
       </file>
@@ -366,8 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
-      <jump line="27" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/styles/App.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/styles/App.less" />
@@ -466,6 +465,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/big-calendar/src/Agenda.jsx" />
       <jump line="54" column="10" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/big-calendar/src/Agenda.jsx" />
       <jump line="100" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/big-calendar/src/Agenda.jsx" />
+      <jump line="57" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/big-calendar/package.json" />
+      <jump line="36" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/big-calendar/package.json" />
     </jumps>
     <registers>
       <register name="3" type="2">
@@ -541,10 +542,10 @@
         <entry>ww</entry>
         <entry>j</entry>
         <entry>action RenameElement</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>e</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
