@@ -177,13 +177,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" timestamp="1456247839810">
-        <mark key="'" line="31" column="2" />
-        <mark key="k" line="30" column="2" />
-        <mark key="[" line="61" column="9" />
-        <mark key="]" line="61" column="15" />
-        <mark key="." line="61" column="15" />
-        <mark key="^" line="61" column="15" />
+      <file name="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" timestamp="1456272189618">
+        <mark key="'" line="52" column="6" />
+        <mark key="k" line="29" column="2" />
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="8" />
+        <mark key="." line="64" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/CourseActions.js" timestamp="1455746284979">
         <mark key="'" line="0" column="0" />
@@ -593,7 +592,6 @@
       <jump line="68" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="27" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="78" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
-      <jump line="52" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="63" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="25" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="29" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
@@ -617,10 +615,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="17" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="31" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
+      <jump line="52" column="6" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>currentEpisode</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -629,31 +628,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>currentEpisode</text>
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JhcGVOZXh0KGRlbGF5KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYm9keSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXNFcGlzb2RlTnVtYmVyKTsK</text>
       </register>
       <register name="5" type="4">
-        <text>new Error('Not found'</text>
+        <text>currentEpisode</text>
       </register>
-      <register name="6" type="4">
-        <text>reject</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>false</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzY3JhcGVOZXh0KGRlbGF5KTsK</text>
       </register>
       <register name="8" type="4">
-        <text>resolve</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>false</text>
+        <text>new Error('Not found'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
