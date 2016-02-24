@@ -176,12 +176,11 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" timestamp="1456331594527">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="32" column="28" />
+      <file name="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" timestamp="1456338786112">
+        <mark key="'" line="32" column="0" />
+        <mark key="]" line="28" column="12" />
+        <mark key="^" line="28" column="12" />
+        <mark key="." line="28" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/CourseActions.js" timestamp="1455746284979">
         <mark key="'" line="0" column="0" />
@@ -323,8 +322,10 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="/JavaScript Console" timestamp="1456197928755">
-        <mark key="[" line="0" column="0" />
+      <file name="/JavaScript Console" timestamp="1456339121362">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/SPProject/index.html" timestamp="1442968507175">
         <mark key="'" line="262" column="0" />
@@ -515,7 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="51" column="50" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/ClassDataStore.js" />
@@ -566,7 +566,6 @@
       <jump line="2" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/package.json" />
       <jump line="33" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="44" column="6" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
-      <jump line="54" column="24" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="42" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="62" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="70" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
@@ -586,11 +585,9 @@
       <jump line="71" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="51" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="34" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="57" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="64" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="45" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
-      <jump line="55" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="18" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="17" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="52" column="6" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
@@ -599,7 +596,6 @@
       <jump line="26" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="50" column="6" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="49" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="68" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="27" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="47" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
@@ -615,10 +611,15 @@
       <jump line="53" column="6" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="48" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="24" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
+      <jump line="54" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
+      <jump line="55" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -626,32 +627,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vcmVzb2x2ZSgtLWluZGV4KTsK</text>
+      <register name="1" type="4">
+        <text>text</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>html</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>table</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYm9keSk7Cg==</text>
+      <register name="4" type="4">
+        <text>link</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXNFcGlzb2RlTnVtYmVyKTsK</text>
+      <register name="5" type="4">
+        <text>source</text>
       </register>
       <register name="6" type="4">
-        <text>currentEpisode</text>
+        <text>audio</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>').</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JhcGVOZXh0KGRlbGF5KTsK</text>
+      <register name="8" type="4">
+        <text>find</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>('</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -757,6 +758,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
