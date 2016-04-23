@@ -703,7 +703,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>/Wentworth-MATE-ROV/mate-rov-src.git</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -712,31 +712,31 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtbWQtMyI+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>/Wentworth-MATE-ROV/mate-rov-src.git</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">PT4g</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">bmV3IA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGRiLmVhY2goJ1NFTEVDVCAqIEZST00gYXJlYSBXSEVSRScpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Area</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">KiA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>FRO</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBTZWxlY3RlZCBDUk5zOgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
