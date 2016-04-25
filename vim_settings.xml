@@ -441,8 +441,9 @@
       <file name="/JavaScript Console" timestamp="1456339730693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" timestamp="1461558708825">
-        <mark key="'" line="122" column="8" />
+      <file name="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" timestamp="1461597412928">
+        <mark key="'" line="123" column="0" />
+        <mark key="." line="68" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/cfg/base.js" timestamp="1454833163285">
         <mark key="'" line="42" column="0" />
@@ -598,12 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="31" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="45" column="4" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
@@ -696,8 +691,14 @@
       <jump line="109" column="6" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
       <jump line="106" column="21" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
       <jump line="116" column="6" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
-      <jump line="0" column="8" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
       <jump line="122" column="8" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="19" column="2" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="75" column="12" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="71" column="12" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -771,9 +772,9 @@
         <entry>e</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>j</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
+        <entry>j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
