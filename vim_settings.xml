@@ -34,11 +34,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/sources/index.json" timestamp="1455745635044">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/SPProject/index.html" timestamp="1442968507175">
         <mark key="'" line="262" column="0" />
         <mark key="[" line="270" column="122" />
@@ -86,11 +81,6 @@
         <mark key="]" line="10" column="35" />
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/constants/SelectedClassesConstants.js" timestamp="1456262959840">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/CourseActions.js" timestamp="1455746284979">
         <mark key="'" line="0" column="0" />
@@ -181,8 +171,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/manager/server.js" timestamp="1461558148765">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/manager/server.js" timestamp="1461558388419">
+        <mark key="'" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/cfg/dev.js" timestamp="1454831479850">
         <mark key="'" line="26" column="2" />
@@ -241,11 +231,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="19" column="2" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/actions/SelectedClassesActions.js" timestamp="1456328298654">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/twitch-followers-backup/app/package.json" timestamp="1454114136697">
         <mark key="[" line="2" column="18" />
@@ -456,6 +441,9 @@
       <file name="/JavaScript Console" timestamp="1456339730693">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" timestamp="1461558708825">
+        <mark key="'" line="122" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/cfg/base.js" timestamp="1454833163285">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="34" column="46" />
@@ -610,15 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="24" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="12" column="16" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="39" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
-      <jump line="66" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="59" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="31" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
@@ -709,7 +688,16 @@
       <jump line="12" column="0" filename="$USER_HOME$/WebstormProjects/classdesigner/src/index.js" />
       <jump line="68" column="8" filename="$USER_HOME$/WebstormProjects/manager/server.js" />
       <jump line="22" column="27" filename="$USER_HOME$/WebstormProjects/manager/server.js" />
+      <jump line="36" column="4" filename="$USER_HOME$/WebstormProjects/manager/server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/manager/server.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/WebstormProjects/manager/server.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/WebstormProjects/manager/server.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/WebstormProjects/manager/server.js" />
+      <jump line="109" column="6" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="106" column="21" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="116" column="6" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="0" column="8" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
+      <jump line="122" column="8" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
