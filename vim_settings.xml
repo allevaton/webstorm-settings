@@ -168,6 +168,13 @@
         <mark key="." line="36" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/webpack.config.js" timestamp="1456929923857" />
+      <file name="$USER_HOME$/WebstormProjects/classdesigner/src/index.js" timestamp="1461555563029">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/index.html" timestamp="1455071393890">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="8" column="0" />
@@ -600,8 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="25" column="4" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="49" column="2" filename="$USER_HOME$/WebstormProjects/biggest-problem-scraper/src/index.js" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
@@ -700,6 +705,8 @@
       <jump line="23" column="4" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="24" column="5" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
       <jump line="22" column="6" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/classdesigner/src/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/WebstormProjects/classdesigner/src/index.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -711,32 +718,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtbWQtMyI+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>/Wentworth-MATE-ROV/mate-rov-src.git</text>
+      <register name="1" type="2">
+        <text encoding="base64">UmVhY3QuYWRkKCkK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>/Wentworth-MATE-ROV/mate-rov-src.git</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">PT4g</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">bmV3IA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGRiLmVhY2goJ1NFTEVDVCAqIEZST00gYXJlYSBXSEVSRScpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Area</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">KiA=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>FRO</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBTZWxlY3RlZCBDUk5zOgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBTZWxlY3RlZCBDUk5zOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
