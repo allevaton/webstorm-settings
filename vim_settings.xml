@@ -498,6 +498,12 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/senior project/src/index.jsx" timestamp="1464288355091">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/server.js" timestamp="1454823408197">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="5" column="0" />
@@ -569,6 +575,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/senior project/src/main.less" timestamp="1464288384788">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/jsbuilding-tests/src/index.js" timestamp="1455385091315">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="19" />
@@ -616,7 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="102" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="83" column="8" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="69" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
@@ -716,10 +726,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/WebstormProjects/dzvol/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/dzvol/package.json" />
       <jump line="50" column="0" filename="$USER_HOME$/WebstormProjects/react-redux-material_ui-boilerplate/package.json" />
+      <jump line="30" column="0" filename="$USER_HOME$/WebstormProjects/senior project/src/index.jsx" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -727,32 +738,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtbWQtMyI+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyZWR1eCI6ICJeMy41LjAiCg==</text>
+        <text encoding="base64">CmgxIHsKICBmb250LXNpemU6IDQuMnJlbTsKICBmb250LXdlaWdodDogMzAwOwogIGxpbmUtaGVpZ2h0OiAxMTAlOwogIG1hcmdpbi10b3A6IDA7Cn0KCi5tYWluLWhlYWRlcmJveCB7CiAgbWFyZ2luLWxlZnQ6IGF1dG87CiAgbWFyZ2luLXJpZ2h0OiBhdXRvOwoKICBwIHsKICAgIG1hcmdpbi1ib3R0b206IDA7CiAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1yZWR1eCI6ICJeNC40LjUiLAo=</text>
+        <text encoding="base64">ICBoMSB7CiAgICBmb250LXNpemU6IDMuMnJlbTsKICAgIGZvbnQtd2VpZ2h0OiAzMDA7CiAgICBsaW5lLWhlaWdodDogOTAlOwogICAgbWFyZ2luLWJvdHRvbTogMDsKICB9CgogIC5jb250ZW50IHsKICAgIG1hcmdpbjogNXB4OwogIH0KCiAgLm1haW4taGVhZGVyYm94IHsKICAgIHBhZGRpbmc6IDEwcHg7CgogICAgLmJpZy1zZWFyY2gtZmllbGQgewogICAgICBmb250LXNpemU6IDQ4cHg7CiAgICB9CgogICAgcCB7CiAgICAgIGZvbnQtc2l6ZTogMThweDsKICAgICAgbGluZS1oZWlnaHQ6IDIwcHg7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjbGFzc25hbWVzIjogIl4yLjIuMyIsCg==</text>
+        <text encoding="base64">ICAuY29udGVudCB7CiAgICBtYXJnaW46IDEwcHg7CiAgfQoKICAubWFpbi1oZWFkZXJib3ggewogICAgcGFkZGluZzogMTBweDsKCiAgICAuYmlnLXNlYXJjaC1maWVsZCB7CiAgICAgIGZvbnQtc2l6ZTogNDhweDsKICAgIH0KCiAgICBwIHsKICAgICAgZm9udC1zaXplOiAyMXB4OwogICAgICBsaW5lLWhlaWdodDogMzBweDsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJyZWR1eC1sb2dnZXIiOiAiXjIuNi4xIiwK</text>
+        <text encoding="base64">ICAuY29udGVudCB7CiAgICBtYXJnaW46IDIwcHg7CiAgfQoKICAubWFpbi1oZWFkZXJib3ggewogICAgcGFkZGluZzogMTVweDsKICAgIHdpZHRoOiA4MCU7CgogICAgLmJpZy1zZWFyY2gtZmllbGQgewogICAgICBmb250LXNpemU6IDQ4cHg7CiAgICB9CgogICAgcCB7CiAgICAgIGZvbnQtc2l6ZTogMjFweDsKICAgICAgbGluZS1oZWlnaHQ6IDMwcHg7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0iL21hcCIgY29tcG9uZW50PXtUZXN0fS8+Cg==</text>
+        <text encoding="base64">ICAuY29udGVudCB7CiAgICBtYXJnaW46IDIwcHg7CiAgfQoKICAubWFpbi1oZWFkZXJib3ggewogICAgcGFkZGluZzogMzBweDsKICAgIHdpZHRoOiA3MCU7CiAgICBtYXJnaW4tbGVmdDogYXV0bzsKICAgIG1hcmdpbi1yaWdodDogYXV0bzsKCiAgICAuYmlnLXNlYXJjaC1maWVsZCB7CiAgICAgIGZvbnQtc2l6ZTogNDhweDsKICAgIH0KCiAgICBwIHsKICAgICAgZm9udC1zaXplOiAyMXB4OwogICAgICBsaW5lLWhlaWdodDogMzBweDsKICAgIH0KICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>,</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJiYWJlbC1ub2RlIGluZGV4LmpzIgo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL21haW4ubGVzcyc7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>-</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDwvUHJvdmlkZXI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
