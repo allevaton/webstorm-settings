@@ -874,12 +874,17 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f6247" />
+        <option name="FOREGROUND" value="1eac80" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="c313ea" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -1772,7 +1777,6 @@
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc99cc" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.LINE_COMMENT">
@@ -3669,13 +3673,11 @@
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="cc99cc" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="cc99cc" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XPATH.FUNCTION">
