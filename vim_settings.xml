@@ -186,8 +186,12 @@
       <file name="$USER_HOME$/workspace/senior-project/cfg/dev.js" timestamp="1464292172287">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/senior-project/src/containers/App.js" timestamp="1464492205319">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/senior-project/src/containers/App.js" timestamp="1464547042688">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="10" />
+        <mark key="^" line="29" column="31" />
+        <mark key="." line="32" column="10" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/components/semester-selector.hbs" timestamp="1444265518657">
         <mark key="[" line="0" column="10" />
@@ -290,12 +294,11 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" timestamp="1464540118938">
-        <mark key="'" line="44" column="6" />
-        <mark key="[" line="70" column="69" />
-        <mark key="]" line="70" column="90" />
-        <mark key="." line="70" column="69" />
-        <mark key="^" line="72" column="12" />
+      <file name="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" timestamp="1464547273932">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/styles/App.css" timestamp="1454836261813">
         <mark key="[" line="5" column="0" />
@@ -321,6 +324,13 @@
         <mark key="]" line="60" column="22" />
         <mark key="^" line="60" column="22" />
         <mark key="." line="60" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" timestamp="1464546265357">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="19" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/stores/SemesterStore.js" timestamp="1455246655150">
         <mark key="'" line="0" column="0" />
@@ -692,31 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/WebstormProjects/manager/src/actions/auth.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/SemesterSelector.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/WebstormProjects/dzvol/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/dzvol/package.json" />
-      <jump line="50" column="0" filename="$USER_HOME$/WebstormProjects/react-redux-material_ui-boilerplate/package.json" />
-      <jump line="30" column="0" filename="$USER_HOME$/WebstormProjects/senior project/src/index.jsx" />
-      <jump line="11" column="42" filename="$USER_HOME$/workspace/senior-project/src/stores/index.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/senior-project/src/stores/index.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/senior-project/src/stores/index.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/senior-project/src/stores/index.js" />
-      <jump line="35" column="6" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/workspace/senior-project/src/stores/index.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="17" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="43" column="14" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="24" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="9" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="28" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
@@ -745,7 +730,6 @@
       <jump line="19" column="10" filename="$USER_HOME$/workspace/senior-project/src/containers/CourseList.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/CourseList.js" />
       <jump line="19" column="4" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="22" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="29" column="6" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
@@ -753,20 +737,15 @@
       <jump line="21" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
       <jump line="46" column="32" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="64" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="31" column="8" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="12" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="25" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="36" column="31" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="54" column="36" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="47" column="14" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="53" column="10" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
@@ -776,59 +755,90 @@
       <jump line="60" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="59" column="10" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="40" column="8" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="63" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="62" column="66" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="19" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="23" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="38" column="8" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="70" column="46" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="34" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="57" column="14" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="44" column="6" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="80" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="73" column="10" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" />
+      <jump line="19" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" />
+      <jump line="51" column="16" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="17" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="57" column="12" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="75" column="12" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="23" column="4" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="67" column="10" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="61" column="10" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="72" column="7" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="68" column="10" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="42" column="8" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="53" column="16" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IGluaXRpYWxseU9wZW49e3RydWV9</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bGVmdENoZWNrYm94PXs8Q2hlY2tib3ggLz59IHByaW1hcnlUZXh0PSJIZWxsbyI=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGluaXRpYWxseU9wZW49e3RydWV9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgcGFkZGluZ1JpZ2h0OiAnMCcKICAgICAgICAgICAgICB9fQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>]</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpbmRvdy5pbm5lcldpZHRoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxBcHBCYXIgdGl0bGU9IkhlbGxvIj48L0FwcEJhcj4K</text>
       </register>
-      <register name="4" type="4">
-        <text>}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8QXBwQmFyIHRpdGxlPSJIZWxsbyI+PC9BcHBCYXI+Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>true</text>
+        <text>}</text>
       </register>
       <register name="6" type="4">
-        <text>={</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>initiallyOpen</text>
+        <text encoding="base64">eyA=</text>
       </register>
-      <register name="8" type="4">
-        <text>initlal</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8QXBwQmFyIC8+Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>Hello</text>
+        <text encoding="base64">IHN0eWxlPXt7CiAgICAgICAgcGFkZGluZ1RvcDogJzIwcHgnLAogICAgICAgIHBhZGRpbmdMZWZ0OiAnMjBweCcKICAgICAgfX0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -866,9 +876,9 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
         <entry>q</entry>
-        <entry>j</entry>
         <entry>set norel</entry>
         <entry>set nornu</entry>
+        <entry>j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
