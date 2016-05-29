@@ -338,17 +338,11 @@
         <option name="FOREGROUND" value="f2777a" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.HEREDOC_CONTENT">
-      <value />
-    </option>
     <option name="COFFEESCRIPT.HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="ffcc66" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.HEREGEX_CONTENT">
-      <value />
     </option>
     <option name="COFFEESCRIPT.HEREGEX_ID">
       <value>
@@ -874,17 +868,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="1eac80" />
-      </value>
-    </option>
-    <option name="DEFAULT_INSTANCE_FIELD">
-      <value>
-        <option name="FOREGROUND" value="c313ea" />
-      </value>
-    </option>
-    <option name="DEFAULT_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="f6247" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -1522,7 +1506,6 @@
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="cc99cc" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HAML_XHTML">
@@ -1556,7 +1539,6 @@
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="cc99cc" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
@@ -1830,7 +1812,6 @@
     <option name="JS.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="f99157" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JSP_ATTRIBUTE_NAME">
@@ -3662,13 +3643,10 @@
     <option name="XML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="f99157" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="XML_TAG">
       <value>
