@@ -522,9 +522,9 @@
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/big-calendar/src/less/styles.less" timestamp="1456245230247">
         <mark key="'" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/senior-project/src/stores/index.js" timestamp="1464568831284">
+      <file name="$USER_HOME$/workspace/senior-project/src/stores/index.js" timestamp="1464570558714">
         <mark key="'" line="19" column="4" />
-        <mark key="[" line="35" column="2" />
+        <mark key="[" line="37" column="4" />
         <mark key="m" line="10" column="6" />
         <mark key="]" line="37" column="3" />
         <mark key="." line="37" column="3" />
@@ -814,7 +814,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>TextField</text>
+        <text>observable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -823,31 +823,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldENvbG9yID0gKGluZGV4KSA9PiBDb2xvcnNbaW5kZXggJSBDb2xvcnMubGVuZ3RoXTsK</text>
       </register>
       <register name="1" type="4">
-        <text>TextField</text>
+        <text>observable</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Y291cnNlcyA=</text>
+        <text>TextField</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dGhlIA==</text>
+        <text encoding="base64">Y291cnNlcyA=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">b2Yg</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="5" type="4">
-        <text>#d32f2f</text>
+        <text encoding="base64">b2Yg</text>
       </register>
       <register name="6" type="4">
-        <text>#b71c1c</text>
+        <text>#d32f2f</text>
       </register>
       <register name="7" type="4">
-        <text>#</text>
+        <text>#b71c1c</text>
       </register>
       <register name="8" type="4">
-        <text>f44336</text>
+        <text>#</text>
       </register>
       <register name="9" type="4">
-        <text>prof</text>
+        <text>f44336</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
