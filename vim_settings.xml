@@ -302,6 +302,13 @@
         <mark key="^" line="11" column="5" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/modern-twitch/src/containers/App.js" timestamp="1464751421652">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/big-calendar/src/Agenda.jsx" timestamp="1456347560586">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="198" column="1" />
@@ -356,6 +363,9 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/modern-twitch/.babelrc" timestamp="1464751236092">
+        <mark key="[" line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/constants/ClassDataConstants.js" timestamp="1455714440971">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="28" />
@@ -374,9 +384,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/CrnTable.js" timestamp="1456848484733">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="7" />
+      <file name="$USER_HOME$/WebstormProjects/modern-twitch/src/index.html" timestamp="1464750874579">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/cfg/defaults.js" timestamp="1455723492443">
         <mark key="'" line="40" column="8" />
@@ -450,6 +462,7 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/modern-twitch/package.json" timestamp="1464751136943" />
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/components/Main.js" timestamp="1454834839192">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="10" />
@@ -470,20 +483,17 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/modern-twitch/src/stores/store.js" timestamp="1464751340349">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/gulp-test/src/classes/Point.js" timestamp="1455581960455">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="22" />
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/src/components/ClassItem.js" timestamp="1456847599570">
-        <mark key="w" line="0" column="0" />
-        <mark key="'" line="0" column="0" />
-        <mark key="j" line="62" column="6" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="m" line="52" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/climate-change/client/server.js" timestamp="1461453789335">
         <mark key="[" line="9" column="51" />
@@ -504,6 +514,11 @@
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/modern-twitch/src/index.jsx" timestamp="1464751213346">
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/server.js" timestamp="1454823408197">
         <mark key="[" line="4" column="36" />
@@ -628,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="83" column="8" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="69" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
       <jump line="92" column="2" filename="$USER_HOME$/workspace/cryptography/assignment4/assignment4.js" />
@@ -728,10 +742,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/WebstormProjects/dzvol/package.json" />
       <jump line="50" column="0" filename="$USER_HOME$/WebstormProjects/react-redux-material_ui-boilerplate/package.json" />
       <jump line="30" column="0" filename="$USER_HOME$/WebstormProjects/senior project/src/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/modern-twitch/src/containers/App.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>MainScreen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -739,32 +754,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtbWQtMyI+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>MainScreen</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CmgxIHsKICBmb250LXNpemU6IDQuMnJlbTsKICBmb250LXdlaWdodDogMzAwOwogIGxpbmUtaGVpZ2h0OiAxMTAlOwogIG1hcmdpbi10b3A6IDA7Cn0KCi5tYWluLWhlYWRlcmJveCB7CiAgbWFyZ2luLWxlZnQ6IGF1dG87CiAgbWFyZ2luLXJpZ2h0OiBhdXRvOwoKICBwIHsKICAgIG1hcmdpbi1ib3R0b206IDA7CiAgfQp9Cg==</text>
+      <register name="2" type="4">
+        <text>dfef</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoMSB7CiAgICBmb250LXNpemU6IDMuMnJlbTsKICAgIGZvbnQtd2VpZ2h0OiAzMDA7CiAgICBsaW5lLWhlaWdodDogOTAlOwogICAgbWFyZ2luLWJvdHRvbTogMDsKICB9CgogIC5jb250ZW50IHsKICAgIG1hcmdpbjogNXB4OwogIH0KCiAgLm1haW4taGVhZGVyYm94IHsKICAgIHBhZGRpbmc6IDEwcHg7CgogICAgLmJpZy1zZWFyY2gtZmllbGQgewogICAgICBmb250LXNpemU6IDQ4cHg7CiAgICB9CgogICAgcCB7CiAgICAgIGZvbnQtc2l6ZTogMThweDsKICAgICAgbGluZS1oZWlnaHQ6IDIwcHg7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSkgewogIHJldHVybiB7fTsKfQoKZnVuY3Rpb24gbWFwRGlzcGF0Y2hUb1Byb3BzKGRpc3BhdGNoKSB7CiAgcmV0dXJuIHt9Owp9CgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KAogIG1hcFN0YXRlVG9Qcm9wcywKICBtYXBEaXNwYXRjaFRvUHJvcHMKKShNYWluU2NyZWVuKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuY29udGVudCB7CiAgICBtYXJnaW46IDEwcHg7CiAgfQoKICAubWFpbi1oZWFkZXJib3ggewogICAgcGFkZGluZzogMTBweDsKCiAgICAuYmlnLXNlYXJjaC1maWVsZCB7CiAgICAgIGZvbnQtc2l6ZTogNDhweDsKICAgIH0KCiAgICBwIHsKICAgICAgZm9udC1zaXplOiAyMXB4OwogICAgICBsaW5lLWhlaWdodDogMzBweDsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuY29udGVudCB7CiAgICBtYXJnaW46IDIwcHg7CiAgfQoKICAubWFpbi1oZWFkZXJib3ggewogICAgcGFkZGluZzogMTVweDsKICAgIHdpZHRoOiA4MCU7CgogICAgLmJpZy1zZWFyY2gtZmllbGQgewogICAgICBmb250LXNpemU6IDQ4cHg7CiAgICB9CgogICAgcCB7CiAgICAgIGZvbnQtc2l6ZTogMjFweDsKICAgICAgbGluZS1oZWlnaHQ6IDMwcHg7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuY29udGVudCB7CiAgICBtYXJnaW46IDIwcHg7CiAgfQoKICAubWFpbi1oZWFkZXJib3ggewogICAgcGFkZGluZzogMzBweDsKICAgIHdpZHRoOiA3MCU7CiAgICBtYXJnaW4tbGVmdDogYXV0bzsKICAgIG1hcmdpbi1yaWdodDogYXV0bzsKCiAgICAuYmlnLXNlYXJjaC1maWVsZCB7CiAgICAgIGZvbnQtc2l6ZTogNDhweDsKICAgIH0KCiAgICBwIHsKICAgICAgZm9udC1zaXplOiAyMXB4OwogICAgICBsaW5lLWhlaWdodDogMzBweDsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb250YWluZXJzL0hlYWRlcic7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL21haW4ubGVzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtvYnNlcnZhYmxlfSBmcm9tICdtb2J4JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvUHJvdmlkZXI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFRlc3QgZnJvbSAnLi9jb21wb25lbnRzL1Rlc3QnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -802,8 +817,8 @@
         <entry>q</entry>
         <entry>noh</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action RenameElement</entry>
         <entry>j</entry>
+        <entry>action RenameElement</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
