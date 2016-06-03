@@ -197,8 +197,8 @@
       <file name="$USER_HOME$/workspace/senior-project/cfg/dev.js" timestamp="1464292172287">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/senior-project/src/containers/App.js" timestamp="1464914199957">
-        <mark key="'" line="52" column="0" />
+      <file name="$USER_HOME$/workspace/senior-project/src/containers/App.js" timestamp="1464914228296">
+        <mark key="'" line="38" column="13" />
         <mark key="[" line="31" column="47" />
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
@@ -799,9 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="10" filename="$USER_HOME$/workspace/senior-project/src/containers/ClassList.js" />
-      <jump line="71" column="10" filename="$USER_HOME$/workspace/senior-project/src/containers/ClassList.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/ClassList.js" />
       <jump line="61" column="8" filename="$USER_HOME$/workspace/senior-project/src/containers/ClassList.js" />
       <jump line="144" column="10" filename="$USER_HOME$/workspace/senior-project/src/containers/ClassList.js" />
       <jump line="46" column="10" filename="$USER_HOME$/workspace/senior-project/src/containers/Header.js" />
@@ -897,8 +894,11 @@
       <jump line="39" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
       <jump line="49" column="11" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
+      <jump line="38" column="13" filename="$USER_HOME$/workspace/senior-project/src/containers/App.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -957,7 +957,6 @@
         <entry>update</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
         <entry>action Forward</entry>
         <entry>action GotoDeclaration</entry>
         <entry>qw</entry>
