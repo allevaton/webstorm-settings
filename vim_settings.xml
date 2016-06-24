@@ -45,6 +45,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/irc/server/src/IRC.js" timestamp="1466802947996">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/gulp-test/gulpfile.js" timestamp="1455422401486">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="22" column="4" />
@@ -414,7 +419,12 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/irc/server/package.json" timestamp="1466738049341" />
+      <file name="$USER_HOME$/WebstormProjects/irc/server/package.json" timestamp="1466802730294">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/constants/Constants.js" timestamp="1454815781517">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="11" />
@@ -773,6 +783,7 @@
         <mark key="^" line="32" column="53" />
         <mark key="." line="32" column="53" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/irc/server/src/Settings.js" timestamp="1466803664823" />
       <file name="$USER_HOME$/workspace/senior-project/src/components/Calendar.js" timestamp="1464887243936">
         <mark key="'" line="55" column="8" />
         <mark key="[" line="62" column="46" />
@@ -917,7 +928,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>;</text>
+        <text>path.resolve(__dirname, '../settings.json')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -926,31 +937,31 @@
         <text>${classItem.instructor}</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>path.resolve(__dirname, '../settings.json')</text>
       </register>
       <register name="2" type="4">
-        <text>;</text>
+        <text>settingsFile</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>watche</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
+      <register name="4" type="4">
+        <text>LoadS</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBndWxwLnNyYygnc3JjLyoqLyouanMnKQogICAgLnBpcGUoc291cmNlbWFwcy5pbml0KCkpCiAgICAucGlwZShiYWJlbCgpKQogICAgLnBpcGUoc291cmNlbWFwcy53cml0ZSgpKQogICAgLnBpcGUoZ3VscC5kZXN0KCdidWlsZCcpKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTmljayBvbiA2LzI0LzIwMTYuCiAqLwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+      <register name="7" type="4">
+        <text>module</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnN0IGZzID0gcmVxdWlyZSgnZnMnKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTmljayBvbiA2LzI0LzIwMTYuCiAqLwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTmljayBvbiA2LzIzLzIwMTYuCiAqLwo=</text>
+      <register name="9" type="4">
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
