@@ -569,18 +569,17 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" timestamp="1466958556202">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" timestamp="1466982878505">
+        <mark key="'" line="7" column="51" />
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+        <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/irc/server/build/settings.json" timestamp="1466915929307">
+      <file name="$USER_HOME$/WebstormProjects/irc/server/build/settings.json" timestamp="1466982719548">
         <mark key="[" line="1" column="16" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-        <mark key="^" line="2" column="12" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/senior-project/src/components/VerticalDivider.js" timestamp="1464546265357">
         <mark key="'" line="19" column="2" />
@@ -907,9 +906,7 @@
       <jump line="2" column="14" filename="$USER_HOME$/WebstormProjects/irc/server/server.js" />
       <jump line="15" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="13" column="2" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="7" column="15" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="6" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="4" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/server.js" />
       <jump line="9" column="40" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="11" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
@@ -918,10 +915,12 @@
       <jump line="16" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="14" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="7" column="51" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, filename</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -929,32 +928,34 @@
       <register name="0" type="4">
         <text>${classItem.instructor}</text>
       </register>
-      <register name="1" type="4">
-        <text>, filename</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBlbHNlIGlmIChldmVudCA9PT0gJ3JlbmFtZScpCiAgICBsb2FkU2V0dGluZ3MocGF0aC5yZXNvbHZlKGZpbGVuYW1lKSk7Cg==</text>
+      <register name="2" type="4">
+        <text>/**
+ * Created by ${USER} on ${DATE}.
+ */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNldHRpbmdzKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnJykK</text>
       </register>
       <register name="4" type="4">
         <text>,</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAidGVzdCI6ICJ0ZXN0Igo=</text>
+        <text encoding="base64">ICAidG4iOiAidGVzdCIK</text>
       </register>
       <register name="6" type="4">
-        <text>test</text>
+        <text>, filename</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBlbHNlIGlmIChldmVudCA9PT0gJ3JlbmFtZScpCiAgICBsb2FkU2V0dGluZ3MocGF0aC5yZXNvbHZlKGZpbGVuYW1lKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2V0dGluZ3MgZmlsZSBjaGFuZ2VkJywgZXZlbnQsIGZpbGVuYW1lKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNldHRpbmdzKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2V0dGluZ3MgZmlsZSBjaGFuZ2VkJywgZXZlbnQsIGZpbGVuYW1lKTsK</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
