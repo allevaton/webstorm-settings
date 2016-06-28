@@ -114,8 +114,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/irc/server/server.js" timestamp="1467133923564">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/irc/server/server.js" timestamp="1467134215436">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/stores/AppStore.js" timestamp="1454833572216">
         <mark key="[" line="3" column="17" />
@@ -566,14 +569,13 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" timestamp="1467133915108">
-        <mark key="'" line="40" column="98" />
-        <mark key="[" line="40" column="69" />
-        <mark key="]" line="40" column="98" />
-        <mark key="^" line="40" column="98" />
-        <mark key="." line="40" column="98" />
+      <file name="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" timestamp="1467134076092">
+        <mark key="'" line="32" column="2" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/irc/server/build/settings.json" timestamp="1467133410940">
+      <file name="$USER_HOME$/WebstormProjects/irc/server/build/settings.json" timestamp="1467134212317">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -814,8 +816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="33" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
-      <jump line="101" column="21" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="88" column="14" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="124" column="23" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
       <jump line="131" column="12" filename="$USER_HOME$/workspace/senior-project/src/components/CourseItem.js" />
@@ -865,7 +865,6 @@
       <jump line="18" column="25" filename="$USER_HOME$/WebstormProjects/irc/server/src/Settings.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/Settings.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/server.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="2" column="14" filename="$USER_HOME$/WebstormProjects/irc/server/server.js" />
       <jump line="15" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="13" column="2" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
@@ -875,9 +874,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="18" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="14" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="7" column="51" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="25" column="17" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="29" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="12" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="11" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
@@ -887,16 +884,12 @@
       <jump line="41" column="7" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="36" column="59" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="51" column="72" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="47" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="10" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="22" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="28" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="26" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="21" column="16" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="32" column="8" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="42" column="47" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="34" column="6" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="52" column="2" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="45" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
@@ -907,50 +900,59 @@
       <jump line="17" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="27" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="59" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="16" column="30" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="48" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="61" column="29" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="35" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="39" column="88" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
       <jump line="38" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
-      <jump line="40" column="98" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="8" column="25" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="5" column="2" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="40" column="9" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="34" column="5" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="16" column="3" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="32" column="2" filename="$USER_HOME$/WebstormProjects/irc/server/src/settings.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/WebstormProjects/irc/server/server.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>settingsFile</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2luc3Rvbi5pbmZvKCdTdGFydGluZyBzZXR0aW5ncyBmaWxlIHdhdGNoZXInKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTmV3IHNldHRpbmdzJywgbmV3U2V0dGluZ3MpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>settingsFile</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBzZXR0aW5ncy5zdG9wV2F0Y2hlcigpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
-      <register name="3" type="4">
-        <text>this</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAiaGVsbG8iOiAid29ybGQiCg==</text>
       </register>
       <register name="4" type="4">
-        <text>listner</text>
+        <text>,</text>
       </register>
-      <register name="5" type="4">
-        <text>[];</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAidGVzdCI6IAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0dGluZ3MgPSB7fTsKICAgIHRoaXMud2F0Y2hlciA9IG51bGw7CiAgICB0aGlzLmxpc3RlbmVycyA9IG5ldyBTZXQoKTsK</text>
       </register>
       <register name="8" type="4">
-        <text>WeakMap</text>
+        <text>TEST</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>newSettings</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
