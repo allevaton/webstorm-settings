@@ -919,7 +919,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -963,7 +963,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDw7XD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
