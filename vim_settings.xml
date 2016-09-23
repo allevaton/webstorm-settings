@@ -585,7 +585,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set visualbell</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -623,8 +623,8 @@
         <entry>set noerrorbells</entry>
         <entry>action RenameElement</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>set visualbell</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
