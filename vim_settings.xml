@@ -62,12 +62,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.less" timestamp="1475071044290">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="49" column="27" />
-        <mark key="." line="49" column="27" />
-        <mark key="^" line="49" column="27" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.less" timestamp="1475078307444">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/class-designer/bootstrap.config.less" timestamp="1455071626466">
         <mark key="[" line="10" column="9" />
@@ -291,12 +291,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/routes.js" timestamp="1474653545946">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="32" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/routes.js" timestamp="1475078677479">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/application.hbs" timestamp="1444265604972">
         <mark key="[" line="1" column="21" />
@@ -376,11 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="44" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="116" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="99" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="111" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
       <jump line="131" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
       <jump line="79" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
       <jump line="45" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
@@ -466,7 +461,6 @@
       <jump line="38" column="14" filename="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.js" />
       <jump line="180" column="14" filename="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.less" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
       <jump line="92" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
@@ -476,10 +470,16 @@
       <jump line="82" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.less" />
       <jump line="205" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.js" />
+      <jump line="47" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.less" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/PrivacyPage/Privacy.less" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/routes.js" />
+      <jump line="3" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/routes.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/routes.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>bottom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -488,31 +488,31 @@
         <text>932 Hempstead Turnpike, Franklin Square, NY 11010</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtbXMtd29yZC13cmFwOjsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogYXV0bzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTdGlja3lDb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiAxMHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvU3RpY2t5Q29udGFpbmVyPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9TdGlja3lDb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFN0aWNreUNvbnRhaW5lcj4K</text>
+        <text encoding="base64">ICAtbXMtd29yZC13cmFwOjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogYXV0bzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxTdGlja3lDb250YWluZXI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvU3RpY2t5Q29udGFpbmVyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -554,8 +554,8 @@
         <entry>z</entry>
         <entry>action RenameElement</entry>
         <entry>j;</entry>
-        <entry>q</entry>
         <entry>j</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
