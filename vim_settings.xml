@@ -141,11 +141,12 @@
         <mark key="^" line="30" column="64" />
         <mark key="." line="30" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" timestamp="1474641054053">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="59" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="4" column="30" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" timestamp="1475080206687">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/dzvol/index.js" timestamp="1464016577975">
         <mark key="[" line="0" column="15" />
@@ -253,6 +254,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.less" timestamp="1475080201051">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/bootstrap.config.js" timestamp="1474665985060">
         <mark key="'" line="26" column="4" />
         <mark key="[" line="22" column="17" />
@@ -291,12 +297,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/routes.js" timestamp="1475078677479">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/routes.js" timestamp="1475078704201">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/application.hbs" timestamp="1444265604972">
         <mark key="[" line="1" column="21" />
@@ -376,17 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="79" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="45" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="28" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="136" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="50" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="33" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
       <jump line="124" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
       <jump line="107" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.less" />
@@ -476,43 +470,54 @@
       <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/routes.js" />
       <jump line="3" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/routes.js" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/routes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/routes.js" />
+      <jump line="23" column="29" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="45" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="43" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="22" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="39" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="29" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="12" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="34" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="50" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>bottom</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>932 Hempstead Turnpike, Franklin Square, NY 11010</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj48YSBocmVmPSIjIj5JbnN0YWdyYW08L2E+PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb2wgc209ezEyfT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiAxMHB4Owo=</text>
+        <text encoding="base64">ICBtYXJnaW4tbGVmdDogYXV0bzsKICBtYXJnaW4tcmlnaHQ6IGF1dG87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtbXMtd29yZC13cmFwOjsK</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogYXV0bzsK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTdGlja3lDb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZvb3Rlci0tY29tcGFueSI+U2lkZWxpbmVTd2FwLCBJbmMuPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvU3RpY2t5Q29udGFpbmVyPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZm9vdGVyLS1jb21wYW55Ij5TaWRlbGluZVN3YXAsIEluYy48L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -556,6 +561,7 @@
         <entry>j;</entry>
         <entry>j</entry>
         <entry>q</entry>
+        <entry>y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
