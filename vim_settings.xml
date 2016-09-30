@@ -165,12 +165,12 @@
         <mark key="^" line="30" column="64" />
         <mark key="." line="30" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" timestamp="1475171035555">
-        <mark key="'" line="52" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" timestamp="1475242739572">
+        <mark key="'" line="34" column="14" />
         <mark key="[" line="35" column="30" />
-        <mark key="]" line="35" column="36" />
-        <mark key="." line="35" column="36" />
-        <mark key="^" line="35" column="36" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/dzvol/index.js" timestamp="1464016577975">
         <mark key="[" line="0" column="15" />
@@ -306,8 +306,8 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.less" timestamp="1475171390288">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.less" timestamp="1475242542514">
+        <mark key="'" line="18" column="0" />
         <mark key="[" line="25" column="2" />
         <mark key="]" line="27" column="18" />
         <mark key="." line="27" column="18" />
@@ -357,12 +357,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/routes.js" timestamp="1475183101626">
+      <file name="$USER_HOME$/workspace/sls-react/src/common/routes.js" timestamp="1475242984327">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="16" column="40" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/application.hbs" timestamp="1444265604972">
         <mark key="[" line="1" column="21" />
@@ -436,8 +435,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" timestamp="1475241241117">
-        <mark key="'" line="915" column="16" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" timestamp="1475242527682">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="21" />
         <mark key="." line="23" column="21" />
@@ -450,12 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="31" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/GeneralPage.js" />
-      <jump line="162" column="16" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/GeneralPage.js" />
-      <jump line="147" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/GeneralPage.js" />
-      <jump line="113" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/GeneralPage.js" />
-      <jump line="282" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/GeneralPage.js" />
-      <jump line="35" column="36" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
       <jump line="23" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
@@ -534,7 +527,6 @@
       <jump line="7" column="11" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" />
       <jump line="34" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/routes.js" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/routes.js" />
@@ -550,43 +542,50 @@
       <jump line="34" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" />
       <jump line="15" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" />
+      <jump line="42" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" />
+      <jump line="65" column="14" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.less" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
+      <jump line="34" column="14" filename="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">YWN0aXZlLCA=</text>
+        <text>privacy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>this.state.location.hash</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9InByaXZhY3kiIGNvbXBvbmVudD17UHJpdmFjeVBhZ2V9Lz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaXNBY3RpdmUoYWN0aXZlLCBuYXYpIHsKICByZXR1cm4gYWN0aXZlID09PSBuYXYgPyBhY3RpdmVDbGFzcyA6ICcnOwp9Cgo=</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9ImJpbGxpbmciIGNvbXBvbmVudD17UHJpdmFjeVBhZ2V9Lz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgewogIH0gPSBwcm9wczsKCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gaXNBY3RpdmUoYWN0aXZlLCBuYXYpIHsKICByZXR1cm4gYWN0aXZlID09PSBuYXYgPyBhY3RpdmVDbGFzcyA6ICcnOwp9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuY2hvckxpbmtzCg==</text>
+        <text encoding="base64">ICBsZXQgewogIH0gPSBwcm9wczsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFjdGl2ZSwK</text>
+        <text encoding="base64">ICAgIGFuY2hvckxpbmtzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgc2hvdWxkQ29tcG9uZW50VXBkYXRlKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7CiAgICBjb25zb2xlLmxvZygnVGVybXMgdXBkYXRpbmcgYmxvY2tlZCcpOwogICAgcmV0dXJuIGZhbHNlOwogIH0K</text>
+        <text encoding="base64">ICAgIGFjdGl2ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgc2hvdWxkQ29tcG9uZW50VXBkYXRlKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7CiAgICBjb25zb2xlLmxvZygnVGVybXMgdXBkYXRpbmcgYmxvY2tlZCcpOwogICAgcmV0dXJuIGZhbHNlOwogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBoYXNoID0gd2luZG93LmxvY2F0aW9uLmhhc2guc3Vic3RyKDEpOwogICAgaWYgKGhhc2gpIHsKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaGFzaCkuc2Nyb2xsSW50b1ZpZXcoKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGxldCBoYXNoID0gd2luZG93LmxvY2F0aW9uLmhhc2guc3Vic3RyKDEpOwogICAgaWYgKGhhc2gpIHsKICAgICAgY29uc29sZS5sb2coJ21vdW50ZWQnLCBoYXNoKTsKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaGFzaCkuc2Nyb2xsSW50b1ZpZXcoKTsKICAgIH0KICB9Cgo=</text>
+        <text encoding="base64">ICAgIGxldCBoYXNoID0gd2luZG93LmxvY2F0aW9uLmhhc2guc3Vic3RyKDEpOwogICAgaWYgKGhhc2gpIHsKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaGFzaCkuc2Nyb2xsSW50b1ZpZXcoKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ21vdW50ZWQnLCBoYXNoKTsK</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGxldCBoYXNoID0gd2luZG93LmxvY2F0aW9uLmhhc2guc3Vic3RyKDEpOwogICAgaWYgKGhhc2gpIHsKICAgICAgY29uc29sZS5sb2coJ21vdW50ZWQnLCBoYXNoKTsKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaGFzaCkuc2Nyb2xsSW50b1ZpZXcoKTsKICAgIH0KICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
