@@ -45,6 +45,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="gulp-mocha-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-mocha_gulp-mocha.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-mocha_gulp-mocha.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="gulp-util-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -120,6 +131,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="orchestrator-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_orchestrator_orchestrator.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_orchestrator_orchestrator.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="react-bootstrap-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -183,6 +205,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="vinyl-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_vinyl_vinyl.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_vinyl_vinyl.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="webpack-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -204,6 +237,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack-dev-server_webpack-dev-server.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="webpack-stream-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack-stream_webpack-stream.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack-stream_webpack-stream.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
