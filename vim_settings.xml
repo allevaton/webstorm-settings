@@ -269,12 +269,12 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" timestamp="1475267067651">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="37" column="7" />
-        <mark key="^" line="37" column="7" />
-        <mark key="." line="37" column="7" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" timestamp="1475502781802">
+        <mark key="'" line="34" column="12" />
+        <mark key="[" line="39" column="67" />
+        <mark key="]" line="39" column="81" />
+        <mark key="^" line="39" column="81" />
+        <mark key="." line="39" column="81" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/components/semester-selector.hbs" timestamp="1444265518657">
         <mark key="[" line="0" column="10" />
@@ -463,8 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.js" />
-      <jump line="15" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.js" />
       <jump line="13" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.js" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Header.js" />
@@ -472,7 +470,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.less" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsContainer.js" />
       <jump line="17" column="17" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" />
-      <jump line="34" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsContainer.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/gulpfile.js" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/gulpfile.js" />
@@ -563,10 +560,13 @@
       <jump line="169" column="69" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/PrivacyPage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/PrivacyPage.js" />
       <jump line="22" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/PrivacyPage.js" />
+      <jump line="39" column="81" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" />
+      <jump line="34" column="12" filename="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>help</text>
+        <text>/trading</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
