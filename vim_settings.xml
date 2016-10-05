@@ -171,10 +171,10 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1475678257325">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="71" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1475680252998">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/bootstrap.json" timestamp="1474650565459">
         <mark key="[" line="9" column="0" />
@@ -357,7 +357,7 @@
         <mark key="^" line="35" column="8" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsContainer.js" timestamp="1475680236623">
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsContainer.js" timestamp="1475680282614">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="30" />
@@ -535,10 +535,10 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475679939318">
-        <mark key="[" line="6" column="138" />
-        <mark key="]" line="6" column="138" />
-        <mark key="." line="6" column="138" />
+      <file name="/Dummy.txt" timestamp="1475680782551">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/application.hbs" timestamp="1444265604972">
@@ -710,7 +710,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">dGltZSA=</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -719,31 +719,31 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLndpbmRvd1dpZHRoID4gNzY3ICYmIG5leHRTdGF0ZS53aW5kb3dXaWR0aCA8PSA3NjcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJCdXR0b25TdGF0ZT17bW9iaWxlSGVhZGVyQnV0dG9uU3RhdGV9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgb2JzZXJ2ZXIgfSBmcm9tICdtb2J4LXJlYWN0JzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbW9iaWxlSGVhZGVyQnV0dG9uU3RhdGUsCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJCdXR0b25TdGF0ZT17bW9iaWxlSGVhZGVyQnV0dG9uU3RhdGV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWFkZXIgcmVuZGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgbW9iaWxlSGVhZGVyQnV0dG9uU3RhdGUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVhZGVyIHVwZGF0ZScpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWFkZXIgcmVuZGVyJyk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVhZGVyIHVwZGF0ZScpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWFkZXIgcmVuZGVyJyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVhZGVyIHJlbmRlcicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVhZGVyIHJlbmRlcicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
