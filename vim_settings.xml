@@ -147,11 +147,24 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/DesktopHeader.less" timestamp="1475592674826">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="54" />
+        <mark key="." line="48" column="54" />
+        <mark key="^" line="48" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.js" timestamp="1475683779039">
         <mark key="'" line="45" column="4" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.js" timestamp="1475685126581">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/emberjs-test/ember-cli-build.js" timestamp="1454304537241">
         <mark key="[" line="30" column="58" />
@@ -196,6 +209,12 @@
         <mark key="]" line="27" column="26" />
         <mark key="." line="27" column="9" />
         <mark key="^" line="28" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/Navbar.js" timestamp="1475607907076">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/actions/AppActions.js" timestamp="1454816354396">
         <mark key="[" line="8" column="12" />
@@ -364,9 +383,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1475675331630">
-        <mark key="^" line="24" column="46" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/BillingPage.js" timestamp="1475178699139">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -519,10 +535,10 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475681322085">
+      <file name="/Dummy.txt" timestamp="1475684898812">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
         <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/application.hbs" timestamp="1444265604972">
@@ -588,6 +604,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/common/variables.less" timestamp="1475594518263">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="145" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/SearchWindow.js" timestamp="1475676957234">
         <mark key="'" line="13" column="15" />
         <mark key="[" line="1" column="0" />
@@ -597,7 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeaderContainer.js" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeaderContainer.js" />
       <jump line="113" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeaderContainer.js" />
       <jump line="45" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Header.js" />
@@ -697,10 +718,11 @@
       <jump line="80" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeaderContainer.js" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/HeaderContainer.js" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/HeaderContainer.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">JiY=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
