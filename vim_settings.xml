@@ -145,12 +145,12 @@
         <mark key="." line="48" column="54" />
         <mark key="^" line="48" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.js" timestamp="1475670773022">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="59" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.js" timestamp="1475674814258">
+        <mark key="'" line="83" column="8" />
+        <mark key="[" line="86" column="5" />
+        <mark key="]" line="87" column="3" />
+        <mark key="." line="87" column="3" />
+        <mark key="^" line="87" column="3" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/emberjs-test/ember-cli-build.js" timestamp="1454304537241">
         <mark key="[" line="30" column="58" />
@@ -238,18 +238,10 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" timestamp="1475511009036">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.production.js" timestamp="1475673998188">
-        <mark key="'" line="51" column="8" />
-        <mark key="[" line="47" column="33" />
-        <mark key="]" line="47" column="33" />
-        <mark key="^" line="47" column="33" />
-        <mark key="." line="47" column="33" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" timestamp="1475675213424">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/DesktopHeader.js" timestamp="1475588417018">
         <mark key="'" line="34" column="0" />
@@ -376,12 +368,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1475673987703">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="23" />
-        <mark key="^" line="27" column="46" />
-        <mark key="." line="53" column="23" />
+      <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1475675331630">
+        <mark key="^" line="24" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/BillingPage.js" timestamp="1475178699139">
         <mark key="[" line="10" column="0" />
@@ -543,8 +531,14 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileFooter.js" timestamp="1475607931190">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/constants/mobileHeaderButtonState.js" timestamp="1475675083399">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="66" />
+        <mark key="." line="2" column="66" />
+        <mark key="^" line="2" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileFooter.js" timestamp="1475674969168">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="0" />
@@ -596,10 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.less" />
-      <jump line="97" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.less" />
-      <jump line="127" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.less" />
-      <jump line="137" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.less" />
       <jump line="132" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.less" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileFooter.less" />
       <jump line="113" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.less" />
@@ -696,46 +686,50 @@
       <jump line="54" column="0" filename="$USER_HOME$/workspace/sls-react/webpack.production.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/webpack.production.js" />
       <jump line="51" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.production.js" />
+      <jump line="104" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.js" />
+      <jump line="83" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeader.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileFooter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileFooter.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">Jm5hbWU9Li9hc3NldHMvW2hhc2hdLltleHRd</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJvdXRlIGZyb20gJ3JlYWN0LXJvdXRlci9saWIvUm91dGUnOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IE1PQklMRV9IRUFERVJfQlVUVE9OX0ZJTFRFUiA9ICdNT0JJTEVfSEVBREVSX0JVVFRPTl9GSUxURVInOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHRlc3QuCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0ZXN0Lgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBAY29tcHV0ZWQgZ2V0IHRlc3QoKSB7CiAgICByZXR1cm4gJ0hlbGxvJzsKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmljaG8gb24gMTAvNS8yMDE2LgogKi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBpZiAoIWxvZ2dlZEluKSB7CiAgICAgIGRvY3VtZW50LmJvZHkuc3R5bGUucGFkZGluZ0JvdHRvbSA9IDcwOwogICAgfQogICAgZWxzZSB7CiAgICAgIGRvY3VtZW50LmJvZHkuc3R5bGUucGFkZGluZ0JvdHRvbSA9IDA7CiAgICB9Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Ci0gQnV0dG9ucyBuZWVkIHRvIGJlIGFkZGVkCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>Mobile slide-out nav is on its way
 
 - Currently, it's just a black box that slides the page out, but it's a work in progress.
 - Split header into DesktopHeader and MobileHeader</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Lgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzb24kLywKICAgICAgICBsb2FkZXJzOiBbJ2pzb24nXSwKICAgICAgICBpbmNsdWRlOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnc3JjJykKICAgICAgfSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzb24kLywKICAgICAgICBsb2FkZXJzOiBbJ2pzb24nXSwKICAgICAgICBpbmNsdWRlOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnc3JjJykKICAgICAgfSwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzb24kLywKICAgICAgICBsb2FkZXJzOiBbJ2pzb24nXSwKICAgICAgICBpbmNsdWRlOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnc3JjJykKICAgICAgfSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogIHJldHVybiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -773,11 +767,11 @@
         <entry>y</entry>
         <entry>sw</entry>
         <entry>d</entry>
-        <entry>q</entry>
         <entry>wa</entry>
         <entry>A</entry>
         <entry>j</entry>
         <entry>action RenameElement</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
