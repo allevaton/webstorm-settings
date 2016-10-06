@@ -90,12 +90,6 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/StateComponents/MobileHeaderButton.js" timestamp="1475678926969">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/MobileHeader.less" timestamp="1475527378163">
         <mark key="'" line="30" column="2" />
         <mark key="[" line="27" column="0" />
@@ -134,12 +128,6 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/DesktopHeader.less" timestamp="1475588370673">
-        <mark key="'" line="54" column="4" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/MobileNav.js" timestamp="1475524663556">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="7" column="0" />
@@ -160,11 +148,12 @@
         <mark key="^" line="65" column="12" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.js" timestamp="1475696274787">
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.js" timestamp="1475762711356">
         <mark key="'" line="51" column="10" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="52" column="65" />
+        <mark key="]" line="52" column="85" />
+        <mark key="." line="52" column="85" />
+        <mark key="^" line="52" column="85" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/emberjs-test/ember-cli-build.js" timestamp="1454304537241">
         <mark key="[" line="30" column="58" />
@@ -196,12 +185,6 @@
         <mark key="]" line="2" column="40" />
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.less" timestamp="1475606546836">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Navbar.js" timestamp="1475505543919">
         <mark key="'" line="0" column="0" />
@@ -259,12 +242,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" timestamp="1475759602278">
+      <file name="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" timestamp="1475762389700">
         <mark key="'" line="9" column="18" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="25" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/DesktopHeader.js" timestamp="1475588417018">
         <mark key="'" line="34" column="0" />
@@ -491,6 +474,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/.babelrc" timestamp="1475762753896">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/PrivacyPage.js" timestamp="1475608572433">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="183" column="0" />
@@ -549,10 +538,10 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475697725193">
+      <file name="/Dummy.txt" timestamp="1475762765747">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="128" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/application.hbs" timestamp="1444265604972">
@@ -748,37 +737,37 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>polyf</text>
+        <text>assign</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIE9iamVjdC5hc3NpZ24odGhpcywgaW5pdGlhbFN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICJyZWFjdC1ob3QtbG9hZGVyL2JhYmVsIgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcG9seWZpbGwnKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJyZWFjdC1ob3QtbG9hZGVyL2JhYmVsIgo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL21hcmdpbi10b3A6IDIwcHg7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL21hcmdpbi10b3A6IDIwcHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8dWwgY2xhc3NOYW1lPSJtb2JpbGUtc2VhcmNoLS1zcG9ydHMiPgogICAgICAgICAge3JlYWN0aWZ5U3BvcnRzTGlzdChzdG9yZS5zcG9ydHNMaXN0LCAnbGknKX0KICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
