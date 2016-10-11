@@ -163,6 +163,7 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1476190335735" />
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.js" timestamp="1475762711356">
         <mark key="'" line="51" column="10" />
         <mark key="[" line="52" column="65" />
@@ -221,12 +222,11 @@
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/store/User.js" timestamp="1476115922394">
+      <file name="$USER_HOME$/workspace/sls-react/src/common/store/User.js" timestamp="1476190421140">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="29" />
-        <mark key="." line="35" column="29" />
-        <mark key="^" line="35" column="29" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/WebstormProjects/reactjs-test/src/actions/AppActions.js" timestamp="1454816354396">
         <mark key="[" line="8" column="12" />
@@ -556,6 +556,7 @@
         <mark key="^" line="67" column="23" />
         <mark key="." line="68" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/WebstormProjects/memoize-decorator/src/index.js" timestamp="1476190335735" />
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/index.js" timestamp="1475179281046">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
@@ -799,7 +800,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Allow</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -808,34 +809,34 @@
         <text>{store.user.data.login}</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoanNvbi5kYXRhKSB7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBOb3QgbG9nZ2VkIGluCiAgICAgICAgdGhpcy5sb2dnZWRJbiA9IGZhbHNlOwogICAgICAgIHJldHVybiBQcm9taXNlLnJlamVjdChyZXNwb25zZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfSkKICAgICAgLnRoZW4oanNvbiA9PiB7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgbW9kZTogJ2NvcnMnCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>, {
       // Allows cookies to send
       credentials: 'same-origin'
     })</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9Ii86dXNlcm5hbWUiIGNvbXBvbmVudD17VXNlcn0vPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IFVzZXIgPSAoKSA9PiAoCiAgPGgxPmVsbG8gd29ybGQ8L2gxPgopOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB3aWR0aDogMzBweDsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -846,7 +847,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -858,8 +859,6 @@
         <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>qa</entry>
-        <entry>x</entry>
         <entry>set novb</entry>
         <entry>set nobell</entry>
         <entry>set nob</entry>
