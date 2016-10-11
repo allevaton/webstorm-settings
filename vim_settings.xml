@@ -222,7 +222,7 @@
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/store/User.js" timestamp="1476190421140">
+      <file name="$USER_HOME$/workspace/sls-react/src/common/store/User.js" timestamp="1476191435322">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -669,12 +669,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/api/api.js" timestamp="1476116112980">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="14" column="51" />
-        <mark key="]" line="14" column="51" />
-        <mark key="." line="14" column="51" />
-        <mark key="^" line="14" column="51" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/api/api.js" timestamp="1476191701238">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/SearchWindow.js" timestamp="1475676957234">
         <mark key="'" line="13" column="15" />
@@ -697,7 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="10" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="26" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
@@ -797,6 +795,7 @@
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/User.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/User.js" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/api/api.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/api/api.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -809,34 +808,34 @@
         <text>{store.user.data.login}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoanNvbi5kYXRhKSB7Cg==</text>
+        <text encoding="base64">ICAgICdBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4nOiAnbG9jYWxob3N0OjgwMDAnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoanNvbi5kYXRhKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOb3QgbG9nZ2VkIGluCiAgICAgICAgdGhpcy5sb2dnZWRJbiA9IGZhbHNlOwogICAgICAgIHJldHVybiBQcm9taXNlLnJlamVjdChyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBOb3QgbG9nZ2VkIGluCiAgICAgICAgdGhpcy5sb2dnZWRJbiA9IGZhbHNlOwogICAgICAgIHJldHVybiBQcm9taXNlLnJlamVjdChyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSkKICAgICAgLnRoZW4oanNvbiA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfSkKICAgICAgLnRoZW4oanNvbiA9PiB7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgbW9kZTogJ2NvcnMnCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>, {
       // Allows cookies to send
       credentials: 'same-origin'
     })</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
