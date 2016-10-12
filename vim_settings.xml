@@ -413,6 +413,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/.configloaderrc" timestamp="1476304492806">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.less" timestamp="1476299032840">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="85" column="0" />
@@ -585,8 +591,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" timestamp="1476195223206">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" timestamp="1476304549367">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="14" />
+        <mark key="^" line="38" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/index.js" timestamp="1475179281046">
         <mark key="[" line="5" column="11" />
@@ -624,7 +634,7 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476299106299">
+      <file name="/Dummy.txt" timestamp="1476304322653">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -670,7 +680,7 @@
         <mark key="." line="52" column="14" />
         <mark key="^" line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/client/index.js" timestamp="1476296540858">
+      <file name="$USER_HOME$/workspace/sls-react/src/client/index.js" timestamp="1476304227855">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -739,10 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/client/index.js" />
-      <jump line="10" column="58" filename="$USER_HOME$/workspace/sls-react/src/client/index.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/src/client/index.js" />
-      <jump line="37" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="44" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
@@ -839,10 +845,14 @@
       <jump line="33" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="39" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
+      <jump line="93" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
+      <jump line="25" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
+      <jump line="42" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">U2xpZ2h0IA==</text>
+        <text>&quot;https://sidelineswap.com/assets/missing_profile-daf8167808ce24962881d046e1408059218216ac7313728a03966747c2bdbeca.jpg&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -914,9 +924,9 @@
         <entry>wq</entry>
         <entry>action RenameElement</entry>
         <entry>q</entry>
-        <entry>j</entry>
         <entry>;w</entry>
         <entry>action Back</entry>
+        <entry>j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
