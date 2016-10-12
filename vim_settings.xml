@@ -189,10 +189,11 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/config/default.js" timestamp="1476205253673">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/config/default.js" timestamp="1476304699391">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/bootstrap.json" timestamp="1474650565459">
         <mark key="[" line="9" column="0" />
@@ -413,11 +414,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/.configloaderrc" timestamp="1476304492806">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/.configloaderrc" timestamp="1476304722969">
+        <mark key="'" line="6" column="21" />
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.less" timestamp="1476299032840">
         <mark key="'" line="70" column="0" />
@@ -591,13 +593,6 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" timestamp="1476304549367">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="14" />
-        <mark key="^" line="38" column="46" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/index.js" timestamp="1475179281046">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
@@ -634,16 +629,17 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476304322653">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1476304560846">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="128" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476205237391">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476304708403">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/classy/app/templates/application.hbs" timestamp="1444265604972">
         <mark key="[" line="1" column="21" />
@@ -749,9 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
-      <jump line="44" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/store/Store.js" />
@@ -849,10 +842,13 @@
       <jump line="93" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
       <jump line="25" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
       <jump line="42" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
+      <jump line="2" column="30" filename="$USER_HOME$/workspace/sls-react/.configloaderrc" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/.configloaderrc" />
+      <jump line="6" column="21" filename="$USER_HOME$/workspace/sls-react/.configloaderrc" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;https://sidelineswap.com/assets/missing_profile-daf8167808ce24962881d046e1408059218216ac7313728a03966747c2bdbeca.jpg&quot;</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
