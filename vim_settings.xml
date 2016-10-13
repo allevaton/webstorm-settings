@@ -211,10 +211,10 @@
         <mark key="." line="27" column="9" />
         <mark key="^" line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/config/production.js" timestamp="1476377111360">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="3" column="1" />
-        <mark key="." line="3" column="1" />
+      <file name="$USER_HOME$/workspace/sls-react/config/production.js" timestamp="1476379137558">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="4" column="15" />
         <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/Navbar.js" timestamp="1475694804371">
@@ -831,7 +831,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>process.env.NODE_ENV === 'development' ? 'staging' : 'staging',</text>
+        <text>none</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
