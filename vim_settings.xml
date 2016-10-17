@@ -227,8 +227,8 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" timestamp="1476733609663">
-        <mark key="'" line="54" column="10" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" timestamp="1476734691641">
+        <mark key="'" line="79" column="8" />
         <mark key="[" line="49" column="20" />
         <mark key="]" line="49" column="28" />
         <mark key="." line="49" column="28" />
@@ -291,7 +291,7 @@
         <mark key="^" line="28" column="22" />
         <mark key="." line="28" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476732900032">
+      <file name="/Dummy.txt" timestamp="1476734744129">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -403,8 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.less" />
-      <jump line="244" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.less" />
       <jump line="253" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.less" />
       <jump line="142" column="2" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.less" />
       <jump line="107" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.less" />
@@ -503,10 +501,12 @@
       <jump line="55" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
       <jump line="37" column="4" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
       <jump line="54" column="10" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
+      <jump line="89" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
+      <jump line="79" column="8" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileNav.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>`${store.user.data.avatar_url}`</text>
+        <text encoding="base64">TmF2YmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
