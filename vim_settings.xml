@@ -159,11 +159,11 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1476809595459">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1476810653652">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/styles/mobile-list.less" timestamp="1476809525593">
         <mark key="'" line="11" column="6" />
@@ -306,10 +306,10 @@
         <mark key="^" line="28" column="22" />
         <mark key="." line="28" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476807590815">
+      <file name="/Dummy.txt" timestamp="1476810671645">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/client/segment.js" timestamp="1476388170373">
         <mark key="'" line="11" column="8" />
@@ -417,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.less" />
       <jump line="67" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.less" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/ItemRect.less" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/ItemRect.less" />
@@ -517,10 +516,11 @@
       <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/styles/mobile-list.less" />
       <jump line="11" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/styles/mobile-list.less" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">RXh0cmFjdGVkIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -529,7 +529,7 @@
         <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9zdHlsZXMvbW9iaWxlLWxpc3QubGVzcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICcuLi9IZWFkZXIvTW9iaWxlL1dpbmRvd3MvU2VhcmNoLmxlc3MnOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -538,22 +538,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lm1vYmlsZS0tbGlzdCB7CiAgYmFja2dyb3VuZDogI2ZmZjsKICBwYWRkaW5nOiAwOwogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBtYXJnaW46IDA7CiAgaGVpZ2h0OiB+ImNhbGMoMTAwJSAtIDEzMHB4KSI7CiAgb3ZlcmZsb3c6IGF1dG87CgogIGxpIHsKICAgIGEgewogICAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgI2VjZWNlYzsKICAgICAgcGFkZGluZzogMCAzMHB4IDAgMjBweDsKICAgICAgZm9udC13ZWlnaHQ6IDQwMDsKICAgICAgY29sb3I6ICM0YTRhNGE7CiAgICAgIGxpbmUtaGVpZ2h0OiA1MnB4OwogICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgZm9udC1zaXplOiAxcmVtOwoKICAgICAgLy8gQXJyb3cKICAgICAgJjo6YWZ0ZXIgewogICAgICAgIGJvcmRlcjogMnB4IHNvbGlkIHJnYmEoMCwgMCwgMCwgMC4yKTsKICAgICAgICBib3JkZXItbGVmdDogbm9uZTsKICAgICAgICBib3JkZXItYm90dG9tOiBub25lOwogICAgICAgIHdpZHRoOiA2cHg7CiAgICAgICAgaGVpZ2h0OiA2cHg7CiAgICAgICAgcmlnaHQ6IDIwcHg7CiAgICAgICAgdG9wOiA1MCU7CiAgICAgICAgbWFyZ2luLXRvcDogLTNweDsgLy8gaGFsZiBvZiB0aGUgd2lkdGggYW5kIGhlaWdodCAoZHVlIHRvIDQ1ZGVnIGFuZ2xlKQogICAgICAgIGNvbnRlbnQ6ICIgIjsKICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CgogICAgICAgIC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoNDVkZWcpOwogICAgICAgIC1tb3otdHJhbnNmb3JtOiByb3RhdGUoNDVkZWcpOwogICAgICAgIC1tcy10cmFuc2Zvcm06IHJvdGF0ZSg0NWRlZyk7CiAgICAgICAgLW8tdHJhbnNmb3JtOiByb3RhdGUoNDVkZWcpOwogICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDQ1ZGVnKTsKCiAgICAgICAgLnRyYW5zaXRpb24odHJhbnNmb3JtIDAuMnMpCiAgICAgIH0KICAgIH0KCiAgICBhLmV4cGFuZGVyIHsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQoKICAgICYuZXhwYW5kZWQgewogICAgICAmID4gYTpmaXJzdC1jaGlsZDphZnRlciB7CiAgICAgICAgLXdlYmtpdC10cmFuc2Zvcm06IHJvdGF0ZSgxMzVkZWcpOwogICAgICAgIC1tb3otdHJhbnNmb3JtOiByb3RhdGUoMTM1ZGVnKTsKICAgICAgICAtbXMtdHJhbnNmb3JtOiByb3RhdGUoMTM1ZGVnKTsKICAgICAgICAtby10cmFuc2Zvcm06IHJvdGF0ZSgxMzVkZWcpOwogICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDEzNWRlZyk7CiAgICAgIH0KCiAgICAgIC8vIEV4cGFuZGVkIFN1Ymxpc3QKICAgICAgdWwgewogICAgICAgIG1heC1oZWlnaHQ6IDQwMHB4OwoKICAgICAgICBsaSBhIHsKICAgICAgICB9CiAgICAgIH0KICAgIH0KCiAgICAvLyBTdWJsaXN0cwogICAgdWwgewogICAgICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7CiAgICAgIG1heC1oZWlnaHQ6IDA7CiAgICAgIHRyYW5zaXRpb246IG1heC1oZWlnaHQgMC4zczsKICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgcGFkZGluZzogMDsKCiAgICAgIGxpIHsKICAgICAgICBhIHsKICAgICAgICAgIHBhZGRpbmctbGVmdDogNDBweDsKICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lm1vYmlsZS0tbGlzdCB7CiAgYmFja2dyb3VuZDogI2ZmZjsKICBwYWRkaW5nOiAwOwogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBtYXJnaW46IDA7CiAgaGVpZ2h0OiB+ImNhbGMoMTAwJSAtIDEzMHB4KSI7CiAgb3ZlcmZsb3c6IGF1dG87CgogIGxpIHsKICAgIGEgewogICAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgI2VjZWNlYzsKICAgICAgcGFkZGluZzogMCAzMHB4IDAgMjBweDsKICAgICAgZm9udC13ZWlnaHQ6IDQwMDsKICAgICAgY29sb3I6ICM0YTRhNGE7CiAgICAgIGxpbmUtaGVpZ2h0OiA1MnB4OwogICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgZm9udC1zaXplOiAxcmVtOwoKICAgICAgLy8gQXJyb3cKICAgICAgJjo6YWZ0ZXIgewogICAgICAgIGJvcmRlcjogMnB4IHNvbGlkIHJnYmEoMCwgMCwgMCwgMC4yKTsKICAgICAgICBib3JkZXItbGVmdDogbm9uZTsKICAgICAgICBib3JkZXItYm90dG9tOiBub25lOwogICAgICAgIHdpZHRoOiA2cHg7CiAgICAgICAgaGVpZ2h0OiA2cHg7CiAgICAgICAgcmlnaHQ6IDIwcHg7CiAgICAgICAgdG9wOiA1MCU7CiAgICAgICAgbWFyZ2luLXRvcDogLTNweDsgLy8gaGFsZiBvZiB0aGUgd2lkdGggYW5kIGhlaWdodCAoZHVlIHRvIDQ1ZGVnIGFuZ2xlKQogICAgICAgIGNvbnRlbnQ6ICIgIjsKICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CgogICAgICAgIC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoNDVkZWcpOwogICAgICAgIC1tb3otdHJhbnNmb3JtOiByb3RhdGUoNDVkZWcpOwogICAgICAgIC1tcy10cmFuc2Zvcm06IHJvdGF0ZSg0NWRlZyk7CiAgICAgICAgLW8tdHJhbnNmb3JtOiByb3RhdGUoNDVkZWcpOwogICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDQ1ZGVnKTsKCiAgICAgICAgLnRyYW5zaXRpb24odHJhbnNmb3JtIDAuMnMpCiAgICAgIH0KICAgIH0KCiAgICBhLmV4cGFuZGVyIHsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQoKICAgICYuZXhwYW5kZWQgewogICAgICAmID4gYTpmaXJzdC1jaGlsZDphZnRlciB7CiAgICAgICAgLXdlYmtpdC10cmFuc2Zvcm06IHJvdGF0ZSgxMzVkZWcpOwogICAgICAgIC1tb3otdHJhbnNmb3JtOiByb3RhdGUoMTM1ZGVnKTsKICAgICAgICAtbXMtdHJhbnNmb3JtOiByb3RhdGUoMTM1ZGVnKTsKICAgICAgICAtby10cmFuc2Zvcm06IHJvdGF0ZSgxMzVkZWcpOwogICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDEzNWRlZyk7CiAgICAgIH0KCiAgICAgIC8vIEV4cGFuZGVkIFN1Ymxpc3QKICAgICAgdWwgewogICAgICAgIG1heC1oZWlnaHQ6IDQwMHB4OwoKICAgICAgICBsaSBhIHsKICAgICAgICB9CiAgICAgIH0KICAgIH0KCiAgICAvLyBTdWJsaXN0cwogICAgdWwgewogICAgICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7CiAgICAgIG1heC1oZWlnaHQ6IDA7CiAgICAgIHRyYW5zaXRpb246IG1heC1oZWlnaHQgMC4zczsKICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgcGFkZGluZzogMDsKCiAgICAgIGxpIHsKICAgICAgICBhIHsKICAgICAgICAgIHBhZGRpbmctbGVmdDogNDBweDsKICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cn0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuY29udGVudCB7CiAgICBwYWRkaW5nLXRvcDogMjcwcHg7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkBtZWRpYSAobWluLXdpZHRoOiA3NjdweCkgewogIC5jb250ZW50IHsKICAgIHBhZGRpbmctdG9wOiAzNTBweDsKICB9Cn0KCkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkgewogIC5jb250ZW50IHsKICAgIHBhZGRpbmctdG9wOiAyNzBweDsKICB9Cn0K</text>
+        <text encoding="base64">ICAuY29udGVudCB7CiAgICBwYWRkaW5nLXRvcDogMjcwcHg7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CkBtZWRpYSAobWluLXdpZHRoOiA3NjdweCkgewogIC5jb250ZW50IHsKICAgIHBhZGRpbmctdG9wOiAzNTBweDsKICB9Cn0KCkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkgewogIC5jb250ZW50IHsKICAgIHBhZGRpbmctdG9wOiAyNzBweDsKICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
