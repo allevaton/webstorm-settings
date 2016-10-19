@@ -374,11 +374,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/DesktopHeader.js" timestamp="1476903718326">
-        <mark key="'" line="72" column="28" />
-        <mark key="[" line="95" column="17" />
-        <mark key="]" line="95" column="22" />
-        <mark key="." line="95" column="22" />
+      <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/DesktopHeader.js" timestamp="1476904425232">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
         <mark key="^" line="95" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.less" timestamp="1476900211446">
@@ -440,7 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="19" filename="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/Investor.less" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/Investor.less" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/CompanyPage.js" />
       <jump line="59" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/CompanyPage.js" />
@@ -540,6 +539,7 @@
       <jump line="96" column="6" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/DesktopHeader.js" />
       <jump line="94" column="22" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/DesktopHeader.js" />
       <jump line="72" column="28" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/DesktopHeader.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/DesktopHeader.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -555,28 +555,28 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXInKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXInKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21wYW55IHBhZ2UnLCBjb21wYW55UGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21wYW55IHBhZ2UnLCBjb21wYW55UGFnZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTU9CSUxFX0hFQURFUl9CVVRUT05fTk9ORSB9IGZyb20gIi4uLy4uL2NvbnN0YW50cy9tb2JpbGVIZWFkZXJCdXR0b25TdGF0ZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkgewo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTU9CSUxFX0hFQURFUl9CVVRUT05fTk9ORSB9IGZyb20gIi4uLy4uL2NvbnN0YW50cy9tb2JpbGVIZWFkZXJCdXR0b25TdGF0ZSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
