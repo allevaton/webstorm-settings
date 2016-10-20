@@ -69,12 +69,12 @@
         <mark key="^" line="66" column="103" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1476978031985">
+      <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1476979239144">
         <mark key="'" line="27" column="4" />
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="35" column="5" />
-        <mark key="^" line="36" column="49" />
-        <mark key="." line="35" column="5" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="50" />
+        <mark key="^" line="72" column="40" />
+        <mark key="." line="72" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/CompanyPage.less" timestamp="1476902751622">
         <mark key="'" line="53" column="8" />
@@ -290,10 +290,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/server/index.js" timestamp="1476977666126">
+      <file name="$USER_HOME$/workspace/sls-react/src/server/index.js" timestamp="1476979180130">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="4" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="0" column="37" />
       </file>
@@ -554,13 +554,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>hash</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">d2VicGFjayh3ZWJwYWNrQ29uZmlnKSwgewogICAgY29udGVudEJhc2U6ICdwdWJsaWMvJywKICAgIHB1YmxpY1BhdGg6IHdlYnBhY2tDb25maWcub3V0cHV0LnB1YmxpY1BhdGgsCiAgICBob3Q6IHRydWUsCiAgICBoaXN0b3J5QXBpRmFsbGJhY2s6IHRydWUsCiAgICBoZWFkZXJzOiB7CiAgICAgICdBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4nOiAnaHR0cDovLyR7aG9zdH06JHtwb3J0fScsCiAgICAgICdBY2Nlc3MtQ29udHJvbC1BbGxvdy1DcmVkZW50aWFscyc6ICd0cnVlJwogICAgfQogIH0pLmxpc3Rlbihwb3J0LCBob3N0LCAoZXJyKSA9PiB7CiAgICBpZiAoZXJyKSB7CiAgICAgIHRocm93IG5ldyBndXRpbC5QbHVnaW5FcnJvcignZnJvbnRlbmQtZGV2JywgZXJyKTsKICAgIH0KCiAgICBjb25zb2xlLmxvZyhgPj4gTGlzdGVuaW5nIGF0IGh0dHA6Ly8ke2hvc3R9OiR7cG9ydH0vYCk7CiAgfSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2FkZXJzOiBbJ2ZpbGU/bmFtZT1hc3NldHMvW25hbWVdLltleHRdJ10K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4dGVuc2lvbnM6IFsnJywgJy5qcycsICcuanN4JywgJy5sZXNzJywgJy5wbmcnXQo=</text>
