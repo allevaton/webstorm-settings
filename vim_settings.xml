@@ -37,12 +37,11 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/Home.js" timestamp="1477335455684">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="102" column="61" />
-        <mark key="]" line="103" column="11" />
-        <mark key="." line="103" column="11" />
-        <mark key="^" line="103" column="11" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/Home.js" timestamp="1477339151882">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeaderContainer.js" timestamp="1476909049828">
         <mark key="'" line="119" column="0" />
@@ -772,11 +771,11 @@
       <jump line="126" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/Home.js" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="52" column="22" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="102" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/Home.js" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/Home.js" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/mixins/flexbox.less" />
       <jump line="4" column="67" filename="$USER_HOME$/workspace/sls-react/public/index.html" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/public/index.html" />
+      <jump line="102" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/Home.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -789,31 +788,31 @@
         <text encoding="base64">ICAgICJ0cmFuc2Zvcm0tZGVjb3JhdG9ycy1sZWdhY3kiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBkZWZhdWx0VmFsdWU9ImhlbGxvIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBmbG9hdGluZ0xhYmVsVGV4dD0iRW50ZXIgc29tZXRoaW5nISIvPgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgTXVpVGhlbWVQcm92aWRlciBmcm9tICdtYXRlcmlhbC11aS9zdHlsZXMvTXVpVGhlbWVQcm92aWRlcic7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBkZWZhdWx0VmFsdWU9ImhlbGxvIi8+Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbXBvcnQgTXVpVGhlbWVQcm92aWRlciBmcm9tICdtYXRlcmlhbC11aS9zdHlsZXMvTXVpVGhlbWVQcm92aWRlcic7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBkZWZhdWx0VmFsdWU9ImhlbGxvIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE11aVRoZW1lUHJvdmlkZXIgZnJvbSAnbWF0ZXJpYWwtdWkvc3R5bGVzL011aVRoZW1lUHJvdmlkZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE11aVRoZW1lUHJvdmlkZXIgZnJvbSAnbWF0ZXJpYWwtdWkvc3R5bGVzL011aVRoZW1lUHJvdmlkZXInOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC8uKlwuY29uZmlnbG9hZGVycmMkLywKICAgICAgICBsb2FkZXI6ICdub2RlLWNvbmZpZy1sb2FkZXIvd2VicGFjaycKICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLnN2ZyQvLAogICAgICAgIGxvYWRlcjogJ3N2Zy1pbmxpbmUnCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC8uKlwuY29uZmlnbG9hZGVycmMkLywKICAgICAgICBsb2FkZXI6ICdub2RlLWNvbmZpZy1sb2FkZXIvd2VicGFjaycKICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLnN2ZyQvLAogICAgICAgIGxvYWRlcjogJ3N2Zy1pbmxpbmUnCiAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
