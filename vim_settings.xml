@@ -337,12 +337,12 @@
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" timestamp="1477597137054">
-        <mark key="'" line="25" column="13" />
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="29" column="23" />
-        <mark key="^" line="29" column="23" />
-        <mark key="." line="29" column="23" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" timestamp="1477598777768">
+        <mark key="'" line="20" column="26" />
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/segment.js" timestamp="1477513294564">
         <mark key="'" line="0" column="0" />
@@ -739,9 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="89" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
       <jump line="142" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
@@ -839,10 +836,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="23" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="25" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="204" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="20" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text>none</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -851,32 +851,31 @@
         <text>#53a877</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4uLnRoaXMucmVnaXN0ZXJCdXR0b24sCg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyM1M2E4NzcnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNTYsCg==</text>
+        <text encoding="base64">ICAgIC4uLnRoaXMubG9naW5CdXR0b24sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNTYsCiAgICB3aWR0aDogMjU2Cg==</text>
+        <text encoding="base64">ICAgIC4uLnRoaXMucmVnaXN0ZXJCdXR0b24sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogJzMycHggYXV0bycsCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNTYsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogJ25vbmUnLAogICAgYm9yZGVyUmFkaXVzOiA0LAo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNTYsCiAgICB3aWR0aDogMjU2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogJ25vbmUnLAogICAgYm9yZGVyUmFkaXVzOiA0LAogICAgY29sb3I6ICd3aGl0ZScsCiAgICBoZWlnaHQ6IDU2LAogICAgbWFyZ2luOiAnMzJweCBhdXRvJywKICAgIHdpZHRoOiAyNTYK</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogJzMycHggYXV0bycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogJ25vbmUnLAogICAgYm9yZGVyUmFkaXVzOiA0LAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-              }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGJvcmRlcjogJ25vbmUnLAogICAgYm9yZGVyUmFkaXVzOiA0LAogICAgY29sb3I6ICd3aGl0ZScsCiAgICBoZWlnaHQ6IDU2LAogICAgbWFyZ2luOiAnMzJweCBhdXRvJywKICAgIHdpZHRoOiAyNTYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
