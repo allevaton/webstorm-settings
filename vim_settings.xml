@@ -295,7 +295,8 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1477591613663">
+      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1477591798983">
+        <mark key="'" line="8" column="0" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -712,8 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Terms/TermsPage.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Terms/TermsPage.js" />
       <jump line="45" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.development.js" />
       <jump line="51" column="6" filename="$USER_HOME$/workspace/sls-react/webpack.development.js" />
       <jump line="68" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.development.js" />
@@ -812,6 +811,8 @@
       <jump line="58" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
