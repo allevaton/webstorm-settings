@@ -147,11 +147,11 @@
         <mark key="." line="53" column="33" />
         <mark key="^" line="53" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" timestamp="1477668419666">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="71" />
-        <mark key="." line="40" column="25" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" timestamp="1477669139922">
+        <mark key="'" line="32" column="57" />
+        <mark key="[" line="32" column="57" />
+        <mark key="]" line="32" column="58" />
+        <mark key="." line="32" column="58" />
         <mark key="^" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1477497236116">
@@ -551,7 +551,7 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" timestamp="1477668315873">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" timestamp="1477669273234">
         <mark key="'" line="33" column="10" />
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="63" />
@@ -654,10 +654,10 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477666797431">
+      <file name="/Dummy.txt" timestamp="1477669281048">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -751,9 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="110" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="96" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="102" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="157" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="127" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
@@ -819,7 +816,6 @@
       <jump line="13" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
-      <jump line="32" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
       <jump line="8" column="17" filename="$USER_HOME$/workspace/sls-react/webpack.development.js" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/sls-react/webpack.development.js" />
       <jump line="63" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.development.js" />
@@ -850,17 +846,21 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
       <jump line="33" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
       <jump line="47" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
+      <jump line="40" column="87" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
+      <jump line="37" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
+      <jump line="32" column="57" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/safety</text>
+        <text encoding="base64">Q29uZmlnIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGxpPjxMaW5rIHRvPSIvdGVybXMiPlRlcm1zPC9MaW5rPjwvbGk+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2PjxMaW5rIHRvPSIvdGVybXMiPlRlcm1zPC9MaW5rPjwvZGl2Pgo=</text>
