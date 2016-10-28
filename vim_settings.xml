@@ -135,7 +135,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1477664853992" />
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.js" timestamp="1476909374668">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="57" column="0" />
@@ -321,8 +320,8 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1477673287176">
-        <mark key="'" line="97" column="6" />
+      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1477673879223">
+        <mark key="'" line="97" column="0" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
@@ -362,6 +361,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/webpack.server.js" timestamp="1477674458362" />
       <file name="$USER_HOME$/workspace/sls-react/src/components/Sidebar/Sidebar.js" timestamp="1477076701141">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="11" column="29" />
@@ -523,13 +523,6 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
         <mark key="^" line="97" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/client.js" timestamp="1477673321838">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/ReviewRect.js" timestamp="1477066476702">
         <mark key="'" line="13" column="0" />
@@ -757,7 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="196" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="183" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="158" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
@@ -857,6 +849,7 @@
       <jump line="50" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="36" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
