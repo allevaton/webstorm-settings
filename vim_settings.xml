@@ -506,11 +506,12 @@
         <mark key="." line="23" column="61" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/package.json" timestamp="1477927903264">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/package.json" timestamp="1477939902039">
+        <mark key="'" line="15" column="42" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="18" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" timestamp="1477932788170">
         <mark key="'" line="0" column="0" />
@@ -752,7 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="4" filename="$USER_HOME$/workspace/sls-react/package.json" />
       <jump line="63" column="4" filename="$USER_HOME$/workspace/sls-react/package.json" />
       <jump line="83" column="4" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
       <jump line="43" column="4" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
@@ -852,6 +852,7 @@
       <jump line="44" column="2" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="14" column="16" filename="$USER_HOME$/workspace/sls-react/gulpfile.js" />
       <jump line="23" column="60" filename="$USER_HOME$/workspace/sls-react/gulpfile.js" />
+      <jump line="15" column="42" filename="$USER_HOME$/workspace/sls-react/package.json" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -860,8 +861,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBhcHAudXNlKHJhdmVuLm1pZGRsZXdhcmUuZXhwcmVzcy5yZXF1ZXN0SGFuZGxlcihlbnZWYXJzLlJBVkVOX0RTTikpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZW52IE5PREVfRU5WPXByb2R1Y3Rpb24g</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuICcnOwo=</text>
