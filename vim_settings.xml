@@ -378,12 +378,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" timestamp="1478018380471">
-        <mark key="'" line="294" column="0" />
-        <mark key="[" line="135" column="108" />
-        <mark key="]" line="135" column="108" />
-        <mark key="." line="135" column="108" />
-        <mark key="^" line="135" column="112" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" timestamp="1478020564428">
+        <mark key="'" line="110" column="6" />
+        <mark key="[" line="97" column="15" />
+        <mark key="]" line="97" column="87" />
+        <mark key="." line="97" column="15" />
+        <mark key="^" line="118" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Sidebar/Sidebar.js" timestamp="1477076701141">
         <mark key="'" line="15" column="0" />
@@ -788,12 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
-      <jump line="60" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
-      <jump line="61" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
-      <jump line="78" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
-      <jump line="95" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="107" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="112" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="197" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
@@ -807,7 +801,6 @@
       <jump line="85" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="68" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
-      <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
@@ -873,7 +866,6 @@
       <jump line="135" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="134" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="146" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
-      <jump line="153" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="137" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="120" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="86" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
@@ -888,16 +880,24 @@
       <jump line="311" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="284" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
       <jump line="294" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
+      <jump line="76" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
+      <jump line="204" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
+      <jump line="272" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
+      <jump line="51" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
+      <jump line="104" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
+      <jump line="97" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
+      <jump line="110" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, wtf</text>
+        <text encoding="base64">L2dlYXI/c3BvcnQ9aG9ja2V5JmNhdGVnb3J5PWhvY2tleSUyRnNrYXRlcw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>NAVBAR_STATE_DETATCHED</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgIGltZzogcmVxdWlyZSgnLi4vLi4vaW1hZ2VzL2xhbmRpbmcvbGFjcm9zc2UvbGFjcm9zc2UtY2FzY2FkZS1oZWxtZW50c0AyeC5qcGcnKSwKICAgICAgICBsaW5rOiAnL2dlYXI/c3BvcnQ9c2tpaW5nJmNhdGVnb3J5PXNraXMnLAogICAgICAgIHRpdGxlOiAnQ2FzY2FkZSBIZWxtZXRzJwogICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIEZhbGxiYWNrIHRvIGhvbWVwYWdlIGlmLCBmb3Igc29tZSByZWFzb24sIHNvbWV0aGluZyB3ZWlyZCBoYXBwZW5lZAo=</text>
