@@ -32,13 +32,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/ItemRect.less" timestamp="1478182946709">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="24" column="16" />
-      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/ItemRect.less" timestamp="1478183267292" />
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/Investor.less" timestamp="1476902494240">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="30" column="20" />
@@ -397,8 +391,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" timestamp="1478118592860">
-        <mark key="'" line="397" column="14" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" timestamp="1478183174308">
+        <mark key="'" line="332" column="0" />
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="0" />
+        <mark key="." line="332" column="0" />
+        <mark key="^" line="332" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Sidebar/Sidebar.js" timestamp="1477076701141">
         <mark key="'" line="15" column="0" />
@@ -787,7 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
       <jump line="81" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
       <jump line="118" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
@@ -887,10 +884,11 @@
       <jump line="80" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/ItemRect.less" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/ItemRect.less" />
       <jump line="76" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/ItemRect.less" />
+      <jump line="332" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>safari</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
