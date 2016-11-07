@@ -485,11 +485,12 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.less" timestamp="1477677009812">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="18" column="5" />
-        <mark key="^" line="18" column="5" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.less" timestamp="1478552520580">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/styles/main.less" timestamp="1477577595260">
         <mark key="'" line="29" column="0" />
@@ -596,9 +597,6 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" timestamp="1478534567730">
-        <mark key="]" line="8" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/TeamMember.js" timestamp="1476894909013">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="0" column="0" />
@@ -702,8 +700,8 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478552063533">
-        <mark key="[" line="0" column="23" />
+      <file name="/Dummy.txt" timestamp="1478552602264">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="26" />
@@ -796,7 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeader.js" />
       <jump line="193" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
       <jump line="165" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
       <jump line="182" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
@@ -896,10 +893,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="122" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
       <jump line="121" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
+      <jump line="4" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.less" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>tspan</text>
+        <text>40px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
