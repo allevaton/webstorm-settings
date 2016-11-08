@@ -156,12 +156,6 @@
         <mark key="." line="32" column="58" />
         <mark key="^" line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" timestamp="1478277372320">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="19" column="9" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/LandingPage.less" timestamp="1478615071635">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="97" column="0" />
@@ -182,10 +176,10 @@
         <mark key="." line="131" column="60" />
         <mark key="^" line="101" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/hoc/makeModal.js" timestamp="1478295979615">
+      <file name="$USER_HOME$/workspace/sls-react/src/hoc/makeModal.js" timestamp="1478621922071">
         <mark key="'" line="39" column="12" />
-        <mark key="[" line="39" column="40" />
-        <mark key="]" line="39" column="39" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="42" column="62" />
         <mark key="." line="39" column="39" />
         <mark key="^" line="39" column="39" />
       </file>
@@ -196,12 +190,12 @@
         <mark key="." line="60" column="21" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1477500510696">
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1478622061854">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="14" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/App/Root.js" timestamp="1476989975658">
         <mark key="'" line="9" column="0" />
@@ -388,13 +382,6 @@
         <mark key="]" line="113" column="85" />
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" timestamp="1478527875885">
-        <mark key="'" line="256" column="18" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="256" column="29" />
-        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/segment.js" timestamp="1477513294564">
         <mark key="'" line="0" column="0" />
@@ -790,30 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
-      <jump line="39" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
-      <jump line="93" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
-      <jump line="118" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
-      <jump line="122" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
-      <jump line="55" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeader.js" />
-      <jump line="54" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="85" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="50" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="51" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="48" column="37" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="33" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="39" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/package.json" />
-      <jump line="33" column="2" filename="$USER_HOME$/workspace/sls-react/package.json" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="4" column="33" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/webpack.server.js" />
       <jump line="11" column="12" filename="$USER_HOME$/workspace/sls-react/webpack.development.js" />
@@ -890,43 +853,67 @@
       <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
       <jump line="21" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
+      <jump line="170" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="157" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="250" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="292" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="213" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="196" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="179" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="145" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="165" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="162" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="135" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="127" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="144" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="151" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="15" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
+      <jump line="14" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
+      <jump line="26" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
+      <jump line="27" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
+      <jump line="25" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
+      <jump line="149" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="150" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ZmV3IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Lm5hdmJhci0tYnJhbmQgewogIG1hcmdpbi10b3A6IDhweDsKICB3aWR0aDogMzAlOwoKICBpbWcgewogICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgIHdpZHRoOiBpbmhlcml0OwogIH0KfQoKLm5hdmJhci0tc2VhcmNoIHsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCi5uYXZiYXItLXNlYXJjaC1pbnB1dCB7CiAgd2lkdGg6IDYwJTsKICBib3JkZXI6IDFweCBzb2xpZCAjZDhkOGQ4OwogIHBhZGRpbmc6IDEzcHggMjBweDsKICBib3JkZXItcmFkaXVzOiA0cHggMCAwIDRweDsKICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwp9CgoubmF2YmFyLS1zZWFyY2gtYnV0dG9uIHsKICBoZWlnaHQ6IDUwcHg7CiAgd2lkdGg6IDIwJTsKICBtYXgtd2lkdGg6IDkycHg7CiAgYm9yZGVyOiAxcHggc29saWQgI2Q4ZDhkODsKICBib3JkZXItbGVmdDogbm9uZTsKICBiYWNrZ3JvdW5kOiBAc2xzLWdyZWVuIHVybCguLi8uLi8uLi9pbWFnZXMvc2VhcmNoLnBuZykgbm8tcmVwZWF0IDUwJSA1MCU7CiAgYm9yZGVyLXJhZGl1czogMCA0cHggNHB4IDA7CiAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICB0cmFuc2l0aW9uOiBiYWNrZ3JvdW5kLWNvbG9yIDAuM3M7CiAgZm9udC1zaXplOiAwOwoKICAmOmhvdmVyIHsKICAgIGJhY2tncm91bmQtY29sb3I6ICMzZDllNjk7CiAgfQp9CgoubmF2YmFyLS1idXR0b25zIHsKICB0ZXh0LWFsaWduOiByaWdodDsKICB3aWR0aDogMzAlOwogIHdoaXRlLXNwYWNlOiBub3dyYXA7CgogIC5qb2luIHsKICAgIGJvcmRlcjogMnB4IHNvbGlkIEBzbHMtZ3JlZW47CiAgfQoKICBhIHsKICAgIG1hcmdpbi1sZWZ0OiA4cHg7CiAgICBjb2xvcjogQHNscy1ncmVlbjsKICAgIHBhZGRpbmc6IDhweCAxMHB4OwogICAgYm9yZGVyLXJhZGl1czogNHB4OwogICAgdHJhbnNpdGlvbjogYWxsIDAuMTJzOwogICAgZm9udC13ZWlnaHQ6IDYwMDsKICB9CgogIGE6aG92ZXIgewogICAgY29sb3I6IHdoaXRlOwogICAgYmFja2dyb3VuZC1jb2xvcjogQHNscy1ncmVlbjsKICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgIHN0b3JlLnByb3BzLm1vZGFscy5sb2dpbiA9IHsKICAgICAgICAgIG9wZW46IHRydWUsCiAgICAgICAgICBkZWZhdWx0VGFiOiAxCiAgICAgICAgfQogICAgICB9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDhweDsK</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50T3B0aW9ucz17e2luaXRpYWxUYWJJbmRleDogMX19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDsK</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAuam9pbiB7CiAgICAgIGJvcmRlcjogMnB4IHNvbGlkIEBzbHMtZ3JlZW47CiAgICB9CgogICAgYSB7CiAgICAgIG1hcmdpbi1sZWZ0OiA4cHg7CiAgICAgIGNvbG9yOiBAc2xzLWdyZWVuOwogICAgICBwYWRkaW5nOiA4cHggMTBweDsKICAgICAgYm9yZGVyLXJhZGl1czogNHB4OwogICAgICB0cmFuc2l0aW9uOiBhbGwgMC4xMnM7CiAgICAgIGZvbnQtd2VpZ2h0OiA2MDA7CiAgICB9CgogICAgYTpob3ZlciB7CiAgICAgIGNvbG9yOiB3aGl0ZTsKICAgICAgYmFja2dyb3VuZC1jb2xvcjogQHNscy1ncmVlbjsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDhweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaXRlLXNwYWNlOiBub3dyYXA7Cg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
+        <text encoding="base64">CiAgICAuam9pbiB7CiAgICAgIGJvcmRlcjogMnB4IHNvbGlkIEBzbHMtZ3JlZW47CiAgICB9CgogICAgYSB7CiAgICAgIG1hcmdpbi1sZWZ0OiA4cHg7CiAgICAgIGNvbG9yOiBAc2xzLWdyZWVuOwogICAgICBwYWRkaW5nOiA4cHggMTBweDsKICAgICAgYm9yZGVyLXJhZGl1czogNHB4OwogICAgICB0cmFuc2l0aW9uOiBhbGwgMC4xMnM7CiAgICAgIGZvbnQtd2VpZ2h0OiA2MDA7CiAgICB9CgogICAgYTpob3ZlciB7CiAgICAgIGNvbG9yOiB3aGl0ZTsKICAgICAgYmFja2dyb3VuZC1jb2xvcjogQHNscy1ncmVlbjsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgIHdoaXRlLXNwYWNlOiBub3dyYXA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAubmF2YmFyLS1zZWFyY2gtaW5wdXQgewogICAgd2lkdGg6IDYwJTsKICAgIGJvcmRlcjogMXB4IHNvbGlkICNkOGQ4ZDg7CiAgICBwYWRkaW5nOiAxM3B4IDIwcHg7CiAgICBib3JkZXItcmFkaXVzOiA0cHggMCAwIDRweDsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgfQoKICAubmF2YmFyLS1zZWFyY2gtYnV0dG9uIHsKICAgIGhlaWdodDogNTBweDsKICAgIHdpZHRoOiAyMCU7CiAgICBtYXgtd2lkdGg6IDkycHg7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZDhkOGQ4OwogICAgYm9yZGVyLWxlZnQ6IG5vbmU7CiAgICBiYWNrZ3JvdW5kOiBAc2xzLWdyZWVuIHVybCguLi8uLi8uLi9pbWFnZXMvc2VhcmNoLnBuZykgbm8tcmVwZWF0IDUwJSA1MCU7CiAgICBib3JkZXItcmFkaXVzOiAwIDRweCA0cHggMDsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICB0cmFuc2l0aW9uOiBiYWNrZ3JvdW5kLWNvbG9yIDAuM3M7CiAgICBmb250LXNpemU6IDA7CgogICAgJjpob3ZlciB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICMzZDllNjk7CiAgICB9CiAgfQoK</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IDg3NnB4KSB7CiAgCn0K</text>
+        <text encoding="base64">ICAubmF2YmFyLS1zZWFyY2gtaW5wdXQgewogICAgd2lkdGg6IDYwJTsKICAgIGJvcmRlcjogMXB4IHNvbGlkICNkOGQ4ZDg7CiAgICBwYWRkaW5nOiAxM3B4IDIwcHg7CiAgICBib3JkZXItcmFkaXVzOiA0cHggMCAwIDRweDsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgfQoKICAubmF2YmFyLS1zZWFyY2gtYnV0dG9uIHsKICAgIGhlaWdodDogNTBweDsKICAgIHdpZHRoOiAyMCU7CiAgICBtYXgtd2lkdGg6IDkycHg7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZDhkOGQ4OwogICAgYm9yZGVyLWxlZnQ6IG5vbmU7CiAgICBiYWNrZ3JvdW5kOiBAc2xzLWdyZWVuIHVybCguLi8uLi8uLi9pbWFnZXMvc2VhcmNoLnBuZykgbm8tcmVwZWF0IDUwJSA1MCU7CiAgICBib3JkZXItcmFkaXVzOiAwIDRweCA0cHggMDsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICB0cmFuc2l0aW9uOiBiYWNrZ3JvdW5kLWNvbG9yIDAuM3M7CiAgICBmb250LXNpemU6IDA7CgogICAgJjpob3ZlciB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICMzZDllNjk7CiAgICB9CiAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
