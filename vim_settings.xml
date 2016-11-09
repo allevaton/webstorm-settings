@@ -488,11 +488,11 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1478715137988">
-        <mark key="'" line="92" column="8" />
-        <mark key="[" line="96" column="13" />
-        <mark key="]" line="96" column="14" />
-        <mark key="." line="96" column="14" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1478716236981">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -815,7 +815,6 @@
       <jump line="88" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="273" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="171" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="355" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="342" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
@@ -905,6 +904,7 @@
       <jump line="312" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="340" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="210" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -920,28 +920,28 @@
         <text encoding="base64">ICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sIDIwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0sIDMwMDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0sIDIwMDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubW9kYWxzLmxvZ2luLmxvZ2luQmFzZUVycm9yID0gJ0Vycm9yIGxvZ2dpbmcgaW4nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlamVjdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubW9kYWxzLmxvZ2luLmxvZ2luV2FpdGluZyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubW9kYWxzLmxvZ2luLmxvZ2luQmFzZUVycm9yID0gJ0Vycm9yIGxvZ2dpbmcgaW4nOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVuY29kZUJvZHkoe2xvZ2luLCBwYXNzd29yZH0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubW9kYWxzLmxvZ2luLmxvZ2luV2FpdGluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
