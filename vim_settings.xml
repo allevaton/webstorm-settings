@@ -377,13 +377,13 @@
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" timestamp="1478789148242">
-        <mark key="'" line="240" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" timestamp="1478791478888">
+        <mark key="'" line="371" column="0" />
         <mark key="k" line="364" column="31" />
-        <mark key="[" line="292" column="48" />
-        <mark key="]" line="292" column="50" />
-        <mark key="^" line="292" column="50" />
-        <mark key="." line="292" column="50" />
+        <mark key="[" line="370" column="88" />
+        <mark key="]" line="371" column="17" />
+        <mark key="^" line="371" column="17" />
+        <mark key="." line="371" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/segment.js" timestamp="1477513294564">
         <mark key="'" line="0" column="0" />
@@ -805,11 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="220" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="203" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="390" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="143" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="192" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="280" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="341" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
@@ -905,16 +900,21 @@
       <jump line="21" column="37" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
       <jump line="19" column="19" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
+      <jump line="369" column="77" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="377" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="394" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="428" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
+      <jump line="371" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text>loginBaseError</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXIuZGF0YSA9IGpzb24udXNlcjsKICAgICAgICB0aGlzLnVzZXIubG9nZ2VkSW4gPSB0cnVlOwoKICAgICAgICAvLyBMb2dnZWQgaW4KICAgICAgICBpZiAoUmF2ZW4pIHsKICAgICAgICAgIFJhdmVuLnNldFVzZXJDb250ZXh0KHsKICAgICAgICAgICAgaWQ6IGpzb24udXNlci5pZCwKICAgICAgICAgICAgZW1haWw6IGpzb24udXNlci5lbWFpbCwKICAgICAgICAgICAgbG9naW46IGpzb24udXNlci5sb2dpbgogICAgICAgICAgfSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAge2xvZ2luQmFzZUVycm9yICYmIDxzbWFsbCBzdHlsZT17e2NvbG9yOiAncmVkJ319Pntsb2dpbkJhc2VFcnJvcn08L3NtYWxsPn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nLAo=</text>
