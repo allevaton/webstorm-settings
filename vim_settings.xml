@@ -456,12 +456,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" timestamp="1479156345536">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="16" column="63" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" timestamp="1479157992358">
+        <mark key="'" line="2" column="66" />
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="2" column="66" />
+        <mark key="." line="2" column="66" />
+        <mark key="^" line="2" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/ReviewRect.js" timestamp="1476803060672">
         <mark key="'" line="18" column="0" />
@@ -470,12 +470,12 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" timestamp="1479156902079">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="22" column="24" />
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" timestamp="1479157844856">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="60" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/.configloaderrc" timestamp="1476375426217">
         <mark key="'" line="6" column="0" />
@@ -504,6 +504,12 @@
         <mark key="]" line="94" column="22" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/urlEnv.js" timestamp="1479157848774">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/.env.production" timestamp="1478278425304">
         <mark key="'" line="6" column="66" />
         <mark key="[" line="6" column="10" />
@@ -525,12 +531,12 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1479156997559">
-        <mark key="'" line="192" column="9" />
-        <mark key="[" line="161" column="47" />
-        <mark key="]" line="161" column="56" />
-        <mark key="." line="161" column="56" />
-        <mark key="^" line="161" column="56" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1479157407006">
+        <mark key="'" line="189" column="54" />
+        <mark key="[" line="189" column="40" />
+        <mark key="]" line="189" column="54" />
+        <mark key="." line="189" column="54" />
+        <mark key="^" line="189" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -850,19 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="47" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="400" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="366" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="410" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="404" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="306" column="36" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="161" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="169" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="165" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="164" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
-      <jump line="170" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="187" column="16" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="174" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="424" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="428" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="430" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
@@ -893,7 +886,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
       <jump line="14" column="37" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
       <jump line="9" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
@@ -915,14 +907,10 @@
       <jump line="35" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="51" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
-      <jump line="2" column="16" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
-      <jump line="0" column="53" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="13" column="13" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="21" column="57" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="18" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -945,33 +933,51 @@
       <jump line="310" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/Login.js" />
       <jump line="313" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="22" column="24" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
-      <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
       <jump line="178" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="192" column="9" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="221" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="204" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="187" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="153" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="170" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="189" column="54" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/urlEnv.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
+      <jump line="5" column="43" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
+      <jump line="3" column="59" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/urlEnv.js" />
+      <jump line="2" column="66" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>promoCode</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>; domain=${domain}</text>
+        <text>urlEnv ? `_${urlEnv}` : ''</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0b3JlLm1vZGFscy5sb2dpbi5yZXNldFBhc3N3b3JkV2FpdGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Y29uc3Qgc3RhZ2luZyA9IHByb2Nlc3MuZW52Lk5PREVfRU5WICE9PSAncHJvZHVjdGlvbic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYCR7Y3JlYXRlQ29va2llU3RyaW5nKGtleSl9PSR7dmFsdWV9YCk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgbm90UHJvZHVjdGlvbiA9IHByb2Nlc3MuZW52Lk5PREVfRU5WICE9PSAncHJvZHVjdGlvbic7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -980,13 +986,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coZXh0cmFjdENvb2tpZVRvVVRNT2JqZWN0KCkpOwogICAgICB9LCAxMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGVuY29kZUJvZHkgZnJvbSAnLi4vdXRpbHMvZW5jb2RlQm9keSc7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LyoqCiA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGV4dHJhY3RDb29raWVUb1VUTU9iamVjdCBmcm9tICcuLi8uLi91dGlscy9leHRyYWN0Q29va2llVG9VVE1PYmplY3QnOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Lgog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
