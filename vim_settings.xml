@@ -674,8 +674,8 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/App/App.js" timestamp="1479161386445">
-        <mark key="'" line="68" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/App/App.js" timestamp="1479219516669">
+        <mark key="'" line="56" column="10" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -756,7 +756,7 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479160444934">
+      <file name="/Dummy.txt" timestamp="1479161404759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -857,7 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
       <jump line="14" column="37" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
@@ -957,6 +956,7 @@
       <jump line="353" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="83" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
+      <jump line="56" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1004,7 +1004,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
