@@ -446,12 +446,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" timestamp="1479239065359">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="41" column="6" />
-        <mark key="." line="41" column="6" />
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" timestamp="1479239182661">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/ReviewRect.js" timestamp="1476803060672">
         <mark key="'" line="18" column="0" />
@@ -734,7 +733,7 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479236677600">
+      <file name="/Dummy.txt" timestamp="1479239187063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -834,7 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="69" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="22" column="36" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="37" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -934,6 +932,7 @@
       <jump line="7" column="1" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -949,28 +948,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5tb2RhbHMubG9naW4gPSB7CiAgICAgICAgICAuLi5zdG9yZS5tb2RhbHMubG9naW4sCiAgICAgICAgICBjYW5ub3RDbG9zZTogZmFsc2UsCiAgICAgICAgICBvcGVuOiBmYWxzZQogICAgICAgIH07CgogICAgICAgIGJyb3dzZXJIaXN0b3J5LnB1c2goJy8nKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICBlbHNlIHsKICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdG9yZS5tb2RhbHMubG9naW4gPSB7CiAgICAgICAgICAuLi5zdG9yZS5tb2RhbHMubG9naW4sCiAgICAgICAgICBjYW5ub3RDbG9zZTogZmFsc2UsCiAgICAgICAgICBvcGVuOiBmYWxzZQogICAgICAgIH07CgogICAgICAgIGJyb3dzZXJIaXN0b3J5LnB1c2goJy8nKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5tb2RhbHMubG9naW4gPSB7CiAgICAgICAgICAuLi5zdG9yZS5tb2RhbHMubG9naW4sCiAgICAgICAgICBjYW5ub3RDbG9zZTogdHJ1ZSwKICAgICAgICAgIG9wZW46IHRydWUKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgfQogICAgICBlbHNlIHsKICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgc3RvcmUubW9kYWxzLmxvZ2luID0gewogICAgICAgICAgLi4uc3RvcmUubW9kYWxzLmxvZ2luLAogICAgICAgICAgY2Fubm90Q2xvc2U6IGZhbHNlLAogICAgICAgICAgb3BlbjogZmFsc2UKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5tb2RhbHMubG9naW4gPSB7CiAgICAgICAgICAuLi5zdG9yZS5tb2RhbHMubG9naW4sCiAgICAgICAgICBjYW5ub3RDbG9zZTogdHJ1ZSwKICAgICAgICAgIG9wZW46IHRydWUKICAgICAgICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgY29tcG9uZW50V2lsbFJlY2VpdmVQcm9wcyhuZXh0UHJvcHMpIHsKCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChzdG9yZS51c2VyLmxvZ2dlZEluKSB7CiAgICB9CiAgICBlbHNlIHsKICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgc3RvcmUubW9kYWxzLmxvZ2luID0gewogICAgICAgICAgLi4uc3RvcmUubW9kYWxzLmxvZ2luLAogICAgICAgICAgY2Fubm90Q2xvc2U6IGZhbHNlLAogICAgICAgICAgb3BlbjogZmFsc2UKICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
