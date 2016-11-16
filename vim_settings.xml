@@ -149,8 +149,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1479325213651">
-        <mark key="'" line="182" column="14" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1479325257015">
+        <mark key="'" line="150" column="12" />
         <mark key="w" line="324" column="14" />
         <mark key="[" line="192" column="41" />
         <mark key="]" line="192" column="42" />
@@ -684,13 +684,6 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/App/App.js" timestamp="1479319785017">
-        <mark key="'" line="63" column="55" />
-        <mark key="[" line="62" column="66" />
-        <mark key="]" line="63" column="55" />
-        <mark key="^" line="63" column="55" />
-        <mark key="." line="63" column="55" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Search.js" timestamp="1477666755231">
         <mark key="'" line="17" column="4" />
         <mark key="[" line="8" column="0" />
@@ -780,10 +773,10 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479321826926">
-        <mark key="[" line="0" column="48" />
-        <mark key="]" line="0" column="48" />
-        <mark key="." line="0" column="48" />
+      <file name="/Dummy.txt" timestamp="1479325225945">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
@@ -871,10 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="184" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="213" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="235" column="18" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="252" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="218" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
@@ -971,10 +960,14 @@
       <jump line="11" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordSubmitted.js" />
       <jump line="13" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordSubmitted.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordSubmitted.js" />
+      <jump line="174" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="133" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="184" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="150" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>stryl</text>
+        <text encoding="base64">QWRkZWQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
