@@ -138,6 +138,12 @@
         <mark key="." line="53" column="12" />
         <mark key="^" line="53" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordReset.less" timestamp="1479394934395">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.server-watch.js" timestamp="1477417106059">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="3" column="65" />
@@ -201,6 +207,18 @@
         <mark key="]" line="29" column="32" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="29" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/Login.less" timestamp="1478811036800">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/constants/navbarState.js" timestamp="1478017366174">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="60" />
+        <mark key="^" line="1" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1477497236116">
         <mark key="'" line="179" column="0" />
@@ -458,6 +476,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractUTMToCookie.js" timestamp="1479239290308">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/ReviewRect.js" timestamp="1476803060672">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="13" column="21" />
@@ -521,12 +545,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1479403269851">
-        <mark key="'" line="374" column="51" />
-        <mark key="[" line="386" column="82" />
-        <mark key="]" line="386" column="82" />
-        <mark key="." line="386" column="82" />
-        <mark key="^" line="386" column="82" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1479405528135">
+        <mark key="'" line="373" column="13" />
+        <mark key="[" line="373" column="13" />
+        <mark key="]" line="373" column="13" />
+        <mark key="." line="373" column="13" />
+        <mark key="^" line="373" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -756,6 +780,12 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
+      <file name="/Dummy.txt" timestamp="1479405775727">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="60" />
+        <mark key="." line="0" column="60" />
+        <mark key="^" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="19" />
@@ -849,7 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
       <jump line="25" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
@@ -949,10 +978,11 @@
       <jump line="51" column="49" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
       <jump line="67" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
+      <jump line="373" column="13" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>hello</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
