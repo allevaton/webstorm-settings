@@ -545,12 +545,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1479405528135">
-        <mark key="'" line="373" column="13" />
-        <mark key="[" line="373" column="13" />
-        <mark key="]" line="373" column="13" />
-        <mark key="." line="373" column="13" />
-        <mark key="^" line="373" column="24" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1479407915421">
+        <mark key="'" line="376" column="7" />
+        <mark key="[" line="376" column="7" />
+        <mark key="]" line="376" column="7" />
+        <mark key="." line="376" column="7" />
+        <mark key="^" line="376" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -783,10 +783,10 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479405775727">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="60" />
-        <mark key="." line="0" column="60" />
+      <file name="/Dummy.txt" timestamp="1479407385893">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
@@ -882,10 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" />
-      <jump line="57" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" />
-      <jump line="35" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" />
-      <jump line="50" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" />
       <jump line="4" column="50" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
       <jump line="7" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PrimaryButton.js" />
       <jump line="9" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PrimaryButton.js" />
@@ -949,7 +945,6 @@
       <jump line="340" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="323" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="379" column="36" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="375" column="36" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="378" column="59" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="383" column="7" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="374" column="51" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -982,10 +977,15 @@
       <jump line="50" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="67" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="33" column="2" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
+      <jump line="369" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="375" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="356" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="345" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="376" column="7" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>finish</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
