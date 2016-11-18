@@ -137,7 +137,7 @@
         <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" timestamp="1479506526155">
-        <mark key="'" line="80" column="0" />
+        <mark key="'" line="76" column="0" />
         <mark key="[" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.server-watch.js" timestamp="1477417106059">
@@ -870,11 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
-      <jump line="71" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
-      <jump line="64" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
-      <jump line="63" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
-      <jump line="65" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" />
       <jump line="192" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="175" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="209" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
@@ -970,6 +965,11 @@
       <jump line="82" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="402" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="379" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="410" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="385" column="28" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="396" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="395" column="35" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="400" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -982,31 +982,31 @@
         <text encoding="base64">ICAgICAgICBzZWNyZXQ6ICc2OGQ0OTVhYjU3MCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aW5kb3cuYW5hbHl0aWNzLnRyYWNrIHx8ICgpID0+IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZGVudGlmeVVzZXIoanNvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aW5kb3cudHJhY2sgPSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWNyZXQ6ICc2OGQ0OTVhYjU3MCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWxzZSAK</text>
+        <text encoding="base64">ICB3aW5kb3cuYW5hbHl0aWNzLnRyYWNrIHx8ICgpID0+IG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgKHdpbmRvdy5hbmFseXRpY3MpCg==</text>
+        <text encoding="base64">ICB3aW5kb3cudHJhY2sgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxzZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aWYgKHdpbmRvdy5hbmFseXRpY3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
