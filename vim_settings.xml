@@ -797,10 +797,10 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479483899465">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1479483922689">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
@@ -817,8 +817,8 @@
         <mark key="." line="9" column="56" />
         <mark key="^" line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" timestamp="1479483918912">
-        <mark key="'" line="38" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" timestamp="1479484125983">
+        <mark key="'" line="57" column="8" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="0" column="1" />
@@ -899,9 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
-      <jump line="56" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
-      <jump line="39" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
       <jump line="108" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
       <jump line="157" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
@@ -928,7 +925,6 @@
       <jump line="204" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="9" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="33" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
-      <jump line="6" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="31" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
@@ -938,7 +934,6 @@
       <jump line="45" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="59" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
-      <jump line="63" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="42" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
@@ -948,7 +943,6 @@
       <jump line="55" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="64" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="46" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
-      <jump line="40" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="68" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.less" />
       <jump line="41" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
@@ -999,10 +993,16 @@
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="63" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="75" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="40" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="57" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>jsut</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
