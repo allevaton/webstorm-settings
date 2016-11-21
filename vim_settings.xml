@@ -84,12 +84,12 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" timestamp="1479752762748">
-        <mark key="'" line="218" column="0" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-        <mark key="^" line="137" column="18" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" timestamp="1479752942418">
+        <mark key="'" line="226" column="48" />
+        <mark key="[" line="221" column="88" />
+        <mark key="]" line="221" column="88" />
+        <mark key="." line="221" column="88" />
+        <mark key="^" line="221" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" timestamp="1479317373379">
         <mark key="'" line="20" column="0" />
@@ -887,7 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="400" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="395" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="394" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -987,16 +986,17 @@
       <jump line="153" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
       <jump line="158" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
       <jump line="152" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
+      <jump line="226" column="48" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>user</text>
+        <text>terms</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5zdG9yZS5tb2RhbHMubG9naW4ucmVnUGFzc3dvcmRFcnJvciA9IHZhbGlkUGFzc3dvcmQ7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGEgaHJlZj0iL3Rlcm1zIiB0YXJnZXQ9Il9ibGFuayIg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMzgKICAgICAgICAgICAgICAgIH19Cg==</text>
