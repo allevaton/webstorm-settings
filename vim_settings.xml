@@ -85,8 +85,12 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" timestamp="1479738906604">
-        <mark key="'" line="213" column="16" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" timestamp="1479749628784">
+        <mark key="'" line="58" column="21" />
+        <mark key="[" line="57" column="59" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="58" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" timestamp="1479317373379">
         <mark key="'" line="20" column="0" />
@@ -493,6 +497,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" timestamp="1479749731759">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/.configloaderrc" timestamp="1476375426217">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="2" column="26" />
@@ -760,7 +771,7 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479507225156">
+      <file name="/Dummy.txt" timestamp="1479749770349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -861,12 +872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
-      <jump line="76" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
-      <jump line="87" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
-      <jump line="80" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
-      <jump line="63" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
-      <jump line="64" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="54" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
       <jump line="41" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
@@ -961,10 +966,16 @@
       <jump line="174" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
       <jump line="132" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
       <jump line="213" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="62" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="58" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
+      <jump line="23" column="26" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToUTMObject.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">dGhlIA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -973,31 +984,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBpZiAod2luZG93LmFuYWx5dGljcykKICAgICAgICAgICAgICAgIHdpbmRvdy5hbmFseXRpY3MudHJhY2soJ1Zpc2l0ZWQgRmF2b3JpdGUgU3BvcnRzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkxpc3RDbGljaz17KCkgPT4gewogICAgICAgICAgICAgIH19Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb29raW5nIGZvciB1dG1zJywga2V5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvdW5kIGEgcHJvbW8gY29kZScsIHZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZGVudGlmeVVzZXIoanNvbik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkxpc3RDbGljaz17KCkgPT4gewogICAgICAgICAgICAgIH19Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZGVudGlmeVVzZXIoanNvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNyZXQ6ICc2OGQ0OTVhYjU3MCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZGVudGlmeVVzZXIoanNvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aW5kb3cuYW5hbHl0aWNzLnRyYWNrIHx8ICgpID0+IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aW5kb3cudHJhY2sgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZGVudGlmeVVzZXIoanNvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWxzZSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWNyZXQ6ICc2OGQ0OTVhYjU3MCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
