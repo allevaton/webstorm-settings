@@ -39,8 +39,8 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" timestamp="1479757389805">
-        <mark key="'" line="42" column="18" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" timestamp="1479757943915">
+        <mark key="'" line="73" column="10" />
         <mark key="[" line="42" column="18" />
         <mark key="]" line="42" column="18" />
         <mark key="^" line="42" column="18" />
@@ -88,8 +88,8 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" timestamp="1479753184687">
-        <mark key="'" line="204" column="16" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" timestamp="1479757953863">
+        <mark key="'" line="189" column="0" />
         <mark key="[" line="224" column="29" />
         <mark key="]" line="224" column="32" />
         <mark key="." line="224" column="32" />
@@ -143,8 +143,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" timestamp="1479751051516">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" timestamp="1479758095383">
+        <mark key="'" line="80" column="16" />
+        <mark key="[" line="86" column="14" />
+        <mark key="]" line="86" column="14" />
+        <mark key="^" line="86" column="14" />
+        <mark key="." line="86" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.server-watch.js" timestamp="1477417106059">
         <mark key="'" line="33" column="0" />
@@ -282,9 +286,6 @@
         <mark key="]" line="14" column="36" />
         <mark key="." line="14" column="40" />
         <mark key="^" line="10" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.less" timestamp="1479325819262">
-        <mark key="'" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/ReviewRect.less" timestamp="1476820864225">
         <mark key="'" line="80" column="0" />
@@ -577,9 +578,6 @@
         <mark key="^" line="73" column="36" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/styles/modal.less" timestamp="1479413852434">
-        <mark key="'" line="41" column="2" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Header.js" timestamp="1475681733129">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="25" />
@@ -607,9 +605,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="25" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/package.json" timestamp="1479498517636">
-        <mark key="'" line="20" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/SelectablePill.less" timestamp="1478805381329">
         <mark key="'" line="0" column="0" />
@@ -818,12 +813,12 @@
         <mark key="^" line="25" column="60" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" timestamp="1479753278840">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="23" />
-        <mark key="." line="54" column="23" />
-        <mark key="^" line="54" column="23" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" timestamp="1479758055064">
+        <mark key="'" line="75" column="12" />
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="41" />
+        <mark key="." line="59" column="28" />
+        <mark key="^" line="59" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileFooter.js" timestamp="1475674969168">
         <mark key="'" line="0" column="0" />
@@ -904,31 +899,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
-      <jump line="72" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
-      <jump line="106" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
-      <jump line="108" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
-      <jump line="118" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
-      <jump line="130" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
-      <jump line="104" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
-      <jump line="113" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
-      <jump line="57" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
-      <jump line="48" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
-      <jump line="32" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
-      <jump line="49" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
       <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileFooter.js" />
       <jump line="53" column="21" filename="$USER_HOME$/workspace/sls-react/src/styles/main.less" />
       <jump line="44" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="39" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="52" column="14" filename="$USER_HOME$/workspace/sls-react/src/styles/main.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
@@ -983,9 +959,6 @@
       <jump line="83" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
       <jump line="224" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
       <jump line="221" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
-      <jump line="170" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
-      <jump line="187" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
-      <jump line="204" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
       <jump line="173" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
       <jump line="81" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
@@ -1004,6 +977,28 @@
       <jump line="153" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginForm.js" />
       <jump line="41" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
       <jump line="42" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" />
+      <jump line="59" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" />
+      <jump line="73" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/PasswordField.js" />
+      <jump line="204" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="187" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="158" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="170" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="234" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="189" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="95" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="60" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="80" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="58" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="75" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
+      <jump line="86" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
+      <jump line="59" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
+      <jump line="42" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
+      <jump line="63" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
+      <jump line="80" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1013,7 +1008,7 @@
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGEgaHJlZj0iL3Rlcm1zIiB0YXJnZXQ9Il9ibGFuayIg</text>
+        <text encoding="base64">e3N3aXBlYWJsZVZpZXdzSW5kZXggPT09IDAgJiYg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yVGV4dD0iQU9JU0hGIE9JSCBPSUggT0lIIE9JSCBPSUggT0lIIE9JSCBPSSBIT0lIIE9JSCBPSUggT0lIIE9JSCIK</text>
