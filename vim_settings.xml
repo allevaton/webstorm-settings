@@ -139,9 +139,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" timestamp="1479506526155">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="5" column="49" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" timestamp="1479741425059">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.server-watch.js" timestamp="1477417106059">
         <mark key="'" line="33" column="0" />
@@ -158,7 +160,7 @@
         <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1479505185751">
-        <mark key="w" line="312" column="14" />
+        <mark key="w" line="334" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.development.js" timestamp="1479498748121">
         <mark key="'" line="39" column="0" />
@@ -654,7 +656,7 @@
         <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.js" timestamp="1479506340238">
-        <mark key="'" line="85" column="0" />
+        <mark key="'" line="91" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="48" />
         <mark key="." line="4" column="48" />
@@ -799,11 +801,11 @@
         <mark key="^" line="25" column="60" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" timestamp="1479505660720">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="49" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" timestamp="1479741354258">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="63" column="69" />
         <mark key="^" line="5" column="48" />
-        <mark key="." line="5" column="48" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileFooter.js" timestamp="1475674969168">
         <mark key="'" line="0" column="0" />
@@ -989,10 +991,10 @@
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNyZXQ6ICc2OGQ0OTVhYjU3MCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAod2luZG93LmFuYWx5dGljcykKICAgICAgICAgICAgICAgIHdpbmRvdy5hbmFseXRpY3MudHJhY2soJ1Zpc2l0ZWQgRmF2b3JpdGUgU3BvcnRzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZGVudGlmeVVzZXIoanNvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkxpc3RDbGljaz17KCkgPT4gewogICAgICAgICAgICAgIH19Cgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1001,22 +1003,22 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZGVudGlmeVVzZXIoanNvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNyZXQ6ICc2OGQ0OTVhYjU3MCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aW5kb3cuYW5hbHl0aWNzLnRyYWNrIHx8ICgpID0+IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZGVudGlmeVVzZXIoanNvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aW5kb3cudHJhY2sgPSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWNyZXQ6ICc2OGQ0OTVhYjU3MCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWxzZSAK</text>
+        <text encoding="base64">ICB3aW5kb3cuYW5hbHl0aWNzLnRyYWNrIHx8ICgpID0+IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgKHdpbmRvdy5hbmFseXRpY3MpCg==</text>
+        <text encoding="base64">ICB3aW5kb3cudHJhY2sgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxzZSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
