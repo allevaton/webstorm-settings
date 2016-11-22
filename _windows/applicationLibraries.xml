@@ -142,6 +142,28 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="passport-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_passport_passport.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_passport_passport.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="passport-strategy-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_passport-strategy_passport-strategy.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_passport-strategy_passport-strategy.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="raven" type="javaScript">
       <properties>
         <sourceFilesUrls>
