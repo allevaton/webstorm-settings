@@ -820,12 +820,12 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="55" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" timestamp="1479750729630">
-        <mark key="'" line="57" column="12" />
-        <mark key="[" line="104" column="21" />
-        <mark key="]" line="104" column="25" />
-        <mark key="." line="104" column="25" />
-        <mark key="^" line="104" column="25" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" timestamp="1479839974535">
+        <mark key="'" line="53" column="19" />
+        <mark key="[" line="52" column="57" />
+        <mark key="]" line="52" column="71" />
+        <mark key="." line="52" column="71" />
+        <mark key="^" line="52" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/CompanyPage/Investor.js" timestamp="1477065766749">
         <mark key="'" line="3" column="0" />
@@ -885,8 +885,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/allrecipes-trello/index.js" />
-      <jump line="22" column="2" filename="$USER_HOME$/workspace/allrecipes-trello/index.js" />
       <jump line="18" column="4" filename="$USER_HOME$/workspace/allrecipes-trello/index.js" />
       <jump line="7" column="4" filename="$USER_HOME$/workspace/allrecipes-trello/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/allrecipes-trello/index.js" />
@@ -985,16 +983,18 @@
       <jump line="215" column="15" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="216" column="52" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="220" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="52" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
+      <jump line="53" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVycm9yU3R5bGU9e2hhc0ZvY3VzICYmICFoYXNFcnJvciA/IHsKICAgICAgICAgICAgLi4ucm9vdFN0eWxlcy5lcnJvclN0eWxlLAogICAgICAgICAgICBjb2xvcjogJyNiN2I3YjcnCiAgICAgICAgICB9IDogcm9vdFN0eWxlcy5lcnJvclN0eWxlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHtzdG9yZS51c2VyLmRhdGEuYWRtaW4gJiYgPGEgaHJlZj0iL2FkbWluIj4KICAgICAgICAgICAgQWRtaW4KICAgICAgICAgIDwvYT59Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGVycm9yU3R5bGU9e2hhc0ZvY3VzICYmICFoYXNFcnJvciA/IHsKICAgICAgICAgICAgY29sb3I6ICcjYjdiN2I3JwogICAgICAgICAgfSA6IHt9fQo=</text>
