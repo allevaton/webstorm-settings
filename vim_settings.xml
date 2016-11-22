@@ -139,12 +139,12 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" timestamp="1479506386970">
-        <mark key="'" line="52" column="6" />
-        <mark key="[" line="55" column="30" />
-        <mark key="]" line="55" column="28" />
-        <mark key="^" line="55" column="28" />
-        <mark key="." line="55" column="28" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" timestamp="1479827665239">
+        <mark key="'" line="68" column="10" />
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="35" />
+        <mark key="^" line="80" column="35" />
+        <mark key="." line="80" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordReset.less" timestamp="1479394934395">
         <mark key="[" line="1" column="0" />
@@ -562,10 +562,10 @@
         <mark key="^" line="58" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Button.less" timestamp="1479767070835">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1479761174394">
         <mark key="'" line="84" column="0" />
@@ -801,9 +801,9 @@
         <mark key="^" line="5" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/BaseButton.less" timestamp="1479767203588">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -901,13 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
-      <jump line="58" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
-      <jump line="75" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
-      <jump line="86" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
-      <jump line="59" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
-      <jump line="42" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="63" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="80" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
@@ -1001,6 +994,13 @@
       <jump line="72" column="0" filename="$USER_HOME$/workspace/sls-react/package.json" />
       <jump line="39" column="4" filename="$USER_HOME$/workspace/sls-react/package.json" />
       <jump line="90" column="4" filename="$USER_HOME$/workspace/sls-react/package.json" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
+      <jump line="80" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
+      <jump line="85" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
+      <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
+      <jump line="68" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
