@@ -781,12 +781,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480517005574">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="47" />
-        <mark key="^" line="9" column="38" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480518722582">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Sidebar/Sidebar.less" timestamp="1480445440974">
         <mark key="'" line="5" column="2" />
@@ -893,8 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="19" column="2" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="29" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Terms/TermsContainer.js" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Terms/TermsContainer.js" />
@@ -965,7 +963,6 @@
       <jump line="34" column="44" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
       <jump line="43" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
       <jump line="7" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.less" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="6" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
       <jump line="27" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
       <jump line="33" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
@@ -985,7 +982,6 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
       <jump line="7" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
       <jump line="15" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
       <jump line="39" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
@@ -993,6 +989,10 @@
       <jump line="56" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
       <jump line="28" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
       <jump line="45" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
+      <jump line="12" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1005,31 +1005,31 @@
         <text encoding="base64">ICAmLm1lZGl1bSB7CiAgICBmb250LXNpemU6IDAuNzVyZW07CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7LypUT0RPIENyZWF0ZSBBZGRyZXNzIGJ1dHRvbiBnb2VzIGhlcmUqL30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IEFkZHJlc3NQYWdlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjNGFhZmUyOwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb2xvcjogd2hpdGU7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPEhlYWRlciBicmVhZGNydW1icz0iTXkgU2V0dGluZ3MgPiBBZGRyZXNzZXMiPgogICAgICAgIDxBY3Rpb25CdXR0b24gdGV4dD0iQ3JlYXRlIG5ldyBhZGRyZXNzIi8+CiAgICAgIDwvSGVhZGVyPgogICAgPC9kaXY+CiAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQWRkcmVzc1BhZ2UgPSAocHJvcHMpID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7LypUT0RPIENyZWF0ZSBBZGRyZXNzIGJ1dHRvbiBnb2VzIGhlcmUqL30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDAuNzVyZW07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmljaG8gb24gMTEvMzAvMjAxNi4KICovCg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjNGFhZmUyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb2xvcjogd2hpdGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
