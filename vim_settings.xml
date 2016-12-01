@@ -145,10 +145,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1480609000391">
-        <mark key="'" line="119" column="4" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="154" column="14" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1480610471879">
+        <mark key="'" line="166" column="10" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="68" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/MobileNav.js" timestamp="1475524663556">
         <mark key="'" line="13" column="0" />
@@ -164,12 +164,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" timestamp="1480609041559">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" timestamp="1480611434823">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.js" timestamp="1476909374668">
         <mark key="'" line="0" column="0" />
@@ -220,9 +220,12 @@
         <mark key="." line="60" column="21" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1480528541382">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="3" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1480611130608">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/App/Root.js" timestamp="1476989975658">
         <mark key="'" line="9" column="0" />
@@ -488,6 +491,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="10" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" timestamp="1480611208324">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Terms/TermsContainer.js" timestamp="1480445241158">
         <mark key="'" line="68" column="6" />
         <mark key="[" line="14" column="21" />
@@ -694,6 +703,9 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/node_modules/material-ui/Dialog/Dialog.js" timestamp="1480609340661">
+        <mark key="'" line="493" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/landingPageData.js" timestamp="1478273833427">
         <mark key="'" line="59" column="59" />
         <mark key="[" line="59" column="15" />
@@ -842,12 +854,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480608832247">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="14" />
-        <mark key="." line="36" column="14" />
-        <mark key="^" line="36" column="14" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480611148894">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Sidebar/Sidebar.less" timestamp="1480445440974">
         <mark key="'" line="5" column="2" />
@@ -855,6 +867,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/index.js" timestamp="1480611201756">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1480607454159">
         <mark key="[" line="0" column="0" />
@@ -947,65 +965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="23" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="8" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="5" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="14" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="15" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="16" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="18" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="19" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="317" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="8" column="44" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
-      <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
-      <jump line="0" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
-      <jump line="314" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="323" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
-      <jump line="12" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
-      <jump line="32" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="319" column="80" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="10" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="10" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="36" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="315" column="18" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="227" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
-      <jump line="3" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
-      <jump line="229" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="278" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="83" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
-      <jump line="75" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
-      <jump line="25" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="94" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
-      <jump line="92" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
-      <jump line="23" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
-      <jump line="9" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="4" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.less" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="4" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="5" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="23" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="15" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="38" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="34" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="39" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="11" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="6" column="61" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="32" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="37" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
@@ -1038,52 +997,113 @@
       <jump line="22" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="34" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
       <jump line="95" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="119" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="72" column="16" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="157" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="158" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="191" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="276" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="254" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="118" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="152" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="176" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="165" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="45" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/node_modules/material-ui/Dialog/Dialog.js" />
+      <jump line="170" column="0" filename="$USER_HOME$/workspace/sls-react/node_modules/material-ui/Dialog/Dialog.js" />
+      <jump line="493" column="2" filename="$USER_HOME$/workspace/sls-react/node_modules/material-ui/Dialog/Dialog.js" />
+      <jump line="32" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="43" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="68" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="57" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="40" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="23" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="51" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="166" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="7" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="9" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="1" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="70" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="44" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="8" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="23" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="9" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="34" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="7" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="32" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="29" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="28" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="41" column="64" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="59" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="21" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="19" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>:</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7b3BlbiAmJiA8ZGl2IGNsYXNzTmFtZT0ibW9kYWwtY2xvc2UiPgogICAgICAgICAgPGEgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApOyIgb25DbGljaz17dGhpcy5jbG9zZU1vZGFsfT4KICAgICAgICAgICAgPFNWRyBtYXJrdXA9e0Nsb3NlU1ZHfS8+CiAgICAgICAgICA8L2E+CiAgICAgICAgPC9kaXY+fQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc3RvcmUubW9kYWxzLmFkZHJlc3NNYW5hZ2VyLm9wZW4gPSBmYWxzZTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9hPgo=</text>
+      <register name="1" type="4">
+        <text>{
+        ...
+      }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGEgb25DbGljaz17dGhpcy5jbG9zZU1vZGFsfT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9hPgo=</text>
+        <text encoding="base64">aW1wb3J0IE1vZGFsIGZyb20gJy4vTW9kYWwnOwpleHBvcnQgZGVmYXVsdCBNb2RhbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGEgb25DbGljaz17dGhpcy5jbG9zZU1vZGFsfT4K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmljaG8gb24gMTIvMS8yMDE2LgogKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFNWRyBmcm9tICcuLi9TVkcnOwppbXBvcnQgQ2xvc2VTVkcgZnJvbSAnLi4vLi4vaW1hZ2VzL2ljLWNsb3NlLnN2Zyc7Cg==</text>
+        <text encoding="base64">ICAgIHZpZXdJbmRleDogMCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc3RvcmUubW9kYWxzLmFkZHJlc3NNYW5hZ2VyLnZpZXdJbmRleCA9IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi8uLi9zdHlsZXMvbW9kYWwubGVzcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgdGl0bGU9e3RpdGxlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aXRsZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1113,7 +1133,6 @@
         <entry>wa</entry>
         <entry>w;w</entry>
         <entry>.,.+3bp</entry>
-        <entry>q</entry>
         <entry>d</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
@@ -1126,6 +1145,7 @@
         <entry>action RenameElement</entry>
         <entry>j</entry>
         <entry>action Back</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
