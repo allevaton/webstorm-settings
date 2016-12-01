@@ -124,8 +124,8 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" timestamp="1480605596491">
-        <mark key="'" line="46" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" timestamp="1480606586880">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="47" column="16" />
         <mark key="]" line="47" column="19" />
         <mark key="." line="47" column="19" />
@@ -838,10 +838,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480601323973">
+      <file name="/Dummy.txt" timestamp="1480606599020">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1012,7 +1012,6 @@
       <jump line="23" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="9" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="4" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.less" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="4" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
@@ -1022,17 +1021,18 @@
       <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="37" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="32" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="38" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="34" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="47" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
+      <jump line="39" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>none</text>
+        <text>items</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
