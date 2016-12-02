@@ -96,28 +96,6 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
-    <library name="mobservable-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mobservable_mobservable.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mobservable_mobservable.d.ts" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="mobservable-react-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mobservable-react_mobservable-react.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mobservable-react_mobservable-react.d.ts" />
-      </CLASSES>
-      <SOURCES />
-    </library>
     <library name="mocha-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
