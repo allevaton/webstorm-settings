@@ -431,13 +431,6 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1480716598328">
-        <mark key="'" line="82" column="4" />
-        <mark key="[" line="52" column="6" />
-        <mark key="]" line="52" column="12" />
-        <mark key="." line="52" column="12" />
-        <mark key="^" line="52" column="12" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/client/segment.js" timestamp="1476388170373">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="0" column="28" />
@@ -618,12 +611,6 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1480715977377">
-        <mark key="'" line="367" column="6" />
-        <mark key="[" line="348" column="8" />
-        <mark key="]" line="348" column="8" />
-        <mark key="." line="348" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -639,11 +626,9 @@
         <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" timestamp="1480713937459">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="29" column="8" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/UserStatus.js" timestamp="1475169587958">
         <mark key="'" line="17" column="0" />
@@ -705,11 +690,10 @@
         <mark key="'" line="161" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/api/api.js" timestamp="1480711522807">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="87" column="63" />
-        <mark key="]" line="87" column="70" />
-        <mark key="." line="87" column="70" />
-        <mark key="^" line="87" column="70" />
+        <mark key="[" line="63" column="63" />
+        <mark key="]" line="63" column="70" />
+        <mark key="." line="63" column="70" />
+        <mark key="^" line="63" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" timestamp="1477425243899">
         <mark key="'" line="40" column="12" />
@@ -899,7 +883,13 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480696465340">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/index.js" timestamp="1480611201756">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1480716675090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1004,7 +994,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="33" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="30" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="39" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
@@ -1104,6 +1093,7 @@
       <jump line="73" column="4" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="57" column="8" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="82" column="4" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="90" column="19" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
