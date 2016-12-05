@@ -494,8 +494,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" timestamp="1480715753169">
-        <mark key="'" line="52" column="39" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" timestamp="1480954158288">
+        <mark key="'" line="28" column="4" />
         <mark key="[" line="53" column="22" />
         <mark key="]" line="53" column="29" />
         <mark key="." line="53" column="29" />
@@ -597,12 +597,12 @@
         <mark key="." line="233" column="18" />
         <mark key="^" line="233" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Forms.js" timestamp="1480953080627">
-        <mark key="'" line="23" column="42" />
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="23" column="42" />
-        <mark key="." line="23" column="42" />
-        <mark key="^" line="23" column="42" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Forms.js" timestamp="1480954683660">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/styles/main.less" timestamp="1477577595260">
         <mark key="'" line="29" column="0" />
@@ -611,12 +611,12 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1480953241763">
-        <mark key="'" line="341" column="4" />
-        <mark key="[" line="351" column="43" />
-        <mark key="]" line="351" column="53" />
-        <mark key="." line="351" column="53" />
-        <mark key="^" line="351" column="53" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1480955517478">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="356" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -875,6 +875,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480954147193">
+        <mark key="'" line="52" column="12" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Sidebar/Sidebar.less" timestamp="1480445440974">
         <mark key="'" line="5" column="2" />
         <mark key="[" line="33" column="0" />
@@ -882,17 +889,17 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480948703680">
+      <file name="/Dummy.txt" timestamp="1480956542038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1480716001198">
-        <mark key="'" line="139" column="8" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="137" column="36" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1480956546378">
+        <mark key="'" line="250" column="16" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="5" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="69" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -987,143 +994,143 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="10" filename="$USER_HOME$/workspace/sls-react/src/utils/componentFetchData.js" />
-      <jump line="7" column="20" filename="$USER_HOME$/workspace/sls-react/src/utils/componentFetchData.js" />
-      <jump line="14" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/componentFetchData.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/componentFetchData.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/componentFetchData.js" />
-      <jump line="54" column="4" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="63" column="8" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="114" column="8" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="182" column="4" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="148" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="165" column="8" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="170" column="17" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="58" column="34" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="71" column="14" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="59" column="10" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="48" column="2" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="311" column="30" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="352" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="377" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="72" column="8" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="57" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="0" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="15" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="367" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="310" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="350" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="316" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="318" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="32" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="24" column="42" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="49" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="31" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="34" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="322" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="312" column="13" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="313" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="321" column="25" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="16" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="30" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="12" column="18" filename="$USER_HOME$/workspace/sls-react/src/utils/componentFetchData.js" />
-      <jump line="308" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="319" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Pages.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Pages.js" />
-      <jump line="4" column="25" filename="$USER_HOME$/workspace/sls-react/src/store/Pages.js" />
-      <jump line="4" column="42" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="19" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
-      <jump line="4" column="24" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
-      <jump line="4" column="41" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="36" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="48" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="35" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="34" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="51" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="31" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="28" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="45" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="42" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="43" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
-      <jump line="10" column="31" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
-      <jump line="14" column="17" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
-      <jump line="9" column="58" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="379" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="317" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
-      <jump line="15" column="9" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
+      <jump line="401" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="330" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="339" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="307" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="313" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="296" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="338" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="335" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="337" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="356" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="18" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="52" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="44" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="28" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="25" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="65" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="73" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="103" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="116" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="120" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="191" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="217" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="221" column="42" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="246" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="229" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="213" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="262" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
+      <jump line="27" column="19" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
+      <jump line="8" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
+      <jump line="247" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="230" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="249" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="254" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="248" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="231" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
-      <jump line="23" column="42" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
-      <jump line="333" column="45" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="332" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="315" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="339" column="55" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="346" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="347" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="351" column="53" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="341" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Forms.js" />
+      <jump line="354" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="214" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="237" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="242" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="225" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="196" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="106" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="157" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="89" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="277" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="44" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="85" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="283" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="238" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="244" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="352" column="42" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="344" column="36" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="355" column="24" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="243" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="76" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="178" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="195" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="212" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="351" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="349" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="46" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="63" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="51" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="53" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="34" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="55" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="72" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="208" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="215" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="209" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="226" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="210" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="218" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="211" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="216" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="228" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="245" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="143" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="41" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="83" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="62" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="68" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="130" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="189" column="47" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="250" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;loading&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>this.forms.subregionData[id]</text>
+        <text>store.forms.subregionData[this.state.country]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcHJvcGVydHkge0FycmF5PE9iamVjdDxzdHJpbmcsc3RyaW5nPj59Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7c3RvcmUuZm9ybXMuc3VicmVnaW9uRGF0YVt0aGlzLnN0YXRlLmNvdW50cnldICYmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAdHlwZSB7T2JqZWN0PHN0cmluZywgQXJyYXk8T2JqZWN0PHN0cmluZyxzdHJpbmc+Pj59Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgID8gPE1lbnVJdGVtIHByaW1hcnlUZXh0PSJMb2FkaW5nLi4uIiBkaXNhYmxlZD17dHJ1ZX0vPgogICAgICAgICAgICAgIDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdWJyZWdpb25EYXRhOiB7fSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb3VudHJ5RGF0YTogW10sCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvcHMuYWRkcmVzc09iamVjdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcHJvcGVydHkge0FycmF5PE9iamVjdDxzdHJpbmcsc3RyaW5nPj59IGNvdW50cnlEYXRhCg==</text>
+        <text encoding="base64">ICAgICAgcHJvcHMuc3RvcmUuZ2V0U3VicmVnaW9ucyhwcm9wcy5hZGRyZXNzT2JqZWN0LmNvdW50cnkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAcHJvcGVydHkge09iamVjdDxzdHJpbmcsIEFycmF5PE9iamVjdDxzdHJpbmcsc3RyaW5nPj4+fSBzdWJyZWdpb25EYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvdW50cnlEYXRhOiBbXSwKICAgIHN1YnJlZ2lvbkRhdGE6IHt9LAo=</text>
+        <text encoding="base64">ICAgICAgcHJvcHMuc3RvcmUuZ2V0U3VicmVnaW9ucyhwcm9wcy5hZGRyZXNzT2JqZWN0LmNvdW50cnkpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICBAYWN0aW9uIG9wZW5NZXNzYWdlQm94KHt0aXRsZSwgbWVzc2FnZSA9ICcnLCBvbkNhbmNlbCA9ICgpID0+IG51bGwsIG9uT0sgPSAoKSA9PiBudWxsfSkgewogIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1157,15 +1164,16 @@
         <entry>W</entry>
         <entry>Mw;</entry>
         <entry>A</entry>
-        <entry>z</entry>
         <entry>;w</entry>
         <entry>e</entry>
         <entry>q</entry>
         <entry>w;w</entry>
-        <entry>j</entry>
-        <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
+        <entry>z</entry>
+        <entry>lw</entry>
+        <entry>j</entry>
+        <entry>action Forward</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
