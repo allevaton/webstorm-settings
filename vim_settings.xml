@@ -879,8 +879,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480965949499">
-        <mark key="'" line="48" column="22" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480967782732">
+        <mark key="'" line="65" column="20" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="57" column="21" />
         <mark key="." line="56" column="26" />
@@ -893,10 +893,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480956974068">
+      <file name="/Dummy.txt" timestamp="1480967812372">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1480964141554">
         <mark key="'" line="95" column="10" />
@@ -1005,7 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="45" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="47" column="16" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
@@ -1016,7 +1015,6 @@
       <jump line="42" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="50" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="51" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="12" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="35" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
@@ -1085,7 +1083,6 @@
       <jump line="94" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="95" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="49" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="56" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="49" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="13" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="53" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
@@ -1105,10 +1102,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="75" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="48" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="65" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>moda</text>
+        <text>action</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
