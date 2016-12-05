@@ -222,8 +222,8 @@
         <mark key="." line="60" column="21" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1480964312658">
-        <mark key="'" line="41" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1480965941417">
+        <mark key="'" line="75" column="4" />
         <mark key="[" line="34" column="43" />
         <mark key="]" line="34" column="53" />
         <mark key="." line="34" column="53" />
@@ -879,10 +879,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480964269910">
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="48" column="22" />
-        <mark key="]" line="48" column="52" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480965949499">
+        <mark key="'" line="48" column="22" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="57" column="21" />
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
@@ -996,8 +996,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" timestamp="1480964331899">
-        <mark key="'" line="30" column="6" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" timestamp="1480965939261">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="53" column="14" />
         <mark key="]" line="54" column="13" />
         <mark key="." line="54" column="13" />
@@ -1005,9 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="54" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="0" column="57" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="85" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="45" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1024,7 +1021,6 @@
       <jump line="35" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="36" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
-      <jump line="47" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="32" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
@@ -1094,17 +1090,21 @@
       <jump line="13" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="53" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="23" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="4" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="31" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
-      <jump line="48" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="49" column="18" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="34" column="53" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="41" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="54" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="30" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="47" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="75" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="48" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1113,8 +1113,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>store.modals.messageBox.waiting</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkFjY2VwdChlKSB7CiAgICAgICAgICAgICAgICAgICAgICAvLyBOT1RFOiB0aGUgYXJndW1lbnQgaGVyZSBpcyBhY3R1YWxseSByZXF1aXJlZCwgZXZlbiBpZiB1bnVzZWQuCiAgICAgICAgICAgICAgICAgICAgICAvLyBNb2JYIHdpbGwgdGhpbmsgaXQncyBhIGdldHRlciwgYW5kIGRlbGV0ZSB0aGUgZnVuY3Rpb24gYm9keS4KICAgICAgICAgICAgICAgICAgICAgIHN0b3JlLm1vZGFscy5tZXNzYWdlQm94LndhaXRpbmcgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgICAgc3RvcmUuZGVsZXRlQWRkcmVzcyhhZGRyZXNzLmlkKQogICAgICAgICAgICAgICAgICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgc3RvcmUubW9kYWxzLm1lc3NhZ2VCb3gud2FpdGluZyA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAgIHN0b3JlLmNsb3NlTWVzc2FnZUJveCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgICAgICAuY2F0Y2goKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgIHN0b3JlLm1vZGFscy5tZXNzYWdlQm94LndhaXRpbmcgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBsZXQgYWNjZXB0ID0gb25BY2NlcHQ7Cg==</text>
