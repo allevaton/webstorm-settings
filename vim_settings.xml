@@ -875,12 +875,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480958583681">
-        <mark key="'" line="43" column="72" />
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="73" />
-        <mark key="." line="43" column="28" />
-        <mark key="^" line="44" column="20" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" timestamp="1480959637944">
+        <mark key="'" line="43" column="46" />
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="46" />
+        <mark key="^" line="43" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Sidebar/Sidebar.less" timestamp="1480445440974">
         <mark key="'" line="5" column="2" />
@@ -992,17 +992,15 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" timestamp="1480958669777">
-        <mark key="'" line="8" column="2" />
-        <mark key="[" line="25" column="71" />
-        <mark key="]" line="26" column="3" />
-        <mark key="^" line="26" column="3" />
-        <mark key="." line="26" column="3" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" timestamp="1480960150439">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="35" column="71" />
+        <mark key="]" line="35" column="71" />
+        <mark key="." line="35" column="71" />
+        <mark key="^" line="35" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="228" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="245" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="143" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="41" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
@@ -1066,14 +1064,12 @@
       <jump line="80" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="0" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="25" column="33" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="18" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="26" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="37" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
-      <jump line="14" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="1" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="11" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="0" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
@@ -1093,18 +1089,22 @@
       <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="24" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
-      <jump line="43" column="72" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="25" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="8" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="43" column="46" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="35" column="71" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Are you sure you want to delete this?</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1113,35 +1113,35 @@
         <text>this.modals.messageBox</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRpdGxlU3R5bGU9eyFtZXNzYWdlID8gewogICAgICBiYWNrZ3JvdW5kQ29sb3I6ICd3aGl0ZScsCiAgICB9IDoge319Cg==</text>
+        <text encoding="base64">ICBjCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHN0b3JlLm1vZGFscy5tZXNzYWdlQm94Lm9wZW4gPSBmYWxzZTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc3RvcmUubW9kYWxzLm1lc3NhZ2VCb3gub3BlbiA9IGZhbHNlOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRpdGxlU3R5bGU9eyFtZXNzYWdlID8gewogICAgICBiYWNrZ3JvdW5kQ29sb3I6ICd3aGl0ZScsCiAgICB9IDoge319Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHRpdGxlPXt0aXRsZX0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>{
   }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGFjY2VwdFRleHQsCiAgICBjYW5jZWxUZXh0LAogICAgdGl0bGUsCiAgICBtZXNzYWdlID0gJycsCiAgICBvbkNhbmNlbCA9ICgpID0+IG51bGwsCiAgICBvbkFjY2VwdCA9ICgpID0+IG51bGwsCiAgICBjYW5DbGlja091dCA9IHRydWUsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgYWNjZXB0VGV4dCwKICAgICAgY2FuY2VsVGV4dCwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgdGl0bGUsCiAgICAgIG1lc3NhZ2UsCiAgICAgIG9uQ2FuY2VsLAogICAgICBvbkFjY2VwdCwKICAgICAgY2FuQ2xpY2tPdXQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBvbkFjY2VwdCwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjYW5jZWxUZXh0LAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1174,7 +1174,6 @@
         <entry>A</entry>
         <entry>;w</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>w;w</entry>
         <entry>z</entry>
         <entry>lw</entry>
@@ -1183,6 +1182,7 @@
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
