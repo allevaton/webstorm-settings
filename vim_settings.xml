@@ -847,10 +847,12 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" timestamp="1480974468732">
-        <mark key="'" line="22" column="6" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="35" column="26" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" timestamp="1481035845624">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/content.less" timestamp="1476807060820">
         <mark key="'" line="114" column="6" />
@@ -915,17 +917,17 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480975787029">
+      <file name="/Dummy.txt" timestamp="1481035989792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1481034846688">
-        <mark key="'" line="285" column="16" />
-        <mark key="[" line="139" column="40" />
-        <mark key="]" line="139" column="38" />
-        <mark key="." line="139" column="38" />
-        <mark key="^" line="139" column="38" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1481035980931">
+        <mark key="'" line="112" column="25" />
+        <mark key="[" line="112" column="25" />
+        <mark key="]" line="112" column="25" />
+        <mark key="." line="112" column="25" />
+        <mark key="^" line="112" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1027,11 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="75" column="6" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="66" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="65" column="6" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="14" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
@@ -1127,10 +1124,15 @@
       <jump line="283" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="266" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="285" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="28" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="48" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="111" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="112" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ship_legal</text>
+        <text>err</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1139,28 +1141,28 @@
         <text encoding="base64">ICAgICAgICBzZXRBc0JhbmtpbmdBZGRyZXNzOiBmbGFncy5zaGlwX2xlZ2FsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxTdHlsZT17e319Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsU3R5bGU9e3t9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxTdHlsZT17e319Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIG1hcmdpblRvcDogMjQKICAgICAgICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsU3R5bGU9e3t9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIG1hcmdpblRvcDogMjQKICAgICAgICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnNtYWxsLW1vZGFsIHsKICBAbWVkaWEgKG1pbi13aWR0aDogNzY3cHgpIHsKICAgIHdpZHRoOiAzNTBweCAhaW1wb3J0YW50OwogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgLm1lc3NhZ2UtYm94IHsKICAgIHdpZHRoOiAzNTBweCAhaW1wb3J0YW50OwogIH0K</text>
+        <text encoding="base64">LnNtYWxsLW1vZGFsIHsKICBAbWVkaWEgKG1pbi13aWR0aDogNzY3cHgpIHsKICAgIHdpZHRoOiAzNTBweCAhaW1wb3J0YW50OwogIH0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLm1lc3NhZ2UtYm94IHsKICAgIHdpZHRoOiAzNTBweCAhaW1wb3J0YW50OwogIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
