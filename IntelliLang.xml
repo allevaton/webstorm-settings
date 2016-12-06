@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="CSS" injector-id="xml">
+      <display-name>Modal/@bodyStyle</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("bodyStyle")).withParent(xmlTag().withLocalName(string().equalTo("Modal")))]]></place>
+    </injection>
   </component>
 </application>
