@@ -134,12 +134,12 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" timestamp="1480973803697">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="36" column="4" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" timestamp="1481061123966">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+        <mark key="^" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterFinish.js" timestamp="1479938670831">
         <mark key="'" line="54" column="8" />
@@ -522,8 +522,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" timestamp="1481060650930">
-        <mark key="'" line="42" column="9" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" timestamp="1481060796275">
+        <mark key="'" line="52" column="9" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -935,7 +935,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481060673446">
+      <file name="/Dummy.txt" timestamp="1481061125686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -1040,8 +1040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="283" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="327" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="308" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="291" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
@@ -1140,6 +1138,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
       <jump line="51" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
       <jump line="42" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="52" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="23" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1152,31 +1152,31 @@
         <text encoding="base64">ICAgICAgICAgICAqIEBwYXJhbSB7QWRkcmVzc30gYQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiA0OHB4Owo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGQK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiA0OHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGpqZGQK</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogJzkwdmgnLAogICAgICAgICAgbWF4SGVpZ2h0OiAnOTB2aCcsCiAgICAgICAgICBvdmVyZmxvdzogJ2F1dG8nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGpqZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmc6ICcwIDI0cHgnLAogICAgICAgICAgaGVpZ2h0OiAnOTB2aCcsCiAgICAgICAgICBtYXhIZWlnaHQ6ICc5MHZoJywKICAgICAgICAgIG92ZXJmbG93OiAnYXV0bycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogJzkwdmgnLAogICAgICAgICAgbWF4SGVpZ2h0OiAnOTB2aCcsCiAgICAgICAgICBvdmVyZmxvdzogJ2F1dG8nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmc6ICcwIDI0cHgnLAogICAgICAgICAgaGVpZ2h0OiAnOTB2aCcsCiAgICAgICAgICBtYXhIZWlnaHQ6ICc5MHZoJywKICAgICAgICAgIG92ZXJmbG93OiAnYXV0bycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBjb21wYXJlRm4gPSAoYSwgYikgPT4gdHJ1ZVZhbHVlcyhiLmZsYWdzKSAtIHRydWVWYWx1ZXMoYS5mbGFncyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB0cnVlVmFsdWVzID0gKGFkZHJlc3MpID0+IE9iamVjdC52YWx1ZXMoYWRkcmVzcykuZmlsdGVyKEJvb2xlYW4pLmxlbmd0aDsK</text>
+        <text encoding="base64">ICBjb25zdCBjb21wYXJlRm4gPSAoYSwgYikgPT4gdHJ1ZVZhbHVlcyhiLmZsYWdzKSAtIHRydWVWYWx1ZXMoYS5mbGFncyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0cnVlVmFsdWVzID0gKGFkZHJlc3MpID0+IE9iamVjdC52YWx1ZXMoYWRkcmVzcykuZmlsdGVyKEJvb2xlYW4pLmxlbmd0aDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
