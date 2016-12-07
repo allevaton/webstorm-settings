@@ -398,8 +398,8 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" timestamp="1481133533583">
-        <mark key="'" line="36" column="9" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" timestamp="1481133647829">
+        <mark key="'" line="12" column="2" />
         <mark key="[" line="36" column="10" />
         <mark key="]" line="36" column="9" />
         <mark key="." line="36" column="9" />
@@ -948,7 +948,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481132207419">
+      <file name="/Dummy.txt" timestamp="1481133544811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1060,7 +1060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="97" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="105" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
@@ -1113,7 +1112,6 @@
       <jump line="17" column="44" filename="$USER_HOME$/workspace/sls-react/src/components/App/Snackbar.less" />
       <jump line="20" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
       <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
-      <jump line="12" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
       <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
       <jump line="74" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
       <jump line="44" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
@@ -1160,10 +1158,12 @@
       <jump line="172" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
       <jump line="238" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
       <jump line="36" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
+      <jump line="32" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">QWRqdXN0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
