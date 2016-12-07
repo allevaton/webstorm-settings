@@ -148,12 +148,6 @@
         <mark key="^" line="58" column="7" />
         <mark key="." line="58" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.less" timestamp="1480974162193">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/SmallModal.less" timestamp="1480975269177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -531,11 +525,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" timestamp="1481060796275">
-        <mark key="'" line="52" column="9" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" timestamp="1481135905618">
+        <mark key="'" line="46" column="6" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/sortAddresses.js" timestamp="1481059338988">
         <mark key="'" line="17" column="0" />
@@ -1060,8 +1055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="105" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="110" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
@@ -1160,10 +1153,12 @@
       <jump line="36" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
       <jump line="32" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
       <jump line="12" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
+      <jump line="46" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">QWRqdXN0IA==</text>
+        <text encoding="base64">MCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1172,40 +1167,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdENvbmRlbnNlZD17dHJ1ZX0K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmdCb3R0b206IDI0LAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
             ...rootStyles.floatingLabelStyle,
             left: hasFocus || (!this.props.value) ? rootStyles.floatingLabelStyle.left : 0
           }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IiIgaWQ9IiI+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
             ...rootStyles.inputStyle,
             paddingRight: 40,
           }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdENvbmRlbnNlZD17dHJ1ZX0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
             ...styles.style,
             ...style
           }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0eWxlOiB7CiAgICAgIHdpZHRoOiAyODUsCiAgICB9LAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy50ZXh0RmllbGR9Cg==</text>
+        <text encoding="base64">ICAgIHN0eWxlOiB7CiAgICAgIHdpZHRoOiAyODUsCiAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
