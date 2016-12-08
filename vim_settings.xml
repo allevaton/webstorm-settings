@@ -906,12 +906,12 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" timestamp="1481229262335">
-        <mark key="'" line="45" column="16" />
-        <mark key="[" line="45" column="82" />
-        <mark key="]" line="45" column="98" />
-        <mark key="^" line="45" column="98" />
-        <mark key="." line="45" column="98" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" timestamp="1481229377819">
+        <mark key="'" line="46" column="16" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="36" />
+        <mark key="^" line="34" column="36" />
+        <mark key="." line="34" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/content.less" timestamp="1476807060820">
         <mark key="'" line="114" column="6" />
@@ -976,7 +976,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481229270367">
+      <file name="/Dummy.txt" timestamp="1481229468511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -1102,20 +1102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="17" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="2" column="32" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="20" column="7" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="17" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="12" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="29" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="23" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
-      <jump line="55" column="6" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
-      <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
       <jump line="18" column="24" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
       <jump line="68" column="14" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
@@ -1198,10 +1184,24 @@
       <jump line="37" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="50" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
-      <jump line="48" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="47" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
-      <jump line="45" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="268" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="42" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="34" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="23" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="58" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="41" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="44" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="48" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="62" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="79" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="40" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="45" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="46" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
