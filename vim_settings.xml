@@ -141,6 +141,13 @@
         <mark key="^" line="58" column="7" />
         <mark key="." line="58" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.less" timestamp="1481230456836">
+        <mark key="'" line="5" column="34" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/SmallModal.less" timestamp="1480975269177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -564,8 +571,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Header.less" timestamp="1481230325183">
-        <mark key="'" line="13" column="20" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Header.less" timestamp="1481230415513">
+        <mark key="'" line="17" column="10" />
         <mark key="[" line="12" column="23" />
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
@@ -980,7 +987,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481230370017">
+      <file name="/Dummy.txt" timestamp="1481231001978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1109,8 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="67" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="51" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
@@ -1202,17 +1207,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="23" column="46" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="275" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Header.less" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Header.less" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
       <jump line="13" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Header.less" />
+      <jump line="17" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Header.less" />
+      <jump line="4" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.less" />
+      <jump line="5" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.less" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ActionBu</text>
+        <text>bolder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
