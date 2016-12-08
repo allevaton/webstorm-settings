@@ -906,12 +906,12 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" timestamp="1481058580808">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="24" />
-        <mark key="." line="36" column="24" />
-        <mark key="^" line="28" column="3" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" timestamp="1481229190572">
+        <mark key="'" line="45" column="98" />
+        <mark key="[" line="45" column="82" />
+        <mark key="]" line="45" column="98" />
+        <mark key="^" line="45" column="98" />
+        <mark key="." line="45" column="98" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/content.less" timestamp="1476807060820">
         <mark key="'" line="114" column="6" />
@@ -976,12 +976,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481228569531">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="93" />
-        <mark key="." line="0" column="93" />
+      <file name="/Dummy.txt" timestamp="1481229206268">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1481228832620">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1481228896245">
         <mark key="'" line="245" column="10" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1102,12 +1102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="157" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="177" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="54" column="6" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
-      <jump line="37" column="2" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
-      <jump line="3" column="20" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
       <jump line="16" column="48" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
       <jump line="22" column="17" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
@@ -1202,10 +1196,16 @@
       <jump line="279" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="262" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="245" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="37" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="50" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="48" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="45" column="98" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>filte</text>
+        <text>sh</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1214,10 +1214,10 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIHN0b3JlLnBvc3RBZGRyZXNzQ3JlYXRpb24ocGF5bG9hZCkKICAgICAgICAudGhlbihyZXN1bHQgPT4gewogICAgICAgICAgaWYgKHJlc3VsdC5hZGRyZXNzICYmIHJlc3VsdC5hZGRyZXNzLmlkKSB7CiAgICAgICAgICAgIHJldHVybiBvblN1Y2Nlc3NmdWxTdWJtaXQocmVzdWx0KTsKICAgICAgICAgIH0KICAgICAgICB9KQogICAgICAgIC5jYXRjaCh0aGlzLmhhbmRsZUVycm9ycyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdG9KUyB9IGZyb20gJ21vYngnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9ID0gcHJvcHMuYWRkcmVzc09iamVjdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1226,19 +1226,19 @@
         <text encoding="base64">aW1wb3J0IHsgdG9KUyB9IGZyb20gJ21vYngnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdG9KUyB9IGZyb20gJ21vYngnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB9ID0gcHJvcHMuYWRkcmVzc09iamVjdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNhbml0aXplIGZyb20gJy4uLy4uLy4uL3V0aWxzL3Nhbml0aXplJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JvZHknLCBib2R5KTsKICAgICAgY29uc29sZS5sb2coJ3Nhbml0aXplZCBib2R5Jywgb3B0aW9ucy5ib2R5KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgdG9KUyB9IGZyb20gJ21vYngnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdib2R5Jywgb3B0aW9ucy5ib2R5KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgdG9KUyB9IGZyb20gJ21vYngnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5wcmV2LAogICAgICAgIFtrZXldOiBmaWx0ZXIobmV4dE9iamVjdCkKICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHNhbml0aXplIGZyb20gJy4uLy4uLy4uL3V0aWxzL3Nhbml0aXplJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
