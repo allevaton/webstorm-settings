@@ -40,7 +40,7 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1481225805991">
+      <file name="/a.dummy" timestamp="1481229264200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/Investor.less" timestamp="1476902494240">
@@ -906,8 +906,8 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" timestamp="1481229190572">
-        <mark key="'" line="45" column="98" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" timestamp="1481229262335">
+        <mark key="'" line="45" column="16" />
         <mark key="[" line="45" column="82" />
         <mark key="]" line="45" column="98" />
         <mark key="^" line="45" column="98" />
@@ -976,17 +976,17 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481229206268">
-        <mark key="[" line="0" column="31" />
+      <file name="/Dummy.txt" timestamp="1481229270367">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1481228896245">
-        <mark key="'" line="245" column="10" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1481229269301">
+        <mark key="'" line="268" column="40" />
+        <mark key="[" line="268" column="40" />
+        <mark key="]" line="268" column="40" />
         <mark key="^" line="72" column="28" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="268" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1102,7 +1102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="48" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
       <jump line="22" column="17" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
       <jump line="2" column="32" filename="$USER_HOME$/workspace/sls-react/src/utils/nullify.js" />
@@ -1198,14 +1197,15 @@
       <jump line="245" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="37" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="50" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
       <jump line="48" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
-      <jump line="45" column="98" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="47" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="45" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.js" />
+      <jump line="268" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>sh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
