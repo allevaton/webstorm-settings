@@ -988,17 +988,17 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481297186298">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1481297246973">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1481231199796">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="23" column="15" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1481297226709">
+        <mark key="'" line="100" column="34" />
+        <mark key="[" line="100" column="29" />
+        <mark key="]" line="100" column="34" />
+        <mark key="^" line="100" column="34" />
+        <mark key="." line="100" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1117,13 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="84" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="374" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="29" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="26" column="15" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="34" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="9" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
@@ -1217,10 +1210,17 @@
       <jump line="62" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="41" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="58" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="84" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="68" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="96" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="98" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="99" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="100" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>modal</text>
+        <text encoding="base64">QWRkcmVzcyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
