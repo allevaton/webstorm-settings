@@ -82,12 +82,12 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" timestamp="1481219206946">
-        <mark key="'" line="201" column="0" />
-        <mark key="[" line="217" column="30" />
-        <mark key="]" line="217" column="41" />
-        <mark key="^" line="217" column="41" />
-        <mark key="." line="217" column="41" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" timestamp="1481310049695">
+        <mark key="'" line="220" column="14" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="^" line="211" column="41" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" timestamp="1480617834691">
         <mark key="'" line="17" column="6" />
@@ -611,9 +611,6 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/FormPage.less" timestamp="1481145576843">
-        <mark key="'" line="18" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressModal.less" timestamp="1480622408951">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="21" />
@@ -1004,9 +1001,6 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/routes.js" timestamp="1481229974093">
-        <mark key="'" line="23" column="46" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" timestamp="1480444409731">
         <mark key="'" line="33" column="27" />
         <mark key="[" line="31" column="45" />
@@ -1127,9 +1121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="85" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="102" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="136" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
@@ -1227,6 +1218,9 @@
       <jump line="50" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="62" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
       <jump line="54" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
+      <jump line="204" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="224" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
+      <jump line="220" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1239,31 +1233,31 @@
         <text encoding="base64">ICAgICAgaGVpZ2h0OiAyNHB4OwogICAgICB3aWR0aDogMjRweDsKICAgICAgbWFyZ2luOiA4cHg7CiAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgLmNsZWFyZml4OwoKICAgICAgZywgcGF0aCB7CiAgICAgICAgZmlsbDogI2Q4ZDhkODsKICAgICAgICBvcGFjaXR5OiAwLjk7CiAgICAgICAgLnRyYW5zaXRpb24oZmlsbCAwLjNzKTsKICAgICAgfQoKICAgICAgJjpob3ZlciB7CiAgICAgICAgZywgcGF0aCB7CiAgICAgICAgICBmaWxsOiAjNDlhZmUyOwogICAgICAgICAgb3BhY2l0eTogMTsKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQmx1cj17dGhpcy5oYW5kbGVWYWxpZGF0ZUVtYWlsfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQmx1cj17dGhpcy5oYW5kbGVWYWxpZGF0ZVVzZXJuYW1lfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQmx1cj17dGhpcy5oYW5kbGVWYWxpZGF0ZVBhc3N3b3JkfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5hZGRyZXNzLXRpbGUtLWZvb3Rlci0tYnV0dG9uIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdENvbmRlbnNlZD17dHJ1ZX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdENvbmRlbnNlZD17dHJ1ZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdENvbmRlbnNlZD17dHJ1ZX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDhweDsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
