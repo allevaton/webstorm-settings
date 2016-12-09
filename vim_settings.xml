@@ -127,8 +127,8 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" timestamp="1481231210404">
-        <mark key="'" line="34" column="8" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" timestamp="1481234923750">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="24" />
         <mark key="]" line="29" column="25" />
         <mark key="." line="29" column="25" />
@@ -987,10 +987,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481233123634">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1481233146041">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1481231199796">
         <mark key="'" line="17" column="0" />
@@ -1116,8 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="27" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="6" column="12" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
@@ -1216,10 +1214,12 @@
       <jump line="6" column="2" filename="$USER_HOME$/workspace/sls-react/src/constants/MuiTheme.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/constants/MuiTheme.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/constants/MuiTheme.js" />
+      <jump line="39" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressTile.less" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>#b7b7b7</text>
+        <text>wra</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
