@@ -659,12 +659,12 @@
         <mark key="^" line="73" column="36" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/styles/modal.less" timestamp="1481317782270">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="31" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="96" column="28" />
+      <file name="$USER_HOME$/workspace/sls-react/src/styles/modal.less" timestamp="1481319616151">
+        <mark key="'" line="50" column="31" />
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="31" />
+        <mark key="." line="50" column="31" />
+        <mark key="^" line="50" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Header.js" timestamp="1475681733129">
         <mark key="'" line="0" column="0" />
@@ -1091,11 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
-      <jump line="136" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
-      <jump line="204" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
-      <jump line="221" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
-      <jump line="215" column="31" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
       <jump line="220" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
       <jump line="224" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
       <jump line="207" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterForm.js" />
@@ -1176,9 +1171,6 @@
       <jump line="73" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="99" column="8" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="69" column="10" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="59" column="8" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="64" column="6" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="83" column="2" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
@@ -1188,13 +1180,21 @@
       <jump line="81" column="6" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="108" column="2" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="74" column="2" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="86" column="19" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="74" column="23" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="72" column="6" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="69" column="19" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="68" column="16" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="65" column="9" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="54" column="21" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="58" column="10" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="70" column="8" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="50" column="31" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>;</text>
+        <text>90</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
