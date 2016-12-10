@@ -157,6 +157,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1481344556624">
+        <mark key="'" line="198" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.js" timestamp="1481297054894">
         <mark key="'" line="41" column="14" />
         <mark key="[" line="42" column="31" />
@@ -660,7 +663,8 @@
         <mark key="^" line="73" column="36" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/styles/modal.less" timestamp="1481344412528">
+      <file name="$USER_HOME$/workspace/sls-react/src/styles/modal.less" timestamp="1481344453071">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="35" />
         <mark key="]" line="17" column="34" />
         <mark key="." line="17" column="34" />
@@ -1090,13 +1094,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="17" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
-      <jump line="24" column="15" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
-      <jump line="54" column="10" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
-      <jump line="15" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
-      <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="1" column="1" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
@@ -1187,9 +1184,16 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="68" column="8" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="51" column="6" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="55" column="34" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="258" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="255" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="232" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="215" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="182" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="198" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1269,6 +1273,7 @@
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
+        <entry>JM;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
