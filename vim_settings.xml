@@ -508,12 +508,11 @@
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordForm.js" timestamp="1481219145398">
-        <mark key="'" line="122" column="12" />
-        <mark key="[" line="111" column="24" />
-        <mark key="]" line="112" column="34" />
-        <mark key="^" line="112" column="34" />
-        <mark key="." line="112" column="34" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordForm.js" timestamp="1481554691534">
+        <mark key="'" line="109" column="16" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="36" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/api/request.js" timestamp="1480442003169">
         <mark key="'" line="19" column="0" />
@@ -653,13 +652,6 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1481553687979">
-        <mark key="'" line="131" column="2" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="119" column="1" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -758,10 +750,10 @@
         <mark key="." line="170" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/api/api.js" timestamp="1481315829914">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" timestamp="1477425243899">
         <mark key="'" line="40" column="12" />
@@ -1098,7 +1090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/sanitize.js" />
       <jump line="382" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="509" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="464" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1198,6 +1189,7 @@
       <jump line="100" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Login/FavoriteSports.js" />
       <jump line="94" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Login/FavoriteSports.js" />
       <jump line="91" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/FavoriteSports.js" />
+      <jump line="109" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1210,31 +1202,31 @@
         <text encoding="base64">ICAgKiBAcHJvcGVydHkge2Jvb2xlYW59IGF2YWlsYWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG9Db21wbGV0ZT0iZW1haWwiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBAbmFtZSBDYXRlZ29yeQogICAqIEB0eXBlIG9iamVjdAogICAqIEBwcm9wZXJ0eSB7bnVtYmVyfSBpZAogICAqIEBwcm9wZXJ0eSB7c3RyaW5nfSBuYW1lCiAgICogQHByb3BlcnR5IHtzdHJpbmd8bnVsbH0gc2x1ZwogICAqIEBwcm9wZXJ0eSB7Ym9vbGVhbn0gYXZhaWxhYmxlCiAgICogQHByb3BlcnR5IHtib29sZWFufSBmZWF0dXJlZAogICAqLwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBAbmFtZSBDYXRlZ29yeQogICAqIEB0eXBlIG9iamVjdAogICAqIEBwcm9wZXJ0eSB7bnVtYmVyfSBpZAogICAqIEBwcm9wZXJ0eSB7c3RyaW5nfSBuYW1lCiAgICogQHByb3BlcnR5IHtzdHJpbmd8bnVsbH0gc2x1ZwogICAqIEBwcm9wZXJ0eSB7Ym9vbGVhbn0gYXZhaWxhYmxlCiAgICogQHByb3BlcnR5IHtib29sZWFufSBmZWF0dXJlZAogICAqLwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgLyoqCiAgICoKICAgKiBAdHlwZSB7QXJyYXk8Q2F0ZWdvcnk+fQogICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBsaXN0T2ZDYXRlZ29yaWVzID0gW107Cg==</text>
+        <text encoding="base64">CiAgLyoqCiAgICoKICAgKiBAdHlwZSB7QXJyYXk8Q2F0ZWdvcnk+fQogICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKgogICB7CiAgICAgImlkIjogMTQ2LAogICAgICJuYW1lIjogImNhdGVnb3J5MyIsCiAgICAgInNsdWciOiBudWxsLAogICAgICJhdmFpbGFibGUiOiB0cnVlLAogICAgICJmZWF0dXJlZCI6IGZhbHNlCiAgIH0sCg==</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBsaXN0T2ZDYXRlZ29yaWVzID0gW107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJi5ub3RpdGxlIHsKICAgICAgICBtYXgtaGVpZ2h0OiAxMDB2aCAhaW1wb3J0YW50OwogICAgICAgIGhlaWdodDogMTAwdmggIWltcG9ydGFudDsKICAgICAgICBwYWRkaW5nOiAwICFpbXBvcnRhbnQ7CgogICAgICAgICYgPiBkaXYgPiBkaXYgewogICAgICAgICAgbWF4LWhlaWdodDogMTAwdmggIWltcG9ydGFudDsKICAgICAgICAgIGhlaWdodDogMTAwdmggIWltcG9ydGFudDsKICAgICAgICB9CiAgICAgIH0KCiAgICAgICYuaGFzdGl0bGUgewogICAgICAgIG1heC1oZWlnaHQ6IDkwdmggIWltcG9ydGFudDsKICAgICAgICBoZWlnaHQ6IDkwdmggIWltcG9ydGFudDsKCiAgICAgICAgJiA+IGRpdiB7CiAgICAgICAgICBoZWlnaHQ6IDEwMHZoICFpbXBvcnRhbnQ7CiAgICAgICAgfQoKICAgICAgICAmID4gZGl2ID4gZGl2IHsKICAgICAgICAgIG1heC1oZWlnaHQ6IDkwdmggIWltcG9ydGFudDsKICAgICAgICAgIGhlaWdodDogOTB2aCAhaW1wb3J0YW50OwogICAgICAgICAgcGFkZGluZzogMCAyNHB4IDQ4cHggIWltcG9ydGFudDsKICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgKgogICB7CiAgICAgImlkIjogMTQ2LAogICAgICJuYW1lIjogImNhdGVnb3J5MyIsCiAgICAgInNsdWciOiBudWxsLAogICAgICJhdmFpbGFibGUiOiB0cnVlLAogICAgICJmZWF0dXJlZCI6IGZhbHNlCiAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJi5ub3RpdGxlIHsKICAgICAgICBtYXgtaGVpZ2h0OiAxMDB2aCAhaW1wb3J0YW50OwogICAgICAgIGhlaWdodDogMTAwdmggIWltcG9ydGFudDsKICAgICAgICBwYWRkaW5nOiAwICFpbXBvcnRhbnQ7CgogICAgICAgICYgPiBkaXYgPiBkaXYgewogICAgICAgICAgbWF4LWhlaWdodDogMTAwdmggIWltcG9ydGFudDsKICAgICAgICAgIGhlaWdodDogMTAwdmggIWltcG9ydGFudDsKICAgICAgICB9CiAgICAgIH0KCiAgICAgICYuaGFzdGl0bGUgewogICAgICAgIG1heC1oZWlnaHQ6IDkwdmggIWltcG9ydGFudDsKICAgICAgICBoZWlnaHQ6IDkwdmggIWltcG9ydGFudDsKCiAgICAgICAgJiA+IGRpdiB7CiAgICAgICAgICBoZWlnaHQ6IDEwMHZoICFpbXBvcnRhbnQ7CiAgICAgICAgfQoKICAgICAgICAmID4gZGl2ID4gZGl2IHsKICAgICAgICAgIG1heC1oZWlnaHQ6IDkwdmggIWltcG9ydGFudDsKICAgICAgICAgIGhlaWdodDogOTB2aCAhaW1wb3J0YW50OwogICAgICAgICAgcGFkZGluZzogMCAyNHB4IDQ4cHggIWltcG9ydGFudDsKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1258,7 +1250,6 @@
         <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>Mw;</entry>
         <entry>e</entry>
