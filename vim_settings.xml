@@ -402,8 +402,8 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.js" timestamp="1481828240472">
-        <mark key="'" line="40" column="28" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.js" timestamp="1481828312053">
+        <mark key="'" line="38" column="0" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="42" column="9" />
         <mark key="^" line="24" column="48" />
@@ -751,8 +751,8 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" timestamp="1481828207474">
-        <mark key="'" line="294" column="24" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" timestamp="1481828317831">
+        <mark key="'" line="274" column="4" />
         <mark key="[" line="294" column="25" />
         <mark key="]" line="294" column="24" />
         <mark key="." line="294" column="24" />
@@ -1018,10 +1018,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481827245725">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="/Dummy.txt" timestamp="1481828243789">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
@@ -1145,9 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="12" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="174" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="177" column="10" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="166" column="34" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="169" column="39" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
@@ -1200,7 +1197,6 @@
       <jump line="179" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="176" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="34" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.js" />
       <jump line="24" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.js" />
       <jump line="328" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="312" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
@@ -1245,10 +1241,14 @@
       <jump line="294" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="14" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.less" />
       <jump line="40" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.js" />
+      <jump line="308" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="325" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="274" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>name</text>
+        <text>mages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
