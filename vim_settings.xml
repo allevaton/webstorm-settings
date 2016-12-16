@@ -708,12 +708,12 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1481827238908">
-        <mark key="'" line="176" column="6" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="176" column="39" />
-        <mark key="." line="176" column="39" />
-        <mark key="^" line="176" column="39" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1481907806892">
+        <mark key="'" line="552" column="8" />
+        <mark key="[" line="608" column="0" />
+        <mark key="]" line="608" column="0" />
+        <mark key="." line="608" column="0" />
+        <mark key="^" line="574" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -724,9 +724,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sls-react/public/react-routes.conf" timestamp="1481571142435">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/styles/modal.less" timestamp="1481735804711">
         <mark key="'" line="17" column="0" />
@@ -1156,26 +1153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentPage.js" />
-      <jump line="52" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentPage.js" />
-      <jump line="85" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentPage.js" />
-      <jump line="67" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="0" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="51" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="35" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="97" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="16" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/TileContainer.less" />
-      <jump line="41" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="76" column="88" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="14" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="39" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="65" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
-      <jump line="26" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/TileContainer.less" />
       <jump line="20" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/TileContainer.less" />
       <jump line="21" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/TileContainer.less" />
       <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/TileContainer.less" />
@@ -1256,6 +1233,26 @@
       <jump line="26" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
       <jump line="39" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
       <jump line="56" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
+      <jump line="571" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="577" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="575" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="541" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="609" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="608" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="604" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="638" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="634" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="617" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="600" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="603" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="601" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="584" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="567" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="574" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="581" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="570" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="553" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="552" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1268,31 +1265,31 @@
         <text encoding="base64">ICAgICAgICA8ZGl2CiAgICAgICAgICBjbGFzc05hbWU9ImFkZHJlc3MtdGlsZS0tZm9vdGVyLS1idXR0b24iCiAgICAgICAgICBvbkNsaWNrPXtvbkVkaXRDbGlja30KICAgICAgICA+CiAgICAgICAgICA8U1ZHCiAgICAgICAgICAgIG1hcmt1cD17RWRpdEljb259CiAgICAgICAgICAgIGRhdGEtbGFiZWw9IkVkaXQiCiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2CiAgICAgICAgICBjbGFzc05hbWU9ImFkZHJlc3MtdGlsZS0tZm9vdGVyLS1idXR0b24iCiAgICAgICAgICBvbkNsaWNrPXtvbkRlbGV0ZUNsaWNrfQogICAgICAgID4KICAgICAgICAgIDxTVkcKICAgICAgICAgICAgbWFya3VwPXtEZWxldGVJY29ufQogICAgICAgICAgICBkYXRhLWxhYmVsPSJSZW1vdmUiCiAgICAgICAgICAvPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgLnRpbGUtLWZvb3RlciB7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50X21ldGhvZDogewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDRweDsKICAgIGJvcmRlci1ib3R0b20tcmlnaHQtcmFkaXVzOiA0cHg7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjhmOGY4OwogICAgYm9yZGVyLXRvcDogc29saWQgMXB4ICNkOGQ4ZDg7CiAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgIHBhZGRpbmctcmlnaHQ6IDhweDsKICAgIGhlaWdodDogNDBweDsK</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50X21ldGhvZDogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAmID4gZGl2IHsKICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAudGlsZS0tZm9vdGVyLS1idXR0b24gewogICAgICBoZWlnaHQ6IDI0cHg7CiAgICAgIHdpZHRoOiAyNHB4OwogICAgICBtYXJnaW46IDhweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAuY2xlYXJmaXg7CgogICAgICBnLCBwYXRoIHsKICAgICAgICBmaWxsOiAjZDhkOGQ4OwogICAgICAgIG9wYWNpdHk6IDAuOTsKICAgICAgICAudHJhbnNpdGlvbihmaWxsIDAuM3MpOwogICAgICB9CgogICAgICAmOmhvdmVyIHsKICAgICAgICBnLCBwYXRoIHsKICAgICAgICAgIGZpbGw6ICM0OWFmZTI7CiAgICAgICAgICBvcGFjaXR5OiAxOwogICAgICAgIH0KICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">CiAgLnRpbGUtLWZvb3RlciB7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuYWRkcmVzcy10aWxlLS1mb290ZXIgewogICAgdGV4dC1hbGlnbjogY2VudGVyOwoKICAgIEBtZWRpYSAobWluLXdpZHRoOiA3NjdweCkgewogICAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgICAgcGFkZGluZy1yaWdodDogOHB4OwoKICAgICAgLmFkZHJlc3MtdGlsZS0tZm9vdGVyLS1idXR0b24gewogICAgICAgIGhlaWdodDogMjRweDsKICAgICAgICB3aWR0aDogMjRweDsKICAgICAgICBtYXJnaW46IDhweDsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgIC5jbGVhcmZpeDsKCiAgICAgICAgZywgcGF0aCB7CiAgICAgICAgICBmaWxsOiAjZDhkOGQ4OwogICAgICAgICAgb3BhY2l0eTogMC45OwogICAgICAgICAgLnRyYW5zaXRpb24oZmlsbCAwLjNzKTsKICAgICAgICB9CgogICAgICAgICY6aG92ZXIgewogICAgICAgICAgZywgcGF0aCB7CiAgICAgICAgICAgIGZpbGw6ICM0OWFmZTI7CiAgICAgICAgICAgIG9wYWNpdHk6IDE7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9CgogICAgQG1lZGlhIChtYXgtd2lkdGg6IDc2N3B4KSB7CiAgICAgIC5hZGRyZXNzLXRpbGUtLWZvb3Rlci0tYnV0dG9uIHsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIHdpZHRoOiA1MCU7CiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgIGhlaWdodDogaW5oZXJpdDsKICAgICAgICBwYWRkaW5nLXRvcDogOHB4OwogICAgICAgIGZvbnQtc2l6ZTogMC44NzVyZW07CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgICAgLnRyYW5zaXRpb24oY29sb3IgMC4wNXMsIGJhY2tncm91bmQtY29sb3IgMC4xcyk7CgogICAgICAgIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNkOGQ4ZDg7CgogICAgICAgICY6bGFzdC1jaGlsZCB7CiAgICAgICAgICBib3JkZXItcmlnaHQ6IG5vbmU7CiAgICAgICAgfQoKICAgICAgICAmID4gZGl2IHsKICAgICAgICAgIGRpc3BsYXk6IGlubGluZTsKCiAgICAgICAgICAmOmFmdGVyIHsKICAgICAgICAgICAgY29udGVudDogYXR0cihkYXRhLWxhYmVsKTsKICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiA4cHg7CiAgICAgICAgICB9CgogICAgICAgICAgJiA+IHN2ZyB7CiAgICAgICAgICAgIGhlaWdodDogMjRweDsKICAgICAgICAgICAgd2lkdGg6IDI0cHg7CiAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBnLCBwYXRoIHsKICAgICAgICAgIGZpbGw6ICNkOGQ4ZDg7CiAgICAgICAgICBvcGFjaXR5OiAwLjk7CiAgICAgICAgICAudHJhbnNpdGlvbihmaWxsIDAuMXMpOwogICAgICAgIH0KCiAgICAgICAgJjpob3ZlciB7CiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjNDlhZmUyOwogICAgICAgICAgY29sb3I6IHdoaXRlOwoKICAgICAgICAgIGcsIHBhdGggewogICAgICAgICAgICBmaWxsOiB3aGl0ZTsKICAgICAgICAgICAgb3BhY2l0eTogMTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuYWRkcmVzcy10aWxlLS1mb290ZXIgewogICAgdGV4dC1hbGlnbjogY2VudGVyOwoKICAgIEBtZWRpYSAobWluLXdpZHRoOiA3NjdweCkgewogICAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgICAgcGFkZGluZy1yaWdodDogOHB4OwoKICAgICAgLmFkZHJlc3MtdGlsZS0tZm9vdGVyLS1idXR0b24gewogICAgICAgIGhlaWdodDogMjRweDsKICAgICAgICB3aWR0aDogMjRweDsKICAgICAgICBtYXJnaW46IDhweDsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgIC5jbGVhcmZpeDsKCiAgICAgICAgZywgcGF0aCB7CiAgICAgICAgICBmaWxsOiAjZDhkOGQ4OwogICAgICAgICAgb3BhY2l0eTogMC45OwogICAgICAgICAgLnRyYW5zaXRpb24oZmlsbCAwLjNzKTsKICAgICAgICB9CgogICAgICAgICY6aG92ZXIgewogICAgICAgICAgZywgcGF0aCB7CiAgICAgICAgICAgIGZpbGw6ICM0OWFmZTI7CiAgICAgICAgICAgIG9wYWNpdHk6IDE7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9CgogICAgQG1lZGlhIChtYXgtd2lkdGg6IDc2N3B4KSB7CiAgICAgIC5hZGRyZXNzLXRpbGUtLWZvb3Rlci0tYnV0dG9uIHsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIHdpZHRoOiA1MCU7CiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgIGhlaWdodDogaW5oZXJpdDsKICAgICAgICBwYWRkaW5nLXRvcDogOHB4OwogICAgICAgIGZvbnQtc2l6ZTogMC44NzVyZW07CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgICAgLnRyYW5zaXRpb24oY29sb3IgMC4wNXMsIGJhY2tncm91bmQtY29sb3IgMC4xcyk7CgogICAgICAgIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNkOGQ4ZDg7CgogICAgICAgICY6bGFzdC1jaGlsZCB7CiAgICAgICAgICBib3JkZXItcmlnaHQ6IG5vbmU7CiAgICAgICAgfQoKICAgICAgICAmID4gZGl2IHsKICAgICAgICAgIGRpc3BsYXk6IGlubGluZTsKCiAgICAgICAgICAmOmFmdGVyIHsKICAgICAgICAgICAgY29udGVudDogYXR0cihkYXRhLWxhYmVsKTsKICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiA4cHg7CiAgICAgICAgICB9CgogICAgICAgICAgJiA+IHN2ZyB7CiAgICAgICAgICAgIGhlaWdodDogMjRweDsKICAgICAgICAgICAgd2lkdGg6IDI0cHg7CiAgICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBnLCBwYXRoIHsKICAgICAgICAgIGZpbGw6ICNkOGQ4ZDg7CiAgICAgICAgICBvcGFjaXR5OiAwLjk7CiAgICAgICAgICAudHJhbnNpdGlvbihmaWxsIDAuMXMpOwogICAgICAgIH0KCiAgICAgICAgJjpob3ZlciB7CiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjNDlhZmUyOwogICAgICAgICAgY29sb3I6IHdoaXRlOwoKICAgICAgICAgIGcsIHBhdGggewogICAgICAgICAgICBmaWxsOiB3aGl0ZTsKICAgICAgICAgICAgb3BhY2l0eTogMTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDRweDsKICAgIGJvcmRlci1ib3R0b20tcmlnaHQtcmFkaXVzOiA0cHg7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjhmOGY4OwogICAgYm9yZGVyLXRvcDogc29saWQgMXB4ICNkOGQ4ZDg7CiAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgIHBhZGRpbmctcmlnaHQ6IDhweDsKICAgIGhlaWdodDogNDBweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8U1ZHCiAgICAgICAgICBjbGFzc05hbWU9InRpbGUtLWZvb3Rlci0tYnV0dG9uIgogICAgICAgICAgbWFya3VwPXtFZGl0SWNvbn0KICAgICAgICAgIG9uQ2xpY2s9e29uRWRpdENsaWNrfQogICAgICAgIC8+CgogICAgICAgIDxTVkcKICAgICAgICAgIGNsYXNzTmFtZT0idGlsZS0tZm9vdGVyLS1idXR0b24iCiAgICAgICAgICBtYXJrdXA9e0RlbGV0ZUljb259CiAgICAgICAgICBvbkNsaWNrPXtvbkRlbGV0ZUNsaWNrfQogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">CiAgICAmID4gZGl2IHsKICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
