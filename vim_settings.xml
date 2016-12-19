@@ -399,12 +399,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" timestamp="1482164529318">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="1" />
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" timestamp="1482165367578">
+        <mark key="'" line="17" column="15" />
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/.gitignore" timestamp="1479750010562">
         <mark key="'" line="13" column="0" />
@@ -1023,8 +1023,8 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482164609220">
-        <mark key="[" line="0" column="53" />
+      <file name="/Dummy.txt" timestamp="1482165408297">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="53" />
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="65" />
@@ -1157,11 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="204" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="221" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="223" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="240" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="241" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="259" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="242" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
@@ -1246,7 +1241,6 @@
       <jump line="327" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="225" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="13" column="11" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
       <jump line="285" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
@@ -1257,10 +1251,16 @@
       <jump line="295" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="281" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="296" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
+      <jump line="1" column="68" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
+      <jump line="17" column="15" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>alth</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1272,25 +1272,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXltZW50T2JqZWN0KSB7CiAgICAgIGxldCBbY2FyZFR5cGVdID0gdGhpcy5zdGF0ZS5jYXJkTnVtYmVyRGlzcGxheS5zcGxpdCgnOicpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChwYXltZW50T2JqZWN0KSB7CiAgICAgIGxldCBbY2FyZFR5cGVdID0gdGhpcy5zdGF0ZS5jYXJkTnVtYmVyRGlzcGxheS5zcGxpdCgnOicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChjYXJkc1dpdGhJbWFnZXMuaW5jbHVkZXMobmFtZSkpCiAgICAgIHJldHVybiByZXF1aXJlKGAuLi9pbWFnZXMvc2V0dGluZ3MvJHtuYW1lfUAyeC5wbmdgKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjYXJkc1dpdGhJbWFnZXMuaW5jbHVkZXMobmFtZSkpCiAgICAgIHJldHVybiByZXF1aXJlKGAuLi9pbWFnZXMvc2V0dGluZ3MvJHtuYW1lfUAyeC5wbmdgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
