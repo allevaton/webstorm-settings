@@ -165,8 +165,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/getCCTypeFromNumber.js" timestamp="1482268375359">
-        <mark key="'" line="42" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/getCCTypeFromNumber.js" timestamp="1482268947838">
+        <mark key="'" line="76" column="24" />
         <mark key="[" line="70" column="14" />
         <mark key="]" line="70" column="15" />
         <mark key="." line="70" column="15" />
@@ -760,12 +760,12 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" timestamp="1482268806015">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="156" column="9" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" timestamp="1482268961898">
+        <mark key="'" line="304" column="51" />
+        <mark key="[" line="304" column="50" />
+        <mark key="]" line="304" column="51" />
+        <mark key="." line="304" column="51" />
+        <mark key="^" line="304" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.less" timestamp="1481316039634">
         <mark key="'" line="4" column="0" />
@@ -1040,7 +1040,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482268836693">
+      <file name="/Dummy.txt" timestamp="1482268986600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
@@ -1180,9 +1180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
-      <jump line="62" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
-      <jump line="172" column="42" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="58" column="5" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
       <jump line="12" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
       <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
@@ -1271,19 +1268,22 @@
       <jump line="309" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="292" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="258" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="275" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="224" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="166" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="157" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="161" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="154" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="155" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="156" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="151" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="76" column="24" filename="$USER_HOME$/workspace/sls-react/src/utils/getCCTypeFromNumber.js" />
+      <jump line="156" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="275" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="315" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="304" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>60</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
