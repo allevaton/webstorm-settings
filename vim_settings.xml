@@ -763,10 +763,10 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" timestamp="1482259432489">
-        <mark key="'" line="403" column="55" />
-        <mark key="[" line="403" column="46" />
-        <mark key="]" line="403" column="55" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" timestamp="1482259566148">
+        <mark key="'" line="404" column="18" />
+        <mark key="[" line="436" column="0" />
+        <mark key="]" line="436" column="47" />
         <mark key="." line="403" column="55" />
         <mark key="^" line="403" column="55" />
       </file>
@@ -1044,17 +1044,17 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482259455782">
+      <file name="/Dummy.txt" timestamp="1482259596011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1482258751623">
-        <mark key="'" line="343" column="16" />
-        <mark key="[" line="355" column="0" />
-        <mark key="]" line="355" column="0" />
-        <mark key="." line="355" column="0" />
-        <mark key="^" line="307" column="32" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1482259572775">
+        <mark key="'" line="368" column="15" />
+        <mark key="[" line="367" column="12" />
+        <mark key="]" line="368" column="15" />
+        <mark key="." line="368" column="15" />
+        <mark key="^" line="368" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1184,8 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="53" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
       <jump line="46" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
       <jump line="29" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
       <jump line="12" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
@@ -1279,11 +1277,13 @@
       <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/getCCTypeFromNumber.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/getCCTypeFromNumber.js" />
       <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/getCCTypeFromNumber.js" />
-      <jump line="404" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="233" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="108" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="438" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="403" column="55" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="421" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="404" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="368" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1293,7 +1293,7 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWx1ZSA9IHZhbHVlLnJlcGxhY2UoL1teMC05XC9cc10vZ2ksICcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT17e3RleHRBbGlnbjogJ2NlbnRlcid9fT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
