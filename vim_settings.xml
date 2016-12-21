@@ -44,7 +44,7 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1482261492878">
+      <file name="/a.dummy" timestamp="1482331368798">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -466,6 +466,12 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" timestamp="1482331896481">
+        <mark key="'" line="12" column="10" />
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/bootstrap.config.js" timestamp="1474665985060">
         <mark key="'" line="26" column="4" />
         <mark key="[" line="22" column="17" />
@@ -742,11 +748,11 @@
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" timestamp="1482267446756">
-        <mark key="'" line="93" column="10" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" timestamp="1482331761901">
+        <mark key="'" line="84" column="10" />
+        <mark key="[" line="92" column="41" />
+        <mark key="]" line="92" column="41" />
+        <mark key="." line="92" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/UserStatus.js" timestamp="1475169587958">
         <mark key="'" line="17" column="0" />
@@ -1035,10 +1041,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482269138449">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1482332496509">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1482269367038">
         <mark key="'" line="226" column="4" />
@@ -1128,12 +1134,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" timestamp="1482329688774">
-        <mark key="'" line="21" column="24" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="21" column="24" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" timestamp="1482331863187">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/api/api.js" timestamp="1476886296622">
         <mark key="'" line="13" column="0" />
@@ -1172,25 +1177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
-      <jump line="70" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
-      <jump line="87" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
-      <jump line="42" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
-      <jump line="76" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
-      <jump line="75" column="48" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
-      <jump line="93" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
-      <jump line="172" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="155" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="68" column="10" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="63" column="10" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="187" column="18" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="109" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="104" column="2" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/getCreditCardImage.js" />
-      <jump line="39" column="26" filename="$USER_HOME$/workspace/sls-react/src/utils/getCCTypeFromNumber.js" />
-      <jump line="45" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/getCCTypeFromNumber.js" />
       <jump line="170" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="388" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="439" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
@@ -1272,43 +1258,62 @@
       <jump line="328" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="226" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="21" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
+      <jump line="92" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
+      <jump line="13" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
+      <jump line="58" column="5" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
+      <jump line="95" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
+      <jump line="8" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
+      <jump line="100" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
+      <jump line="90" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
+      <jump line="101" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
+      <jump line="89" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
+      <jump line="84" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextField.js" />
+      <jump line="18" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
+      <jump line="24" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
+      <jump line="25" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
+      <jump line="12" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">Zm9ybSA=</text>
+        <text encoding="base64">ZmxvYXRpbmcg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e2UgPT4gdGhpcy51cGRhdGVDcmVkaXRDYXJkKGUudGFyZ2V0LnZhbHVlKX0K</text>
+        <text encoding="base64">ICAgICAgZm9udFNpemU6IHRleHRGaWVsZFN0eWxlcy5mbG9hdGluZ0xhYmVsRm9jdXNTdHlsZS5mb250U2l6ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlLCBjY1R5cGUpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGZvbnRTaXplOiAnMC43NXJlbScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2NUeXBlID0gZ2V0Q0NUeXBlRnJvbU51bWJlcih2YWx1ZSk7CiAgICB9CiAgICBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgZm9udFNpemU6IHRleHRGaWVsZFN0eWxlcy5mbG9hdGluZ0xhYmVsU3R5bGUuZm9udFNpemUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmbG9hdGluZ0xhYmVsU2hyaW5rUwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGNjVHlwZS50eXBlKSB7CiAgICAgICAgbGV0IHNwbGl0ID0gdmFsdWUuc3BsaXQoY2NUeXBlLmZvcm1hdCk7CiAgICAgICAgaWYgKHNwbGl0ICYmIHNwbGl0Lmxlbmd0aCA+IDIpIHsKICAgICAgICAgIGZvcm1hdHRlZENDID0gc3BsaXQKICAgICAgICAgICAgLmZpbHRlcihzID0+IEJvb2xlYW4ocyAmJiBzLnRyaW0oKSkpCiAgICAgICAgICAgIC5tYXAocyA9PiBzLnRyaW0oKSkKICAgICAgICAgICAgLmpvaW4oJyAnKTsKICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvbnRTaXplOiAnMC43NXJlbScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9udFNpemU6ICcwLjYyNXJlbScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNjVHlwZSA9IGdldENDVHlwZUZyb21OdW1iZXIodmFsdWUpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlLCBjY1R5cGUpOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY2NUeXBlID0gZ2V0Q0NUeXBlRnJvbU51bWJlcih2YWx1ZSk7CiAgICB9CiAgICBlbHNlIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2FyZE51bWJlcjogZm9ybWF0dGVkQ0MsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
