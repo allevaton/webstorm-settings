@@ -434,12 +434,12 @@
         <mark key="." line="0" column="63" />
         <mark key="^" line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1482446713518">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1482446814665">
         <mark key="'" line="10" column="12" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="56" />
+        <mark key="^" line="40" column="56" />
+        <mark key="." line="40" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/.gitignore" timestamp="1479750010562">
         <mark key="'" line="13" column="0" />
@@ -1085,10 +1085,10 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482438403454">
-        <mark key="[" line="0" column="67" />
-        <mark key="]" line="0" column="67" />
-        <mark key="." line="0" column="67" />
+      <file name="/Dummy.txt" timestamp="1482446744038">
+        <mark key="[" line="0" column="72" />
+        <mark key="]" line="0" column="72" />
+        <mark key="." line="0" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1321,7 +1321,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>urlObject</text>
+        <text>itemSlug.split('-')[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
