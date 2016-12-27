@@ -190,7 +190,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1482422387866" />
       <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" timestamp="1481215636071">
         <mark key="'" line="65" column="15" />
         <mark key="[" line="56" column="26" />
@@ -476,12 +475,12 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" timestamp="1482437653485">
-        <mark key="'" line="26" column="19" />
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-        <mark key="^" line="26" column="29" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" timestamp="1482847668158">
+        <mark key="'" line="26" column="36" />
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/bootstrap.config.js" timestamp="1474665985060">
         <mark key="'" line="26" column="4" />
@@ -786,6 +785,7 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" timestamp="1482847119448" />
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/SelectField.less" timestamp="1481316039634">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
@@ -1272,7 +1272,6 @@
       <jump line="30" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
       <jump line="37" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
       <jump line="25" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
-      <jump line="26" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
       <jump line="675" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="648" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="614" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1318,6 +1317,7 @@
       <jump line="3" column="68" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="13" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="10" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="26" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/textFieldStyles.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1327,7 +1327,7 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSI6aXRlbUlkLTppdGVtU2x1ZyoqIiBjb21wb25lbnQ9e0l0ZW1EZXRhaWxzUGFnZX0vPgo=</text>
+        <text encoding="base64">ICAgIGJvcmRlckJvdHRvbTogJzJweCBzb2xpZCAjNGFhZmUyJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgKiBAcGFyYW0ge0xvY2F0aW9ufSB1cmxPYmplY3QK</text>
@@ -1379,7 +1379,6 @@
         <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w;w</entry>
         <entry>z</entry>
         <entry>lw</entry>
         <entry>w;</entry>
