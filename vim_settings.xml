@@ -384,12 +384,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/TestPage/TestPage.js" timestamp="1482941094616">
-        <mark key="'" line="26" column="89" />
-        <mark key="[" line="26" column="85" />
-        <mark key="]" line="26" column="89" />
-        <mark key="." line="26" column="89" />
-        <mark key="^" line="26" column="89" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/TestPage/TestPage.js" timestamp="1482946915366">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="97" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="96" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Tile/Tile.js" timestamp="1481564104310">
         <mark key="'" line="6" column="28" />
@@ -461,11 +461,11 @@
         <mark key="." line="147" column="26" />
         <mark key="^" line="147" column="116" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" timestamp="1482944515434">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" timestamp="1482946872012">
+        <mark key="'" line="66" column="32" />
+        <mark key="[" line="66" column="32" />
+        <mark key="]" line="66" column="33" />
+        <mark key="." line="66" column="33" />
         <mark key="^" line="29" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.less" timestamp="1477065946764">
@@ -1240,8 +1240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
-      <jump line="1" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="2" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="7" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="3" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
@@ -1340,6 +1338,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="40" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="66" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="29" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/TestPage/TestPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1349,7 +1349,7 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3R5bGU9e3sKICAgICAgICAuLi5sb2FkZXJTdHlsZSwKICAgICAgICBvdXRlclN0eWxlCiAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2h0dHBzOi8vaW1hZ2VzLnNpZGVsaW5lc3dhcC5jb20vcHJvZHVjdGlvbi8wMDAvNjI5Lzg1NS8zZGM5ZThkMTI0ZDMzNTY3X3RodW1iLmpwZWcnLAogICAgICAgICAgICAnaHR0cHM6Ly9pbWFnZXMuc2lkZWxpbmVzd2FwLmNvbS9wcm9kdWN0aW9uLzAwMC82MjkvODU2L2I3NmQzMjM3NDhhNDJlODZfdGh1bWIuanBlZycsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgc3RhcnRMb2FkaW5nID0gKCkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIC4uLnRoaXMuc3RhdGUsCiAgICAgIGltYWdlTG9hZGluZzogdHJ1ZQogICAgfSkKICB9Owo=</text>
