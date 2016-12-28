@@ -433,6 +433,12 @@
         <mark key="." line="0" column="63" />
         <mark key="^" line="0" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1482954369472">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="6" />
+        <mark key="." line="54" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/.gitignore" timestamp="1479750010562">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="18" column="0" />
@@ -737,13 +743,6 @@
         <mark key="]" line="23" column="20" />
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1482951138346">
-        <mark key="'" line="672" column="36" />
-        <mark key="[" line="672" column="36" />
-        <mark key="]" line="672" column="36" />
-        <mark key="^" line="436" column="3" />
-        <mark key="." line="672" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -1230,8 +1229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
       <jump line="57" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="40" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
       <jump line="39" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
@@ -1284,7 +1281,6 @@
       <jump line="71" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="70" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="60" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
-      <jump line="0" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="5" column="43" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="62" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1303,7 +1299,6 @@
       <jump line="15" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="33" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="83" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
@@ -1330,6 +1325,10 @@
       <jump line="70" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="72" column="49" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="87" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="54" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="48" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
