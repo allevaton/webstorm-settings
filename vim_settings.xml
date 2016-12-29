@@ -332,13 +332,6 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" timestamp="1481230318959">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="38" column="22" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentModal.js" timestamp="1482268035186">
         <mark key="'" line="13" column="23" />
         <mark key="[" line="12" column="16" />
@@ -699,8 +692,8 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1483030259250">
-        <mark key="'" line="83" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1483030502562">
+        <mark key="'" line="109" column="8" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -716,12 +709,12 @@
         <mark key="[" line="358" column="0" />
         <mark key="]" line="362" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1483030176944">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1483032730548">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="62" column="44" />
+        <mark key="]" line="62" column="49" />
+        <mark key="." line="62" column="49" />
+        <mark key="^" line="62" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/npm-debug.log" timestamp="1482954871189">
         <mark key="[" line="17" column="0" />
@@ -896,8 +889,8 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" timestamp="1480962981925">
-        <mark key="'" line="8" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" timestamp="1483032050538">
+        <mark key="'" line="0" column="40" />
         <mark key="[" line="6" column="62" />
         <mark key="]" line="6" column="62" />
         <mark key="." line="6" column="62" />
@@ -1032,10 +1025,13 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="35" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483030260403">
+      <file name="/Dummy.txt" timestamp="1483032731775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1483030526637">
+        <mark key="'" line="325" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1107,12 +1103,11 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" timestamp="1483029617738">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="15" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" timestamp="1483032609652">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/formValidation.js" timestamp="1479752621489">
         <mark key="'" line="0" column="0" />
@@ -1172,88 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="25" column="20" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="51" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="57" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="40" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="10" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="17" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="56" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="42" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="59" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="9" column="31" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="7" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="3" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="28" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="7" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="3" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="23" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="37" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="11" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="14" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="29" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="12" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="10" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="26" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="39" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="64" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="22" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="41" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="5" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="60" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="63" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="23" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="81" column="38" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="58" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="75" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="3" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="20" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="6" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="10" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
-      <jump line="59" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
-      <jump line="51" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="17" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="36" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="74" column="44" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="18" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="24" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="8" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="32" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="86" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="92" column="24" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="54" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentPage.js" />
       <jump line="33" column="15" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="50" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentPage.js" />
       <jump line="35" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
@@ -1272,43 +1185,125 @@
       <jump line="70" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="88" column="26" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="83" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="98" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="92" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="109" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="325" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="8" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="30" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="31" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="60" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="46" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="24" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="7" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="8" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="51" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="64" column="71" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="53" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="23" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="14" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="44" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="45" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="68" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="67" column="42" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="72" column="44" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="57" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="58" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="63" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="69" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="61" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="66" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="80" column="66" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="82" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="60" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="27" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="68" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="59" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="48" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="39" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="91" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="87" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="55" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="75" column="48" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="54" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="65" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="6" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
+      <jump line="0" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
+      <jump line="27" column="31" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.less" />
+      <jump line="74" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="56" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="100" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="70" column="47" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="53" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="49" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="61" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="95" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="99" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="76" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="93" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="19" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="122" column="1" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="143" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="147" column="18" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
+      <jump line="98" column="59" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>rgba(0, 0, 0, 0.7)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFNWRyBmcm9tICcuLi9TVkcnOwppbXBvcnQgQ2xvc2VTVkcgZnJvbSAnLi4vLi4vaW1hZ2VzL2ljLWNsb3NlLnN2Zyc7Cg==</text>
+        <text encoding="base64">ICAgIHN2ZyBnIHsKICAgICAgZmlsbDogcmdiYSgwLCAwLCAwLCAwLjcpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge2Z1bmN0aW9ufSBvbkFjY2VwdAogICAqIEBwYXJhbSB7ZnVuY3Rpb259IG9uQ2FuY2VsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb25BY2NlcHQ6IG9uQWNjZXB0LAogICAgICBvbkNhbmNlbDogb25DYW5jZWwsCg==</text>
+        <text encoding="base64">CiAgICBib2R5IHsKICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gPERPIFlPVVIgV09SSyBIRVJFPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8UmFpc2VkQnV0dG9uIGxhYmVsPSJPcGVuIExpZ2h0Ym94IiBvbkNsaWNrPXt0aGlzLnRvZ2dsZUxpZ2h0Ym94fS8+CiAgICAgICAgPEltYWdlTGlnaHRib3gKICAgICAgICAgIGluZGV4PXswfQogICAgICAgICAgaXRlbT17aXRlbX0KICAgICAgICAgIG9uQ2xpY2tCdXlOb3c9eygpID0+IG51bGx9CiAgICAgICAgICBvbkNsaWNrRmF2b3JpdGU9eygpID0+IG51bGx9CiAgICAgICAgICBvbkNsaWNrTWFrZU9mZmVyPXsoKSA9PiBudWxsfQogICAgICAgICAgb25SZXF1ZXN0Q2xvc2U9e3RoaXMudG9nZ2xlTGlnaHRib3h9CiAgICAgICAgICBvcGVuPXt0aGlzLnN0YXRlLmxpZ2h0Ym94T3Blbn0KICAgICAgICAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChlLmtleUNvZGUgPT0gMjcpIHsgLy8gZXNjYXBlIGtleSBtYXBzIHRvIGtleWNvZGUgYDI3YAogICAgICAgIC8vIDxETyBZT1VSIFdPUksgSEVSRT4KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByaWdodDogMDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgeyFpdGVtRXJyb3IKICAgICAgICAgID8gPGRpdj4KICAgICAgICAgICAgPGJyLz4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICBJdGVtIGRhdGE6PGJyLz4KICAgICAgICAgICAgICA8cHJlPntKU09OLnN0cmluZ2lmeShzdG9yZS5pdGVtcy5jdXJyZW50KS5yZXBsYWNlKC8sL2csICcsXG4nKX08L3ByZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDogPGI+SXRlbSBub3QgZm91bmQhPC9iPn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
