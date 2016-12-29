@@ -395,6 +395,13 @@
         <mark key="." line="0" column="63" />
         <mark key="^" line="0" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1483032820182">
+        <mark key="'" line="97" column="4" />
+        <mark key="[" line="72" column="17" />
+        <mark key="]" line="73" column="11" />
+        <mark key="." line="73" column="11" />
+        <mark key="^" line="73" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/.gitignore" timestamp="1479750010562">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="18" column="0" />
@@ -1033,6 +1040,10 @@
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1483030526637">
         <mark key="'" line="325" column="23" />
       </file>
+      <file name="/ItemDetailsPage.js" timestamp="1483032801594">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="77" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="19" />
@@ -1167,9 +1178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="15" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
-      <jump line="50" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentPage.js" />
-      <jump line="35" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="41" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressPage.js" />
       <jump line="41" column="60" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="38" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
@@ -1267,6 +1275,9 @@
       <jump line="147" column="18" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="98" column="59" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="90" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="97" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1276,31 +1287,31 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN2ZyBnIHsKICAgICAgZmlsbDogcmdiYSgwLCAwLCAwLCAwLjcpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxSYWlzZWRCdXR0b24gbGFiZWw9Ik9wZW4gTGlnaHRib3giIG9uQ2xpY2s9e3RoaXMudG9nZ2xlTGlnaHRib3h9Lz4KICAgICAgICAgIDxJbWFnZUxpZ2h0Ym94CiAgICAgICAgICAgIGluZGV4PXswfQogICAgICAgICAgICBpdGVtPXtpdGVtfQogICAgICAgICAgICBvbkNsaWNrQnV5Tm93PXsoKSA9PiBudWxsfQogICAgICAgICAgICBvbkNsaWNrRmF2b3JpdGU9eygpID0+IG51bGx9CiAgICAgICAgICAgIG9uQ2xpY2tNYWtlT2ZmZXI9eygpID0+IG51bGx9CiAgICAgICAgICAgIG9uUmVxdWVzdENsb3NlPXt0aGlzLnRvZ2dsZUxpZ2h0Ym94fQogICAgICAgICAgICBvcGVuPXt0aGlzLnN0YXRlLmxpZ2h0Ym94T3Blbn0KICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBib2R5IHsKICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGl0ZW0gPSBzdG9yZS5pdGVtcy5jdXJyZW50Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8UmFpc2VkQnV0dG9uIGxhYmVsPSJPcGVuIExpZ2h0Ym94IiBvbkNsaWNrPXt0aGlzLnRvZ2dsZUxpZ2h0Ym94fS8+CiAgICAgICAgPEltYWdlTGlnaHRib3gKICAgICAgICAgIGluZGV4PXswfQogICAgICAgICAgaXRlbT17aXRlbX0KICAgICAgICAgIG9uQ2xpY2tCdXlOb3c9eygpID0+IG51bGx9CiAgICAgICAgICBvbkNsaWNrRmF2b3JpdGU9eygpID0+IG51bGx9CiAgICAgICAgICBvbkNsaWNrTWFrZU9mZmVyPXsoKSA9PiBudWxsfQogICAgICAgICAgb25SZXF1ZXN0Q2xvc2U9e3RoaXMudG9nZ2xlTGlnaHRib3h9CiAgICAgICAgICBvcGVuPXt0aGlzLnN0YXRlLmxpZ2h0Ym94T3Blbn0KICAgICAgICAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBib2R5IHsKICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEkK</text>
+        <text encoding="base64">ICAgICAgICA8UmFpc2VkQnV0dG9uIGxhYmVsPSJPcGVuIExpZ2h0Ym94IiBvbkNsaWNrPXt0aGlzLnRvZ2dsZUxpZ2h0Ym94fS8+CiAgICAgICAgPEltYWdlTGlnaHRib3gKICAgICAgICAgIGluZGV4PXswfQogICAgICAgICAgaXRlbT17aXRlbX0KICAgICAgICAgIG9uQ2xpY2tCdXlOb3c9eygpID0+IG51bGx9CiAgICAgICAgICBvbkNsaWNrRmF2b3JpdGU9eygpID0+IG51bGx9CiAgICAgICAgICBvbkNsaWNrTWFrZU9mZmVyPXsoKSA9PiBudWxsfQogICAgICAgICAgb25SZXF1ZXN0Q2xvc2U9e3RoaXMudG9nZ2xlTGlnaHRib3h9CiAgICAgICAgICBvcGVuPXt0aGlzLnN0YXRlLmxpZ2h0Ym94T3Blbn0KICAgICAgICAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
