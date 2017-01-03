@@ -42,7 +42,7 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1483115624404">
+      <file name="/a.dummy" timestamp="1483477346930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -145,8 +145,10 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.client.js" timestamp="1483471935685">
+      <file name="$USER_HOME$/workspace/sls-react/webpack.client.js" timestamp="1483477158874">
         <mark key="'" line="56" column="37" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/SmallModal.less" timestamp="1480975269177">
         <mark key="[" line="0" column="0" />
@@ -793,6 +795,11 @@
         <mark key="^" line="115" column="13" />
         <mark key="." line="21" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/shipitfile.js" timestamp="1483477170982">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="80" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/FavoriteSports.js" timestamp="1482186375109">
         <mark key="'" line="104" column="14" />
         <mark key="[" line="72" column="25" />
@@ -1049,9 +1056,6 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1483030526637">
-        <mark key="'" line="325" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="19" />
@@ -1187,13 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Items.js" />
-      <jump line="12" column="34" filename="$USER_HOME$/workspace/sls-react/src/store/Items.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
-      <jump line="25" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
-      <jump line="28" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
-      <jump line="59" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
-      <jump line="14" column="23" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
       <jump line="17" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Items.js" />
       <jump line="15" column="11" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
@@ -1287,6 +1284,13 @@
       <jump line="24" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.less" />
       <jump line="25" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.less" />
       <jump line="10" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentTile.less" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/shipitfile.js" />
+      <jump line="85" column="8" filename="$USER_HOME$/workspace/sls-react/shipitfile.js" />
+      <jump line="117" column="2" filename="$USER_HOME$/workspace/sls-react/shipitfile.js" />
+      <jump line="153" column="2" filename="$USER_HOME$/workspace/sls-react/shipitfile.js" />
+      <jump line="149" column="2" filename="$USER_HOME$/workspace/sls-react/shipitfile.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/shipitfile.js" />
+      <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/shipitfile.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1296,7 +1300,7 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnBheW1lbnQtdGlsZS0tYm9keS0tbmFtZSB7CiAgbGluZS1oZWlnaHQ6IDI0cHg7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgcGFkZGluZy1ib3R0b206IDhweDsKfQo=</text>
+        <text encoding="base64">ICBjb25zdCBkZXBsb3llciA9IGV4ZWNTeW5jKCdnaXQgY29uZmlnIHVzZXIubmFtZScsIHtlbmNvZGluZzogJ1VURi04J30pLnRyaW0oKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
