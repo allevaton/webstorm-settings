@@ -395,13 +395,6 @@
         <mark key="." line="0" column="63" />
         <mark key="^" line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1483461631671">
-        <mark key="'" line="58" column="49" />
-        <mark key="[" line="112" column="49" />
-        <mark key="]" line="112" column="49" />
-        <mark key="." line="112" column="49" />
-        <mark key="^" line="112" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/.gitignore" timestamp="1479750010562">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="18" column="0" />
@@ -719,12 +712,12 @@
         <mark key="^" line="73" column="36" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1483111286640">
-        <mark key="'" line="100" column="6" />
-        <mark key="[" line="136" column="8" />
-        <mark key="]" line="136" column="7" />
-        <mark key="." line="136" column="7" />
-        <mark key="^" line="136" column="7" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1483467339743">
+        <mark key="'" line="102" column="6" />
+        <mark key="[" line="102" column="33" />
+        <mark key="]" line="102" column="33" />
+        <mark key="." line="102" column="33" />
+        <mark key="^" line="102" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Header.js" timestamp="1475681733129">
         <mark key="'" line="0" column="0" />
@@ -1026,10 +1019,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483461734575">
+      <file name="/Dummy.txt" timestamp="1483467359299">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1483030526637">
         <mark key="'" line="325" column="23" />
@@ -1108,13 +1101,6 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" timestamp="1483048699611">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="76" column="37" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/formValidation.js" timestamp="1479752621489">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
@@ -1173,12 +1159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="138" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="104" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="87" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="70" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="82" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="99" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="100" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="4" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1273,16 +1253,22 @@
       <jump line="84" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="67" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="58" column="49" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
+      <jump line="148" column="100" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="125" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="101" column="66" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="102" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">JHthcnJbMF19IA==</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">T2JqZWN0LmVudHJpZXMocmVzdCkubWFwKGFyciA9PiBgJHthcnJbMF19ICR7YXJyWzFdfWApLmpvaW4oJyAnKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBvdmVyZmxvdy15OiBoaWRkZW47Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxldCBrZXl3b3JkcyA9IE9iamVjdC5lbnRyaWVzKGl0ZW1UYWdzKS5tYXAoYXJyID0+IGAke2FyclswXX0gJHthcnJbMV19YCkuam9pbignICcpOwo=</text>
