@@ -145,10 +145,12 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.client.js" timestamp="1483477158874">
-        <mark key="'" line="56" column="37" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="86" />
+      <file name="$USER_HOME$/workspace/sls-react/webpack.client.js" timestamp="1483539251612">
+        <mark key="'" line="91" column="8" />
+        <mark key="[" line="89" column="7" />
+        <mark key="]" line="91" column="33" />
+        <mark key="." line="91" column="33" />
+        <mark key="^" line="91" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/SmallModal.less" timestamp="1480975269177">
         <mark key="[" line="0" column="0" />
@@ -1190,7 +1192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="24" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="74" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="48" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1290,10 +1291,11 @@
       <jump line="324" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="355" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="353" column="52" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
+      <jump line="91" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">J319Pg==</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
