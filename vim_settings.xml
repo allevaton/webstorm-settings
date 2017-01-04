@@ -427,12 +427,12 @@
         <mark key="." line="147" column="26" />
         <mark key="^" line="147" column="116" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" timestamp="1483556930288">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" timestamp="1483557904969">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.less" timestamp="1477065946764">
         <mark key="'" line="11" column="2" />
@@ -1209,14 +1209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="373" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="356" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="339" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="322" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="305" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="288" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
-      <jump line="254" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="237" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="220" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="203" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
@@ -1303,12 +1295,20 @@
       <jump line="85" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" />
       <jump line="61" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
-      <jump line="78" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
-      <jump line="95" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="102" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="88" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="9" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="68" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="95" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="78" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="85" column="47" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="60" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="94" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="43" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1321,31 +1321,31 @@
         <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBAZGVmYXVsdC1jb2xvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiAxMDAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC1vLXVzZXItc2VsZWN0OiBub25lOwo=</text>
+        <text encoding="base64">Y29uc3QgVmlydHVhbGl6ZVN3aXBlYWJsZVZpZXdzID0gdmlydHVhbGl6ZShTd2lwZWFibGVWaWV3cyk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC1raHRtbC11c2VyLXNlbGVjdDogbm9uZTsK</text>
+        <text encoding="base64">Y29uc3QgVmlydHVhbGl6ZVN3aXBlYWJsZVZpZXdzID0gdmlydHVhbGl6ZShTd2lwZWFibGVWaWV3cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5zZWxlCg==</text>
+        <text encoding="base64">ICB6LWluZGV4OiAxMDAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBib3JkZXI6IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgIC1vLXVzZXItc2VsZWN0OiBub25lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1jb2xvcjoK</text>
+        <text encoding="base64">ICAgIC1raHRtbC11c2VyLXNlbGVjdDogbm9uZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDAgc29saWQgQGRlZmF1bHQtY29sb3I7Cg==</text>
+        <text encoding="base64">ICAgIC5zZWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib3JkZXItY29sb3I6IEBkZWZhdWx0LWNvbG9yOwo=</text>
+        <text encoding="base64">ICBib3JkZXI6IG5vbmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHJlZC1jb2xvcjoK</text>
+        <text encoding="base64">ICAgIGJvcmRlci1jb2xvcjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
