@@ -745,12 +745,12 @@
         <mark key="^" line="73" column="36" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1483635895420">
-        <mark key="'" line="59" column="20" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="59" column="43" />
-        <mark key="." line="60" column="3" />
-        <mark key="^" line="60" column="3" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1483638271413">
+        <mark key="'" line="90" column="74" />
+        <mark key="[" line="90" column="71" />
+        <mark key="]" line="90" column="74" />
+        <mark key="." line="90" column="74" />
+        <mark key="^" line="90" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Header.js" timestamp="1475681733129">
         <mark key="'" line="0" column="0" />
@@ -1061,7 +1061,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483635962492">
+      <file name="/Dummy.txt" timestamp="1483638283892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -1212,7 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="136" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="119" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="102" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1295,7 +1294,6 @@
       <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="57" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="63" column="54" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="91" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="108" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
@@ -1312,16 +1310,18 @@
       <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="48" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="43" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="90" column="74" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>m</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBzb3VyY2UgPSB0aGlzLnByb3BzLml0ZW0uaW1hZ2VzW2luZGV4ICUgdGhpcy5wcm9wcy5pdGVtLmltYWdlcy5sZW5ndGhdOwogICAgc291cmNlID0gc291cmNlID8gc291cmNlLmxhcmdlX3VybCA6ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmludGVyY29tLWxhdW5jaGVyLWZyYW1lJykuc3R5bGUuZGlzcGxheSA9ICdub25lJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNvdXJjZSA9IHNvdXJjZSA/IHNvdXJjZTogJyc7Cg==</text>
