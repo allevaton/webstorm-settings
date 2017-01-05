@@ -428,12 +428,12 @@
         <mark key="." line="147" column="26" />
         <mark key="^" line="147" column="116" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" timestamp="1483635214707">
-        <mark key="'" line="99" column="66" />
-        <mark key="[" line="99" column="79" />
-        <mark key="]" line="99" column="79" />
-        <mark key="^" line="46" column="63" />
-        <mark key="." line="99" column="79" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" timestamp="1483635949017">
+        <mark key="'" line="43" column="6" />
+        <mark key="[" line="43" column="54" />
+        <mark key="]" line="43" column="54" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="43" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.less" timestamp="1477065946764">
         <mark key="'" line="11" column="2" />
@@ -745,12 +745,12 @@
         <mark key="^" line="73" column="36" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1483635311101">
-        <mark key="'" line="68" column="18" />
-        <mark key="[" line="68" column="13" />
-        <mark key="]" line="68" column="18" />
-        <mark key="." line="68" column="18" />
-        <mark key="^" line="68" column="18" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1483635895420">
+        <mark key="'" line="59" column="20" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="59" column="43" />
+        <mark key="." line="60" column="3" />
+        <mark key="^" line="60" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Header.js" timestamp="1475681733129">
         <mark key="'" line="0" column="0" />
@@ -1061,8 +1061,8 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483635403731">
-        <mark key="[" line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1483635962492">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
@@ -1212,14 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="44" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="76" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="64" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="47" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.less" />
-      <jump line="136" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
-      <jump line="671" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="681" column="25" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
       <jump line="136" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="119" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1312,43 +1304,51 @@
       <jump line="99" column="66" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="60" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
       <jump line="68" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="129" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="113" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="59" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="48" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="43" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>cucling</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>this.props.item.images[index % this.props.item.images.length]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxldCBzb3VyY2UgPSB0aGlzLnByb3BzLml0ZW0uaW1hZ2VzW2luZGV4ICUgdGhpcy5wcm9wcy5pdGVtLmltYWdlcy5sZW5ndGhdOwogICAgc291cmNlID0gc291cmNlID8gc291cmNlLmxhcmdlX3VybCA6ICcnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHNvdXJjZSA9IHNvdXJjZSA/IHNvdXJjZTogJyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLml0ZW0uaW1hZ2VzLmxlbmd0aCA+IDApCg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmJvZHkuY2xhc3NMaXN0LnJlbW92ZSgnaW50ZXJjb20taGlkZGVuJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbGlkZUNvdW50PXtpdGVtLmltYWdlcy5sZW5ndGh9Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQuYm9keS5jbGFzc0xpc3QuYWRkKCdpbnRlcmNvbS1oaWRkZW4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChpbmRleCA+PSAwICYmIGluZGV4IDwgdGhpcy5wcm9wcy5pdGVtLmltYWdlcy5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChpbmRleCA+PSAwICYmIGluZGV4IDwgdGhpcy5wcm9wcy5pbWFnZXMubGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLml0ZW0uaW1hZ2VzLmxlbmd0aCA+IDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qc2xpZGVDb3VudD17aW1hZ2VzLmxlbmd0aH0qL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzbGlkZUNvdW50PXtpdGVtLmltYWdlcy5sZW5ndGh9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdldEl0ZW1EZXRhaWxzKGl0ZW1JZCwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChpbmRleCA+PSAwICYmIGluZGV4IDwgdGhpcy5wcm9wcy5pdGVtLmltYWdlcy5sZW5ndGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gVE9ETyBBUEkgY2FsbCBoZXJlCg==</text>
+        <text encoding="base64">ICAgIGlmIChpbmRleCA+PSAwICYmIGluZGV4IDwgdGhpcy5wcm9wcy5pbWFnZXMubGVuZ3RoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qc2xpZGVDb3VudD17aW1hZ2VzLmxlbmd0aH0qL30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
