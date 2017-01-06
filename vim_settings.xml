@@ -495,8 +495,8 @@
         <mark key="^" line="28" column="22" />
         <mark key="." line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/HeaderContainer.js" timestamp="1483715401447">
-        <mark key="'" line="56" column="46" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/HeaderContainer.js" timestamp="1483721037179">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="56" column="42" />
         <mark key="]" line="56" column="46" />
         <mark key="." line="56" column="46" />
@@ -545,12 +545,12 @@
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1483717754428">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="41" column="7" />
-        <mark key="^" line="41" column="7" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1483721294500">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="110" column="8" />
+        <mark key="]" line="111" column="7" />
+        <mark key="." line="111" column="7" />
+        <mark key="^" line="111" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Tile/TileFooter.js" timestamp="1481564143623">
         <mark key="'" line="3" column="0" />
@@ -747,6 +747,9 @@
         <mark key="]" line="22" column="25" />
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" timestamp="1483721295965">
+        <mark key="'" line="28" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/TeamMember.less" timestamp="1477424349194">
         <mark key="'" line="0" column="0" />
@@ -1165,15 +1168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="60" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="53" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="36" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="58" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="91" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="8" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
       <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
       <jump line="9" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" />
@@ -1213,7 +1207,6 @@
       <jump line="37" column="58" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="51" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="38" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
       <jump line="107" column="7" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
@@ -1258,13 +1251,23 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/isImageLoaded.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/isImageLoaded.js" />
       <jump line="9" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/isImageLoaded.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
       <jump line="26" column="69" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
       <jump line="94" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="89" column="71" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="121" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="74" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/HeaderContainer.js" />
+      <jump line="19" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
+      <jump line="95" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="110" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="68" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="85" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="102" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="28" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
