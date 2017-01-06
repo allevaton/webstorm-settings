@@ -735,6 +735,13 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" timestamp="1483717848052">
+        <mark key="'" line="42" column="12" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="13" />
+        <mark key="^" line="36" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/TeamMember.less" timestamp="1477424349194">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="0" />
@@ -1009,10 +1016,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483717755737">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="/Dummy.txt" timestamp="1483717857146">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="58" />
+        <mark key="." line="0" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1149,11 +1156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
-      <jump line="70" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
-      <jump line="75" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
-      <jump line="85" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="19" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
       <jump line="83" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
       <jump line="81" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
@@ -1249,10 +1251,15 @@
       <jump line="51" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="36" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
+      <jump line="38" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
+      <jump line="42" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ImageLoader/ImageLoader.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>deviceWidth</text>
+        <text encoding="base64">cmFpbHMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
