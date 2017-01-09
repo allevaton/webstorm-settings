@@ -480,6 +480,12 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/client.js" timestamp="1483720267406">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Avatar/Avatar.js" timestamp="1483726607310">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="17" column="7" />
@@ -556,8 +562,8 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483976738972">
-        <mark key="[" line="0" column="36" />
+      <file name="/Dummy.txt" timestamp="1483977230503">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
@@ -788,7 +794,7 @@
         <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" timestamp="1483733429248">
-        <mark key="'" line="106" column="14" />
+        <mark key="'" line="110" column="14" />
         <mark key="[" line="43" column="49" />
         <mark key="]" line="43" column="49" />
         <mark key="." line="43" column="49" />
@@ -869,12 +875,11 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1483975874855">
-        <mark key="'" line="146" column="16" />
-        <mark key="[" line="146" column="30" />
-        <mark key="]" line="146" column="69" />
-        <mark key="." line="146" column="69" />
-        <mark key="^" line="146" column="69" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1483977220692">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Tile/TileFooter.js" timestamp="1481564143623">
         <mark key="'" line="3" column="0" />
@@ -1094,7 +1099,7 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionButton.js" timestamp="1483734028701">
-        <mark key="'" line="37" column="0" />
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
@@ -1237,11 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="165" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="159" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="125" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="142" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="118" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="152" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="238" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1337,10 +1337,15 @@
       <jump line="117" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
       <jump line="118" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
       <jump line="120" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
+      <jump line="129" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="94" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="96" column="93" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>swap</text>
+        <text>href=&quot;#help&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1349,31 +1354,31 @@
         <text>action-box--seller-details--rating-count</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGE+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKDMpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAoMykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSIiPigzKTwvZGl2Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2hpcHMgZnJvbSB7aXRlbS5zZWxsZXIuc2hpcHNfZnJvbV9jb3VudHJ5fQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKDMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAoMykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSIiPigzKTwvZGl2Pgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aWR0aDogMjRweDsKICBoZWlnaHQ6IDEuMmVtOwogIHBvc2l0aW9uOiByZWxhdGl2ZTsKICBtYXJnaW4tcmlnaHQ6IDhweDsKICB0b3A6IDJweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2hpcHMgZnJvbSB7aXRlbS5zZWxsZXIuc2hpcHNfZnJvbV9jb3VudHJ5fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc05hbWU9ImFjdGlvbi1ib3gtLXNlbGxlci1kZXRhaWwtbGluZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1414,10 +1419,10 @@
         <entry>z</entry>
         <entry>q</entry>
         <entry>action Forward</entry>
-        <entry>j</entry>
         <entry>'w</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
+        <entry>j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
