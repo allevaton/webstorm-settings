@@ -565,12 +565,12 @@
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1484077753588">
-        <mark key="'" line="200" column="12" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="60" column="14" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1484238582433">
+        <mark key="'" line="206" column="12" />
+        <mark key="[" line="86" column="79" />
+        <mark key="]" line="89" column="36" />
+        <mark key="." line="89" column="36" />
+        <mark key="^" line="89" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Tile/TileFooter.js" timestamp="1481564143623">
         <mark key="'" line="3" column="0" />
@@ -760,8 +760,8 @@
         <mark key="." line="29" column="36" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1484238110691">
-        <mark key="'" line="108" column="6" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1484238402273">
+        <mark key="'" line="104" column="0" />
         <mark key="[" line="96" column="37" />
         <mark key="]" line="96" column="34" />
         <mark key="." line="96" column="34" />
@@ -1105,10 +1105,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484238112070">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1484238604067">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1483731304156">
         <mark key="'" line="17" column="2" />
@@ -1287,8 +1287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="767" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="780" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="763" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="765" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="684" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1387,10 +1385,12 @@
       <jump line="245" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="330" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="313" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="96" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>formValidation</text>
+        <text>funcitn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
