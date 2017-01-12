@@ -97,7 +97,7 @@
         <mark key="^" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" timestamp="1484258111459">
-        <mark key="'" line="83" column="12" />
+        <mark key="'" line="89" column="12" />
         <mark key="[" line="31" column="29" />
         <mark key="]" line="31" column="34" />
         <mark key="." line="31" column="34" />
@@ -745,12 +745,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Comment.less" timestamp="1484247363171">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="44" column="23" />
-        <mark key="^" line="44" column="23" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Comment.less" timestamp="1484260455067">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="2" />
+        <mark key="^" line="22" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1477497236116">
         <mark key="'" line="179" column="0" />
@@ -760,7 +760,7 @@
         <mark key="^" line="101" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1484254571861">
-        <mark key="'" line="15" column="0" />
+        <mark key="'" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/ReviewRect.less" timestamp="1478182937162">
         <mark key="'" line="82" column="0" />
@@ -989,7 +989,7 @@
         <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1484259694734">
-        <mark key="'" line="793" column="0" />
+        <mark key="'" line="816" column="0" />
         <mark key="^" line="105" column="45" />
         <mark key="." line="105" column="45" />
       </file>
@@ -1296,11 +1296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
-      <jump line="20" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
-      <jump line="0" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
-      <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="94" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="100" column="8" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
       <jump line="114" column="8" filename="$USER_HOME$/workspace/sls-react/src/styles/modal.less" />
@@ -1396,6 +1391,11 @@
       <jump line="286" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="257" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="299" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="23" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Comment.less" />
+      <jump line="21" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Comment.less" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Comment.less" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Comment.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Comment.less" />
     </jumps>
     <registers>
       <register name="-" type="4">
