@@ -41,7 +41,7 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1484239736497">
+      <file name="/a.dummy" timestamp="1484240388350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/Investor.less" timestamp="1476902494240">
@@ -395,12 +395,12 @@
         <mark key="." line="0" column="63" />
         <mark key="^" line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484239467045">
-        <mark key="'" line="201" column="20" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="^" line="152" column="25" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484240378398">
+        <mark key="'" line="275" column="109" />
+        <mark key="[" line="275" column="83" />
+        <mark key="]" line="275" column="109" />
+        <mark key="^" line="275" column="109" />
+        <mark key="." line="275" column="109" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/CompanyPage.js" timestamp="1477577833206">
         <mark key="'" line="177" column="12" />
@@ -727,12 +727,11 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1484239137206">
-        <mark key="'" line="794" column="8" />
-        <mark key="[" line="793" column="0" />
-        <mark key="]" line="793" column="0" />
-        <mark key="." line="793" column="0" />
-        <mark key="^" line="790" column="37" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1484240313723">
+        <mark key="'" line="49" column="6" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -1088,10 +1087,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484240233764">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1484240509909">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1483731304156">
         <mark key="'" line="17" column="2" />
@@ -1270,11 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.spec.js" />
-      <jump line="8" column="31" filename="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.js" />
-      <jump line="11" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.js" />
-      <jump line="61" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.js" />
       <jump line="62" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.js" />
       <jump line="56" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.js" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.js" />
@@ -1370,10 +1364,15 @@
       <jump line="42" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
       <jump line="88" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="49" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="165" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="292" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="275" column="109" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>body</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1382,31 +1381,31 @@
         <text encoding="base64">ICAgIGlmIChuZXh0UHJvcHMub3BlbikgewogICAgICBkb2N1bWVudC5ib2R5LmNsYXNzTGlzdC5hZGQoJ2ludGVyY29tLWhpZGRlbicpOwogICAgfSBlbHNlIHsKICAgICAgaWYgKCF0aGlzLnByb3BzLnN0b3JlLnVzZXIubG9nZ2VkSW4pCiAgICAgICAgZG9jdW1lbnQuYm9keS5jbGFzc0xpc3QucmVtb3ZlKCdpbnRlcmNvbS1oaWRkZW4nKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHR5cGUgTG9jYXRpb24gKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnByb3BzLnN0b3JlLnVzZXIubG9nZ2VkSW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tU2VhcmNoLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUobmV4dFByb3BzKSB7CiAgICAKICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IE1vZGFsID0gKHsKICBib2R5U3R5bGUsCiAgY2hpbGRyZW4sCiAgY2xhc3NOYW1lLAogIG9uUmVxdWVzdENsb3NlLAogIG9wZW4sCiAgb3ZlcmxheXN0eWxlLAogIHN0eWxlLAoKICAuLi5yZXN0Cn0pID0+ICgKICA8ZGl2PgogICAge29wZW4gJiYgPGRpdiBjbGFzc05hbWU9Im1vZGFsLWNsb3NlIj4KICAgICAgPFNWRyBtYXJrdXA9e0Nsb3NlU1ZHfSBvbkNsaWNrPXtvblJlcXVlc3RDbG9zZX0vPgogICAgPC9kaXY+fQoKICAgIDxEaWFsb2cKICAgICAgb3Blbj17b3Blbn0KICAgICAgb25SZXF1ZXN0Q2xvc2U9e29uUmVxdWVzdENsb3NlfQoKICAgICAgYXV0b1Njcm9sbEJvZHlDb250ZW50PXt0cnVlfQogICAgICBhdXRvRGV0ZWN0V2luZG93SGVpZ2h0PXtmYWxzZX0KICAgICAgcmVwb3NpdGlvbk9uVXBkYXRlPXtmYWxzZX0KICAgICAgY29udGVudENsYXNzTmFtZT17Y2xhc3NOYW1lcyh7CiAgICAgICAgJ21vZGFsJzogdHJ1ZSwKICAgICAgICBbY2xhc3NOYW1lXTogY2xhc3NOYW1lLAogICAgICAgICdub3RpdGxlJzogIXJlc3QudGl0bGUsCiAgICAgICAgJ2hhc3RpdGxlJzogcmVzdC50aXRsZSwKICAgICAgfSl9CiAgICAgIGJvZHlTdHlsZT17Ym9keVN0eWxlfQogICAgICBvdmVybGF5U3R5bGU9e3sKICAgICAgICBwYWRkaW5nVG9wOiAwLAogICAgICAgIC4uLm92ZXJsYXlzdHlsZQogICAgICB9fQogICAgICBzdHlsZT17ewogICAgICAgIGhlaWdodDogJzEwMHZoJywKICAgICAgICBtYXhIZWlnaHQ6ICcxMDB2aCcsCiAgICAgICAgcGFkZGluZ1RvcDogMCwKICAgICAgICAuLi5zdHlsZQogICAgICB9fQogICAgICB0aXRsZVN0eWxlPXtzdHlsZXMuZGlhbG9nLnRpdGxlfQoKICAgICAgey4uLnJlc3R9CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvRGlhbG9nPgogIDwvZGl2PgopOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnByb3BzLnN0b3JlLnVzZXIubG9nZ2VkSW4pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ck1vZGFsLnByb3BUeXBlcyA9IHsKICBib2R5U3R5bGU6IFByb3BUeXBlcy5vYmplY3QsCiAgY2xhc3NOYW1lOiBQcm9wVHlwZXMuc3RyaW5nLAogIG9uUmVxdWVzdENsb3NlOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIG9wZW46IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgb3ZlcmxheVN0eWxlOiBQcm9wVHlwZXMub2JqZWN0LAogIHN0eWxlOiBQcm9wVHlwZXMub2JqZWN0LAogIHRpdGxlOiBQcm9wVHlwZXMuc3RyaW5nCn07CgpleHBvcnQgZGVmYXVsdCBNb2RhbDsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUobmV4dFByb3BzKSB7CiAgICAKICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IE1vZGFsID0gKHsKICBib2R5U3R5bGUsCiAgY2hpbGRyZW4sCiAgY2xhc3NOYW1lLAogIG9uUmVxdWVzdENsb3NlLAogIG9wZW4sCiAgb3ZlcmxheXN0eWxlLAogIHN0eWxlLAoKICAuLi5yZXN0Cn0pID0+ICgKICA8ZGl2PgogICAge29wZW4gJiYgPGRpdiBjbGFzc05hbWU9Im1vZGFsLWNsb3NlIj4KICAgICAgPFNWRyBtYXJrdXA9e0Nsb3NlU1ZHfSBvbkNsaWNrPXtvblJlcXVlc3RDbG9zZX0vPgogICAgPC9kaXY+fQoKICAgIDxEaWFsb2cKICAgICAgb3Blbj17b3Blbn0KICAgICAgb25SZXF1ZXN0Q2xvc2U9e29uUmVxdWVzdENsb3NlfQoKICAgICAgYXV0b1Njcm9sbEJvZHlDb250ZW50PXt0cnVlfQogICAgICBhdXRvRGV0ZWN0V2luZG93SGVpZ2h0PXtmYWxzZX0KICAgICAgcmVwb3NpdGlvbk9uVXBkYXRlPXtmYWxzZX0KICAgICAgY29udGVudENsYXNzTmFtZT17Y2xhc3NOYW1lcyh7CiAgICAgICAgJ21vZGFsJzogdHJ1ZSwKICAgICAgICBbY2xhc3NOYW1lXTogY2xhc3NOYW1lLAogICAgICAgICdub3RpdGxlJzogIXJlc3QudGl0bGUsCiAgICAgICAgJ2hhc3RpdGxlJzogcmVzdC50aXRsZSwKICAgICAgfSl9CiAgICAgIGJvZHlTdHlsZT17Ym9keVN0eWxlfQogICAgICBvdmVybGF5U3R5bGU9e3sKICAgICAgICBwYWRkaW5nVG9wOiAwLAogICAgICAgIC4uLm92ZXJsYXlzdHlsZQogICAgICB9fQogICAgICBzdHlsZT17ewogICAgICAgIGhlaWdodDogJzEwMHZoJywKICAgICAgICBtYXhIZWlnaHQ6ICcxMDB2aCcsCiAgICAgICAgcGFkZGluZ1RvcDogMCwKICAgICAgICAuLi5zdHlsZQogICAgICB9fQogICAgICB0aXRsZVN0eWxlPXtzdHlsZXMuZGlhbG9nLnRpdGxlfQoKICAgICAgey4uLnJlc3R9CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvRGlhbG9nPgogIDwvZGl2PgopOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">Ck1vZGFsLnByb3BUeXBlcyA9IHsKICBib2R5U3R5bGU6IFByb3BUeXBlcy5vYmplY3QsCiAgY2xhc3NOYW1lOiBQcm9wVHlwZXMuc3RyaW5nLAogIG9uUmVxdWVzdENsb3NlOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIG9wZW46IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgb3ZlcmxheVN0eWxlOiBQcm9wVHlwZXMub2JqZWN0LAogIHN0eWxlOiBQcm9wVHlwZXMub2JqZWN0LAogIHRpdGxlOiBQcm9wVHlwZXMuc3RyaW5nCn07CgpleHBvcnQgZGVmYXVsdCBNb2RhbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
