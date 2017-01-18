@@ -148,6 +148,13 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" timestamp="1484773371037">
+        <mark key="'" line="42" column="14" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/Pages.js" timestamp="1484584427440">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="7" column="0" />
@@ -624,7 +631,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484772835613">
+      <file name="/Dummy.txt" timestamp="1484773411059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -887,8 +894,8 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484772829449">
-        <mark key="'" line="294" column="81" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484773036094">
+        <mark key="'" line="287" column="18" />
         <mark key="[" line="294" column="84" />
         <mark key="]" line="294" column="81" />
         <mark key="." line="294" column="81" />
@@ -1410,13 +1417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="18" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="68" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="66" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="87" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="12" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
-      <jump line="10" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
       <jump line="15" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
       <jump line="17" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
       <jump line="51" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
@@ -1510,10 +1510,17 @@
       <jump line="734" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="731" column="60" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="294" column="81" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="301" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="287" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="53" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
+      <jump line="50" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
+      <jump line="44" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
+      <jump line="42" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Click</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1522,31 +1529,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pdGVtcy5jdXJyZW50LnNlbGxlci5mb2xsb3dpbmcgPSAhdW5mb2xsb3c7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZWFkT25seT0icmVhZE9ubHkiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKGlzRmF2b3JpdGVyKSB7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGlmICh0aGlzLml0ZW1zLmN1cnJlbnQuc2VsbGVyKQogICAgICAgICAgICB0aGlzLml0ZW1zLmN1cnJlbnQuc2VsbGVyLmZvbGxvd2luZyA9ICF1bmZvbGxvdzsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNGYXZvcml0ZXIpIHsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgaWYgKHRoaXMuaXRlbXMuY3VycmVudC5zZWxsZXIpCiAgICAgICAgICAgIHRoaXMuaXRlbXMuY3VycmVudC5zZWxsZXIuZm9sbG93aW5nID0gIXVuZm9sbG93OwogICAgICAgIH0KCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZm9sbG93aW5nVXNlcklkID09PSB0aGlzLml0ZW1zLmN1cnJlbnQuc2VsbGVyLmlkKSB7CiAgICAgICAgICB0aGlzLml0ZW1zLmN1cnJlbnQuc2VsbGVyLmZvbGxvd2luZyA9ICF1bmZvbGxvdzsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKGlzRmF2b3JpdGVyKSB7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGlmICh0aGlzLml0ZW1zLmN1cnJlbnQuc2VsbGVyKQogICAgICAgICAgICB0aGlzLml0ZW1zLmN1cnJlbnQuc2VsbGVyLmZvbGxvd2luZyA9ICF1bmZvbGxvdzsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNGYXZvcml0ZXIpIHsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgaWYgKHRoaXMuaXRlbXMuY3VycmVudC5zZWxsZXIpCiAgICAgICAgICAgIHRoaXMuaXRlbXMuY3VycmVudC5zZWxsZXIuZm9sbG93aW5nID0gIXVuZm9sbG93OwogICAgICAgIH0KCiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBpbmRleCA9IHRoaXMuaXRlbXMuY3VycmVudC5mYXZvcml0ZXJzLmZpbmRJbmRleChmYXZvcml0ZXIgPT4gZmF2b3JpdGVyLmlkID09PSBmb2xsb3dpbmdVc2VySWQpOwogICAgICAgICAgaWYgKGluZGV4ICE9PSAtMSkKICAgICAgICAgICAgdGhpcy5pdGVtcy5jdXJyZW50LmZhdm9yaXRlcnNbaW5kZXhdLmZvbGxvd2luZyA9ICF1bmZvbGxvdzsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZm9sbG93aW5nVXNlcklkID09PSB0aGlzLml0ZW1zLmN1cnJlbnQuc2VsbGVyLmlkKSB7CiAgICAgICAgICB0aGlzLml0ZW1zLmN1cnJlbnQuc2VsbGVyLmZvbGxvd2luZyA9ICF1bmZvbGxvdzsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxldCBpbmRleCA9IHRoaXMuaXRlbXMuY3VycmVudC5mYXZvcml0ZXJzLmZpbmRJbmRleChmYXZvcml0ZXIgPT4gZmF2b3JpdGVyLmlkID09PSBmb2xsb3dpbmdVc2VySWQpOwogICAgICAgICAgaWYgKGluZGV4ICE9PSAtMSkKICAgICAgICAgICAgdGhpcy5pdGVtcy5jdXJyZW50LmZhdm9yaXRlcnNbaW5kZXhdLmZvbGxvd2luZyA9ICF1bmZvbGxvdzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
