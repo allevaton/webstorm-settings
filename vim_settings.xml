@@ -576,12 +576,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" timestamp="1484769698191">
-        <mark key="'" line="58" column="67" />
-        <mark key="[" line="58" column="59" />
-        <mark key="]" line="58" column="67" />
-        <mark key="." line="58" column="67" />
-        <mark key="^" line="58" column="67" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" timestamp="1484770116499">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="61" column="31" />
+        <mark key="]" line="61" column="41" />
+        <mark key="." line="61" column="41" />
+        <mark key="^" line="61" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/server/index.js" timestamp="1476986296657">
         <mark key="'" line="25" column="2" />
@@ -624,7 +624,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484769757937">
+      <file name="/Dummy.txt" timestamp="1484770267735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1396,14 +1396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="59" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="67" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="853" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="874" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="875" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="872" column="7" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="873" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="856" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="884" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="72" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
@@ -1494,12 +1486,20 @@
       <jump line="144" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="67" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
       <jump line="59" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
-      <jump line="60" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
-      <jump line="58" column="67" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="69" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="58" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="61" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="41" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="63" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="60" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">U2xpZ2h0IA==</text>
+        <text>${item.id}-${item.name}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1508,28 +1508,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RvcmUubW9kYWxzLm1lc3NhZ2VCb3gud2FpdGluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybE9iamVjdCk7Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gInVybCI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByaWNlKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">ICAgIGxldCBlZGl0VXJsID0gCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybE9iamVjdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAucmVwbGFjZSgvXiQoJCkvZykK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gInVybCI7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1574,11 +1574,11 @@
         <entry>ww</entry>
         <entry>bp</entry>
         <entry>e</entry>
-        <entry>action RenameElement</entry>
         <entry>q</entry>
         <entry>a</entry>
         <entry>action Back</entry>
         <entry>j</entry>
+        <entry>action RenameElement</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
