@@ -624,10 +624,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484767339425">
+      <file name="/Dummy.txt" timestamp="1484768228558">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1484671629411">
         <mark key="[" line="35" column="0" />
@@ -834,9 +834,6 @@
         <mark key="." line="27" column="9" />
         <mark key="^" line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.spec.js" timestamp="1484323640787">
-        <mark key="'" line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/ResetPasswordPage.less" timestamp="1479481651761">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="15" column="24" />
@@ -883,12 +880,12 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484766145269">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="41" />
-        <mark key="." line="40" column="41" />
-        <mark key="^" line="40" column="41" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484768224796">
+        <mark key="'" line="144" column="13" />
+        <mark key="[" line="145" column="67" />
+        <mark key="]" line="146" column="11" />
+        <mark key="." line="146" column="13" />
+        <mark key="^" line="146" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
@@ -1062,9 +1059,6 @@
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1484767205700">
-        <mark key="'" line="865" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -1402,7 +1396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="69" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="40" column="42" filename="$USER_HOME$/workspace/sls-react/src/components/MessageBox.js" />
       <jump line="50" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
@@ -1502,10 +1495,11 @@
       <jump line="132" column="71" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="127" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="88" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RemoveModal.js" />
+      <jump line="144" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">U2xpZ2h0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1583,8 +1577,8 @@
         <entry>action RenameElement</entry>
         <entry>q</entry>
         <entry>a</entry>
-        <entry>j</entry>
         <entry>action Back</entry>
+        <entry>j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
