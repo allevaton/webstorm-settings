@@ -148,12 +148,12 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" timestamp="1484773371037">
-        <mark key="'" line="42" column="14" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="20" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" timestamp="1484774609496">
+        <mark key="'" line="41" column="14" />
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/Pages.js" timestamp="1484584427440">
         <mark key="'" line="14" column="0" />
@@ -583,12 +583,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" timestamp="1484770116499">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" timestamp="1484773996165">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="61" column="31" />
-        <mark key="]" line="61" column="41" />
-        <mark key="." line="61" column="41" />
-        <mark key="^" line="61" column="41" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="21" />
+        <mark key="." line="66" column="21" />
+        <mark key="^" line="66" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/server/index.js" timestamp="1476986296657">
         <mark key="'" line="25" column="2" />
@@ -631,7 +631,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484773411059">
+      <file name="/Dummy.txt" timestamp="1484774632098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -998,8 +998,8 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1484771026586">
-        <mark key="'" line="226" column="45" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1484774017754">
+        <mark key="'" line="119" column="12" />
         <mark key="[" line="226" column="47" />
         <mark key="]" line="226" column="45" />
         <mark key="." line="226" column="45" />
@@ -1417,16 +1417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
-      <jump line="17" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
-      <jump line="51" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="30" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="46" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="84" column="86" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="131" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="113" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="42" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="79" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="62" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="115" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
@@ -1501,7 +1491,6 @@
       <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
       <jump line="234" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="227" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="226" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="57" column="23" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
       <jump line="729" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1515,18 +1504,29 @@
       <jump line="53" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
       <jump line="50" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
       <jump line="44" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
       <jump line="42" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
+      <jump line="43" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
+      <jump line="229" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="210" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="193" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="227" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="176" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="159" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="125" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="119" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
+      <jump line="41" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Click</text>
+        <text>onFocus</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pdGVtcy5jdXJyZW50LnNlbGxlci5mb2xsb3dpbmcgPSAhdW5mb2xsb3c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkZvY3VzPXsoZSkgPT4gZS50YXJnZXQuc2VsZWN0KCl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICByZWFkT25seT0icmVhZE9ubHkiCg==</text>
