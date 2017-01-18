@@ -621,10 +621,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484758011187">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1484758339978">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1484671629411">
         <mark key="[" line="35" column="0" />
@@ -872,6 +872,13 @@
         <mark key="]" line="60" column="27" />
         <mark key="^" line="60" column="27" />
         <mark key="." line="60" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484758319939">
+        <mark key="'" line="230" column="10" />
+        <mark key="[" line="227" column="48" />
+        <mark key="]" line="229" column="26" />
+        <mark key="^" line="229" column="26" />
+        <mark key="." line="229" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
@@ -1383,7 +1390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
       <jump line="42" column="57" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
       <jump line="11" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/AdminPanel.js" />
@@ -1483,10 +1489,11 @@
       <jump line="99" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RemoveModal.js" />
       <jump line="68" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RemoveModal.js" />
       <jump line="102" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RemoveModal.js" />
+      <jump line="230" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Ite</text>
+        <text encoding="base64">Y29tbWVudCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
