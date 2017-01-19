@@ -74,10 +74,10 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" timestamp="1484836797263">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" timestamp="1484839222898">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="39" column="75" />
-        <mark key="]" line="40" column="3" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="75" />
         <mark key="^" line="40" column="3" />
         <mark key="." line="40" column="3" />
       </file>
@@ -522,6 +522,13 @@
         <mark key="." line="15" column="65" />
         <mark key="^" line="15" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/CompanyPage/CompanyPage.js" timestamp="1484839268538">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="31" column="68" />
+        <mark key="]" line="31" column="73" />
+        <mark key="." line="31" column="73" />
+        <mark key="^" line="31" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Desktop/UserNav.js" timestamp="1476973702829">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="41" column="0" />
@@ -610,6 +617,9 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1484839270062">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1354,12 +1364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="97" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="144" column="68" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="147" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="125" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="234" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="146" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="129" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="112" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1453,17 +1457,23 @@
       <jump line="15" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
       <jump line="131" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
+      <jump line="39" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
+      <jump line="47" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/CompanyPage/CompanyPage.js" />
+      <jump line="48" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/CompanyPage/CompanyPage.js" />
+      <jump line="35" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/CompanyPage/CompanyPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>copmonen</text>
+        <text>NONE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>this.props.store.mobileHeaderButtonState = MOBILE_HEADER_BUTTON_SEARCH;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc3RvcmUubW9iaWxlSGVhZGVyQnV0dG9uU3RhdGUgPSBNT0JJTEVfSEVBREVSX0JVVFRPTl9TRUFSQ0g7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmNvbnN0IFNldHRpbmdzUGFnZSA9ICh7Y2hpbGRyZW59KSA9PiB7CiAgcmV0dXJuICgKICAgIDxTdGlja3lDb250YWluZXIgc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6ICd3aGl0ZSd9fT4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdyI+CiAgICAgICAgICA8U2lkZWJhcj4KICAgICAgICAgICAgPGRpdj48YSBocmVmPSIvbXkvd2FsbGV0Ij4KICAgICAgICAgICAgICBNeSBXYWxsZXQKICAgICAgICAgICAgPC9hPjwvZGl2PgoKICAgICAgICAgICAgPGRpdj48YSBocmVmPSIvbXkvd2FsbGV0L2hpc3RvcnkiPgogICAgICAgICAgICAgIEhpc3RvcnkKICAgICAgICAgICAgPC9hPjwvZGl2PgoKICAgICAgICAgICAgPGRpdj48YSBocmVmPSIvbXkvc2V0dGluZy9hY2NvdW50Ij4KICAgICAgICAgICAgICBNeSBTZXR0aW5ncwogICAgICAgICAgICA8L2E+PC9kaXY+CgogICAgICAgICAgICA8ZGl2PjxMaW5rIHRvPSIvc2V0dGluZ3MvYWRkcmVzc2VzIiBhY3RpdmVDbGFzc05hbWU9e2FjdGl2ZUNsYXNzfT4KICAgICAgICAgICAgICBNeSBBZGRyZXNzZXMKICAgICAgICAgICAgPC9MaW5rPjwvZGl2PgoKICAgICAgICAgICAgPGRpdj48TGluayB0bz0iL3NldHRpbmdzL3BheW1lbnQtbWV0aG9kcyIgYWN0aXZlQ2xhc3NOYW1lPXthY3RpdmVDbGFzc30+CiAgICAgICAgICAgICAgTXkgUGF5bWVudCBNZXRob2RzCiAgICAgICAgICAgIDwvTGluaz48L2Rpdj4KCiAgICAgICAgICAgIDxkaXY+PGEgaHJlZj0iL215L3NldHRpbmcvc2VsbGVyIj4KICAgICAgICAgICAgICBTZWxsZXIgSW5mbwogICAgICAgICAgICA8L2E+PC9kaXY+CgogICAgICAgICAgICA8ZGl2PjxhIGhyZWY9Ii9teS9zZXR0aW5nL2JhbmtpbmciPgogICAgICAgICAgICAgIEJhbmsgSW5mbwogICAgICAgICAgICA8L2E+PC9kaXY+CiAgICAgICAgICA8L1NpZGViYXI+CgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC14cy0xMiBjb2wtc20tMTAgc2V0dGluZ3MtYm9keSI+CiAgICAgICAgICAgIHtjaGlsZHJlbn0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvU3RpY2t5Q29udGFpbmVyPgogICkKfTsKClNldHRpbmdzUGFnZS5zZWN1cmVQYWdlID0gdHJ1ZTsKCmV4cG9ydCBkZWZhdWx0IFNldHRpbmdzUGFnZTsK</text>
