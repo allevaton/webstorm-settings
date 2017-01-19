@@ -21,7 +21,7 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1484848214663">
+      <file name="/a.dummy" timestamp="1484850297385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -331,8 +331,8 @@
         <mark key="." line="56" column="46" />
         <mark key="^" line="56" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1484849825047">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1484850174912">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="129" />
         <mark key="." line="90" column="0" />
@@ -1404,13 +1404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="47" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="55" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="48" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="40" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="58" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="67" column="65" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="50" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="66" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="75" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
@@ -1504,6 +1497,13 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/public/index.html" />
       <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/public/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/public/index.html" />
+      <jump line="132" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="137" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="171" column="10" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="154" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="188" column="10" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
