@@ -21,7 +21,7 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1484851969281">
+      <file name="/a.dummy" timestamp="1484856488126">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -470,6 +470,13 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="58" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" timestamp="1484856611530">
+        <mark key="'" line="123" column="8" />
+        <mark key="[" line="156" column="20" />
+        <mark key="]" line="156" column="34" />
+        <mark key="^" line="156" column="34" />
+        <mark key="." line="156" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/styles/modal.less" timestamp="1484681320911">
         <mark key="'" line="136" column="2" />
         <mark key="[" line="124" column="10" />
@@ -628,7 +635,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484849907736">
+      <file name="/Dummy.txt" timestamp="1484856637571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -875,12 +882,12 @@
         <mark key="^" line="60" column="27" />
         <mark key="." line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484848172259">
-        <mark key="'" line="63" column="21" />
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="63" column="21" />
-        <mark key="^" line="63" column="21" />
-        <mark key="." line="63" column="21" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484856636555">
+        <mark key="'" line="367" column="16" />
+        <mark key="[" line="313" column="20" />
+        <mark key="]" line="313" column="60" />
+        <mark key="^" line="313" column="60" />
+        <mark key="." line="313" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
@@ -1404,21 +1411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="101" column="57" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="100" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="132" column="66" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="0" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/CompanyPage/CompanyPage.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/CompanyPage/CompanyPage.js" />
-      <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/CompanyPage/CompanyPage.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/CompanyPage/CompanyPage.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
-      <jump line="34" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.js" />
       <jump line="18" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="69" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
       <jump line="0" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginPage.js" />
@@ -1504,6 +1496,21 @@
       <jump line="0" column="40" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
       <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="156" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="139" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="190" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="207" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="173" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="106" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="105" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="123" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ImageLightbox.js" />
+      <jump line="75" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="312" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="313" column="60" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="333" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="350" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="367" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
