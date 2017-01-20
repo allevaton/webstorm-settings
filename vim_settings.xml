@@ -606,10 +606,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484931224622">
-        <mark key="[" line="0" column="78" />
-        <mark key="]" line="0" column="78" />
-        <mark key="." line="0" column="78" />
+      <file name="/Dummy.txt" timestamp="1484931339359">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1484857544678">
         <mark key="[" line="30" column="4" />
@@ -857,6 +857,13 @@
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" timestamp="1484931194468">
         <mark key="'" line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1484931336640">
+        <mark key="'" line="44" column="112" />
+        <mark key="[" line="44" column="66" />
+        <mark key="]" line="44" column="112" />
+        <mark key="^" line="44" column="112" />
+        <mark key="." line="44" column="112" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
@@ -1354,7 +1361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="67" column="25" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="100" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="117" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
@@ -1454,10 +1460,11 @@
       <jump line="139" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="122" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
+      <jump line="44" column="112" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>se</text>
+        <text encoding="base64">QWRkIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
