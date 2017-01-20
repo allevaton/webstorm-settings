@@ -334,8 +334,8 @@
         <mark key="." line="56" column="46" />
         <mark key="^" line="56" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1484940127257">
-        <mark key="'" line="168" column="41" />
+      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1484940146022">
+        <mark key="'" line="167" column="6" />
         <mark key="[" line="168" column="41" />
         <mark key="]" line="168" column="41" />
         <mark key="." line="168" column="41" />
@@ -645,10 +645,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484940081462">
+      <file name="/Dummy.txt" timestamp="1484940311625">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1185,12 +1185,12 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" timestamp="1482332916580">
-        <mark key="'" line="81" column="55" />
-        <mark key="[" line="81" column="53" />
-        <mark key="]" line="81" column="55" />
-        <mark key="^" line="81" column="55" />
-        <mark key="." line="81" column="55" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" timestamp="1484940310630">
+        <mark key="'" line="133" column="14" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="32" />
+        <mark key="^" line="119" column="31" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/TeamMember.js" timestamp="1476894909013">
         <mark key="'" line="18" column="0" />
@@ -1358,12 +1358,12 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="55" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" timestamp="1482263535533">
-        <mark key="'" line="83" column="43" />
-        <mark key="[" line="71" column="49" />
-        <mark key="]" line="71" column="49" />
-        <mark key="." line="71" column="56" />
-        <mark key="^" line="71" column="48" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" timestamp="1484940293680">
+        <mark key="'" line="130" column="16" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="27" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="116" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/format/formatCommentBody.js" timestamp="1484171560118">
         <mark key="'" line="0" column="25" />
@@ -1437,9 +1437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
-      <jump line="8" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" />
-      <jump line="12" column="42" filename="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" />
       <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" />
       <jump line="49" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="38" column="50" filename="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" />
@@ -1535,18 +1532,21 @@
       <jump line="161" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="210" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="176" column="10" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="159" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="168" column="41" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="159" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="167" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="130" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
+      <jump line="133" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">b24g</text>
+        <text>wqhen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="8">
-        <text encoding="base64">aWYgKHNyYyAmJiBtb2RhbCkgewogIHRoaXMuY2xpY2tzdHJlYW1TcmMudW5zaGlmdChzcmMpOwogIHdoZW4oCiAgICAoKSA9PiAhdGhpcy5tb2RhbHNbbW9kYWxOYW1lXS5vcGVuLAogICAgKCkgPT4gdGhpcy5jbGlja3N0cmVhbVNyYy5zaGlmdCgpCiAgKQp9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBzcmM6ICdtb2JpbGUtbmF2JywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
