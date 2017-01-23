@@ -158,8 +158,8 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Pages.js" timestamp="1485191192766">
-        <mark key="'" line="8" column="16" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Pages.js" timestamp="1485198345090">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="16" />
         <mark key="." line="8" column="16" />
@@ -527,8 +527,8 @@
         <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/client.js" timestamp="1485190886080">
-        <mark key="]" line="107" column="2" />
-        <mark key="^" line="153" column="76" />
+        <mark key="]" line="109" column="2" />
+        <mark key="^" line="155" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Avatar/Avatar.js" timestamp="1484249858123">
         <mark key="'" line="15" column="65" />
@@ -634,10 +634,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485191747563">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1485198391631">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -841,7 +841,7 @@
         <mark key="." line="18" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1484856937245">
-        <mark key="'" line="93" column="4" />
+        <mark key="'" line="103" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/ReviewRect.less" timestamp="1478182937162">
         <mark key="'" line="82" column="0" />
@@ -1430,8 +1430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ErrorPages/404.js" />
-      <jump line="116" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="150" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="133" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
@@ -1530,10 +1528,12 @@
       <jump line="696" column="34" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="430" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="442" column="28" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Pages.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Pages.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>=</text>
+        <text>load</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
