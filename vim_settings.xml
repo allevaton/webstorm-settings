@@ -148,6 +148,12 @@
         <mark key="." line="53" column="33" />
         <mark key="^" line="53" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Footer/Footer.js" timestamp="1485268108115">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/images/ic-interested.svg" timestamp="1483736132312">
         <mark key="'" line="13" column="5" />
         <mark key="[" line="13" column="6" />
@@ -1401,11 +1407,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.less" timestamp="1485204992880">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.less" timestamp="1485268323919">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.js" timestamp="1484327661195">
         <mark key="'" line="42" column="14" />
@@ -1444,8 +1451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ErrorPages/404.js" />
-      <jump line="10" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
       <jump line="59" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
       <jump line="42" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
@@ -1544,10 +1549,12 @@
       <jump line="50" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
       <jump line="20" column="1" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
+      <jump line="4" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.less" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>sportName</text>
+        <text>vertical</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
