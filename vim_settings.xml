@@ -632,7 +632,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485271450159">
+      <file name="/Dummy.txt" timestamp="1485271840362">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="136" />
         <mark key="." line="0" column="136" />
@@ -1401,8 +1401,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.less" timestamp="1485268323919">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.less" timestamp="1485271829040">
+        <mark key="'" line="3" column="16" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/format/formatTimeAgo.js" timestamp="1484327661195">
         <mark key="'" line="42" column="14" />
@@ -1485,7 +1489,6 @@
       <jump line="271" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="120" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
-      <jump line="3" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.less" />
       <jump line="607" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="419" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="420" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1541,10 +1544,11 @@
       <jump line="162" column="38" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="202" column="54" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="201" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="3" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.less" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>vertical</text>
+        <text>88px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
