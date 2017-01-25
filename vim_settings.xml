@@ -26,7 +26,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485280758754">
+      <file name="/a.dummy" timestamp="1485363575137">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -595,7 +595,6 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" timestamp="1485357763587" />
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.less" timestamp="1480519412293">
         <mark key="'" line="7" column="18" />
         <mark key="[" line="2" column="18" />
@@ -1235,11 +1234,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/api/api.js" timestamp="1485190083941">
+      <file name="$USER_HOME$/workspace/sls-react/src/api/api.js" timestamp="1485363573284">
         <mark key="'" line="55" column="4" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+        <mark key="^" line="44" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" timestamp="1477425243899">
         <mark key="'" line="40" column="12" />
@@ -1620,7 +1620,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmIChyZXEuY29va2llcy5fc2xzX2NyZWRlbnRpYWxzIHx8IHJlcS5jb29raWVzLl9zbHNfc3RhZ2luZ19jcmVkZW50aWFscykgew==</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1697,8 +1697,8 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>action Back</entry>
-        <entry>action RenameElement</entry>
         <entry>j</entry>
+        <entry>action RenameElement</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
