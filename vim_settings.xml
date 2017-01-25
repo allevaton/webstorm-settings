@@ -823,8 +823,8 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.client.js" timestamp="1485298566830">
-        <mark key="'" line="55" column="6" />
+      <file name="$USER_HOME$/workspace/sls-react/webpack.client.js" timestamp="1485315611025">
+        <mark key="'" line="38" column="8" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="45" column="7" />
@@ -1008,8 +1008,8 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1485296582060">
-        <mark key="'" line="80" column="8" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1485315631627">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
@@ -1434,13 +1434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="46" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="7" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
-      <jump line="118" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="115" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="110" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.js" />
-      <jump line="20" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
       <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
       <jump line="4" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
@@ -1486,7 +1479,6 @@
       <jump line="84" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="81" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="186" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
-      <jump line="261" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="233" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="216" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="67" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
@@ -1527,13 +1519,21 @@
       <jump line="39" column="6" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
       <jump line="37" column="30" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
-      <jump line="38" column="19" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
       <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
       <jump line="45" column="7" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
       <jump line="55" column="6" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
+      <jump line="63" column="6" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
+      <jump line="106" column="4" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
+      <jump line="38" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
+      <jump line="101" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="97" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="148" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="261" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
