@@ -25,13 +25,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" timestamp="1485296904242">
-        <mark key="'" line="149" column="20" />
-        <mark key="[" line="149" column="2" />
-        <mark key="]" line="149" column="20" />
-        <mark key="." line="149" column="20" />
-        <mark key="^" line="149" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/Investor.less" timestamp="1476902494240">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="30" column="20" />
@@ -112,13 +105,6 @@
         <mark key="]" line="42" column="31" />
         <mark key="." line="42" column="31" />
         <mark key="^" line="10" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.development.js" timestamp="1485297819165">
-        <mark key="'" line="25" column="2" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="39" column="43" />
-        <mark key="." line="39" column="44" />
-        <mark key="^" line="39" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/MobileNav.js" timestamp="1475524663556">
         <mark key="'" line="13" column="0" />
@@ -632,7 +618,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485295959799">
+      <file name="/Dummy.txt" timestamp="1485353914525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -822,13 +808,6 @@
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.client.js" timestamp="1485315611025">
-        <mark key="'" line="38" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="45" column="7" />
-        <mark key="^" line="45" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/constants/errorPageImages.js" timestamp="1484602002335">
         <mark key="[" line="2" column="0" />
@@ -1038,6 +1017,13 @@
         <mark key="]" line="15" column="1" />
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/webpack.server.js" timestamp="1485353579088">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="63" column="59" />
+        <mark key="]" line="63" column="62" />
+        <mark key="^" line="63" column="62" />
+        <mark key="." line="63" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Sidebar/Sidebar.js" timestamp="1480449969412">
         <mark key="'" line="0" column="0" />
@@ -1434,9 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
-      <jump line="4" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
       <jump line="1" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RenewModal.less" />
@@ -1534,6 +1517,9 @@
       <jump line="148" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="261" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="64" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.server.js" />
+      <jump line="80" column="4" filename="$USER_HOME$/workspace/sls-react/webpack.server.js" />
+      <jump line="63" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.server.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
