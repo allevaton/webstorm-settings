@@ -368,6 +368,13 @@
         <mark key="]" line="15" column="66" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1485372140763">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="158" column="7" />
+        <mark key="]" line="158" column="6" />
+        <mark key="^" line="158" column="6" />
+        <mark key="." line="158" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/styles/variables.less" timestamp="1484334777466">
         <mark key="'" line="18" column="2" />
         <mark key="[" line="14" column="20" />
@@ -1530,8 +1537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="7" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="182" column="8" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="168" column="8" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="187" column="105" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="190" column="16" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
@@ -1630,6 +1635,8 @@
       <jump line="12" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/MediaQuery/MediaQuery.js" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/MediaQuery/MediaQuery.js" />
       <jump line="198" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="196" column="11" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1653,14 +1660,15 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>store.headerType === 'mobile'
-        ? {width: 128}
-        : {width: 1024}</text>
+        <text>req.headers.cookie</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgIC8vIElmIHRoZXJlJ3Mgbm8gYXV0aF90b2tlbiwgZmFsbGJhY2sgdG8gc2VuZGluZyBhbGwgY29va2llcwogICAgICAgIGZldGNoT3B0aW9ucy5oZWFkZXJzLkNvb2tpZSA9IHJlcS5oZWFkZXJzLmNvb2tpZTsKICAgICAgfQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICB9Cn0K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>@observer(['store'])
 export default class MediaQuery extends Component {
   constructor(props) {
@@ -1685,26 +1693,23 @@ export default class MediaQuery extends Component {
 
     return</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgbW91bnRlZDogdHJ1ZQogICAgfSkKICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAKICBzaG91bGRDb21wb25lbnRVcGRhdGUoXywgbmV4dFN0YXRlKSB7CiAgICBpZiAoIXRoaXMuc3RhdGUubW91bnRlZCkgewogICAgICAKICAgIH0KICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBzdGF0ZSA9IHsKICAgIAogIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgTWVkaWFRdWVyeSA9ICh7c3RvcmUsIC4uLnByb3BzfSkgPT4gewogIHJldHVybiAoCiAgICA8QmFzZU1lZGlhUXVlcnkKICAgICAgey4uLnByb3BzfQogICAgLz4KICApCn07CgpNZWRpYVF1ZXJ5LnByb3BUeXBlcyA9IHt9OwoKZXhwb3J0IGRlZmF1bHQgb2JzZXJ2ZXIoWydzdG9yZSddLCBNZWRpYVF1ZXJ5KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmljaG8gb24gMS8yNS8yMDE3LgogKi8K</text>
+        <text encoding="base64">Y29uc3QgTWVkaWFRdWVyeSA9ICh7c3RvcmUsIC4uLnByb3BzfSkgPT4gewogIHJldHVybiAoCiAgICA8QmFzZU1lZGlhUXVlcnkKICAgICAgey4uLnByb3BzfQogICAgLz4KICApCn07CgpNZWRpYVF1ZXJ5LnByb3BUeXBlcyA9IHt9OwoKZXhwb3J0IGRlZmF1bHQgb2JzZXJ2ZXIoWydzdG9yZSddLCBNZWRpYVF1ZXJ5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
