@@ -26,7 +26,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485370109439">
+      <file name="/a.dummy" timestamp="1485381399174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -605,6 +605,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" timestamp="1485381356510" />
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.less" timestamp="1480519412293">
         <mark key="'" line="7" column="18" />
         <mark key="[" line="2" column="18" />
@@ -680,7 +681,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485380375366">
+      <file name="/Dummy.txt" timestamp="1485381412523">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -894,6 +895,7 @@
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" timestamp="1485208656256">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1485381356510" />
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1477497236116">
         <mark key="'" line="179" column="0" />
         <mark key="[" line="131" column="58" />
@@ -1221,12 +1223,12 @@
         <mark key="^" line="96" column="19" />
         <mark key="." line="95" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Avatar/Avatar.less" timestamp="1485372757474">
-        <mark key="'" line="14" column="13" />
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="14" column="18" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Avatar/Avatar.less" timestamp="1485381408725">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
         <mark key="^" line="14" column="1" />
-        <mark key="." line="14" column="2" />
+        <mark key="." line="20" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/SelectablePill.less" timestamp="1478805381329">
         <mark key="'" line="0" column="0" />
@@ -1546,7 +1548,6 @@
       <jump line="120" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
       <jump line="19" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/Avatar/Avatar.less" />
-      <jump line="20" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Avatar/Avatar.less" />
       <jump line="118" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="88" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="54" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
@@ -1632,6 +1633,7 @@
       <jump line="100" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="70" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="57" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="20" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Avatar/Avatar.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1649,7 +1651,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>item.seller.ships_from_country.toLowerCase()</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
