@@ -6,8 +6,8 @@
       <mark key="K" line="74" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" timestamp="1484938151187">
-        <mark key="'" line="43" column="6" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" timestamp="1485532669046">
+        <mark key="'" line="127" column="8" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -91,6 +91,12 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/styles/mobile-list.less" timestamp="1485532684423">
+        <mark key="'" line="60" column="21" />
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="60" column="22" />
+        <mark key="." line="60" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" timestamp="1485274385501">
         <mark key="'" line="103" column="10" />
@@ -666,10 +672,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485532502341">
-        <mark key="[" line="0" column="53" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
+      <file name="/Dummy.txt" timestamp="1485532714749">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1485206148904">
         <mark key="'" line="28" column="0" />
@@ -1523,15 +1529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
-      <jump line="144" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.js" />
-      <jump line="68" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="170" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="221" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="204" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="371" column="55" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="437" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="471" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="294" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="465" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1623,6 +1620,15 @@
       <jump line="76" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RemoveModal.js" />
       <jump line="51" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RemoveModal.js" />
       <jump line="68" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RemoveModal.js" />
+      <jump line="28" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
+      <jump line="195" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
+      <jump line="144" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
+      <jump line="127" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
+      <jump line="2" column="1" filename="$USER_HOME$/workspace/sls-react/src/styles/mobile-list.less" />
+      <jump line="58" column="6" filename="$USER_HOME$/workspace/sls-react/src/styles/mobile-list.less" />
+      <jump line="63" column="8" filename="$USER_HOME$/workspace/sls-react/src/styles/mobile-list.less" />
+      <jump line="60" column="21" filename="$USER_HOME$/workspace/sls-react/src/styles/mobile-list.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1640,7 +1646,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>word</text>
+        <text encoding="base64">Q2hhbmdlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
