@@ -26,7 +26,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485381399174">
+      <file name="/a.dummy" timestamp="1485525749121">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -65,12 +65,8 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" timestamp="1485525730024">
-        <mark key="'" line="18" column="12" />
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="32" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" timestamp="1485525845291">
+        <mark key="'" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/.env.staging" timestamp="1485354286971">
         <mark key="[" line="14" column="0" />
@@ -609,12 +605,12 @@
         <mark key="." line="89" column="2" />
         <mark key="^" line="89" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/User.js" timestamp="1484329276262">
-        <mark key="'" line="80" column="24" />
-        <mark key="[" line="80" column="24" />
-        <mark key="]" line="80" column="24" />
-        <mark key="." line="80" column="24" />
-        <mark key="^" line="80" column="24" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/User.js" timestamp="1485525757445">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="68" column="28" />
+        <mark key="." line="68" column="28" />
+        <mark key="^" line="68" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/images/ic-favorite.svg" timestamp="1484330520809">
         <mark key="'" line="2" column="0" />
@@ -663,7 +659,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485447802104">
+      <file name="/Dummy.txt" timestamp="1485525731486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -1158,9 +1154,9 @@
         <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1485525725435">
-        <mark key="[" line="773" column="0" />
-        <mark key="]" line="773" column="0" />
-        <mark key="." line="773" column="0" />
+        <mark key="[" line="771" column="0" />
+        <mark key="]" line="771" column="0" />
+        <mark key="." line="771" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
@@ -1522,9 +1518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
-      <jump line="117" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="168" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="202" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="185" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
@@ -1622,6 +1615,9 @@
       <jump line="16" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
       <jump line="10" column="31" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
       <jump line="18" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
+      <jump line="68" column="28" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1639,7 +1635,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>single_access_token</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
