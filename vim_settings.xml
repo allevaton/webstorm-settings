@@ -4,7 +4,6 @@
     <globalmarks>
       <mark key="J" line="60" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
       <mark key="K" line="74" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
-      <mark key="M" line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" timestamp="1485532669046">
@@ -21,10 +20,11 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/styles/main.less" timestamp="1485801695989">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/styles/main.less" timestamp="1485807699984">
+        <mark key="'" line="112" column="2" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1485800535659">
         <mark key="[" line="0" column="0" />
@@ -96,12 +96,12 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" timestamp="1485807431589">
-        <mark key="'" line="79" column="21" />
-        <mark key="[" line="79" column="18" />
-        <mark key="]" line="79" column="21" />
-        <mark key="." line="79" column="21" />
-        <mark key="^" line="79" column="21" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" timestamp="1485807780661">
+        <mark key="'" line="103" column="29" />
+        <mark key="[" line="103" column="28" />
+        <mark key="]" line="103" column="29" />
+        <mark key="." line="103" column="29" />
+        <mark key="^" line="103" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/styles/mobile-list.less" timestamp="1485532684423">
         <mark key="'" line="60" column="21" />
@@ -725,7 +725,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485807472292">
+      <file name="/Dummy.txt" timestamp="1485807803104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -1016,12 +1016,10 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1485800751474">
-        <mark key="'" line="80" column="14" />
-        <mark key="[" line="77" column="14" />
-        <mark key="]" line="77" column="14" />
-        <mark key="^" line="63" column="34" />
-        <mark key="." line="77" column="14" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1485807633069">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
@@ -1604,13 +1602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
-      <jump line="31" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="45" column="22" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToObject.js" />
-      <jump line="34" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToObject.js" />
-      <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToObject.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToObject.js" />
-      <jump line="43" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToObject.js" />
       <jump line="40" column="8" filename="$USER_HOME$/workspace/sls-react/src/utils/extractCookieToObject.js" />
       <jump line="51" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
@@ -1704,6 +1695,13 @@
       <jump line="84" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="90" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="79" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/main.less" />
+      <jump line="61" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/main.less" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/main.less" />
+      <jump line="112" column="2" filename="$USER_HOME$/workspace/sls-react/src/styles/main.less" />
+      <jump line="87" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="102" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="103" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1721,7 +1719,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>72px</text>
+        <text>8px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1730,13 +1728,13 @@
         <text encoding="base64">LmpvaW51cy1mb290ZXItLWJnLWltYWdlIHsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGV4dHJhY3RJdGVtSWRGcm9tU2x1ZyBmcm9tICcuLi8uLi91dGlscy9leHRyYWN0SXRlbUlkRnJvbVNsdWcnOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiAxNTJweDsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">SW0KICA=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1745,16 +1743,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgLmpvaW51cy1mb290ZXItLWhlbHAgewogICAgZGlzcGxheTogbm9uZTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgLmpvaW51cy1mb290ZXItLWhlbHAgewogICAgZGlzcGxheTogbm9uZTsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L01lZGlhUXVlcnk+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8TWVkaWFRdWVyeSBtaW5XaWR0aD17NzY4fT4K</text>
+        <text encoding="base64">ICAgICAgICA8L01lZGlhUXVlcnk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
