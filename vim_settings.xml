@@ -27,7 +27,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485549705622">
+      <file name="/a.dummy" timestamp="1485785553699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -947,8 +947,8 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1485785392145">
-        <mark key="'" line="158" column="76" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1485785677075">
+        <mark key="'" line="164" column="6" />
         <mark key="[" line="158" column="20" />
         <mark key="]" line="158" column="20" />
         <mark key="^" line="158" column="115" />
@@ -1509,10 +1509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ErrorPages/ErrorPageBase.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ErrorPages/ErrorPageBase.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ErrorPages/ErrorPageBase.js" />
-      <jump line="780" column="27" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="798" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="225" column="0" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="215" column="20" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
@@ -1609,6 +1605,10 @@
       <jump line="187" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="153" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="158" column="76" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="96" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="181" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="147" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="164" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
