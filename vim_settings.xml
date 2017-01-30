@@ -1126,8 +1126,8 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1485790737362">
-        <mark key="'" line="964" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1485795629712">
+        <mark key="'" line="414" column="3" />
         <mark key="[" line="964" column="0" />
         <mark key="]" line="964" column="0" />
         <mark key="." line="964" column="0" />
@@ -1506,9 +1506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="187" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="272" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="252" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="293" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="311" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1606,6 +1603,9 @@
       <jump line="18" column="20" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.spec.js" />
       <jump line="7" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.spec.js" />
+      <jump line="14" column="15" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="432" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="414" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
