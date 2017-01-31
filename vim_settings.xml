@@ -735,7 +735,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485875200318">
+      <file name="/Dummy.txt" timestamp="1485875353732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -938,11 +938,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.client.js" timestamp="1485358032355">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="79" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/webpack.client.js" timestamp="1485875270405">
+        <mark key="'" line="56" column="32" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="47" />
+        <mark key="." line="57" column="12" />
+        <mark key="^" line="57" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/constants/errorPageImages.js" timestamp="1484602002335">
         <mark key="[" line="2" column="0" />
@@ -1179,8 +1180,12 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/webpack.server.js" timestamp="1485357998231">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/webpack.server.js" timestamp="1485875276512">
+        <mark key="'" line="55" column="37" />
+        <mark key="[" line="55" column="37" />
+        <mark key="]" line="55" column="37" />
+        <mark key="." line="55" column="37" />
+        <mark key="^" line="55" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Sidebar/Sidebar.js" timestamp="1480449969412">
         <mark key="'" line="0" column="0" />
@@ -1645,8 +1650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="6" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="89" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
@@ -1745,6 +1748,8 @@
       <jump line="55" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="58" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="56" column="32" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
+      <jump line="55" column="37" filename="$USER_HOME$/workspace/sls-react/webpack.server.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1768,7 +1773,7 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcmVhc29ucyA9IHsKICBzb2xkOiAnU29sZCBFbHNld2hlcmUnLAogIGxvc3Q6ICdMb3N0IG9yIERhbWFnZWQnLAogIGtlZXA6ICdEZWNpZGVkIHRvIEtlZXAnLAogIGJ1bmRsZTogJ0J1bmRsaW5nIFdpdGggT3RoZXIgSXRlbXMnLAogIG90aGVyOiAnT3RoZXInCn07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RyYW5zZm9ybS1yZWFjdC1yZW1vdmUtcHJvcC10eXBlcycK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAuYWxpZ24tc2VsZihjZW50ZXIpOwo=</text>
