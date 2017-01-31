@@ -92,12 +92,12 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" timestamp="1485807875867">
-        <mark key="'" line="78" column="4" />
-        <mark key="[" line="103" column="28" />
-        <mark key="]" line="103" column="29" />
-        <mark key="." line="103" column="29" />
-        <mark key="^" line="103" column="29" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" timestamp="1485875186632">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="58" column="23" />
+        <mark key="]" line="58" column="23" />
+        <mark key="." line="58" column="23" />
+        <mark key="^" line="58" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/styles/mobile-list.less" timestamp="1485532684423">
         <mark key="'" line="60" column="21" />
@@ -735,7 +735,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485874320137">
+      <file name="/Dummy.txt" timestamp="1485875200318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -1645,16 +1645,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileHeaderContainer.js" />
-      <jump line="79" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="50" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="24" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="6" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
-      <jump line="16" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="89" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
@@ -1745,6 +1738,13 @@
       <jump line="46" column="37" filename="$USER_HOME$/workspace/sls-react/webpack.development.js" />
       <jump line="3" column="23" filename="$USER_HOME$/workspace/sls-react/tsconfig.json" />
       <jump line="4" column="2" filename="$USER_HOME$/workspace/sls-react/tsconfig.json" />
+      <jump line="85" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="16" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="57" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="55" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="58" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1771,31 +1771,31 @@
         <text encoding="base64">Y29uc3QgcmVhc29ucyA9IHsKICBzb2xkOiAnU29sZCBFbHNld2hlcmUnLAogIGxvc3Q6ICdMb3N0IG9yIERhbWFnZWQnLAogIGtlZXA6ICdEZWNpZGVkIHRvIEtlZXAnLAogIGJ1bmRsZTogJ0J1bmRsaW5nIFdpdGggT3RoZXIgSXRlbXMnLAogIG90aGVyOiAnT3RoZXInCn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByZWxvYWRlcnM6IFsKICAgIF0sCg==</text>
+        <text encoding="base64">ICAuYWxpZ24tc2VsZihjZW50ZXIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZWxvYWRlcnM6IFsKICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLnRzeD8vLAogICAgICAgIGxvYWRlcnM6IFsnYXdlc29tZS10eXBlc2NyaXB0PyddCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByZWxvYWRlcnM6IFsKICAgICAgewogICAgICAgIHRlc3Q6IC9cLnRzeD8vLAogICAgICAgIGxvYWRlcnM6IFsnYXdlc29tZS10eXBlc2NyaXB0J10KICAgICAgfQogICAgXSwK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLnRzeD8vLAogICAgICAgIGxvYWRlcnM6IFsnYXdlc29tZS10eXBlc2NyaXB0PyddCiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBuZXcgQ2hlY2tlclBsdWdpbigpCg==</text>
+        <text encoding="base64">ICAgIHByZWxvYWRlcnM6IFsKICAgICAgewogICAgICAgIHRlc3Q6IC9cLnRzeD8vLAogICAgICAgIGxvYWRlcnM6IFsnYXdlc29tZS10eXBlc2NyaXB0J10KICAgICAgfQogICAgXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBDaGVja2VyUGx1Z2luKCkK</text>
+        <text encoding="base64">ICBuZXcgQ2hlY2tlclBsdWdpbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgIG5ldyBDaGVja2VyUGx1Z2luKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXgtd2lkdGg6IDYwOHB4Owo=</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
