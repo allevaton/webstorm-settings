@@ -26,10 +26,10 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485977281352">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="/a.dummy" timestamp="1485985673608">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/Investor.less" timestamp="1476902494240">
         <mark key="'" line="5" column="0" />
@@ -89,13 +89,6 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" timestamp="1485984977585">
-        <mark key="'" line="54" column="2" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/styles/mobile-list.less" timestamp="1485532684423">
         <mark key="'" line="60" column="21" />
@@ -511,12 +504,10 @@
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" timestamp="1485984847309">
-        <mark key="'" line="50" column="8" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" timestamp="1485985738103">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-        <mark key="^" line="66" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/analytics.js" timestamp="1484929197925">
         <mark key="[" line="0" column="0" />
@@ -1676,7 +1667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/RegisterPage.js" />
       <jump line="231" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="180" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="129" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
@@ -1699,8 +1689,6 @@
       <jump line="33" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="46" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="29" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="34" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="60" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="21" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
@@ -1760,10 +1748,7 @@
       <jump line="83" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="54" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="37" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="20" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="0" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="50" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
       <jump line="61" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
@@ -1776,6 +1761,12 @@
       <jump line="52" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
       <jump line="54" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.less" />
+      <jump line="37" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/FooterBars/JoinUs.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1793,7 +1784,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>~&quot;calc(58% - 0.875rem)&quot;;</text>
+        <text>ow</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
