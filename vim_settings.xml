@@ -113,11 +113,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1485963252150">
-        <mark key="'" line="119" column="6" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1485976065363">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.js" timestamp="1481297054894">
         <mark key="'" line="41" column="14" />
@@ -1151,7 +1150,7 @@
         <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1485974020151">
-        <mark key="'" line="232" column="8" />
+        <mark key="'" line="234" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Tile/TileFooter.js" timestamp="1485879931461">
         <mark key="'" line="4" column="21" />
@@ -1657,10 +1656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.js" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.js" />
       <jump line="2" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.less" />
       <jump line="10" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.less" />
@@ -1757,6 +1752,10 @@
       <jump line="379" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="382" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="185" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.less" />
+      <jump line="158" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="131" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="114" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="124" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
