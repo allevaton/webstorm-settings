@@ -20,7 +20,7 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486061346097">
+      <file name="/a.dummy" timestamp="1486065805928">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -211,12 +211,12 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.js" timestamp="1486052282682">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.js" timestamp="1486065789466">
         <mark key="'" line="13" column="4" />
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
         <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/App/Snackbar.less" timestamp="1481132183707">
         <mark key="'" line="17" column="44" />
@@ -695,7 +695,7 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486063341359">
+      <file name="/Dummy.txt" timestamp="1486065809650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -840,11 +840,11 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" timestamp="1486062701785">
-        <mark key="'" line="84" column="8" />
-        <mark key="[" line="93" column="27" />
-        <mark key="]" line="93" column="36" />
-        <mark key="." line="93" column="36" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" timestamp="1486065799434">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
         <mark key="^" line="93" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/server/server.js" timestamp="1476985169140">
@@ -1596,8 +1596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
-      <jump line="566" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="521" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="504" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="487" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1696,6 +1694,8 @@
       <jump line="156" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="157" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="1" column="60" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
+      <jump line="129" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1713,7 +1713,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>commentInput</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1722,31 +1722,31 @@
         <text encoding="base64">ICAgICAgICA8TGluayB0bz17bGlua30+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnRJbnB1dC5mb2N1cygpOwo=</text>
+        <text encoding="base64">ICBvbkNsaWNrQ29tbWVudDogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHtmdW5jdGlvbn0gb25DbGlja0NvbW1lbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb21tZW50cy5zY3JvbGxJbnRvVmlldygpOwogICAgICAgICAgICAgIGNvbW1lbnRJbnB1dC5mb2N1cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25DbGlja0NvbW1lbnQ9e29uQ2xpY2tDb21tZW50fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb25DbGlja0NvbW1lbnQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb21tZW50SW5wdXQuZm9jdXMoKTsK</text>
+        <text encoding="base64">ICAgIG9uQ2xpY2tDb21tZW50OiBQcm9wVHlwZXMuZnVuYywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbW1lbnRJbnB1dCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnRJbnB1dC5mb2N1cygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LCAyMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb21tZW50cy5zY3JvbGxJbnRvVmlldygpOwogICAgICAgICAgICAgIGNvbW1lbnRJbnB1dC5mb2N1cygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
