@@ -53,13 +53,6 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.spec.js" timestamp="1486055176281">
-        <mark key="'" line="93" column="17" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="94" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" timestamp="1485532295680">
         <mark key="'" line="28" column="24" />
         <mark key="[" line="27" column="30" />
@@ -196,6 +189,7 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="39" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/node_modules/utils-merge/index.js" timestamp="1485548793048" />
       <file name="$USER_HOME$/workspace/sls-react/src/common/styles/mobile-list.less" timestamp="1476889909062">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="60" column="20" />
@@ -842,12 +836,12 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" timestamp="1486052647743">
-        <mark key="'" line="71" column="16" />
-        <mark key="[" line="111" column="63" />
-        <mark key="]" line="111" column="65" />
-        <mark key="." line="111" column="65" />
-        <mark key="^" line="111" column="65" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" timestamp="1486060031784">
+        <mark key="'" line="37" column="6" />
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="44" />
+        <mark key="." line="36" column="44" />
+        <mark key="^" line="36" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/server/server.js" timestamp="1476985169140">
         <mark key="'" line="67" column="6" />
@@ -927,13 +921,7 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" timestamp="1486055011314">
-        <mark key="'" line="49" column="6" />
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-        <mark key="^" line="48" column="34" />
-      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" timestamp="1486055011314" />
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1477497236116">
         <mark key="'" line="179" column="0" />
         <mark key="[" line="131" column="58" />
@@ -1109,6 +1097,7 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/node_modules/express/lib/response.js" timestamp="1485549843605" />
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1485974020151">
         <mark key="'" line="234" column="8" />
       </file>
@@ -1592,11 +1581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="56" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="363" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="137" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="358" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="375" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="377" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="378" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1692,6 +1676,11 @@
       <jump line="107" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.spec.js" />
       <jump line="96" column="7" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.spec.js" />
       <jump line="93" column="17" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.spec.js" />
+      <jump line="50" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
+      <jump line="60" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
+      <jump line="36" column="44" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
+      <jump line="37" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
