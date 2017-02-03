@@ -770,8 +770,8 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486141869048">
-        <mark key="[" line="0" column="32" />
+      <file name="/Dummy.txt" timestamp="1486141930113">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
@@ -1339,6 +1339,9 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.spec.js" timestamp="1486142185488">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/User.ts" timestamp="1486079928703">
         <mark key="'" line="63" column="2" />
         <mark key="[" line="63" column="30" />
@@ -1726,7 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPageContainer.js" />
       <jump line="110" column="46" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="39" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPageContainer.js" />
@@ -1826,6 +1828,7 @@
       <jump line="374" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="381" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
