@@ -66,6 +66,12 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.spec.js" timestamp="1486131355225">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" timestamp="1485532295680">
         <mark key="'" line="28" column="24" />
         <mark key="[" line="27" column="30" />
@@ -690,6 +696,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" timestamp="1486130866527" />
       <file name="$USER_HOME$/workspace/sls-react/src/store/Store.ts" timestamp="1486079882072">
         <mark key="'" line="244" column="17" />
         <mark key="[" line="245" column="10" />
@@ -800,7 +807,7 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486130658757">
+      <file name="/Dummy.txt" timestamp="1486131336885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -1036,6 +1043,14 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="67" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" timestamp="1486131334574">
+        <mark key="'" line="43" column="2" />
+        <mark key="[" line="47" column="50" />
+        <mark key="]" line="48" column="3" />
+        <mark key="^" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1486130866527" />
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1477497236116">
         <mark key="'" line="179" column="0" />
         <mark key="[" line="131" column="58" />
@@ -1340,12 +1355,8 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1486051791848">
-        <mark key="'" line="827" column="4" />
-        <mark key="[" line="779" column="0" />
-        <mark key="]" line="841" column="2" />
-        <mark key="^" line="811" column="25" />
-        <mark key="." line="811" column="25" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1486131275569">
+        <mark key="'" line="57" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
@@ -1759,16 +1770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="30" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
-      <jump line="116" column="53" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
-      <jump line="112" column="25" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
-      <jump line="113" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
-      <jump line="79" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
-      <jump line="62" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
-      <jump line="69" column="42" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
-      <jump line="203" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
-      <jump line="188" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
-      <jump line="177" column="36" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
       <jump line="186" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
       <jump line="237" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
       <jump line="220" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.ts" />
@@ -1859,6 +1860,16 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/interfaces/api.d.ts" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/interfaces/api.d.ts" />
       <jump line="27" column="2" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
+      <jump line="57" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="46" column="45" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
+      <jump line="44" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
+      <jump line="42" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
+      <jump line="43" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.spec.js" />
+      <jump line="87" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.spec.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1876,7 +1887,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>categoryName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1885,31 +1896,31 @@
         <text encoding="base64">aW1wb3J0IFRpbWVyID0gTm9kZUpTLlRpbWVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKgogICAqIEBuYW1lIFVzZXJEYXRhCiAgICogQHByb3BlcnR5IHtudW1iZXJ9IGlkIFVuaXF1ZSBJRAogICAqIEBwcm9wZXJ0eSB7c3RyaW5nfSBlbWFpbAogICAqIEBwcm9wZXJ0eSB7c3RyaW5nfSB1c2VybmFtZQogICAqIEBwcm9wZXJ0eSB7b2JqZWN0fG51bGx9IGF2YXRhcl91cmwKICAgKiBAcHJvcGVydHkge29iamVjdHxudWxsfSBjb3Zlcl91cmwKICAgKiBAcHJvcGVydHkge3N0cmluZ30gc2luZ2xlX2FjY2Vzc190b2tlbgogICAqIEBwcm9wZXJ0eSB7Ym9vbGVhbn0gYWRtaW4KICAgKiBAcHJvcGVydHkge2Jvb2xlYW58bnVsbH0gY2FuX3JldHVybl9hZG1pbgogICAqIEBwcm9wZXJ0eSB7b2JqZWN0fG51bGx9IHNlbGxlcl9hY2NvdW50CiAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAganNvbi5kYXRhLnRva2VuCg==</text>
+        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBmYWxsYmFjayB0byBwcmltYXJ5X2NhdGVnb3J5IGlmIG9ubHkgMSBjYXRlZ29yeScsICgpID0+IHsKICAgIGxldCByZXN1bHQgPSBleHRyYWN0TWV0YWRhdGFGcm9tSXRlbSh7CiAgICAgIC4uLmJhc2VPYmplY3QsCiAgICAgIHByaW1hcnlfY2F0ZWdvcnk6IHtzbHVnOiAnaG9ja2V5JywgbmFtZTogJ0hvY2tleSd9LAogICAgICBkZXRhaWxzOiBbewogICAgICAgIHNsdWc6ICdjYXRlZ29yeScsCiAgICAgICAgbmFtZTogJ0NhdGVnb3J5JywKICAgICAgICB2YWx1ZXM6IFsKICAgICAgICAgIHtzbHVnOiAnaGVsbWV0cycsIG5hbWU6ICdIZWxtZXRzJ30KICAgICAgICBdLAogICAgICB9XQogICAgfSk7CiAgICBleHBlY3QocmVzdWx0LnRpdGxlKS50b0VxdWFsKCdTcG9ydCBnZWFyIHwgSG9ja2V5IEhlbG1ldHMnKTsKICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSB7VXNlckRhdGF9IGpzb24uZGF0YS51c2VyIFVzZXIgb2JqZWN0IGZyb20gQVBJCiAgICovCg==</text>
+        <text encoding="base64">ICAgIC8vIENoZWNrIHByaW1hcnlfY2F0ZWdvcnkKICAgIGxldCBwcmltYXJ5Q2F0ZWdvcnkgPSBpdGVtLnByaW1hcnlfY2F0ZWdvcnkgJiYgaXRlbS5wcmltYXJ5X2NhdGVnb3J5Lm5hbWU7CiAgICBpZiAocHJpbWFyeUNhdGVnb3J5KSB7CiAgICAgIHNwb3J0TmFtZSA9IHByaW1hcnlDYXRlZ29yeTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2F0ZWdvcnlOYW1lID0gc3BvcnROYW1lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSAK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhCg==</text>
+        <text encoding="base64">ICAgKgogICAqIEBuYW1lIFVzZXJEYXRhCiAgICogQHByb3BlcnR5IHtudW1iZXJ9IGlkIFVuaXF1ZSBJRAogICAqIEBwcm9wZXJ0eSB7c3RyaW5nfSBlbWFpbAogICAqIEBwcm9wZXJ0eSB7c3RyaW5nfSB1c2VybmFtZQogICAqIEBwcm9wZXJ0eSB7b2JqZWN0fG51bGx9IGF2YXRhcl91cmwKICAgKiBAcHJvcGVydHkge29iamVjdHxudWxsfSBjb3Zlcl91cmwKICAgKiBAcHJvcGVydHkge3N0cmluZ30gc2luZ2xlX2FjY2Vzc190b2tlbgogICAqIEBwcm9wZXJ0eSB7Ym9vbGVhbn0gYWRtaW4KICAgKiBAcHJvcGVydHkge2Jvb2xlYW58bnVsbH0gY2FuX3JldHVybl9hZG1pbgogICAqIEBwcm9wZXJ0eSB7b2JqZWN0fG51bGx9IHNlbGxlcl9hY2NvdW50CiAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAganNvbi5kYXRhLnRva2VuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJSGFzSWQgewogIGlkOiBudW1iZXI7Cn0KCg==</text>
+        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSB7VXNlckRhdGF9IGpzb24uZGF0YS51c2VyIFVzZXIgb2JqZWN0IGZyb20gQVBJCiAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1922,7 +1933,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1936,8 +1947,6 @@
         <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>wj</entry>
-        <entry>'w</entry>
         <entry>A</entry>
         <entry>sw</entry>
         <entry>action ShowErrorDescription</entry>
