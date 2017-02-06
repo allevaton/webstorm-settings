@@ -782,10 +782,10 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486405206968">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1486409517729">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -794,12 +794,12 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/routes.js" timestamp="1486395935570">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="58" />
+      <file name="$USER_HOME$/workspace/sls-react/src/routes.js" timestamp="1486408968433">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="52" />
+        <mark key="^" line="59" column="50" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/forms/getCCTypeFromNumber.spec.js" timestamp="1485792214377">
         <mark key="'" line="13" column="58" />
@@ -1012,8 +1012,12 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" timestamp="1486406029944">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" timestamp="1486409533428">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" timestamp="1486152575702">
         <mark key="'" line="41" column="21" />
@@ -1746,24 +1750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="422" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="0" column="25" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
-      <jump line="10" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ItemLandingPage/ItemLandingPage.js" />
-      <jump line="87" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="104" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1015" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="134" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Items.js" />
-      <jump line="151" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Items.js" />
-      <jump line="13" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Pages.js" />
-      <jump line="10" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Pages.js" />
-      <jump line="1023" column="27" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Pages.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemLandingPage/ItemLandingPage.js" />
-      <jump line="9" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemLandingPage/ItemLandingPage.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Pages.js" />
       <jump line="1021" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="11" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemLandingPage/ItemLandingPage.js" />
@@ -1845,7 +1831,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemLandingPage/ItemLandingPage.js" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/absoluteURL.js" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="44" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="55" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="32" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="34" column="76" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
+      <jump line="60" column="15" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
+      <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1897,40 +1901,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pageData</text>
+        <text>hsome</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluaz17WwogICAgICAgICAgICAgIHtyZWw6ICdjYW5vbmljYWwnLCBocmVmOiBpdGVtLnVybH0KICAgICAgICAgICAgXX0K</text>
+        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSIqKi8qIiBjb21wb25lbnQ9e0l0ZW1MYW5kaW5nUGFnZX0vPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFic29sdXRlVVJMIGZyb20gIi4uLy4uL3V0aWxzL2Zvcm1hdC9hYnNvbHV0ZVVSTCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpbms9e1sKICAgICAgICAgICAge3JlbDogJ2Nha2snfQogICAgICAgICAgXX0K</text>
+        <text encoding="base64">ICAgIHsvKjxSb3V0ZSBwYXRoPSI6c3BvcnROYW1lIj4qL30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIDwvUm91dGU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2guZ2V0JzsK</text>
+        <text encoding="base64">CiAgICAgIDxSb3V0ZSBwYXRoPSI6Y2F0ZWdvcnlOYW1lIi8+CiAgICA8L1JvdXRlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IjpjYXRlZ29yeU5hbWUiIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXRvcDogM2VtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSIqKi8qIiBjb21wb25lbnQ9e0l0ZW1MYW5kaW5nUGFnZX0vPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
