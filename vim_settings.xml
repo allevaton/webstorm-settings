@@ -4,7 +4,7 @@
     <globalmarks>
       <mark key="J" line="60" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
       <mark key="K" line="74" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
-      <mark key="M" line="94" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
+      <mark key="M" line="91" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" timestamp="1486044105530">
@@ -219,13 +219,6 @@
         <mark key="]" line="16" column="16" />
         <mark key="^" line="16" column="30" />
         <mark key="." line="16" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Pages.js" timestamp="1486400018140">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/hoc/makeModal.js" timestamp="1478621922071">
         <mark key="'" line="39" column="12" />
@@ -679,7 +672,7 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/client.js" timestamp="1486395958231">
-        <mark key="'" line="104" column="4" />
+        <mark key="'" line="101" column="4" />
         <mark key="[" line="72" column="26" />
         <mark key="]" line="72" column="26" />
         <mark key="." line="72" column="26" />
@@ -827,8 +820,8 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486162462608">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1486400360445">
+        <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -846,7 +839,7 @@
         <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/routes.js" timestamp="1486395935570">
-        <mark key="'" line="69" column="0" />
+        <mark key="'" line="63" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="58" />
         <mark key="^" line="21" column="58" />
@@ -1172,10 +1165,10 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1486399564549">
-        <mark key="'" line="444" column="12" />
-        <mark key="[" line="422" column="24" />
-        <mark key="]" line="422" column="24" />
-        <mark key="." line="422" column="24" />
+        <mark key="'" line="440" column="12" />
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="37" column="24" />
+        <mark key="." line="37" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
@@ -1386,13 +1379,6 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1486399978137">
-        <mark key="'" line="1040" column="2" />
-        <mark key="[" line="1044" column="39" />
-        <mark key="]" line="1044" column="38" />
-        <mark key="." line="1044" column="38" />
-        <mark key="^" line="1044" column="38" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="31" column="16" />
@@ -1462,9 +1448,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/store/Items.js" timestamp="1486399987799">
         <mark key="'" line="101" column="4" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" timestamp="1485876632250">
         <mark key="'" line="90" column="2" />
@@ -1985,7 +1968,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[0]</text>
+        <text encoding="base64">QVBJIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
