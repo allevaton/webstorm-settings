@@ -729,10 +729,10 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486485657341">
-        <mark key="[" line="0" column="69" />
-        <mark key="]" line="0" column="69" />
-        <mark key="." line="0" column="69" />
+      <file name="/Dummy.txt" timestamp="1486486785652">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1377,6 +1377,13 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" timestamp="1486486752486">
+        <mark key="'" line="73" column="76" />
+        <mark key="[" line="73" column="68" />
+        <mark key="]" line="73" column="76" />
+        <mark key="." line="73" column="76" />
+        <mark key="^" line="73" column="76" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/TeamMember.js" timestamp="1476894909013">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1592,12 +1599,12 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="55" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" timestamp="1484940293680">
-        <mark key="'" line="116" column="16" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="27" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="116" column="26" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" timestamp="1486486734007">
+        <mark key="'" line="82" column="16" />
+        <mark key="[" line="82" column="58" />
+        <mark key="]" line="82" column="67" />
+        <mark key="." line="82" column="67" />
+        <mark key="^" line="82" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/format/formatCommentBody.js" timestamp="1484171560118">
         <mark key="'" line="0" column="25" />
@@ -1685,8 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
-      <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="28" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="26" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
@@ -1785,6 +1790,8 @@
       <jump line="45" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="23" column="48" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="82" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/UserNav.js" />
+      <jump line="73" column="76" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/MobileNav.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1836,13 +1843,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV4dCA=</text>
+        <text>Update</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7cGFnZU51bWJlciAhPT0gMSAmJiA8UGFnaW5hdG9yQnV0dG9uIHRleHQ9IlByZXYiIHByZXYvPn0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPXtgLyR7c3RvcmUudXNlci5kYXRhLnVzZXJuYW1lfWB9Pk15IExvY2tlcjwvYT48L2xpPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAga2V5Cg==</text>
