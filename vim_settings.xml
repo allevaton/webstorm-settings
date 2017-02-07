@@ -559,6 +559,13 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.spec.js" timestamp="1486484159421">
+        <mark key="'" line="19" column="55" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/images/ic-fullscreen.svg" timestamp="1484071379284">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
@@ -811,12 +818,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" timestamp="1486479347156">
-        <mark key="'" line="34" column="37" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="29" column="79" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" timestamp="1486485556192">
+        <mark key="'" line="40" column="13" />
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
+        <mark key="^" line="40" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/SearchWindow.js" timestamp="1475676957234">
         <mark key="'" line="13" column="15" />
@@ -1398,12 +1405,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" timestamp="1486480928064">
-        <mark key="'" line="63" column="6" />
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="59" column="30" />
-        <mark key="." line="59" column="30" />
-        <mark key="^" line="24" column="23" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" timestamp="1486485634602">
+        <mark key="'" line="23" column="48" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="49" />
+        <mark key="." line="23" column="49" />
+        <mark key="^" line="48" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/landingPageData.js" timestamp="1478273833427">
         <mark key="'" line="59" column="59" />
@@ -1488,6 +1495,13 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" timestamp="1486484738315">
+        <mark key="a" line="2" column="25" />
+        <mark key="'" line="27" column="2" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/reactifySportsList.js" timestamp="1484339533051">
         <mark key="'" line="0" column="0" />
@@ -1662,69 +1676,20 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" timestamp="1486479466004">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" timestamp="1486485125433">
+        <mark key="'" line="3" column="2" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="24" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="60" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="42" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="441" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="48" column="55" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="44" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="37" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.js" />
-      <jump line="9" column="1" filename="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.spec.js" />
-      <jump line="29" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="27" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="52" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="51" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="53" column="64" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="45" column="61" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="38" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="13" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="6" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="5" column="54" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="18" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="12" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="6" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
-      <jump line="17" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="7" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
-      <jump line="14" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
-      <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
-      <jump line="19" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
-      <jump line="21" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="39" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
-      <jump line="22" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
       <jump line="9" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="28" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="26" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
-      <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="12" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="4" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.less" />
@@ -1738,37 +1703,88 @@
       <jump line="30" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
       <jump line="21" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="59" column="21" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
-      <jump line="23" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="25" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
       <jump line="42" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
       <jump line="34" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="33" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="35" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="39" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="32" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="25" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="26" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="22" column="48" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="11" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="42" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="59" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="34" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="57" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="41" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="47" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="33" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="54" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="69" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="62" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="63" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="64" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="53" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="40" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="33" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="6" column="54" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="13" column="23" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.spec.js" />
+      <jump line="20" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="14" column="59" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.spec.js" />
+      <jump line="18" column="22" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="14" column="64" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="19" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="41" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="16" column="38" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="9" column="40" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.spec.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.spec.js" />
+      <jump line="18" column="55" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.spec.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="33" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="37" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="30" column="55" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="36" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="63" column="31" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/format/pageNumbers.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="29" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
+      <jump line="32" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
+      <jump line="3" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="19" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="51" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="49" column="43" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="40" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
+      <jump line="46" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="45" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="23" column="48" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1820,40 +1836,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>store.items.resultPage + 1;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvd2VyRWxsaXBzaXMgPSBwYWdlTnVtYmVyIC0gNCA8PSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICB7cGFnZU51bWJlciAhPT0gMSAmJiA8UGFnaW5hdG9yQnV0dG9uIHRleHQ9IlByZXYiIHByZXYvPn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBidWZmZXJDb25zdW1lci0tOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHBhZ2VOdW1iZXIgPSAxMjY7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZ2VzQXJyYXkucHVzaCgnLi4uJykK</text>
+        <text encoding="base64">CmNvbnN0IHNpZGVCdWZmZXIgPSAzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlc0FycmF5LnB1c2goYnVmZmVyQ29uc3VtZXIpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVsbGlwc2lzQnV0dG9uID0gPFBhZ2luYXRvckJ1dHRvbiBlbGxpcHNpcy8+OwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGFnZXNBcnJheS5wdXNoKGJ1ZmZlckNvbnN1bWVyKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhZ2VBcnJheSk7Cgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGkpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ewoKICAgICAgICB9KX0KCiAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8UGFnaW5hdG9yQnV0dG9uIHRleHQ9IjEiLz4KICAgICAgICB7bG93ZXJFbGxpcHNpcyAmJiBlbGxpcHNpc0J1dHRvbn0KICAgICAgICA8UGFnaW5hdG9yQnV0dG9uIHRleHQ9IjQiLz4KICAgICAgICA8UGFnaW5hdG9yQnV0dG9uIHRleHQ9IjUiLz4KICAgICAgICA8UGFnaW5hdG9yQnV0dG9uIHRleHQ9IjYiLz4KICAgICAgICA8UGFnaW5hdG9yQnV0dG9uIHRleHQ9IjciIGFjdGl2ZS8+CiAgICAgICAgPFBhZ2luYXRvckJ1dHRvbiB0ZXh0PSI4Ii8+CiAgICAgICAgPFBhZ2luYXRvckJ1dHRvbiB0ZXh0PSI5Ii8+CiAgICAgICAgPFBhZ2luYXRvckJ1dHRvbiB0ZXh0PSIxMCIvPgogICAgICAgIHt1cHBlckVsbGlwc2lzICYmIGVsbGlwc2lzQnV0dG9ufQogICAgICAgIDxQYWdpbmF0b3JCdXR0b24gdGV4dD0iMTAwIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvd2VyRWxsaXBzaXMgPSBwYWdlTnVtYmVyIC0gNCA+IDE7CiAgICBjb25zdCB1cHBlckVsbGlwc2lzID0gcGFnZU51bWJlciArIDQgPCBtYXhQYWdlczsK</text>
+        <text encoding="base64">ICAgICAgICA8UGFnaW5hdG9yQnV0dG9uIHRleHQ9Ik5leHQiIG5leHQvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1866,7 +1882,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1895,10 +1911,10 @@
         <entry>;w</entry>
         <entry>q</entry>
         <entry>action Forward</entry>
-        <entry>action RenameElement</entry>
         <entry>x</entry>
         <entry>action Back</entry>
         <entry>j</entry>
+        <entry>action RenameElement</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
