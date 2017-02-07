@@ -14,12 +14,12 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.less" timestamp="1486418393695">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.less" timestamp="1486500409043">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/Sidebar.less" timestamp="1475763334215">
         <mark key="'" line="0" column="0" />
@@ -652,7 +652,6 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" timestamp="1486475730545" />
       <file name="$USER_HOME$/workspace/sls-react/src/store/Store.ts" timestamp="1486162461289">
         <mark key="'" line="422" column="6" />
         <mark key="[" line="432" column="40" />
@@ -737,7 +736,7 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486500332364">
+      <file name="/Dummy.txt" timestamp="1486500427208">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1700,8 +1699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.js" />
-      <jump line="16" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.js" />
       <jump line="1072" column="44" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1050" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemGrid.js" />
@@ -1800,6 +1797,8 @@
       <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.less" />
       <jump line="53" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
       <jump line="40" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
