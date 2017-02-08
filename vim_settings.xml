@@ -378,12 +378,12 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" timestamp="1485793275378">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="69" />
-        <mark key="]" line="11" column="66" />
-        <mark key="." line="11" column="66" />
-        <mark key="^" line="11" column="66" />
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" timestamp="1486593316666">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/asyncSortRegion.js" timestamp="1481054539356">
         <mark key="'" line="10" column="0" />
@@ -1702,18 +1702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
-      <jump line="44" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
-      <jump line="15" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
-      <jump line="6" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
-      <jump line="23" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
-      <jump line="30" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
-      <jump line="20" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
-      <jump line="26" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
-      <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
       <jump line="35" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
@@ -1802,6 +1790,18 @@
       <jump line="49" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
       <jump line="1020" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1028" column="20" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="30" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="35" column="1" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="10" column="1" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="6" column="64" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="28" column="1" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="18" column="26" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1853,7 +1853,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1862,31 +1862,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8udGhlbigoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgLy93aW5kb3cuc2Nyb2xsVG8oMCwgMCk7CiAgICAgICAgICAgICAgICAgIC8vfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3dlIGdvb2QsIHNlYXJjaGluZyB1c2VycyBmb3InLCB1c2VybmFtZS5qb2luKCcnKSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqc29uLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICBsZXQgcGFpcnMgPSBxdWVyeVN0cmluZ09iamVjdC5zcGxpdCgnJicpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBwYWlycy5mb3JFYWNoKHBhaXIgPT4gewogICAgICBsZXQgW2tleSwgdmFsdWVdID0gcGFpci5zcGxpdCgnPScpOwogICAgICBrZXkgPSBkZWNvZGVVUklDb21wb25lbnQoa2V5KTsKCiAgICB9KQogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAgICAgaWYgKGtleS5zdGFydHNXaXRoKCd1dG1fJykpIHsKICAgICAgICBjYWxsYmFjayhjcmVhdGVDb29raWVTdHJpbmcoa2V5KSwgdmFsdWUpOwogICAgICB9CiAgICAgIGVsc2UgaWYgKGtleSA9PT0gJ3Byb21vX2NvZGUnKSB7CiAgICAgICAgY2FsbGJhY2soY3JlYXRlQ29va2llU3RyaW5nKGtleSksIHZhbHVlKTsKICAgICAgfQogICAgICBlbHNlIGlmIChrZXkgPT09ICdkZXN0aW5hdGlvbicpIHsKICAgICAgICBjYWxsYmFjayhrZXksIHZhbHVlKTsKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcHJldmVudENvbXBvbmVudFN0b3JlRGF0YSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZG9uZTogKCkgPT4gewogICAgICAgIHRoaXMucHJldmVudENvbXBvbmVudFN0b3JlRGF0YSA9IGZhbHNlOwogICAgICB9LAo=</text>
+        <text encoding="base64">ICBpZiAocXVlcnlTdHJpbmdPYmplY3QgJiYgcXVlcnlTdHJpbmdPYmplY3QubGVuZ3RoID4gMCkgewogICAgaWYgKHF1ZXJ5U3RyaW5nT2JqZWN0WzBdID09PSAnPycpCiAgICAgIHF1ZXJ5U3RyaW5nT2JqZWN0ID0gcXVlcnlTdHJpbmdPYmplY3Quc2xpY2UoMSk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2xpY2s9eyhlKSA9PiBvbkNoYW5nZVBhZ2UoZSwgcGFnZU51bWJlciAtIDEpfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3dlIGdvb2QsIHNlYXJjaGluZyB1c2VycyBmb3InLCB1c2VybmFtZS5qb2luKCcnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
