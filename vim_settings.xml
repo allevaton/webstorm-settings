@@ -610,10 +610,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.spec.js" timestamp="1486676050150">
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.spec.js" timestamp="1486676115821">
         <mark key="'" line="13" column="109" />
-        <mark key="[" line="13" column="100" />
-        <mark key="]" line="13" column="109" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="104" />
         <mark key="." line="13" column="109" />
         <mark key="^" line="13" column="109" />
       </file>
@@ -767,10 +767,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486675941394">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+      <file name="/Dummy.txt" timestamp="1486676310663">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -939,12 +939,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" timestamp="1486400679832">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="155" column="75" />
-        <mark key="]" line="156" column="22" />
-        <mark key="." line="156" column="22" />
-        <mark key="^" line="156" column="22" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" timestamp="1486676268979">
+        <mark key="'" line="114" column="15" />
+        <mark key="[" line="114" column="15" />
+        <mark key="]" line="114" column="15" />
+        <mark key="." line="114" column="15" />
+        <mark key="^" line="114" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/ExpandingItem.js" timestamp="1476465494978">
         <mark key="'" line="9" column="2" />
@@ -1712,14 +1712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="163" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="40" column="4" filename="$USER_HOME$/workspace/sls-react/src/hoc/secureActions.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/sls-react/src/hoc/secureActions.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/hoc/secureActions.js" />
-      <jump line="47" column="10" filename="$USER_HOME$/workspace/sls-react/src/hoc/secureActions.js" />
-      <jump line="19" column="8" filename="$USER_HOME$/workspace/sls-react/src/hoc/secureActions.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
       <jump line="86" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
       <jump line="124" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
@@ -1812,6 +1804,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.js" />
       <jump line="9" column="66" filename="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.js" />
       <jump line="13" column="109" filename="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.spec.js" />
+      <jump line="98" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
+      <jump line="127" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
+      <jump line="147" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
+      <jump line="108" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
+      <jump line="103" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
+      <jump line="105" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
+      <jump line="114" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1863,40 +1863,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>//////////////////////////</text>
+        <text encoding="base64">OHB4IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChzcGxhdFJlZHVjZShbJy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vbGFjcm9zc2UvLy8vaGVhZHMvJ10pKS50b0VxdWFsKFsnbGFjcm9zc2UnLCAnaGVhZHMnXSk7Cg==</text>
+      <register name="0" type="4">
+        <text>expect(splatReduce(['//////////////////////////lacrosse////heads/'])).toEqual(['lacrosse', 'heads']);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiA4cHg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZmF2b3JpdGVycyA9IHRoaXMuaXRlbXMuY3VycmVudFBhZ2UuZGF0YVtpdGVtSW5kZXhdLmZhdm9yaXRlcnNfY291bnQ7Cg==</text>
+        <text encoding="base64">Lml0ZW0tdGh1bWJuYWlsLS1kZXRhaWxzLS10aXRsZSB7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgY29sb3I6ICM0YTRhNGE7CiAgcGFkZGluZzogNHB4IDhweCAwOwogIGRpc3BsYXk6IGJsb2NrOwogIHRleHQtb3ZlcmZsb3c6IGVsbGlwc2lzOwogIHdvcmQtd3JhcDogYnJlYWstd29yZDsKICBvdmVyZmxvdzogaGlkZGVuOwogIG1heC1oZWlnaHQ6IDIuNmVtOwogIGxpbmUtaGVpZ2h0OiAxLjNlbTsKICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmYXZvcml0ZXJzICsgMQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">OwogIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmYXZvcml0ZXJzIC0gMQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZmF2b3JpdGVycyA9IHRoaXMuaXRlbXMuY3VycmVudFBhZ2UuZGF0YVtpdGVtSW5kZXhdLmZhdm9yaXRlcnNfY291bnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmYXZvcml0ZTogIWl0ZW0uZmF2b3JpdGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmYXZvcml0ZXJzICsgMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0LmFzc2lnbigsIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmYXZvcml0ZXJzIC0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8qKiBAdHlwZSB7SXRlbURldGFpbH0gKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdG9yZS5nZXRMYW5kaW5nUGFnZUl0ZW1zKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoLnNsaWNlKDEpLCBzdG9yZS5pdGVtcy5yZXN1bHRQYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmYXZvcml0ZTogIWl0ZW0uZmF2b3JpdGUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
