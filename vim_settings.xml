@@ -434,6 +434,13 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.js" timestamp="1486675934165">
+        <mark key="'" line="9" column="66" />
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="9" column="66" />
+        <mark key="^" line="9" column="66" />
+        <mark key="." line="9" column="66" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/sortAddresses.js" timestamp="1481059338988">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="2" column="18" />
@@ -760,10 +767,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486675834430">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
+      <file name="/Dummy.txt" timestamp="1486675941394">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1267,8 +1274,8 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1486675805894">
-        <mark key="'" line="861" column="66" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1486675862376">
+        <mark key="'" line="864" column="0" />
         <mark key="[" line="861" column="61" />
         <mark key="]" line="861" column="66" />
         <mark key="^" line="861" column="66" />
@@ -1705,8 +1712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
       <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="112" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="163" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1803,8 +1808,10 @@
       <jump line="827" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="844" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="866" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="864" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="861" column="66" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="864" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.js" />
+      <jump line="9" column="66" filename="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1856,7 +1863,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>emp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
