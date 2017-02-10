@@ -400,11 +400,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" timestamp="1486671167866">
-        <mark key="'" line="213" column="10" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" timestamp="1486740030450">
+        <mark key="'" line="218" column="41" />
+        <mark key="[" line="218" column="42" />
+        <mark key="]" line="218" column="42" />
+        <mark key="." line="218" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/styles/variables.less" timestamp="1484334777466">
         <mark key="'" line="18" column="2" />
@@ -783,7 +783,7 @@
         <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/routes.js" timestamp="1486739054383">
-        <mark key="]" line="62" column="11" />
+        <mark key="]" line="55" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/forms/getCCTypeFromNumber.spec.js" timestamp="1485792214377">
         <mark key="'" line="13" column="58" />
@@ -1705,8 +1705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="34" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="20" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
       <jump line="13" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
       <jump line="30" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
@@ -1805,6 +1803,8 @@
       <jump line="60" column="10" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
       <jump line="22" column="53" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="221" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
+      <jump line="218" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1856,7 +1856,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>deosn'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -1865,31 +1865,31 @@
         <text encoding="base64">ICAgIGxldCByb3V0ZVRhZ3MgPSBwYXJhbXMuZGV0YWlsID8gIFtwYXJhbXMuZGV0YWlsXSA6IHNwbGF0UmVkdWNlKHBhcmFtcy5zcGxhdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdG9yZS5nZXRMYW5kaW5nUGFnZUl0ZW1zKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoLnNsaWNlKDEpLCBzdG9yZS5pdGVtcy5yZXN1bHRQYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vYm90dG9tOiAnNTAlJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IioiIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzdG9yZS5nZXRMYW5kaW5nUGFnZUl0ZW1zKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoLnNsaWNlKDEpLCBzdG9yZS5pdGVtcy5yZXN1bHRQYWdlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9Sb3V0ZT4K</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IioiIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0iKiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4K</text>
+        <text encoding="base64">ICAgICAgPC9Sb3V0ZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0iKiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9InNob3AvKiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSJzaG9wLyoqLyoiIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9InNob3AvKiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgey8qPFJvdXRlIHBhdGg9IiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4qL30KICAgIDwvUm91dGU+Cg==</text>
+        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSJzaG9wLyoqLyoiIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9Ijp0YWciIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgey8qPFJvdXRlIHBhdGg9IiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4qL30KICAgIDwvUm91dGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
