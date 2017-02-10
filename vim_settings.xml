@@ -641,11 +641,12 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/client.js" timestamp="1486746388257">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/client.js" timestamp="1486747417797">
+        <mark key="'" line="55" column="2" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Avatar/Avatar.js" timestamp="1485199534442">
         <mark key="'" line="20" column="45" />
@@ -776,10 +777,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486746408264">
+      <file name="/Dummy.txt" timestamp="1486747420639">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/config/staging.js" timestamp="1476377113914">
         <mark key="'" line="0" column="0" />
@@ -1699,8 +1700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="109" filename="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.spec.js" />
-      <jump line="98" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
       <jump line="127" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
       <jump line="147" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
       <jump line="108" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
@@ -1799,6 +1798,8 @@
       <jump line="120" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="125" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="126" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="17" column="17" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
+      <jump line="55" column="2" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1850,7 +1851,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>Eliminate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
