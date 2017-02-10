@@ -770,7 +770,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486739312201">
+      <file name="/Dummy.txt" timestamp="1486742648231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -992,13 +992,13 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" timestamp="1486739311576">
-        <mark key="'" line="22" column="53" />
-        <mark key="[" line="76" column="0" />
-        <mark key="m" line="131" column="52" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="22" column="54" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" timestamp="1486742646003">
+        <mark key="'" line="123" column="11" />
+        <mark key="[" line="109" column="0" />
+        <mark key="m" line="132" column="52" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="108" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.js" timestamp="1486152575702">
         <mark key="'" line="41" column="21" />
@@ -1698,13 +1698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="148" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="49" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
       <jump line="219" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="355" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="389" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -1791,13 +1784,20 @@
       <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="60" column="10" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
-      <jump line="22" column="53" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
       <jump line="221" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
       <jump line="218" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
       <jump line="213" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" />
       <jump line="116" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="121" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="12" column="31" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="141" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="140" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
+      <jump line="123" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1849,40 +1849,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>routeTags</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCByb3V0ZVRhZ3MgPSBwYXJhbXMuZGV0YWlsID8gIFtwYXJhbXMuZGV0YWlsXSA6IHNwbGF0UmVkdWNlKHBhcmFtcy5zcGxhdCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCByb3V0ZVRhZ3MgPSBwYXJhbXMuZGV0YWlsID8gW3BhcmFtcy5kZXRhaWxdIDogc3BsYXRSZWR1Y2UocGFyYW1zLnNwbGF0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vYm90dG9tOiAnNTAlJwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhdGVnb3JpZXMgPSBzcGxhdFJlZHVjZShwYXJhbXMuc3BsYXQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdG9yZS5nZXRMYW5kaW5nUGFnZUl0ZW1zKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoLnNsaWNlKDEpLCBzdG9yZS5pdGVtcy5yZXN1bHRQYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vYm90dG9tOiAnNTAlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IioiIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzdG9yZS5nZXRMYW5kaW5nUGFnZUl0ZW1zKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoLnNsaWNlKDEpLCBzdG9yZS5pdGVtcy5yZXN1bHRQYWdlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9Sb3V0ZT4K</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9IioiIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0iKiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4K</text>
+        <text encoding="base64">ICAgICAgPC9Sb3V0ZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0iKiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9InNob3AvKiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSJzaG9wLyoqLyoiIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9InNob3AvKiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgey8qPFJvdXRlIHBhdGg9IiovKiIgY29tcG9uZW50PXtJdGVtTGFuZGluZ1BhZ2V9Lz4qL30KICAgIDwvUm91dGU+Cg==</text>
+        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPSJzaG9wLyoqLyoiIGNvbXBvbmVudD17SXRlbUxhbmRpbmdQYWdlfS8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
