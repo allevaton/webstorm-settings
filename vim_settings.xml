@@ -788,8 +788,8 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486749164155">
-        <mark key="[" line="0" column="83" />
+      <file name="/Dummy.txt" timestamp="1486749214529">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
@@ -1286,12 +1286,12 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1486749148832">
-        <mark key="'" line="778" column="8" />
-        <mark key="[" line="752" column="14" />
-        <mark key="]" line="752" column="29" />
-        <mark key="^" line="752" column="29" />
-        <mark key="." line="752" column="29" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1486749223813">
+        <mark key="'" line="752" column="32" />
+        <mark key="[" line="750" column="52" />
+        <mark key="]" line="750" column="56" />
+        <mark key="^" line="750" column="56" />
+        <mark key="." line="750" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
@@ -1341,6 +1341,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="25" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Items.js" timestamp="1486749212491">
+        <mark key="'" line="153" column="12" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" timestamp="1485876632250">
         <mark key="'" line="90" column="2" />
@@ -1727,7 +1732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="0" column="25" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
       <jump line="42" column="4" filename="$USER_HOME$/workspace/sls-react/src/routes.js" />
@@ -1819,7 +1823,6 @@
       <jump line="753" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="754" column="36" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="11" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPageContainer.js" />
-      <jump line="752" column="29" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="16" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPageContainer.js" />
       <jump line="17" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPageContainer.js" />
       <jump line="760" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1827,6 +1830,8 @@
       <jump line="779" column="19" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="761" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="778" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="153" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Items.js" />
+      <jump line="752" column="32" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1878,7 +1883,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWx3YXlzIA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
