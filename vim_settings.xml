@@ -34,8 +34,7 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/styles/main.less" timestamp="1487010841260">
-        <mark key="'" line="51" column="2" />
+      <file name="$USER_HOME$/workspace/sls-react/src/styles/main.less" timestamp="1487019672853">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -86,12 +85,6 @@
         <mark key="]" line="3" column="17" />
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/extractMetadataFromItem.spec.js" timestamp="1486145912218">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" timestamp="1485532295680">
         <mark key="'" line="28" column="24" />
@@ -390,12 +383,6 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" timestamp="1486594758437">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/asyncSortRegion.js" timestamp="1481054539356">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="9" column="21" />
@@ -577,11 +564,7 @@
         <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/styles/content.less" timestamp="1487019582198">
-        <mark key="'" line="4" column="24" />
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/styles/main.less" timestamp="1477577595260">
         <mark key="'" line="29" column="0" />
@@ -1133,8 +1116,8 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1487017512358">
-        <mark key="'" line="121" column="8" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1487019686376">
+        <mark key="'" line="117" column="27" />
         <mark key="[" line="117" column="33" />
         <mark key="]" line="117" column="33" />
         <mark key="^" line="117" column="33" />
@@ -1762,10 +1745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="58" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.js" />
-      <jump line="37" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/PaginatorButton.js" />
-      <jump line="119" column="2" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="149" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="17" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
@@ -1862,6 +1841,10 @@
       <jump line="1098" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/content.less" />
       <jump line="4" column="24" filename="$USER_HOME$/workspace/sls-react/src/styles/content.less" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/main.less" />
+      <jump line="51" column="2" filename="$USER_HOME$/workspace/sls-react/src/styles/main.less" />
+      <jump line="117" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1949,7 +1932,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICBvbkNsaWNrQ29tbWVudD17KCkgPT4gc3RvcmUuaXRlbXMuZm9jdXNDb21tZW50cyA9IHRydWV9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Forward</text>
       </register>
     </registers>
     <search>
@@ -1987,16 +1970,16 @@
         <entry>x</entry>
         <entry>A</entry>
         <entry>z</entry>
-        <entry>action Forward</entry>
         <entry>wM;w</entry>
         <entry>ew</entry>
         <entry>;w</entry>
-        <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>w\</entry>
         <entry>j</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
