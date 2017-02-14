@@ -691,6 +691,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" timestamp="1487088925850" />
       <file name="$USER_HOME$/workspace/sls-react/src/store/Store.ts" timestamp="1486564582729">
         <mark key="'" line="145" column="6" />
         <mark key="[" line="9" column="7" />
@@ -1043,6 +1044,7 @@
       <file name="$USER_HOME$/workspace/sls-react/src/utils/universal/componentStoreData.js" timestamp="1486748853372">
         <mark key="'" line="17" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1487088925850" />
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/Home.js" timestamp="1477497236116">
         <mark key="'" line="179" column="0" />
         <mark key="[" line="131" column="58" />
@@ -1308,8 +1310,10 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1487081945446">
-        <mark key="'" line="461" column="6" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1487092367478">
+        <mark key="'" line="1057" column="0" />
+        <mark key="[" line="1058" column="0" />
+        <mark key="]" line="1060" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
@@ -1754,11 +1758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
-      <jump line="137" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
-      <jump line="135" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
-      <jump line="690" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1103" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1075" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1074" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1077" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -1854,6 +1853,11 @@
       <jump line="17" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.less" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.less" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemResultsPage.less" />
+      <jump line="477" column="28" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1113" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1068" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1051" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1057" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1911,7 +1915,7 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlLmNsaWNrc3RyZWFtU3JjID0gJ3Jlc3VsdHMtdGh1bWInOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhY2hlZCA9IHRoaXMucGFnZXMubGFuZGluZ1BhZ2VDYWNoZVtzdHJpbmdpZmllZF07CiAgICBpZiAoY2FjaGVkKQogICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGNhY2hlZCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
@@ -1951,7 +1955,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1965,10 +1969,6 @@
         <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>sw</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>w;w</entry>
-        <entry>ww</entry>
         <entry>bp</entry>
         <entry>e</entry>
         <entry>a</entry>
