@@ -778,7 +778,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487172133281">
+      <file name="/Dummy.txt" timestamp="1487172458650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -1110,6 +1110,13 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1487172412523">
+        <mark key="'" line="149" column="20" />
+        <mark key="[" line="149" column="40" />
+        <mark key="]" line="150" column="37" />
+        <mark key="^" line="150" column="37" />
+        <mark key="." line="150" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
         <mark key="[" line="13" column="2" />
@@ -1344,12 +1351,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Items.js" timestamp="1487168069356">
-        <mark key="'" line="104" column="2" />
-        <mark key="[" line="106" column="31" />
-        <mark key="]" line="106" column="34" />
-        <mark key="." line="106" column="34" />
-        <mark key="^" line="106" column="34" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Items.js" timestamp="1487172427893">
+        <mark key="'" line="36" column="3" />
+        <mark key="[" line="123" column="4" />
+        <mark key="]" line="123" column="24" />
+        <mark key="." line="123" column="24" />
+        <mark key="^" line="123" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/ImageCarousel.less" timestamp="1485876632250">
         <mark key="'" line="90" column="2" />
@@ -1734,20 +1741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="85" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="102" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="61" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="66" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="168" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="167" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="200" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="39" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
-      <jump line="31" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
-      <jump line="223" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="270" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
-      <jump line="236" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="25" column="68" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
       <jump line="58" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
       <jump line="62" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentBox.js" />
@@ -1834,6 +1827,20 @@
       <jump line="228" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
       <jump line="203" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
       <jump line="204" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
+      <jump line="109" column="33" filename="$USER_HOME$/workspace/sls-react/src/store/Items.js" />
+      <jump line="19" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Items.js" />
+      <jump line="308" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="288" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="271" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="254" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="237" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="220" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="135" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="136" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="148" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="149" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="36" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Items.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1962,8 +1969,8 @@
         <entry>j</entry>
         <entry>action RenameElement</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>q</entry>
+        <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
