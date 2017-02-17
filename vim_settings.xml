@@ -990,8 +990,11 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" timestamp="1487018262342">
-        <mark key="'" line="135" column="2" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" timestamp="1487344864286">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/ExpandingItem.js" timestamp="1476465494978">
         <mark key="'" line="9" column="2" />
@@ -1805,9 +1808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="30" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
-      <jump line="45" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
       <jump line="110" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
       <jump line="114" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
       <jump line="198" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentTypeahead.js" />
@@ -1905,6 +1905,9 @@
       <jump line="8" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="256" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="251" column="50" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="142" column="42" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
+      <jump line="101" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
+      <jump line="84" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Item/ItemThumbnail.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1965,31 +1968,31 @@
         <text encoding="base64">ICAmID4gZGl2LnNlbGVjdGVkIGEgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsK</text>
+        <text encoding="base64">CiAgJjpob3ZlciB7CiAgICBzdmcsIGcgewogICAgICBmaWxsOiAjMDBiYmVlOwogICAgfQoKICAgIGNvbG9yOiAjMDBiYmVlOwogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lICFpbXBvcnRhbnQ7Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lml0ZW0tZGV0YWlscy0tcGFnZSB7CiAgbWF4LXdpZHRoOiA5NjBweDsKICBtYXJnaW4tbGVmdDogYXV0bzsKICBtYXJnaW4tcmlnaHQ6IGF1dG87CgogIC8vIDk4MHB4IHRvIGFjY291bnQgZm9yIHNjcm9sbGJhcgogIEBtZWRpYSAobWF4LXdpZHRoOiA5ODBweCkgewogICAgbWF4LXdpZHRoOiA5NTJweDsKICAgIG1hcmdpbjogYXV0byA0cHg7CiAgfQoKICBAbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHsKICAgIG1heC13aWR0aDogbm9uZTsKICAgIG1hcmdpbjogYXV0bzsKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">Lml0ZW0tZGV0YWlscy0tcGFnZSB7CiAgbWF4LXdpZHRoOiA5NjBweDsKICBtYXJnaW4tbGVmdDogYXV0bzsKICBtYXJnaW4tcmlnaHQ6IGF1dG87CgogIC8vIDk4MHB4IHRvIGFjY291bnQgZm9yIHNjcm9sbGJhcgogIEBtZWRpYSAobWF4LXdpZHRoOiA5ODBweCkgewogICAgbWF4LXdpZHRoOiA5NTJweDsKICAgIG1hcmdpbjogYXV0byA0cHg7CiAgfQoKICBAbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHsKICAgIG1heC13aWR0aDogbm9uZTsKICAgIG1hcmdpbjogYXV0bzsKICB9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHNlY3Rpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9zZWN0aW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPHNlY3Rpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzZWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icGFnZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzZWN0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
