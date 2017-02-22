@@ -826,7 +826,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487779542809">
+      <file name="/Dummy.txt" timestamp="1487779704507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -1308,12 +1308,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" timestamp="1487779522644">
-        <mark key="'" line="82" column="14" />
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="46" />
-        <mark key="." line="41" column="46" />
-        <mark key="^" line="41" column="46" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" timestamp="1487779700567">
+        <mark key="'" line="79" column="14" />
+        <mark key="[" line="60" column="32" />
+        <mark key="]" line="61" column="51" />
+        <mark key="." line="61" column="51" />
+        <mark key="^" line="61" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemThumbnail/ItemThumbnail.js" timestamp="1485889045023">
         <mark key="'" line="25" column="1" />
@@ -1866,7 +1866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Pill.less" />
       <jump line="14" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Pill.js" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Pill.js" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Pill.less" />
@@ -1885,8 +1884,6 @@
       <jump line="51" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="42" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="33" column="62" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
-      <jump line="62" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="45" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="71" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
@@ -1966,6 +1963,9 @@
       <jump line="41" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="23" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="40" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
+      <jump line="62" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
+      <jump line="61" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
+      <jump line="79" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2017,7 +2017,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>detail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
