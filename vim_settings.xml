@@ -826,7 +826,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487781658572">
+      <file name="/Dummy.txt" timestamp="1487782099536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -936,12 +936,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" timestamp="1487780872578">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="37" column="31" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" timestamp="1487782089783">
+        <mark key="'" line="41" column="45" />
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="45" />
+        <mark key="." line="41" column="45" />
+        <mark key="^" line="41" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.less" timestamp="1484255272557">
         <mark key="'" line="10" column="21" />
@@ -1891,7 +1891,6 @@
       <jump line="0" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
       <jump line="4" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
       <jump line="30" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
-      <jump line="41" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
       <jump line="25" column="14" filename="$USER_HOME$/workspace/sls-react/src/styles/forms.less" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/forms.less" />
       <jump line="46" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
@@ -1967,6 +1966,7 @@
       <jump line="55" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="54" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
+      <jump line="41" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2018,7 +2018,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>filterState.q</text>
+        <text>newest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
