@@ -117,12 +117,11 @@
         <mark key="." line="73" column="63" />
         <mark key="^" line="73" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" timestamp="1487961176996">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="21" />
-        <mark key="." line="39" column="21" />
-        <mark key="^" line="39" column="23" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" timestamp="1487965217394">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.less" timestamp="1481230456836">
         <mark key="'" line="5" column="34" />
@@ -409,12 +408,6 @@
         <mark key="]" line="3" column="29" />
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractParamsToCookie.js" timestamp="1487956327745">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/asyncSortRegion.js" timestamp="1481054539356">
         <mark key="'" line="10" column="0" />
@@ -837,7 +830,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487961133899">
+      <file name="/Dummy.txt" timestamp="1487965218596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -1607,13 +1600,6 @@
         <mark key="." line="78" column="23" />
         <mark key="^" line="78" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.less" timestamp="1487960655728">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="31" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/isUnsupportedBrowser.js" timestamp="1487269175775">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="23" column="0" />
@@ -1981,11 +1967,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" />
       <jump line="37" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" />
-      <jump line="39" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
       <jump line="46" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2037,7 +2023,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b24g</text>
+        <text encoding="base64">JiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -2046,31 +2032,31 @@
         <text encoding="base64">YSB7CiAgY29sb3I6ICMwMGJiZWU7Cn0KCmE6bGluayB7CiAgLnRyYW5zaXRpb24oY29sb3IgMC4xcyk7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwp9CgphOmhvdmVyIHsKICBjb2xvcjogZGFya2VuKCMwMGJiZWUsIDUlKTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9InByaWNlX2xvdyI+UHJpY2U6IExvdyB0byBIaWdoPC9vcHRpb24+Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXRvcDogNnB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9InByaWNlX2xvdyI+UHJpY2U6IExvdyB0byBIaWdoPC9vcHRpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nLXRvcDogNnB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiA4cHg7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjMDBiYmVlOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiA4cHg7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiAjMDBiYmVlOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGE6bGluayB7Cg==</text>
+        <text encoding="base64">ICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
