@@ -66,8 +66,8 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" timestamp="1488377482831">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" timestamp="1488377729785">
+        <mark key="'" line="18" column="4" />
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
@@ -531,10 +531,6 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemLandingPage.js" timestamp="1488312429327">
-        <mark key="'" line="36" column="0" />
-        <mark key="^" line="149" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Terms/TermsPage.js" timestamp="1475683640506">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="30" />
@@ -846,6 +842,9 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/NoResults.js" timestamp="1488377720912">
+        <mark key="'" line="21" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1487708099336">
         <mark key="'" line="24" column="58" />
         <mark key="[" line="24" column="10" />
@@ -1107,8 +1106,8 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1488313403610" />
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" timestamp="1488377519304">
-        <mark key="'" line="39" column="6" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" timestamp="1488378168449">
+        <mark key="'" line="18" column="2" />
         <mark key="[" line="90" column="29" />
         <mark key="]" line="90" column="29" />
         <mark key="." line="90" column="29" />
@@ -1193,6 +1192,9 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" timestamp="1488378625769">
+        <mark key="'" line="57" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" timestamp="1487356471600">
         <mark key="'" line="4" column="38" />
         <mark key="[" line="4" column="14" />
@@ -1206,8 +1208,8 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1487359129163">
-        <mark key="'" line="0" column="40" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1488378814867">
+        <mark key="'" line="180" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
@@ -1868,33 +1870,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="67" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="36" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="25" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="124" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="111" column="45" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="55" column="43" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="83" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="118" column="8" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="39" column="54" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="137" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="107" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="71" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="53" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Desktop/DesktopHeader.js" />
-      <jump line="93" column="2" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="70" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="64" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
-      <jump line="46" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="45" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="81" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="135" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
@@ -1939,7 +1918,6 @@
       <jump line="74" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="68" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="32" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="50" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="22" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
@@ -1952,7 +1930,6 @@
       <jump line="5" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/NoResults.js" />
       <jump line="4" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/NoResults.js" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
       <jump line="97" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
       <jump line="90" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
       <jump line="82" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
@@ -1960,7 +1937,6 @@
       <jump line="58" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
       <jump line="22" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
       <jump line="40" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
       <jump line="64" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
       <jump line="52" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
       <jump line="54" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
@@ -1968,6 +1944,32 @@
       <jump line="94" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
       <jump line="39" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
+      <jump line="21" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/NoResults.js" />
+      <jump line="13" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsGrid.js" />
+      <jump line="50" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="38" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="46" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="40" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="37" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
+      <jump line="72" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="36" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="70" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="52" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="57" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="202" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="180" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
