@@ -693,8 +693,8 @@
         <mark key="^" line="107" column="18" />
         <mark key="." line="107" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/client.js" timestamp="1488388469104">
-        <mark key="'" line="54" column="20" />
+      <file name="$USER_HOME$/workspace/sls-react/src/client.js" timestamp="1488388832341">
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="53" column="43" />
         <mark key="]" line="53" column="43" />
         <mark key="." line="53" column="43" />
@@ -833,10 +833,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488388769316">
+      <file name="/Dummy.txt" timestamp="1488388860363">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="76" />
-        <mark key="." line="0" column="76" />
+        <mark key="]" line="0" column="85" />
+        <mark key="." line="0" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/NoResults.js" timestamp="1488377720912">
         <mark key="'" line="21" column="9" />
@@ -1866,7 +1866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="116" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="42" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.less" />
@@ -1953,7 +1952,6 @@
       <jump line="109" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="74" column="2" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="54" column="20" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="28" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemSearchPage.js" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemSearchPage.js" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemSearchPage.js" />
@@ -1966,6 +1964,8 @@
       <jump line="23" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemSearchPage.js" />
       <jump line="64" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemSearchPage.js" />
       <jump line="41" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemSearchPage.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2017,7 +2017,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -2094,8 +2094,8 @@
         <entry>q</entry>
         <entry>action Forward</entry>
         <entry>j</entry>
-        <entry>action Back</entry>
         <entry>action RenameElement</entry>
+        <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
