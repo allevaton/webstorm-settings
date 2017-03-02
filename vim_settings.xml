@@ -1192,12 +1192,12 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" timestamp="1488465836794">
-        <mark key="'" line="54" column="6" />
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="8" />
-        <mark key="^" line="61" column="8" />
-        <mark key="." line="61" column="8" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" timestamp="1488467591731">
+        <mark key="'" line="116" column="8" />
+        <mark key="[" line="116" column="69" />
+        <mark key="]" line="116" column="100" />
+        <mark key="^" line="116" column="100" />
+        <mark key="." line="116" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" timestamp="1487356471600">
         <mark key="'" line="4" column="38" />
@@ -1212,10 +1212,10 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1488388993822">
-        <mark key="'" line="359" column="64" />
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="359" column="66" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1488467448521">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="160" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
@@ -1886,32 +1886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="43" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="114" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="82" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="74" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="45" column="5" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="59" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="119" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="26" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="44" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="62" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="79" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="61" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="52" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="1096" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1107" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1109" column="79" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="37" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="144" column="16" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="65" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="22" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="83" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="32" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="1124" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
@@ -1955,13 +1929,11 @@
       <jump line="58" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="57" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="60" column="59" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="56" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="74" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="71" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="69" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="63" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="53" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="51" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="73" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
@@ -1969,11 +1941,9 @@
       <jump line="70" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="96" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="70" column="43" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="67" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="62" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="60" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="61" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="46" column="29" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
@@ -1986,6 +1956,36 @@
       <jump line="44" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="55" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="54" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="62" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="64" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="66" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="63" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="99" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="102" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="106" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="103" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="358" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="250" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="232" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="178" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="142" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="160" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="156" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="100" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="104" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
+      <jump line="112" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="113" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="78" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="42" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="60" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="114" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="115" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="120" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="117" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="116" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2037,40 +2037,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcSwKICAgICAgZGV0YWlsLAogICAgICBjYXRlZ29yeSwKICAgICAgbWluX3ByaWNlLAogICAgICBtYXhfcHJpY2UsCiAgICAgIHBhZ2UsCiAgICAgIHNvcnQsCg==</text>
+      <register name="0" type="4">
+        <text>store.getResultItems(store.filtering.filterStateQuerystring, page, shouldBypass)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0b3JlLmZpbHRlcmluZy5yZWNvbmNpbGVGaWx0ZXJEYXRhKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5pdGVtcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vdGhpcy5maWx0ZXJEYXRhID0gZmlsdGVyRGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5pdGVtcy5jbGVhclJlc3VsdHNDYWNoZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5nZXRJdGVtRGV0YWlscyhzdG9yZS5pdGVtcy5jdXJyZW50LmlkLCB1bmRlZmluZWQsIHRydWUsIGZhbHNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RoaXMuZmlsdGVyaW5nLnJlY29uY2lsZUZpbHRlckRhdGEoanNvbik7Cg==</text>
+        <text encoding="base64">ICAgIHN0b3JlLmZpbHRlcmluZy5yZWNvbmNpbGVGaWx0ZXJEYXRhKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NvbnN0IGZpbHRlckRhdGEgPSBvYmplY3RpZnlJdGVtVGFncyhqc29uLmRhdGEsICdjaGlsZHJlbicpOwo=</text>
+        <text encoding="base64">ICAgIC8vdGhpcy5maWx0ZXJEYXRhID0gZmlsdGVyRGF0YTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpbHRlckRhdGEgPSBvYmplY3RpZnlJdGVtVGFncyhqc29uLmRhdGEsICdjaGlsZHJlbicpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXcgZmlsdGVyIHN0YXRlJywgewogICAgICAuLi50aGlzLnN0YWdlZEZpbHRlclN0YXRlLAogICAgICAuLi5uZXdGaWx0ZXJTdGF0ZSwKICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAvL3RoaXMuZmlsdGVyaW5nLnJlY29uY2lsZUZpbHRlckRhdGEoanNvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcSwKICAgICAgZGV0YWlsLAogICAgICBjYXRlZ29yeSwKICAgICAgbWluX3ByaWNlLAogICAgICBtYXhfcHJpY2UsCiAgICAgIHBhZ2UsCiAgICAgIHNvcnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2NvbnN0IGZpbHRlckRhdGEgPSBvYmplY3RpZnlJdGVtVGFncyhqc29uLmRhdGEsICdjaGlsZHJlbicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0b3JlLmZpbHRlcmluZy5maWx0ZXJTdGF0ZS5wYWdlID0gcXVlcnlPYmplY3QucGFnZTsKCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpbHRlckRhdGEgPSBvYmplY3RpZnlJdGVtVGFncyhqc29uLmRhdGEsICdjaGlsZHJlbicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
