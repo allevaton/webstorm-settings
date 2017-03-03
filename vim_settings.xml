@@ -835,10 +835,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488556670353">
-        <mark key="[" line="0" column="67" />
-        <mark key="]" line="0" column="67" />
-        <mark key="." line="0" column="67" />
+      <file name="/Dummy.txt" timestamp="1488567395425">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/NoResults.js" timestamp="1488377720912">
         <mark key="'" line="21" column="9" />
@@ -997,8 +997,8 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" timestamp="1488566529967">
-        <mark key="'" line="109" column="16" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" timestamp="1488566932702">
+        <mark key="'" line="107" column="16" />
         <mark key="w" line="28" column="10" />
         <mark key="[" line="75" column="39" />
         <mark key="]" line="75" column="44" />
@@ -1891,7 +1891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="3" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/MobileMenuItem.less" />
       <jump line="10" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/MobileMenuItem.js" />
       <jump line="171" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
@@ -1991,6 +1990,7 @@
       <jump line="26" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="82" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
       <jump line="100" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
+      <jump line="107" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2042,7 +2042,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>store.filtering.filterData;</text>
+        <text encoding="base64">cGFnZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
