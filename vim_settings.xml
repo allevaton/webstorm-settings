@@ -1224,12 +1224,12 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" timestamp="1488900897508">
-        <mark key="'" line="71" column="6" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="81" column="65" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" timestamp="1488901223851">
+        <mark key="'" line="77" column="47" />
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" timestamp="1487356471600">
         <mark key="'" line="4" column="38" />
@@ -1927,7 +1927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Search.js" />
       <jump line="76" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Search.js" />
       <jump line="287" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
       <jump line="206" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
@@ -2002,7 +2001,6 @@
       <jump line="74" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="75" column="83" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
-      <jump line="77" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="275" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="279" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="31" column="44" filename="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" />
@@ -2027,6 +2025,8 @@
       <jump line="76" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
       <jump line="71" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="77" column="47" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2078,7 +2078,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>detailObject</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -2115,7 +2115,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -2156,9 +2156,9 @@
         <entry>q</entry>
         <entry>action RenameElement</entry>
         <entry>j</entry>
+        <entry>w</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
