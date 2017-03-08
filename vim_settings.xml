@@ -848,7 +848,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488994108778">
+      <file name="/Dummy.txt" timestamp="1488994205694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -964,6 +964,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" timestamp="1488994195576">
+        <mark key="'" line="57" column="42" />
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="57" column="42" />
+        <mark key="^" line="57" column="42" />
+        <mark key="." line="57" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.less" timestamp="1484255272557">
         <mark key="'" line="10" column="21" />
@@ -1883,8 +1890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="227" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="47" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="65" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="96" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
@@ -1983,6 +1988,8 @@
       <jump line="89" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="92" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="81" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
+      <jump line="57" column="42" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
