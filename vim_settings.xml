@@ -688,12 +688,12 @@
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" timestamp="1488920288557">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="25" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="20" column="21" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" timestamp="1488983889939">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/constants/CanadianProvinces.ts" timestamp="1486159675853">
         <mark key="'" line="17" column="4" />
@@ -1861,14 +1861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="234" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="249" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="267" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="213" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="231" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="226" column="19" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="234" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="248" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="252" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="87" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
@@ -1961,6 +1953,14 @@
       <jump line="90" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="88" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="87" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
+      <jump line="8" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" />
+      <jump line="12" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" />
+      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2012,7 +2012,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Fixing</text>
+        <text>bottom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
