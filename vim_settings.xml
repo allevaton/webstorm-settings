@@ -830,8 +830,8 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488990053949">
-        <mark key="[" line="0" column="21" />
+      <file name="/Dummy.txt" timestamp="1488990196124">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
@@ -1176,13 +1176,13 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" timestamp="1488987364597">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" timestamp="1488990171539">
         <mark key="a" line="232" column="63" />
-        <mark key="'" line="73" column="12" />
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="72" column="9" />
-        <mark key="." line="72" column="11" />
-        <mark key="^" line="72" column="9" />
+        <mark key="'" line="70" column="12" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="68" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" timestamp="1487356471600">
         <mark key="'" line="4" column="38" />
@@ -1862,12 +1862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="233" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="213" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="221" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="78" column="38" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="75" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="77" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="102" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="82" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
@@ -1962,6 +1956,12 @@
       <jump line="131" column="31" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemLandingPage.js" />
       <jump line="130" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemLandingPage.js" />
       <jump line="127" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ItemLandingPage.js" />
+      <jump line="92" column="35" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="72" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="69" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="71" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
+      <jump line="70" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/FilterContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2022,31 +2022,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0b3JlLmZpbHRlcmluZy5zZWxlY3RDYXRlZ29yeVN0YWdlZEZpbHRlclN0YXRlKGNoaWxkLnNsdWcpOwogICAgICAgICAgICAgICAgICAgICAgdGhpcy51cGRhdGVGaWx0ZXJEYXRhKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBAc2VlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGxhbmRpbmdQYWdlRGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIHt7Y2F0ZWdvcnk6IFsqXX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBsYW5kaW5nUGFnZURhdGEgPSBzdG9yZS5wYWdlcy5sYW5kaW5nUGFnZS5kYXRhLmRhdGE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBsYW5kaW5nRGF0YTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZS5maWx0ZXJpbmcuc2VsZWN0Q2F0ZWdvcnlTdGFnZWRGaWx0ZXJTdGF0ZShjaGlsZC5zbHVnKTsKICAgICAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUZpbHRlckRhdGEoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxhbmRpbmdQYWdlRGF0YSA9IGxhbmRpbmdQYWdlRGF0YSAmJiBsYW5kaW5nUGFnZURhdGEuZGF0YTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAc2VlIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZS5maWx0ZXJpbmcuc2VsZWN0Q2F0ZWdvcnlTdGFnZWRGaWx0ZXJTdGF0ZShjaGlsZC5zbHVnKTsKICAgICAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUZpbHRlckRhdGEoKTsK</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIHt7Y2F0ZWdvcnk6IFsqXX19Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZS5maWx0ZXJpbmcuc2VsZWN0Q2F0ZWdvcnlTdGFnZWRGaWx0ZXJTdGF0ZShjaGlsZC5zbHVnKTsKICAgICAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUZpbHRlckRhdGEoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
