@@ -46,12 +46,12 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" timestamp="1488987598726">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="116" column="26" />
-        <mark key="]" line="116" column="37" />
-        <mark key="." line="116" column="37" />
-        <mark key="^" line="116" column="37" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" timestamp="1488989986007">
+        <mark key="'" line="212" column="3" />
+        <mark key="[" line="209" column="36" />
+        <mark key="]" line="209" column="102" />
+        <mark key="." line="209" column="102" />
+        <mark key="^" line="209" column="102" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeaderContainer.js" timestamp="1476909049828">
         <mark key="'" line="119" column="0" />
@@ -829,10 +829,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488989729256">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
+      <file name="/Dummy.txt" timestamp="1488989932940">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1488900628373">
         <mark key="'" line="30" column="0" />
@@ -977,9 +977,9 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" timestamp="1488989740301">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" timestamp="1488989816458">
         <mark key="w" line="33" column="10" />
-        <mark key="'" line="242" column="22" />
+        <mark key="'" line="224" column="18" />
         <mark key="[" line="242" column="0" />
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
@@ -1861,13 +1861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="83" column="5" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
-      <jump line="19" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
-      <jump line="21" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
-      <jump line="173" column="16" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
-      <jump line="232" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
       <jump line="23" column="47" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="39" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/PillContainer.js" />
       <jump line="146" column="47" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
@@ -1956,11 +1949,18 @@
       <jump line="65" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="96" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="110" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
-      <jump line="152" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="130" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="241" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="244" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
+      <jump line="243" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
+      <jump line="261" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
+      <jump line="281" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
+      <jump line="278" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
       <jump line="242" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
+      <jump line="170" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
+      <jump line="152" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
+      <jump line="224" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Filter.js" />
+      <jump line="212" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2012,7 +2012,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>navigate</text>
+        <text>see</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -2021,31 +2021,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0b3JlLmZpbHRlcmluZy5zZWxlY3RDYXRlZ29yeVN0YWdlZEZpbHRlclN0YXRlKGNoaWxkLnNsdWcpOwogICAgICAgICAgICAgICAgICAgICAgdGhpcy51cGRhdGVGaWx0ZXJEYXRhKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAc2VlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZS5maWx0ZXJpbmcuc2VsZWN0Q2F0ZWdvcnlTdGFnZWRGaWx0ZXJTdGF0ZShjaGlsZC5zbHVnKTsKICAgICAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUZpbHRlckRhdGEoKTsK</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIHt7Y2F0ZWdvcnk6IFsqXX19Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZS5maWx0ZXJpbmcuc2VsZWN0Q2F0ZWdvcnlTdGFnZWRGaWx0ZXJTdGF0ZShjaGlsZC5zbHVnKTsKICAgICAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUZpbHRlckRhdGEoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZS5maWx0ZXJpbmcuc2VsZWN0Q2F0ZWdvcnlTdGFnZWRGaWx0ZXJTdGF0ZShjaGlsZC5zbHVnKTsKICAgICAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUZpbHRlckRhdGEoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZS5maWx0ZXJpbmcuc2VsZWN0Q2F0ZWdvcnlTdGFnZWRGaWx0ZXJTdGF0ZShjaGlsZC5zbHVnKTsKICAgICAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUZpbHRlckRhdGEoKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDAuODc1cmVtOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
