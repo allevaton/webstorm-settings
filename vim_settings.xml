@@ -13,7 +13,7 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" timestamp="1489005745208">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" timestamp="1489080881814">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="7" column="8" />
         <mark key="^" line="7" column="8" />
@@ -118,7 +118,7 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-        <mark key="^" line="25" column="19" />
+        <mark key="^" line="61" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.less" timestamp="1481230456836">
         <mark key="'" line="5" column="34" />
@@ -336,13 +336,6 @@
         <mark key="]" line="41" column="28" />
         <mark key="." line="41" column="28" />
         <mark key="^" line="41" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/TestPage/TestPage.js" timestamp="1489077999812">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="26" column="26" />
-        <mark key="." line="26" column="26" />
-        <mark key="^" line="26" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Tile/Tile.js" timestamp="1481564104310">
         <mark key="'" line="6" column="28" />
@@ -866,10 +859,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489005746400">
+      <file name="/Dummy.txt" timestamp="1489080861565">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1488900628373">
         <mark key="'" line="30" column="0" />
@@ -1224,11 +1217,11 @@
         <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" timestamp="1489074992342">
-        <mark key="'" line="5" column="42" />
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="42" />
-        <mark key="." line="5" column="42" />
-        <mark key="^" line="5" column="42" />
+        <mark key="'" line="4" column="42" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="4" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
@@ -1896,9 +1889,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
       <jump line="158" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/forms.less" />
       <jump line="18" column="4" filename="$USER_HOME$/workspace/sls-react/src/styles/forms.less" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/sls-react/src/styles/forms.less" />
@@ -1996,6 +1987,8 @@
       <jump line="67" column="68" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextInput.js" />
       <jump line="2" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Label.less" />
       <jump line="65" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextInput.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/LandingPage/LandingPage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2047,7 +2040,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Progress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
