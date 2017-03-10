@@ -1075,8 +1075,8 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" timestamp="1489156803801">
-        <mark key="'" line="18" column="2" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" timestamp="1489157472546">
+        <mark key="'" line="36" column="0" />
         <mark key="[" line="50" column="33" />
         <mark key="]" line="50" column="40" />
         <mark key="^" line="50" column="40" />
@@ -1612,8 +1612,8 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.js" timestamp="1489156818755">
-        <mark key="'" line="16" column="9" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.js" timestamp="1489157458831">
+        <mark key="'" line="13" column="17" />
         <mark key="[" line="15" column="20" />
         <mark key="]" line="16" column="9" />
         <mark key="^" line="16" column="9" />
@@ -1907,7 +1907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="113" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
       <jump line="217" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
       <jump line="221" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" />
@@ -2000,13 +1999,14 @@
       <jump line="53" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
       <jump line="17" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
       <jump line="78" column="44" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
-      <jump line="54" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
       <jump line="60" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
       <jump line="51" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
       <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
       <jump line="16" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.js" />
+      <jump line="13" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
+      <jump line="54" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/InputCheckbox.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
