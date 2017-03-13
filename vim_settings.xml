@@ -1274,6 +1274,13 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" timestamp="1489419137712">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/Favoriter.less" timestamp="1484247997324">
         <mark key="'" line="15" column="23" />
         <mark key="[" line="13" column="2" />
@@ -1502,8 +1509,8 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1489415166414">
-        <mark key="'" line="37" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1489419282121">
+        <mark key="'" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -1827,9 +1834,6 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1489161623568">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/.env.development.js" timestamp="1485542216359">
         <mark key="'" line="0" column="72" />
         <mark key="[" line="0" column="0" />
@@ -1964,12 +1968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/InfoPanel.js" />
-      <jump line="10" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/InfoPanel.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.less" />
-      <jump line="7" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/InfoPanel.less" />
-      <jump line="13" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/InfoPanel.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/InfoPanel.js" />
       <jump line="12" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/InfoPanel.less" />
       <jump line="45" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="25" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
@@ -2064,6 +2062,12 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ButtonLink.js" />
       <jump line="3" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ButtonLink.less" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Panel.js" />
+      <jump line="14" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
