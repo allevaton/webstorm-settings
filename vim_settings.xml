@@ -51,7 +51,7 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" timestamp="1489500932821">
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Filtering.js" timestamp="1489505703909">
         <mark key="'" line="117" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/MobileHeaderContainer.js" timestamp="1476909049828">
@@ -68,8 +68,11 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" timestamp="1489504128251">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" timestamp="1489505802849">
+        <mark key="'" line="22" column="21" />
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/api/request.ts" timestamp="1486076155157">
         <mark key="'" line="23" column="3" />
@@ -918,7 +921,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489505389808">
+      <file name="/Dummy.txt" timestamp="1489505803880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -2048,7 +2051,6 @@
       <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="15" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="25" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
-      <jump line="22" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="18" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
@@ -2099,6 +2101,7 @@
       <jump line="1250" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1230" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1336" column="17" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="22" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2230,6 +2233,7 @@
         <entry>bn</entry>
         <entry>action RenameElement</entry>
         <entry>j</entry>
+        <entry>.,.+8w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
