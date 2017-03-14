@@ -937,7 +937,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489498606012">
+      <file name="/Dummy.txt" timestamp="1489498806001">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -1568,12 +1568,12 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1489498743317">
-        <mark key="'" line="1212" column="8" />
-        <mark key="[" line="1217" column="0" />
-        <mark key="]" line="1217" column="0" />
-        <mark key="^" line="1216" column="9" />
-        <mark key="." line="1217" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1489498812872">
+        <mark key="'" line="1198" column="2" />
+        <mark key="[" line="1205" column="17" />
+        <mark key="]" line="1205" column="18" />
+        <mark key="^" line="1215" column="9" />
+        <mark key="." line="1205" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -2032,9 +2032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="92" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="91" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="100" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="95" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="77" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
@@ -2125,13 +2122,16 @@
       <jump line="390" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1182" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1167" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1247" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1199" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1217" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1194" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1213" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1212" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1246" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1216" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1167" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1198" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2192,28 +2192,28 @@
         <text encoding="base64">ICAgICAgdGhpcy51cGRhdGUodGhpcy5wcm9wcy5uYW1lLCBlLnRhcmdldC5jaGVja2VkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RoaXMubGlzdEZsb3cucGFyY2VsRGV0YWlsID0ganNvbi5kYXRhOwogICAgICAgIC8vdGhpcy5saXN0Rmxvdy5wYXJjZWxEZXRhaWwubWVtbyA9IGpzb24ubWV0YS5tZW1vOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFlKQogICAgICAgIG5ld1ZhbHVlID0gdW5kZWZpbmVkOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBpZiAodHlwZW9mIGUgPT09ICdzdHJpbmcnKQogICAgICAgIG5ld1ZhbHVlID0gZTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCBSb3V0ZSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tL1JvdXRlJzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZShlLnRhcmdldC5jaGVja2VkKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CgoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL3RoaXMubGlzdEZsb3cucGFyY2VsRGV0YWlsID0ganNvbi5kYXRhOwogICAgICAgIC8vdGhpcy5saXN0Rmxvdy5wYXJjZWxEZXRhaWwubWVtbyA9IGpzb24ubWV0YS5tZW1vOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCFlKQogICAgICAgIG5ld1ZhbHVlID0gdW5kZWZpbmVkOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAodHlwZW9mIGUgPT09ICdzdHJpbmcnKQogICAgICAgIG5ld1ZhbHVlID0gZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CmltcG9ydCBSb3V0ZSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tL1JvdXRlJzsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpdGxlOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZShlLnRhcmdldC5jaGVja2VkKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
