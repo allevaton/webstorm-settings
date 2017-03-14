@@ -86,7 +86,7 @@
         <mark key="^" line="21" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/Select.js" timestamp="1489501138817">
-        <mark key="'" line="34" column="0" />
+        <mark key="'" line="36" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
@@ -625,12 +625,8 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1489504948990">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="25" column="3" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1489512352983">
+        <mark key="'" line="68" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/isImageLoaded.js" timestamp="1485540356258">
         <mark key="'" line="10" column="2" />
@@ -1028,12 +1024,11 @@
         <mark key="." line="18" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" timestamp="1489504448783">
-        <mark key="'" line="63" column="64" />
-        <mark key="k" line="4" column="22" />
-        <mark key="[" line="63" column="93" />
-        <mark key="]" line="63" column="93" />
-        <mark key="." line="63" column="93" />
-        <mark key="^" line="63" column="93" />
+        <mark key="'" line="88" column="64" />
+        <mark key="[" line="88" column="93" />
+        <mark key="]" line="88" column="93" />
+        <mark key="." line="88" column="93" />
+        <mark key="^" line="88" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/api/api.js" timestamp="1476886296622">
         <mark key="'" line="13" column="0" />
@@ -1999,12 +1994,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Select.less" />
-      <jump line="9" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="30" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="42" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="36" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Loader.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="36" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="37" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
@@ -2099,6 +2088,12 @@
       <jump line="144" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="64" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="47" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="13" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="68" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2196,7 +2191,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2210,8 +2205,6 @@
         <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>4</entry>
-        <entry>x</entry>
         <entry>s</entry>
         <entry>e</entry>
         <entry>bp</entry>
