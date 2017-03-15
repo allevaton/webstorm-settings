@@ -634,9 +634,6 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1489512352983">
-        <mark key="'" line="68" column="2" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/isImageLoaded.js" timestamp="1485540356258">
         <mark key="'" line="10" column="2" />
         <mark key="[" line="4" column="0" />
@@ -671,6 +668,12 @@
         <mark key="]" line="7" column="31" />
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toImperialWeight.js" timestamp="1489586745774">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/hoc/storeControlled.js" timestamp="1489420661767">
         <mark key="'" line="4" column="1" />
@@ -940,6 +943,13 @@
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" timestamp="1489586665076">
+        <mark key="'" line="1" column="37" />
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+        <mark key="^" line="1" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/extraction/objectifyItemTags.js" timestamp="1488900628373">
         <mark key="'" line="30" column="0" />
@@ -2029,11 +2039,15 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetricWeight.js" timestamp="1489586727167">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
-      <jump line="0" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="18" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="10" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.less" />
@@ -2131,6 +2145,9 @@
       <jump line="123" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="116" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="115" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
+      <jump line="1" column="37" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" />
+      <jump line="5" column="23" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetricWeight.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetricWeight.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2182,7 +2199,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bW9zdGx5IA==</text>
+        <text encoding="base64">ZXhwb3J0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -2191,31 +2208,31 @@
         <text encoding="base64">ICAgICAgICAgIDxUZXh0SW5wdXQKICAgICAgICAgICAgbmFtZT0iIgogICAgICAgICAgICByaWdodFRleHQ9e3VuaXRzfQogICAgICAgICAgICByaWdodFBhZGRpbmc9IjJlbSIKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICB3aWR0aDogOTIsCiAgICAgICAgICAgICAgdGV4dEFsaWduOiAncmlnaHQnCiAgICAgICAgICAgIH19CiAgICAgICAgICAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lmxpc3QtZmxvdy0tc2hpcHBpbmctZGV0YWlscyB7Cgp9Cgo=</text>
+        <text encoding="base64">LyoqCiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogOTIsCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmljaG8gb24gMy8xNS8yMDE3LgogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogOTIsCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmljaG8gb24gMy8xNS8yMDE3LgogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogOTIsCg==</text>
+        <text encoding="base64">Lmxpc3QtZmxvdy0tc2hpcHBpbmctZGV0YWlscyB7Cgp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8TGFiZWwgdGV4dD0iUGFja2FnZSBEaW1lbnNpb25zIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogOTIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxMYWJlbCB0ZXh0PSJQYWNrYWdlIERpbWVuc2lvbnMiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogOTIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDRweCAtOHB4IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogOTIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8TGFiZWwgdGV4dD0iUGFja2FnZSBEaW1lbnNpb25zIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWw9IlBhY2thZ2UgRGltZW5zaW9ucyIK</text>
+        <text encoding="base64">ICAgICAgICAgIDxMYWJlbCB0ZXh0PSJQYWNrYWdlIERpbWVuc2lvbnMiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
