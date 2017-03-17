@@ -886,7 +886,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489763812123">
+      <file name="/Dummy.txt" timestamp="1489764045983">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -999,13 +999,6 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" timestamp="1489763485904">
-        <mark key="'" line="71" column="37" />
-        <mark key="[" line="71" column="29" />
-        <mark key="]" line="71" column="37" />
-        <mark key="." line="71" column="37" />
-        <mark key="^" line="71" column="37" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/api/api.js" timestamp="1476886296622">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="13" column="0" />
@@ -1027,12 +1020,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1489696117788">
-        <mark key="'" line="56" column="59" />
-        <mark key="[" line="56" column="53" />
-        <mark key="]" line="56" column="58" />
-        <mark key="." line="56" column="58" />
-        <mark key="^" line="56" column="58" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1489763997275">
+        <mark key="'" line="98" column="8" />
+        <mark key="[" line="121" column="31" />
+        <mark key="]" line="122" column="25" />
+        <mark key="." line="122" column="25" />
+        <mark key="^" line="122" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" timestamp="1489680183177">
         <mark key="'" line="34" column="20" />
@@ -1560,12 +1553,12 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="262" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/TextInput.js" timestamp="1489516388316">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="31" column="40" />
-        <mark key="]" line="31" column="61" />
-        <mark key="^" line="31" column="61" />
-        <mark key="." line="31" column="61" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/TextInput.js" timestamp="1489764027056">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="66" column="26" />
+        <mark key="^" line="66" column="26" />
+        <mark key="." line="66" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/forms/shouldOpenTypeahead.js" timestamp="1487275637973">
         <mark key="'" line="7" column="24" />
@@ -1984,15 +1977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="35" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="70" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="206" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="83" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
-      <jump line="47" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
-      <jump line="54" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
       <jump line="77" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
       <jump line="95" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
       <jump line="29" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
@@ -2075,7 +2059,6 @@
       <jump line="55" column="8" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
       <jump line="76" column="6" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
       <jump line="82" column="10" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
-      <jump line="91" column="10" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
       <jump line="84" column="10" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
       <jump line="66" column="8" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
@@ -2084,6 +2067,16 @@
       <jump line="136" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="144" column="46" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="71" column="37" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
+      <jump line="91" column="8" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
+      <jump line="83" column="8" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
+      <jump line="127" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="80" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="90" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="98" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextInput.js" />
+      <jump line="67" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextInput.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/TextInput.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
