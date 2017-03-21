@@ -624,9 +624,6 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1490111690366">
-        <mark key="'" line="186" column="6" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/isImageLoaded.js" timestamp="1485540356258">
         <mark key="'" line="10" column="2" />
         <mark key="[" line="4" column="0" />
@@ -1054,7 +1051,7 @@
         <mark key="." line="18" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" timestamp="1490111811259">
-        <mark key="'" line="92" column="4" />
+        <mark key="'" line="88" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/api/api.js" timestamp="1476886296622">
         <mark key="'" line="13" column="0" />
@@ -1585,12 +1582,12 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1490111285041">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="714" column="61" />
-        <mark key="^" line="42" column="62" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1490117578654">
+        <mark key="'" line="1240" column="16" />
+        <mark key="[" line="1239" column="41" />
+        <mark key="]" line="1239" column="40" />
+        <mark key="." line="1239" column="40" />
+        <mark key="^" line="1239" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -1717,13 +1714,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="56" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/api/api.js" timestamp="1490035832274">
-        <mark key="'" line="65" column="4" />
-        <mark key="[" line="56" column="16" />
-        <mark key="]" line="56" column="20" />
-        <mark key="." line="56" column="20" />
-        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Footer/Footer.js" timestamp="1477425243899">
         <mark key="'" line="40" column="12" />
@@ -2090,17 +2080,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="56" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="62" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="209" column="36" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="567" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="223" column="17" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/hoc/storeControlled.js" />
-      <jump line="48" column="50" filename="$USER_HOME$/workspace/sls-react/src/hoc/storeControlled.js" />
       <jump line="3" column="110" filename="$USER_HOME$/workspace/sls-react/src/hoc/storeControlled.js" />
       <jump line="68" column="6" filename="$USER_HOME$/workspace/sls-react/src/hoc/storeControlled.js" />
       <jump line="5" column="4" filename="$USER_HOME$/workspace/sls-react/src/hoc/storeControlled.js" />
@@ -2190,6 +2169,17 @@
       <jump line="67" column="6" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
       <jump line="71" column="8" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
       <jump line="92" column="4" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
+      <jump line="43" column="38" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1243" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1265" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1291" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1270" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1249" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1245" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1240" column="16" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="109" column="34" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
+      <jump line="96" column="12" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
+      <jump line="33" column="1" filename="$USER_HOME$/workspace/sls-react/src/api/api.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2960,7 +2950,6 @@
       <history-cmd>
         <entry>bp</entry>
         <entry>A</entry>
-        <entry>M;w</entry>
         <entry>;w</entry>
         <entry>action SurroundWith</entry>
         <entry>mw;</entry>
@@ -2977,6 +2966,7 @@
         <entry>action RenameElement</entry>
         <entry>wM:w</entry>
         <entry>j</entry>
+        <entry>M;w</entry>
         <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
