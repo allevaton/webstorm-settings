@@ -950,7 +950,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490213199067">
+      <file name="/Dummy.txt" timestamp="1490213451231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1590,12 +1590,11 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1490213203168">
-        <mark key="'" line="1311" column="0" />
-        <mark key="[" line="1311" column="0" />
-        <mark key="]" line="1311" column="0" />
-        <mark key="." line="1311" column="0" />
-        <mark key="^" line="1327" column="83" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1490213360492">
+        <mark key="'" line="1329" column="12" />
+        <mark key="[" line="1328" column="0" />
+        <mark key="]" line="1328" column="0" />
+        <mark key="." line="1328" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
@@ -2070,9 +2069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.less" />
       <jump line="25" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="14" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
@@ -2170,6 +2166,9 @@
       <jump line="1332" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1331" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1311" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1326" column="13" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1328" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1329" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2221,7 +2220,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">U2xpZ2h0bHkg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2887,31 +2886,31 @@
         <text encoding="base64">ICAgICAgICAgIHRoaXMub3BlblNuYWNrYmFyKCdEcmFmdCBzYXZlZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBkbyB3ZSB3YW50IHRvIGFsc28gc2F2ZSB0aGUgbGluayB0byB0aGUgdGh1bWIgdGhhdCBjb21lcyBiYWNrPyAgZG8gd2UgcG9zdCB0aGF0IGlmIHdlJ3JlIGNyZWF0aW5nCiAgICAgICAgLy8gYW5kIGlmIHdlIGRvLCBkb2VzIGl0IGh1cnQgYW55dGhpbmc/CiAgICAgICAgLy90aGlzLmxpc3RmbG93LnVwbG9hZGVkRmlsZXMucHVzaChqc29uLmRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RoaXMubGlzdGZsb3cuaXRlbURldGFpbC5pbWFnZXMucHVzaCh7aWQ6IGpzb24uZGF0YS5pZH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGltYWdlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBkbyB3ZSB3YW50IHRvIGFsc28gc2F2ZSB0aGUgbGluayB0byB0aGUgdGh1bWIgdGhhdCBjb21lcyBiYWNrPyAgZG8gd2UgcG9zdCB0aGF0IGlmIHdlJ3JlIGNyZWF0aW5nCiAgICAgICAgLy8gYW5kIGlmIHdlIGRvLCBkb2VzIGl0IGh1cnQgYW55dGhpbmc/CiAgICAgICAgLy90aGlzLmxpc3RmbG93LnVwbG9hZGVkRmlsZXMucHVzaChqc29uLmRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubGlzdGZsb3cuZHJvcHpvbmVGaWxlcyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL3RoaXMubGlzdGZsb3cuaXRlbURldGFpbC5pbWFnZXMucHVzaCh7aWQ6IGpzb24uZGF0YS5pZH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gZmxpcCB0aGlzIGxvZ2ljIGJhY2sgdG8gbm9ybWFsLCBhbmQgaW50cm9kdWNlIHB1Ymxpc2hpbmcgc2hpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGltYWdlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gR28gdG8gY3JlYXRpbmcgYSBzZWxsZXIgcHJvZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubGlzdGZsb3cuZHJvcHpvbmVGaWxlcyA9IFtdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGV4dHJhY3RQYXRobmFtZSBmcm9tICcuLi91dGlscy9leHRyYWN0aW9uL2V4dHJhY3RQYXRobmFtZSc7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gZmxpcCB0aGlzIGxvZ2ljIGJhY2sgdG8gbm9ybWFsLCBhbmQgaW50cm9kdWNlIHB1Ymxpc2hpbmcgc2hpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIGlmIChpdGVtSWQpCiAgICAgICAgICB0aGlzLm9wZW5TbmFja2JhcignRHJhZnQgc2F2ZWQnKTsKICAgICAgICBlbHNlCiAgICAgICAgICB0aGlzLm9wZW5TbmFja2JhcignRHJhZnQgdXBkYXRlZCcpOwogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgLy8gR28gdG8gY3JlYXRpbmcgYSBzZWxsZXIgcHJvZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlLgo=</text>
+        <text encoding="base64">aW1wb3J0IGV4dHJhY3RQYXRobmFtZSBmcm9tICcuLi91dGlscy9leHRyYWN0aW9uL2V4dHJhY3RQYXRobmFtZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
