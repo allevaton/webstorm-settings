@@ -44,12 +44,12 @@
         <mark key="." line="157" column="20" />
         <mark key="^" line="157" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" timestamp="1490041766086">
-        <mark key="'" line="11" column="19" />
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="19" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" timestamp="1490203880150">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/api/request.ts" timestamp="1486076155157">
         <mark key="'" line="23" column="3" />
@@ -627,9 +627,6 @@
         <mark key="." line="28" column="106" />
         <mark key="^" line="28" column="106" />
       </file>
-      <file name="/JSRegexp Fragment (SellerOnboardingPage.js:1610).regexp" timestamp="1490124814239">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.less" timestamp="1476465102900">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="89" column="0" />
@@ -835,8 +832,12 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.less" timestamp="1490041969312">
-        <mark key="'" line="20" column="1" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.less" timestamp="1490203617406">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/SettingsPage.less" timestamp="1480519412293">
         <mark key="'" line="7" column="18" />
@@ -2086,13 +2087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="105" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="42" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="70" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="54" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="96" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="187" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="27" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
@@ -2186,6 +2180,13 @@
       <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.less" />
+      <jump line="25" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
+      <jump line="14" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2237,7 +2238,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stu</text>
+        <text>224px</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2900,34 +2901,34 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdjb3JlLWpzL2ZuL251bWJlci9pcy1pbnRlZ2VyJzsK</text>
+        <text encoding="base64">ICAubGlzdC1mbG93LS1mbGV4LXJvdyB7CiAgICAmID4gZGl2IHsKICAgICAgLmZsZXgoMSAxIDIwMHB4KTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoKTsKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gR28gdG8gY3JlYXRpbmcgYSBzZWxsZXIgcHJvZmlsZQogICAgICB0aGlzLmNyZWF0ZURyYWZ0SXRlbSgpCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgcmV0dXJuIHN0b3JlLnZhbGlkYXRlRHJhZnRJdGVtKHN0b3JlLnN0b3JlLmxpc3RmbG93Lml0ZW1EZXRhaWwuaWQpOwogICAgICAgIH0pCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgcm91dGVyLnB1c2goYC9zZWxsZXIvb25ib2FyZGluZz9pdGVtX2lkPSR7c3RvcmUubGlzdGZsb3cuaXRlbURldGFpbC5pZH1gKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">CiAgICAmOmFmdGVyIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICYgPiBkaXYgewogICAgICAuZmxleCgxIDEgMjAwcHgpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoanNvbi5lcnJvcnNbMF0gJiYgIWpzb24uZXJyb3JzWzBdLmZpZWxkKSB7CiAgICAgICAgICAvLyBUT0RPOiBpdGVyYXRlIG92ZXIganNvbi5lcnJvcnMgYXJyYXkgYW5kIGR1bXAgaW50byBsaXN0Zmxvdy5lcnJvcnNbanNvbi5lcnJvcnNbeF0uZmllbGRdID0ganNvbi5lcnJvcnNbeF0ubWVzc2FnZQogICAgICAgICAgLy8gb3IgZG8gd2Ugd2FudCB0byBkbyBzb21ldGhpbmcgZWxzZT8KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9wZW5TbmFja2JhckVycm9yKCdDb3VsZCBub3QgdmFsaWRhdGUgaXRlbS4nKTsK</text>
+        <text encoding="base64">ICAgICYgPiBkaXYgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGVyZSdzIGF0IGxlYXN0IG9uZSBlcnJvcgogICAgICAgIGNvbnN0IGZpcnN0RXJyb3IgPSBnZXQoanNvbiwgJ2Vycm9yc1swXS5tZXNzYWdlJyk7CiAgICAgICAgaWYgKGZpcnN0RXJyb3IpIHsKICAgICAgICAgIHRoaXMubGlzdGZsb3cudXBkYXRlRXJyb3JzKG51bGwsIGpzb24uZXJyb3JzKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubGlzdGZsb3cudXBkYXRlRXJyb3JzKCdzaGlwcGluZycsIGpzb24uZXJyb3JzKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubGlzdGZsb3cudXBkYXRlRXJyb3JzKCdzaGlwcGluZycsIGpzb24uZXJyb3JzKTsK</text>
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMjkycHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
