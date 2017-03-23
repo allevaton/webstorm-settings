@@ -1583,6 +1583,9 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1490277324879">
+        <mark key="'" line="672" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -1935,8 +1938,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1490275919273">
-        <mark key="'" line="170" column="19" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1490277276283">
+        <mark key="'" line="168" column="21" />
         <mark key="[" line="341" column="24" />
         <mark key="]" line="341" column="39" />
         <mark key="." line="341" column="39" />
@@ -2056,12 +2059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="150" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="129" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="108" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="66" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
-      <jump line="98" column="67" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="137" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="112" column="23" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="88" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
@@ -2097,14 +2094,12 @@
       <jump line="99" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="120" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="141" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
-      <jump line="168" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="183" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="150" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="171" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="172" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="181" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="615" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="671" column="24" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="679" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="701" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="723" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -2120,7 +2115,6 @@
       <jump line="170" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
       <jump line="616" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="595" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="642" column="33" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="135" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="74" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="143" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
@@ -2156,6 +2150,15 @@
       <jump line="291" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="296" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="275" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="645" column="23" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="168" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" />
+      <jump line="643" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="642" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="644" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="691" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="665" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="671" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="672" column="52" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
