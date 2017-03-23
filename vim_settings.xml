@@ -1581,10 +1581,10 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1490278881649">
-        <mark key="'" line="1349" column="0" />
-        <mark key="[" line="1341" column="0" />
-        <mark key="]" line="1355" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1490279003662">
+        <mark key="'" line="1343" column="10" />
+        <mark key="[" line="1341" column="4" />
+        <mark key="]" line="1341" column="40" />
         <mark key="." line="1349" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/webpack.config.js" timestamp="1477577598272">
@@ -2057,7 +2057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="523" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="607" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="611" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -2156,7 +2155,8 @@
       <jump line="1399" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1338" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1341" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1349" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1349" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1343" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2870,8 +2870,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5saXN0Zmxvdy51cGxvYWRpbmdJbWFnZXMpIHsKICAgICAgdGhpcy5saXN0Zmxvdy51cGxvYWRpbmdJbWFnZXMgPSB0cnVlOwogICAgICB0aGlzLnBvc3RBbGxEcm9wem9uZXNQcm9taXNlID0gUHJvbWlzZS5hbGwodGhpcy5saXN0Zmxvdy5kcm9wem9uZUZpbGVzLm1hcCgoZmlsZSwgaSkgPT4gewogICAgICAgIGNvbnN0IGRhdGEgPSBuZXcgRm9ybURhdGEoKTsKICAgICAgICBkYXRhLmFwcGVuZCgnaW1hZ2UnLCBmaWxlLCBmaWxlLm5hbWUpOwogICAgICAgIHJldHVybiB0aGlzLnBvc3RJbWFnZShkYXRhKTsKICAgICAgfSkpCiAgICAgICAgLnRoZW4oKGltYWdlcyA9IFtdKSA9PiB7CiAgICAgICAgICB0aGlzLmxpc3RmbG93LnVwbG9hZGluZ0ltYWdlcyA9IGZhbHNlOwogICAgICAgICAgaWYgKGltYWdlcy5sZW5ndGgpIHsKICAgICAgICAgICAgdGhpcy5saXN0Zmxvdy5kcm9wem9uZUZpbGVzID0gW107CiAgICAgICAgICAgIHRoaXMubGlzdGZsb3cudXBsb2FkZWRGaWxlcyA9IFsuLi50aGlzLmxpc3RmbG93LnVwbG9hZGVkRmlsZXMsIC4uLmltYWdlc107CiAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>if (!this.listflow.uploadingImages) {</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5saXN0Zmxvdy51cGxvYWRpbmdJbWFnZXMgPSBmYWxzZTsK</text>
