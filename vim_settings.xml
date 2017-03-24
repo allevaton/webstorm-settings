@@ -27,6 +27,13 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" timestamp="1490380979577">
+        <mark key="'" line="218" column="0" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
+        <mark key="^" line="218" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/Investor.less" timestamp="1476902494240">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="30" column="20" />
@@ -313,7 +320,7 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" timestamp="1490379342634">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" timestamp="1490380854821">
         <mark key="'" line="86" column="6" />
         <mark key="[" line="366" column="26" />
         <mark key="]" line="366" column="46" />
@@ -935,7 +942,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490379385262">
+      <file name="/Dummy.txt" timestamp="1490380994223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -1075,7 +1082,6 @@
         <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1490379373576">
-        <mark key="'" line="134" column="10" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -2048,8 +2054,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
-      <jump line="124" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="125" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="149" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="177" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
@@ -2132,7 +2136,6 @@
       <jump line="338" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="317" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="212" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="86" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="150" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="115" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="152" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
@@ -2148,6 +2151,9 @@
       <jump line="135" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="113" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="134" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="86" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
+      <jump line="213" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
+      <jump line="218" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2199,7 +2205,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8px</text>
+        <text>break</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2865,31 +2871,31 @@
         <text>store.sellerOnboarding.address</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhYkluZGV4PSIxIgo=</text>
+        <text encoding="base64">ICAtbXMtd29yZC1icmVhazo7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhYkluZGV4PSIyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRhYkluZGV4PSIxIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFiSW5kZXg9IjMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRhYkluZGV4PSIyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFiSW5kZXg9IjUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFiSW5kZXg9IjMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFiSW5kZXg9IjQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFiSW5kZXg9IjUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUudXNlci5hZGRyZXNzZXMuc29tZShhZGRyZXNzID0+IHsKICAgICAgICAgICAgICBpZiAoYWRkcmVzcy5mbGFncy5zaGlwX2Zyb20pIHsKICAgICAgICAgICAgICAgIHN0b3JlLnNlbGxlck9uYm9hcmRpbmcuYWRkcmVzcyA9IGFkZHJlc3MuaWQ7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFiSW5kZXg9IjQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlLnNlbGxlck9uYm9hcmRpbmcuYWRkcmVzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUudXNlci5hZGRyZXNzZXMuc29tZShhZGRyZXNzID0+IHsKICAgICAgICAgICAgICBpZiAoYWRkcmVzcy5mbGFncy5zaGlwX2Zyb20pIHsKICAgICAgICAgICAgICAgIHN0b3JlLnNlbGxlck9uYm9hcmRpbmcuYWRkcmVzcyA9IGFkZHJlc3MuaWQ7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxvZz48L29nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0b3JlLnNlbGxlck9uYm9hcmRpbmcuYWRkcmVzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vc3RvcmUudXNlci5hZGRyZXNzZXMuc29tZSh1c2VyQWRkcmVzcyA9PiB7CiAgICAgICAgICAvLyAgaWYgKHVzZXJBZGRyZXNzLmZsYWdzLnNoaXBfZnJvbSkgewogICAgICAgICAgLy8gICAgc3RvcmUuc2VsbGVyT25ib2FyZGluZy5hZGRyZXNzID0gdXNlckFkZHJlc3MuaWQ7CiAgICAgICAgICAvLyAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgIC8vICB9CiAgICAgICAgICAvL30pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxvZz48L29nPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
