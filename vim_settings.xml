@@ -638,13 +638,6 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1490364064679">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="." line="212" column="0" />
-        <mark key="^" line="207" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/isImageLoaded.js" timestamp="1485540356258">
         <mark key="'" line="10" column="2" />
         <mark key="[" line="4" column="0" />
@@ -740,10 +733,10 @@
         <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.less" timestamp="1490625060925">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
         <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.spec.js" timestamp="1486676115821">
@@ -950,10 +943,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490628946041">
+      <file name="/Dummy.txt" timestamp="1490634622772">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" timestamp="1489586665076">
@@ -1068,7 +1061,7 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" timestamp="1490634203278">
+      <file name="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" timestamp="1490634252072">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="45" />
         <mark key="]" line="29" column="45" />
@@ -1095,6 +1088,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1490634591172">
+        <mark key="'" line="26" column="11" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="11" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" timestamp="1489680183177">
         <mark key="'" line="34" column="20" />
@@ -2069,30 +2069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="38" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="39" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="74" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="83" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="26" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="64" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="119" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="99" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="85" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="106" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="53" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="36" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="57" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="66" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="75" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="137" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="45" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.less" />
-      <jump line="315" column="58" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="334" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="326" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="351" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
@@ -2162,13 +2138,37 @@
       <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="10" column="44" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="25" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="26" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="19" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/controlledComponents.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/controlledComponents.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/.babelrc" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
+      <jump line="30" column="24" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
+      <jump line="142" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="212" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="254" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="233" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="180" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="189" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="191" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="201" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="209" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="188" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="30" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="131" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="105" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="114" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="130" column="19" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="138" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="137" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="150" column="27" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="117" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="111" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="75" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="54" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="26" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2220,7 +2220,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>contorlled</text>
+        <text encoding="base64">bW9zdCA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2883,7 +2883,7 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVycm9yVGV4dD17ZGF5RXJyb3J9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdFRleHQ9IiQiCiAgICAgICAgICAgIGxlZnRQYWRkaW5nPSIxZW0iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
