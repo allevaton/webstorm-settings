@@ -1813,12 +1813,12 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="44" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" timestamp="1490388867719">
-        <mark key="'" line="76" column="15" />
-        <mark key="[" line="76" column="14" />
-        <mark key="]" line="76" column="15" />
-        <mark key="." line="76" column="15" />
-        <mark key="^" line="35" column="34" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" timestamp="1490390029626">
+        <mark key="'" line="23" column="6" />
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ImageCarousel/index.js" timestamp="1482938986699">
         <mark key="'" line="1" column="0" />
@@ -2081,7 +2081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Login/FavoriteSports.js" />
       <jump line="639" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="95" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -2145,7 +2144,6 @@
       <jump line="313" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="318" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="307" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="37" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="17" column="38" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
@@ -2158,11 +2156,8 @@
       <jump line="10" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="5" column="66" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="9" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="20" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="21" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="42" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="18" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
-      <jump line="22" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="59" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="12" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
@@ -2181,6 +2176,11 @@
       <jump line="30" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/Select.js" />
       <jump line="35" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
       <jump line="76" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
+      <jump line="25" column="31" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
+      <jump line="20" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
+      <jump line="23" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/DateSelection.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2232,7 +2232,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>day</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2898,31 +2898,31 @@
         <text encoding="base64">ICAgICAgICBpbnB1dFByb3BzPXt7CiAgICAgICAgICBhdXRvY29tcGxldGU6ICdiZGF5LWRheScKICAgICAgICB9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvY29tcGxldGU9ImJkYXktbW9udGgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvY29tcGxldGU9ImJkYXktZGF5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvY29tcGxldGU9ImJkYXkteWVhciIK</text>
+        <text encoding="base64">ICAgICAgICBhdXRvY29tcGxldGU9ImJkYXktbW9udGgiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dFByb3BzPXt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvY29tcGxldGU9ImJkYXktZGF5Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRheTogLTEsCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvY29tcGxldGU9ImJkYXkteWVhciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhcmFibGU9e2ZhbHNlfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dFByb3BzPXt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhcmFibGU9e2ZhbHNlfQo=</text>
+        <text encoding="base64">ICAgIGRheTogLTEsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBjbGVhcmFibGU9e2ZhbHNlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXJTdHlsZT0K</text>
+        <text encoding="base64">ICAgICAgICBjbGVhcmFibGU9e2ZhbHNlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
