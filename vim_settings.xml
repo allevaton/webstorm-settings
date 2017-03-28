@@ -223,7 +223,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" timestamp="1490712883619">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/Modal.js" timestamp="1490733640373">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -488,6 +488,11 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/server.js" timestamp="1490724898043">
+        <mark key="'" line="237" column="12" />
+        <mark key="[" line="224" column="56" />
+        <mark key="]" line="224" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/CommentInput.js" timestamp="1487104294931">
         <mark key="'" line="0" column="0" />
@@ -819,6 +824,11 @@
         <mark key="." line="14" column="38" />
         <mark key="^" line="14" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Header/Mobile/Windows/Window.less" timestamp="1490721271433">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="59" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/constants/CanadianProvinces.ts" timestamp="1486159675853">
         <mark key="'" line="17" column="4" />
         <mark key="[" line="2" column="38" />
@@ -966,10 +976,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490733184445">
+      <file name="/Dummy.txt" timestamp="1490733681281">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" timestamp="1489586665076">
@@ -1222,9 +1232,6 @@
         <mark key="]" line="15" column="11" />
         <mark key="^" line="12" column="10" />
         <mark key="." line="15" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractCookieToObject.js" timestamp="1490727850318">
-        <mark key="^" line="47" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/ExpandingItem.js" timestamp="1476465494978">
         <mark key="'" line="9" column="2" />
@@ -1588,8 +1595,8 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" timestamp="1490733461008">
-        <mark key="'" line="60" column="2" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" timestamp="1490733519935">
+        <mark key="'" line="20" column="2" />
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
@@ -2003,6 +2010,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/index.js" timestamp="1490733662710">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/AddressForm.js" timestamp="1490381246639">
         <mark key="'" line="64" column="6" />
         <mark key="[" line="341" column="24" />
@@ -2131,9 +2143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
-      <jump line="186" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="144" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="81" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
@@ -2229,8 +2238,11 @@
       <jump line="2" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" />
       <jump line="13" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" />
-      <jump line="20" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" />
       <jump line="60" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" />
+      <jump line="18" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ShareModal.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2282,7 +2294,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>with t</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2945,7 +2957,7 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxMaW5rIHRvPSIvaXRlbXMvbmV3Ij4KICAgICAgPFByaW1hcnlCdXR0b24KICAgICAgICBsYXJnZQogICAgICAgIHRleHQ9Ikxpc3QgR2VhciBOb3ciCiAgICAgICAgb25DbGljaz17ZSA9PiB7CiAgICAgICAgICBvbkxpc3RDbGljayAmJiBvbkxpc3RDbGljayhlKTsKICAgICAgICB9fQogICAgICAgIHN0eWxlPXt7bWFyZ2luQm90dG9tOiAyNH19CiAgICAgIC8+CiAgICA8L0xpbms+Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1vZGFsIGZyb20gJy4vTW9kYWwnOwpleHBvcnQgZGVmYXVsdCBNb2RhbDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBAbWVkaWEgKG1pbi13aWR0aDogNzY3cHgpIHsK</text>
@@ -2975,7 +2987,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -3011,7 +3023,6 @@
         <entry>wq</entry>
         <entry>s</entry>
         <entry>ww</entry>
-        <entry>q</entry>
         <entry>wM:w</entry>
         <entry>action Forward</entry>
         <entry>e</entry>
@@ -3020,6 +3031,7 @@
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
