@@ -743,12 +743,12 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" timestamp="1490731139389">
-        <mark key="'" line="113" column="12" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" timestamp="1490731246946">
+        <mark key="'" line="45" column="80" />
+        <mark key="[" line="45" column="52" />
+        <mark key="]" line="45" column="81" />
         <mark key="^" line="50" column="36" />
-        <mark key="." line="79" column="0" />
+        <mark key="." line="45" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/GreenBanner.js" timestamp="1489684221829">
         <mark key="'" line="0" column="11" />
@@ -969,7 +969,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490731132182">
+      <file name="/Dummy.txt" timestamp="1490731248342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
@@ -2124,8 +2124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="64" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="261" column="34" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/cookies/extractCookieToObject.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/App/App.js" />
@@ -2210,7 +2208,6 @@
       <jump line="134" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="100" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="43" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="63" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
@@ -2224,6 +2221,9 @@
       <jump line="79" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="50" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
       <jump line="113" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
+      <jump line="125" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
+      <jump line="45" column="80" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ShippingDetailsForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2275,7 +2275,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>Fri, 31 Dec 9999 23:59:59 GMT</text>
       </register>
       <register name="m" type="4">
         <keys>
