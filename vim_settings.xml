@@ -973,8 +973,8 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490734018306">
-        <mark key="[" line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1490734217101">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="0" />
@@ -1230,8 +1230,8 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Page/Page.less" timestamp="1490734002592">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Page/Page.less" timestamp="1490734241791">
+        <mark key="'" line="20" column="4" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -2152,8 +2152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="38" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="223" column="65" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="173" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="194" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="257" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
@@ -2251,7 +2249,9 @@
       <jump line="6" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" />
       <jump line="21" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" />
       <jump line="52" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.less" />
+      <jump line="21" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.less" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.less" />
+      <jump line="20" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Page/Page.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
