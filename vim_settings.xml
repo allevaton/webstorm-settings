@@ -183,12 +183,12 @@
         <mark key="^" line="208" column="19" />
         <mark key="." line="208" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1490807345728">
-        <mark key="'" line="229" column="10" />
-        <mark key="[" line="146" column="25" />
-        <mark key="]" line="146" column="29" />
-        <mark key="^" line="146" column="29" />
-        <mark key="." line="146" column="29" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1490810188685">
+        <mark key="'" line="245" column="0" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="35" />
+        <mark key="^" line="231" column="35" />
+        <mark key="." line="231" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.js" timestamp="1481297054894">
         <mark key="'" line="41" column="14" />
@@ -771,6 +771,13 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/hoc/secureActions.js" timestamp="1490810238256">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/GreenBanner.js" timestamp="1489684221829">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="12" />
@@ -1333,6 +1340,13 @@
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1490810157009">
+        <mark key="'" line="101" column="20" />
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="101" column="20" />
+        <mark key="^" line="101" column="20" />
+        <mark key="." line="101" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/ReviewRect.less" timestamp="1478182937162">
         <mark key="'" line="82" column="0" />
@@ -2131,14 +2145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="138" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="2" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
-      <jump line="129" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
-      <jump line="27" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
       <jump line="157" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="150" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" />
@@ -2231,6 +2237,14 @@
       <jump line="129" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="234" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="229" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="2" column="21" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="63" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="96" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="101" column="20" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="232" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="241" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="19" column="13" filename="$USER_HOME$/workspace/sls-react/src/hoc/secureActions.js" />
+      <jump line="20" column="25" filename="$USER_HOME$/workspace/sls-react/src/hoc/secureActions.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2282,7 +2296,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhlcmUg</text>
+        <text>skipFain</text>
       </register>
       <register name="m" type="4">
         <keys>
