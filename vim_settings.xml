@@ -177,12 +177,12 @@
         <mark key="^" line="208" column="19" />
         <mark key="." line="208" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1490732948416">
-        <mark key="'" line="217" column="22" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="23" />
-        <mark key="." line="21" column="23" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1490800558183">
+        <mark key="'" line="146" column="29" />
+        <mark key="[" line="146" column="25" />
+        <mark key="]" line="146" column="29" />
+        <mark key="^" line="146" column="29" />
+        <mark key="." line="146" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.js" timestamp="1481297054894">
         <mark key="'" line="41" column="14" />
@@ -981,10 +981,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490800400915">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+      <file name="/Dummy.txt" timestamp="1490800591937">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" timestamp="1489586665076">
@@ -2149,14 +2149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="12" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="231" column="12" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="241" column="10" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="254" column="49" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="235" column="12" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="193" column="6" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="172" column="8" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
-      <jump line="150" column="12" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="151" column="10" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="124" column="2" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
       <jump line="145" column="8" filename="$USER_HOME$/workspace/sls-react/src/server.js" />
@@ -2249,6 +2241,14 @@
       <jump line="272" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="255" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="292" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="255" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="220" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="199" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="197" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="178" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="181" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="157" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="146" column="29" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2300,7 +2300,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cyA=</text>
+        <text>resigin</text>
       </register>
       <register name="m" type="4">
         <keys>
