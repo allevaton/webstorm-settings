@@ -4,7 +4,7 @@
     <globalmarks>
       <mark key="J" line="60" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
       <mark key="K" line="74" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
-      <mark key="M" line="1360" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <mark key="M" line="1396" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.less" timestamp="1486579338182">
@@ -170,6 +170,9 @@
         <mark key="]" line="208" column="19" />
         <mark key="^" line="208" column="19" />
         <mark key="." line="208" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" timestamp="1490883950246">
+        <mark key="'" line="249" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Settings/Address/LinkedAddressModal.js" timestamp="1481297054894">
         <mark key="'" line="41" column="14" />
@@ -956,8 +959,8 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490883849352">
-        <mark key="[" line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1490884025991">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="0" />
@@ -1281,7 +1284,8 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" timestamp="1490734014275">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" timestamp="1490884505590">
+        <mark key="'" line="43" column="18" />
         <mark key="[" line="120" column="30" />
         <mark key="]" line="120" column="28" />
         <mark key="^" line="120" column="28" />
@@ -2101,9 +2105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
-      <jump line="40" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="166" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="187" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="377" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
@@ -2201,6 +2202,9 @@
       <jump line="232" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="233" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="234" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="231" column="40" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="255" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
+      <jump line="43" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ItemResults/ResultsContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
