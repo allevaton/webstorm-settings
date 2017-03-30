@@ -4,7 +4,7 @@
     <globalmarks>
       <mark key="J" line="60" column="2" filename="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" />
       <mark key="K" line="74" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" />
-      <mark key="M" line="1396" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <mark key="M" line="1397" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Paginator.less" timestamp="1486579338182">
@@ -1556,9 +1556,9 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" timestamp="1490904219838">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" timestamp="1490905020736">
         <mark key="w" line="0" column="51" />
-        <mark key="'" line="181" column="39" />
+        <mark key="'" line="203" column="45" />
         <mark key="[" line="181" column="25" />
         <mark key="]" line="181" column="39" />
         <mark key="." line="181" column="39" />
@@ -1605,6 +1605,13 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
         <mark key="^" line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1490905061087">
+        <mark key="'" line="1388" column="80" />
+        <mark key="[" line="1388" column="80" />
+        <mark key="]" line="1388" column="80" />
+        <mark key="^" line="1388" column="80" />
+        <mark key="." line="1388" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
@@ -2106,9 +2113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="74" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="73" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="24" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" />
@@ -2206,6 +2210,9 @@
       <jump line="126" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="164" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="181" column="39" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
+      <jump line="203" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
+      <jump line="1300" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1388" column="80" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
