@@ -825,10 +825,6 @@
         <mark key="^" line="37" column="20" />
         <mark key="." line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/client.js" timestamp="1490727052947">
-        <mark key="'" line="79" column="0" />
-        <mark key="^" line="73" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Avatar/Avatar.js" timestamp="1485199534442">
         <mark key="'" line="19" column="45" />
         <mark key="[" line="14" column="38" />
@@ -1129,10 +1125,6 @@
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemResults/Filter/Summary.js" timestamp="1490821214594">
-        <mark key="'" line="86" column="20" />
-        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetricLength.js" timestamp="1489592179615">
         <mark key="'" line="3" column="1" />
@@ -1582,6 +1574,14 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="6" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" timestamp="1490888873111">
+        <mark key="w" line="0" column="51" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/.configloaderrc" timestamp="1476375426217">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="2" column="26" />
@@ -1945,12 +1945,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" timestamp="1490820184590">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" timestamp="1490888946126">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/index.js" timestamp="1482336548355">
         <mark key="'" line="2" column="30" />
@@ -2122,8 +2122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
-      <jump line="229" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="250" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="232" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
       <jump line="233" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/Login/LoginModal.js" />
@@ -2222,6 +2220,8 @@
       <jump line="30" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageBlock.less" />
       <jump line="31" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageBlock.less" />
       <jump line="33" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageBlock.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2273,7 +2273,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>images</text>
+        <text>292px</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2939,31 +2939,31 @@
         <text>image-upload-block--image-section</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcKICAgICAgICAgICAgY2xhc3NOYW1lPSJpbWFnZS11cGxvYWQtYmxvY2stLWltYWdlIgogICAgICAgICAgICBzcmM9e3NyY30KICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogYXV0bzsKICBoZWlnaHQ6IDI5MnB4Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnJlcGxhY2UoL1xkKi9nLCkK</text>
+        <text encoding="base64">ICB3aWR0aDogYXV0bzsKICBoZWlnaHQ6IDI5MnB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwYXR0ZXJuPSJbMC05XC5dKiIK</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcKICAgICAgICAgICAgY2xhc3NOYW1lPSJpbWFnZS11cGxvYWQtYmxvY2stLWltYWdlIgogICAgICAgICAgICBzcmM9e3NyY30KICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dG9Db21wbGV0ZT0ib2ZmIgo=</text>
+        <text encoding="base64">ICAgICAgLnJlcGxhY2UoL1xkKi9nLCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluPXsxfQogICAgICAgICAgICBtYXg9ezk5OTl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluPXsxfQogICAgICAgICAgICBtYXg9ezk5OTl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYXR0ZXJuPSJbMC05XC5dKiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluPXsxfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF1dG9Db21wbGV0ZT0ib2ZmIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4PXs5OTk5fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluPXsxfQogICAgICAgICAgICBtYXg9ezk5OTl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
