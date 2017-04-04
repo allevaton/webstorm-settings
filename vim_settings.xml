@@ -656,12 +656,12 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1491314383287">
-        <mark key="'" line="321" column="6" />
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="368" column="0" />
-        <mark key="." line="368" column="0" />
-        <mark key="^" line="368" column="9" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1491317262180">
+        <mark key="'" line="363" column="14" />
+        <mark key="[" line="368" column="32" />
+        <mark key="]" line="368" column="33" />
+        <mark key="." line="368" column="33" />
+        <mark key="^" line="368" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/isImageLoaded.js" timestamp="1485540356258">
         <mark key="'" line="10" column="2" />
@@ -732,6 +732,13 @@
         <mark key="]" line="22" column="25" />
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" timestamp="1491317286612">
+        <mark key="'" line="100" column="20" />
+        <mark key="[" line="99" column="22" />
+        <mark key="]" line="99" column="21" />
+        <mark key="." line="99" column="21" />
+        <mark key="^" line="99" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/images/ic-fullscreen.svg" timestamp="1484071379284">
         <mark key="'" line="2" column="0" />
@@ -1307,8 +1314,8 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1491314403093">
-        <mark key="'" line="14" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Modals.js" timestamp="1491317291079">
+        <mark key="'" line="21" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/HomePage/ReviewRect.less" timestamp="1478182937162">
         <mark key="'" line="82" column="0" />
@@ -1612,8 +1619,12 @@
         <mark key="." line="39" column="11" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1491314808989">
-        <mark key="'" line="1449" column="10" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1491317265619">
+        <mark key="'" line="1393" column="23" />
+        <mark key="[" line="1394" column="25" />
+        <mark key="]" line="1394" column="26" />
+        <mark key="^" line="1394" column="28" />
+        <mark key="." line="1394" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
@@ -2115,24 +2126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="143" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="142" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="78" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="99" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="156" column="51" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="89" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="130" column="5" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="116" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="137" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="158" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="178" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="179" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="183" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="36" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="120" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="58" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="84" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="145" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
@@ -2205,7 +2198,6 @@
       <jump line="192" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="197" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Payment/PaymentForm.js" />
       <jump line="1400" column="9" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1545" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1510" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1512" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1470" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
@@ -2215,6 +2207,25 @@
       <jump line="1491" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1437" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1449" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1518" column="16" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1545" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1174" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1153" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1132" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1111" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1090" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1069" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1048" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1027" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1006" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="985" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="964" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1391" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1393" column="23" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="363" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="60" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="100" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2266,7 +2277,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>imageData</text>
+        <text>type</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2991,7 +3002,6 @@
         <entry>wa</entry>
         <entry>x</entry>
         <entry>M;w</entry>
-        <entry>wq</entry>
         <entry>s</entry>
         <entry>ww</entry>
         <entry>wM:w</entry>
@@ -3000,9 +3010,10 @@
         <entry>q</entry>
         <entry>j</entry>
         <entry>action Forward</entry>
-        <entry>action RenameElement</entry>
         <entry>wqa</entry>
         <entry>action Back</entry>
+        <entry>action RenameElement</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
