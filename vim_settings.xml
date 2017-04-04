@@ -1559,11 +1559,11 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" timestamp="1490909829864">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" timestamp="1491312830314">
         <mark key="w" line="22" column="4" />
         <mark key="'" line="168" column="12" />
-        <mark key="[" line="167" column="19" />
-        <mark key="]" line="167" column="21" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="69" column="41" />
         <mark key="." line="167" column="21" />
         <mark key="^" line="167" column="21" />
       </file>
@@ -2923,8 +2923,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>this.props.store.modals.imageEditing.open</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNhbnZhcyA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2NhbnZhcycpOwogICAgY2FudmFzLndpZHRoID0gdGhpcy5pbWFnZS53aWR0aDsKICAgIGNhbnZhcy5oZWlnaHQgPSB0aGlzLmltYWdlLmhlaWdodDsKCiAgICAvLyBDb3B5IHRoZSBpbWFnZSBjb250ZW50cyB0byB0aGUgY2FudmFzCiAgICBjb25zdCBjdHggPSBjYW52YXMuZ2V0Q29udGV4dCgnMmQnKTsKICAgIGN0eC5kcmF3SW1hZ2UodGhpcy5pbWFnZSwgMCwgMCk7CiAgICByZXR1cm4gY2FudmFzLnRvRGF0YVVSTCgnaW1hZ2UvanBlZycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
