@@ -733,13 +733,6 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" timestamp="1491317286612">
-        <mark key="'" line="100" column="20" />
-        <mark key="[" line="99" column="22" />
-        <mark key="]" line="99" column="21" />
-        <mark key="." line="99" column="21" />
-        <mark key="^" line="99" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/images/ic-fullscreen.svg" timestamp="1484071379284">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
@@ -848,6 +841,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/utils/extractMetadataFromItem.js" timestamp="1491317319319" />
       <file name="$USER_HOME$/workspace/sls-react/src/store/Store.ts" timestamp="1486564582729">
         <mark key="'" line="145" column="6" />
         <mark key="[" line="9" column="7" />
@@ -1286,6 +1280,7 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/cryptography/assignment3/frontend/app/app.js" timestamp="1491317319319" />
       <file name="$USER_HOME$/workspace/sls-react/src/store/SellerOnboarding.js" timestamp="1490821196911">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="21" />
@@ -1618,13 +1613,6 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
         <mark key="^" line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1491317265619">
-        <mark key="'" line="1393" column="23" />
-        <mark key="[" line="1394" column="25" />
-        <mark key="]" line="1394" column="26" />
-        <mark key="^" line="1394" column="28" />
-        <mark key="." line="1394" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
@@ -2126,14 +2114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="145" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="195" column="54" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="193" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="214" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="151" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="127" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="109" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
@@ -2221,11 +2201,19 @@
       <jump line="985" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="964" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1391" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1393" column="23" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="363" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="60" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="100" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Modals.js" />
+      <jump line="91" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="112" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="1393" column="23" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="103" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="1417" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1388" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1394" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1406" column="28" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1396" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2277,7 +2265,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2940,31 +2928,31 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNhbnZhcyA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2NhbnZhcycpOwogICAgY2FudmFzLndpZHRoID0gdGhpcy5pbWFnZS53aWR0aDsKICAgIGNhbnZhcy5oZWlnaHQgPSB0aGlzLmltYWdlLmhlaWdodDsKCiAgICAvLyBDb3B5IHRoZSBpbWFnZSBjb250ZW50cyB0byB0aGUgY2FudmFzCiAgICBjb25zdCBjdHggPSBjYW52YXMuZ2V0Q29udGV4dCgnMmQnKTsKICAgIGN0eC5kcmF3SW1hZ2UodGhpcy5pbWFnZSwgMCwgMCk7CiAgICByZXR1cm4gY2FudmFzLnRvRGF0YVVSTCgnaW1hZ2UvanBlZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGRhdGEgPSBuZXcgRm9ybURhdGEoKTsKICAgICAgICAgIGRhdGEuYXBwZW5kKCdpbWFnZScsIGZpbGUpOwogICAgICAgICAgcmV0dXJuIHRoaXMucG9zdEltYWdlKGRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3JjID0gaW1hZ2VEYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghaW1hZ2VEYXRhKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2VEYXRhLAoK</text>
+        <text encoding="base64">ICAgICAgc3JjID0gaW1hZ2VEYXRhOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltYWdlRGF0YTogbnVsbAo=</text>
+        <text encoding="base64">ICAgIGlmICghaW1hZ2VEYXRhKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW1hZ2VEYXRhLAoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2980,7 +2968,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2994,7 +2982,6 @@
         <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>mw;</entry>
         <entry>bn</entry>
         <entry>.,.+8w</entry>
         <entry>wM;w</entry>
