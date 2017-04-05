@@ -988,8 +988,8 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491416944962">
-        <mark key="[" line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1491417084514">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="0" />
@@ -1996,12 +1996,12 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/node_modules/react-image-crop/dist/ReactCrop.js" timestamp="1491407856402" />
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" timestamp="1491416938043">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="8" />
-        <mark key="." line="38" column="8" />
-        <mark key="^" line="38" column="8" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" timestamp="1491417077061">
+        <mark key="'" line="30" column="11" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
+        <mark key="^" line="30" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/index.js" timestamp="1482336548355">
         <mark key="'" line="2" column="30" />
@@ -2172,8 +2172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="242" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="137" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="221" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="223" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
@@ -2272,6 +2270,8 @@
       <jump line="58" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageBlock.js" />
       <jump line="52" column="28" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageBlock.js" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" />
+      <jump line="37" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" />
+      <jump line="30" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2323,7 +2323,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>safari</text>
+        <text>32px</text>
       </register>
       <register name="m" type="4">
         <keys>
