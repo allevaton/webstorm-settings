@@ -976,10 +976,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491407934740">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
+      <file name="/Dummy.txt" timestamp="1491410141113">
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" timestamp="1489586665076">
@@ -1389,12 +1389,12 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" timestamp="1491407540899">
-        <mark key="'" line="259" column="12" />
-        <mark key="[" line="210" column="2" />
-        <mark key="]" line="212" column="27" />
-        <mark key="^" line="212" column="27" />
-        <mark key="." line="212" column="27" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" timestamp="1491410109678">
+        <mark key="'" line="188" column="4" />
+        <mark key="[" line="167" column="23" />
+        <mark key="]" line="168" column="26" />
+        <mark key="." line="168" column="26" />
+        <mark key="^" line="168" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Page/Page.js" timestamp="1490802168833">
         <mark key="'" line="21" column="8" />
@@ -2160,59 +2160,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="107" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="49" column="16" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="50" column="24" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
-      <jump line="41" column="19" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
-      <jump line="11" column="6" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
-      <jump line="42" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
-      <jump line="63" column="8" filename="$USER_HOME$/workspace/sls-react/webpack.client.js" />
-      <jump line="251" column="5" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="160" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="131" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="204" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="259" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="217" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="196" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="175" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="148" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="253" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="284" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="305" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="300" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="315" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="283" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="325" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="252" column="5" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="246" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="301" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="322" column="38" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="327" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="324" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="326" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="328" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="286" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="245" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="247" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="239" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="296" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="256" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="293" column="9" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="295" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="106" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="7" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="115" column="11" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="168" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="206" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="223" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="42" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="82" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="73" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="207" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="152" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
@@ -2225,11 +2176,9 @@
       <jump line="28" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="228" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
-      <jump line="200" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="165" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="29" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="164" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="176" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="59" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="203" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
@@ -2242,24 +2191,75 @@
       <jump line="260" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="285" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="352" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="212" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="191" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="173" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="149" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="20" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="54" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="222" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="65" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="243" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="201" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="14" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingModal.js" />
       <jump line="242" column="42" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
-      <jump line="259" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="212" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="214" column="3" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="77" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="184" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="205" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="298" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="84" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="292" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="270" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="250" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="85" column="49" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="107" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="162" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="134" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="99" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="261" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="100" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="96" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="98" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="121" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="159" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="222" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="201" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="300" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="185" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="197" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="211" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="210" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="176" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="193" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="228" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="207" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="213" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="208" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="166" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="187" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="168" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="163" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="369" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="347" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="200" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="262" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="282" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="281" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="280" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="259" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="301" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
+      <jump line="188" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageEditingForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2311,7 +2311,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>this</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2974,34 +2974,37 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJvdGF0aW9uOiB0aGlzLnN0YXRlLnJvdGF0aW9uICsgOTAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWN0aW9uIH0gZnJvbSAnbW9ieCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLmltYWdlU3JjKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgLy8gdWdoIG1vYngKICAvLyBjb21wb25lbnREaWRNb3VudCgpIHsKICAvLyAgbGV0IHByZXYgPSB0aGlzLnByb3BzLnN0b3JlLm1vZGFscy5pbWFnZUVkaXRpbmcub3BlbjsKICAvLwogIC8vICB0aGlzLm9wZW5MaXN0ZW5lciA9IGF1dG9ydW4oKCkgPT4gewogIC8vICAgIGNvbnN0IG5leHQgPSB0aGlzLnByb3BzLnN0b3JlLm1vZGFscy5pbWFnZUVkaXRpbmcub3BlbjsKICAvLyAgICBpZiAocHJldiAhPT0gbmV4dCAmJiBuZXh0KSB7CiAgLy8KICAvLyAgICAgIHByZXYgPSBuZXh0OwogIC8vICAgIH0KICAvLyAgfSk7CiAgLy99CiAgLy8KICAvL2NvbXBvbmVudFdpbGxVbm1vdW50KCkgewogIC8vICB0aGlzLm9wZW5MaXN0ZW5lciAmJiB0aGlzLm9wZW5MaXN0ZW5lcigpOwogIC8vfQoK</text>
+        <text encoding="base64">ICAgICAgICAgIGlzUm90YXRpbmc6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL2NvbXBvbmVudERpZFVwZGF0ZShwcmV2UHJvcHMsIHByZXZTdGF0ZSkgewogIC8vICBpZiAoIXRoaXMuaW1hZ2UpIHsKICAvLyAgICByZXR1cm4gdGhpcy5mb3JjZVVwZGF0ZSgpOwogICAgfQoKICAgIGlmIChwcmV2U3RhdGUuaW1hZ2VMb2FkaW5nID09PSB0cnVlICYmICFwcmV2U3RhdGUuaW1hZ2VTcmMpIHsKICAgICAgY29uc29sZS5sb2codGhpcy5pbWFnZSk7CiAgICAgIC8vdGhpcy5pbWFnZS5zcmMgPSB0aGlzLmdldEltYWdlRGF0YSgpOwoKICAgICAgLy90aGlzLnNldFN0YXRlKHsKICAgICAgLy8gIC4uLnRoaXMuc3RhdGUsCiAgICAgIC8vICBpbWFnZVNyYzogdGhpcy5nZXRJbWFnZURhdGEoKQogICAgICAvL30pOwogICAgfQogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgLy9pbWFnZVNyYzogZGF0YVVybCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlT2JqZWN0KTsKCg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>this.setState({
+          isRotating: true,
+          rotation: this.state.rotation + 90
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZ2V0SW1hZ2VEaW1lbnNpb25zID0gKCkgPT4gewogICAgaWYgKCF0aGlzLmltYWdlKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgaGVpZ2h0OiAyOTIsCiAgICAgICAgd2lkdGg6IDI5MgogICAgICB9CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgaGVpZ2h0OiB0aGlzLmltYWdlLmhlaWdodCA+IDI5MiA/IDI5MiA6IHRoaXMuaW1hZ2UuaGVpZ2h0LAogICAgICB3aWR0aDogdGhpcy5pbWFnZS53aWR0aCA+IDI5MiA/IDI5MiA6IHRoaXMuaW1hZ2Uud2lkdGgsCiAgICB9CiAgfTsKCiAgZ2V0SW1hZ2VEYXRhID0gKCkgPT4gewogICAgLy8gQ3JlYXRlIGFuIGVtcHR5IGNhbnZhcyBlbGVtZW50CiAgICBjb25zdCBjYW52YXMgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdjYW52YXMnKTsKICAgIGNhbnZhcy53aWR0aCA9IHRoaXMuaW1hZ2Uud2lkdGg7CiAgICBjYW52YXMuaGVpZ2h0ID0gdGhpcy5pbWFnZS5oZWlnaHQ7CgogICAgLy8gQ29weSB0aGUgaW1hZ2UgY29udGVudHMgdG8gdGhlIGNhbnZhcwogICAgY29uc3QgY3R4ID0gY2FudmFzLmdldENvbnRleHQoJzJkJyk7CiAgICBjdHguZHJhd0ltYWdlKHRoaXMuaW1hZ2UsIDAsIDApOwogICAgcmV0dXJuIGNhbnZhcy50b0RhdGFVUkwoJ2ltYWdlL2pwZWcnKTsKICB9OwoKICBvbkltYWdlTG9hZGluZyA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAuLi50aGlzLnN0YXRlLAogICAgICBpbWFnZUxvYWRpbmc6IHRydWUKICAgIH0pCiAgfTsKCiAgb25JbWFnZUxvYWRlZCA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAuLi50aGlzLnN0YXRlLAogICAgICBpbWFnZUxvYWRpbmc6IGZhbHNlCiAgICB9KTsKICB9OwoKICBhdmF0YXJFZGl0b3JEYXRhVXJsID0gKCkgPT4gewogICAgaWYgKHRoaXMuYXZhdGFyRWRpdG9yKSB7CiAgICAgIGNvbnN0IGNhbnZhcyA9IHRoaXMuYXZhdGFyRWRpdG9yLmdldEltYWdlKCk7CiAgICAgIGlmIChjYW52YXMpIHsKICAgICAgICByZXR1cm4gY2FudmFzLnRvRGF0YVVSTCgnaW1hZ2UvanBlZycpOwogICAgICB9CiAgICB9CiAgfTsKCiAgcmVhY3RDcm9wRGF0YVVybCA9ICgpID0+IHsKICAgIHJldHVybiB0aGlzLnBlcmZvcm1Dcm9wKCk7CiAgfTsKCiAgZ2V0RGF0YVVybCA9ICgpID0+IHsKICAgIGlmICh0aGlzLnN0YXRlLmlzUm90YXRpbmcpIHsKICAgICAgcmV0dXJuIHRoaXMuYXZhdGFyRWRpdG9yRGF0YVVybCgpOwogICAgfQoKICAgIGlmICh0aGlzLnN0YXRlLmlzQ3JvcHBpbmcpIHsKICAgICAgcmV0dXJuIHRoaXMucmVhY3RDcm9wRGF0YVVybCgpOwogICAgfQogIH07CgogIHNldERhdGFVcmwgPSAoY2FsbGJhY2spID0+IHsKICAgIHRoaXMuaW1hZ2Uuc3JjID0gdGhpcy5nZXREYXRhVXJsKCk7CiAgICBjYWxsYmFjayAmJiBjYWxsYmFjaygpOwogIH07CgogIG9uQ2xpY2tDcm9wID0gZSA9PiB7CiAgICBpZiAodGhpcy5zdGF0ZS5pc0Nyb3BwaW5nKSB7CiAgICAgIHRoaXMucGVyZm9ybUNyb3AoKTsKICAgIH0gZWxzZSB7CiAgICAgIGlmICh0aGlzLnN0YXRlLmlzUm90YXRpbmcpIHsKICAgICAgICB0aGlzLmltYWdlLnNyYyA9IHRoaXMuYXZhdGFyRWRpdG9yRGF0YVVybCgpIHx8IHRoaXMuaW1hZ2Uuc3JjOwogICAgICB9CgogICAgICBjb25zdCB7CiAgICAgICAgaGVpZ2h0LAogICAgICAgIHdpZHRoCiAgICAgIH0gPSB0aGlzLmdldEltYWdlRGltZW5zaW9ucygpOwoKICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgLi4udGhpcy5zdGF0ZSwKICAgICAgICBpbWFnZUhlaWdodDogaGVpZ2h0LAogICAgICAgIGltYWdlV2lkdGg6IHdpZHRoLAogICAgICAgIGlzQ3JvcHBpbmc6IHRydWUsCiAgICAgICAgaXNSb3RhdGluZzogZmFsc2UsCiAgICAgICAgaGFzQmVlbk1vZGlmaWVkOiB0cnVlCiAgICAgIH0pOwogICAgfQogIH07CgogIG9uQ2xpY2tSb3RhdGUgPSBlID0+IHsKICAgIGNvbnN0IHsKICAgICAgaGVpZ2h0LAogICAgICB3aWR0aAogICAgfSA9IHRoaXMuZ2V0SW1hZ2VEaW1lbnNpb25zKCk7CgogICAgaWYgKHRoaXMuc3RhdGUuaXNDcm9wcGluZykgewogICAgICByZXR1cm4gdGhpcy5wZXJmb3JtQ3JvcCgoKSA9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICBpc1JvdGF0aW5nOiB0cnVlLAogICAgICAgICAgcm90YXRpb246IHRoaXMuc3RhdGUucm90YXRpb24gKyA5MAogICAgICAgIH0pCiAgICAgIH0pCiAgICB9CgogICAgdGhpcy5zZXRTdGF0ZShwcmV2ID0+ICh7CiAgICAgIC4uLnByZXYsCiAgICAgIGltYWdlSGVpZ2h0OiBoZWlnaHQsCiAgICAgIGltYWdlV2lkdGg6IHdpZHRoLAogICAgICBpc0Nyb3BwaW5nOiBmYWxzZSwKICAgICAgaXNSb3RhdGluZzogdHJ1ZSwKICAgICAgcm90YXRpb246IHByZXYucm90YXRpb24gKyA5MCwKICAgICAgaGFzQmVlbk1vZGlmaWVkOiB0cnVlCiAgICB9KSkKICB9OwoKICBwZXJmb3JtQ3JvcCA9IChjYWxsYmFjaykgPT4gewogICAgY29uc3QgY3JvcCA9IHRoaXMuc3RhdGUuY3JvcDsKCiAgICBjb25zdCBpbWFnZVdpZHRoID0gdGhpcy5pbWFnZS5uYXR1cmFsV2lkdGg7CiAgICBjb25zdCBpbWFnZUhlaWdodCA9IHRoaXMuaW1hZ2UubmF0dXJhbEhlaWdodDsKCiAgICBjb25zdCBjcm9wWCA9IChjcm9wLnggLyAxMDApICogaW1hZ2VXaWR0aDsKICAgIGNvbnN0IGNyb3BZID0gKGNyb3AueSAvIDEwMCkgKiBpbWFnZUhlaWdodDsKCiAgICBjb25zdCBjcm9wV2lkdGggPSAoY3JvcC53aWR0aCAvIDEwMCkgKiBpbWFnZVdpZHRoOwogICAgY29uc3QgY3JvcEhlaWdodCA9IChjcm9wLmhlaWdodCAvIDEwMCkgKiBpbWFnZUhlaWdodDsKCiAgICBjb25zdCBjYW52YXMgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdjYW52YXMnKTsKICAgIGNhbnZhcy53aWR0aCA9IGNyb3BXaWR0aDsKICAgIGNhbnZhcy5oZWlnaHQgPSBjcm9wSGVpZ2h0OwogICAgY29uc3QgY3R4ID0gY2FudmFzLmdldENvbnRleHQoJzJkJyk7CgogICAgY3R4LmRyYXdJbWFnZSh0aGlzLmltYWdlLCBjcm9wWCwgY3JvcFksIGNyb3BXaWR0aCwgY3JvcEhlaWdodCwgMCwgMCwgY3JvcFdpZHRoLCBjcm9wSGVpZ2h0KTsKCiAgICBjb25zdCBkYXRhVXJsID0gY2FudmFzLnRvRGF0YVVSTCgnaW1hZ2UvanBlZycpOwoKICAgIHRoaXMuaW1hZ2Uuc3JjID0gZGF0YVVybDsKCiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgLi4udGhpcy5zdGF0ZSwKICAgICAgaW1hZ2VIZWlnaHQ6IGNyb3BIZWlnaHQsCiAgICAgIC8vaW1hZ2VTcmM6IGRhdGFVcmwsCiAgICAgIGltYWdlV2lkdGg6IGNyb3BXaWR0aCwKICAgICAgaXNDcm9wcGluZzogZmFsc2UsCiAgICAgIGlzUm90YXRpbmc6IGZhbHNlLAogICAgICBoYXNCZWVuTW9kaWZpZWQ6IHRydWUsCiAgICB9LCBjYWxsYmFjayk7CgogICAgcmV0dXJuIGRhdGFVcmw7CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2VPYmplY3QsCiAgICAgIG9uU2F2ZUZpbGUsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHdpZHRoID0gdGhpcy5pbWFnZS5uYXR1cmFsV2lkdGg7CiAgICBjb25zdCBoZWlnaHQgPSB0aGlzLmltYWdlLm5hdHVyYWxIZWlnaHQ7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuY2xvc2VNb2RhbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ltYWdlIGxvYWRlZCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNsb3NlTW9kYWwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3039,14 +3042,14 @@
         <entry>q</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
-        <entry>action RenameElement</entry>
         <entry>bn</entry>
         <entry>action Forward</entry>
         <entry>z</entry>
         <entry>;w</entry>
-        <entry>j</entry>
         <entry>wa</entry>
         <entry>action Back</entry>
+        <entry>action RenameElement</entry>
+        <entry>j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
