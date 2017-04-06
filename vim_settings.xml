@@ -766,12 +766,12 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" timestamp="1491505582097">
-        <mark key="'" line="147" column="24" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="88" column="16" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" timestamp="1491505847463">
+        <mark key="'" line="59" column="17" />
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="17" />
+        <mark key="." line="59" column="17" />
+        <mark key="^" line="59" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/images/ic-fullscreen.svg" timestamp="1484071379284">
         <mark key="'" line="2" column="0" />
@@ -2235,7 +2235,6 @@
       <jump line="114" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="129" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageBlock.less" />
-      <jump line="59" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="54" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="100" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
@@ -2267,6 +2266,7 @@
       <jump line="147" column="24" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="130" column="28" filename="$USER_HOME$/workspace/sls-react/package.json" />
       <jump line="17" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/SVG.js" />
+      <jump line="59" column="17" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2318,7 +2318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>li</text>
+        <text>100</text>
       </register>
       <register name="m" type="4">
         <keys>
