@@ -764,12 +764,12 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" timestamp="1491513892562">
-        <mark key="'" line="98" column="10" />
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" timestamp="1491572782359">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="86" column="12" />
+        <mark key="]" line="86" column="29" />
+        <mark key="." line="86" column="29" />
+        <mark key="^" line="86" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/images/ic-fullscreen.svg" timestamp="1484071379284">
         <mark key="'" line="2" column="0" />
@@ -2186,10 +2186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58.js" />
-      <jump line="0" column="40" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58.spec.js" />
-      <jump line="8" column="34" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58.spec.js" />
-      <jump line="3" column="13" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58.spec.js" />
       <jump line="80" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58.js" />
       <jump line="11" column="3" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58.js" />
@@ -2270,7 +2266,6 @@
       <jump line="16" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="39" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
-      <jump line="98" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
       <jump line="1" column="6" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58Decode.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58Decode.js" />
       <jump line="3" column="29" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58Decode.spec.js" />
@@ -2286,6 +2281,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58Decode.js" />
       <jump line="10" column="2" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58Decode.js" />
       <jump line="12" column="32" filename="$USER_HOME$/workspace/sls-react/src/utils/conversion/base58Decode.js" />
+      <jump line="98" column="69" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="86" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="101" column="31" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
+      <jump line="137" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageUploadForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
