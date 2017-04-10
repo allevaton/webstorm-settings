@@ -1147,12 +1147,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1491845842273">
-        <mark key="'" line="105" column="10" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="41" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1491846036851">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetricLength.js" timestamp="1489592179615">
         <mark key="'" line="3" column="1" />
@@ -2194,7 +2194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/SLSModal.js" />
       <jump line="36" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/SLSModal.js" />
       <jump line="15" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/SLSModal.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Modal/SLSModal.js" />
@@ -2224,7 +2223,6 @@
       <jump line="120" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="99" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="301" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
-      <jump line="124" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="288" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="309" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
@@ -2287,13 +2285,15 @@
       <jump line="39" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="60" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="56" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="17" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="19" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="20" column="41" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="22" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="105" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="124" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="103" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2345,7 +2345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>th</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3008,34 +3008,35 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>filterString.split('').join('.*')</text>
+        <text>}
+  return</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vcmV0dXJuIG5ldyBSZWdFeHAoZmlsdGVyU3RyaW5nLnNwbGl0KCcnKS5qb2luKCcuKicpKS50ZXN0KG9wdGlvbi5sYWJlbCkK</text>
+        <text encoding="base64">ICAgIGlmIChMKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlclN0cmluZy5zcGxpdCgnJykuam9pbignLionKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vcmV0dXJuIG5ldyBSZWdFeHAoZmlsdGVyU3RyaW5nLnNwbGl0KCcnKS5qb2luKCcuKicpKS50ZXN0KG9wdGlvbi5sYWJlbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV3IFJlZ0V4cChmaWx0ZXJTdHJpbmcuc3BsaXQoJycpLmpvaW4oJy4qJykpLnRlc3Qob3B0aW9uLmxhYmVsKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlclN0cmluZy5zcGxpdCgnJykuam9pbignLionKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3IFJlZ0V4cChmaWx0ZXJTdHJpbmcuc3BsaXQoJycpLmpvaW4oJy4qJykpLnRlc3Qob3B0aW9uLmxhYmVsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcHRpb24sIGZpbHRlclN0cmluZyk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcHRpb24sIGZpbHRlclN0cmluZyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2hpcHBpbmdNb2RpZmllZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
