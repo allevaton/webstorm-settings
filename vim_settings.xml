@@ -355,12 +355,12 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" timestamp="1491844836886">
-        <mark key="'" line="315" column="18" />
-        <mark key="[" line="171" column="58" />
-        <mark key="]" line="171" column="9" />
-        <mark key="^" line="171" column="9" />
-        <mark key="." line="171" column="9" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" timestamp="1491849395976">
+        <mark key="'" line="365" column="21" />
+        <mark key="[" line="364" column="108" />
+        <mark key="]" line="365" column="21" />
+        <mark key="^" line="365" column="21" />
+        <mark key="." line="365" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/HomePage/ReviewRect.less" timestamp="1476820864225">
         <mark key="'" line="80" column="0" />
@@ -816,6 +816,9 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.less" timestamp="1491849410114">
+        <mark key="'" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/format/splatReduce.spec.js" timestamp="1486676115821">
         <mark key="'" line="13" column="109" />
         <mark key="[" line="12" column="4" />
@@ -1009,10 +1012,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491849331442">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1491849413787">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" timestamp="1489586665076">
@@ -2196,12 +2199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
-      <jump line="236" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
-      <jump line="194" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
-      <jump line="1494" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1326" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1305" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1284" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1270" column="44" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="173" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
@@ -2296,6 +2293,12 @@
       <jump line="1316" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1314" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1313" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="314" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
+      <jump line="392" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
+      <jump line="343" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
+      <jump line="365" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
+      <jump line="7" column="1" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.less" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2347,7 +2350,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGhyb3cg</text>
+        <text>str</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3010,7 +3013,7 @@
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9wZW5TbmFja2JhckVycm9yKCdUaGVyZSB3YXMgYSBwcm9ibGVtIGNyZWF0aW5nIHlvdXIgcGFyY2VsJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9zdHJpcGUuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIChMKQo=</text>
