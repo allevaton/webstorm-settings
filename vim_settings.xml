@@ -27,6 +27,12 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/styles/main.less" timestamp="1491834413423">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" timestamp="1490380979577">
         <mark key="'" line="218" column="0" />
         <mark key="[" line="218" column="0" />
@@ -233,11 +239,10 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageBlock.less" timestamp="1491855249494">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ImageBlock.less" timestamp="1491855376118">
         <mark key="'" line="98" column="4" />
         <mark key="[" line="101" column="19" />
         <mark key="]" line="101" column="20" />
-        <mark key="^" line="101" column="20" />
         <mark key="." line="101" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/Header/Mobile/Windows/Search.js" timestamp="1476909374668">
@@ -658,11 +663,11 @@
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/images/settings/ic-mode-edit.svg" timestamp="1491855316225">
-        <mark key="'" line="2" column="81" />
-        <mark key="[" line="2" column="83" />
-        <mark key="]" line="2" column="81" />
-        <mark key="." line="2" column="81" />
+      <file name="$USER_HOME$/workspace/sls-react/src/images/settings/ic-mode-edit.svg" timestamp="1491855433448">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Forms/ActionLink.less" timestamp="1488990677243">
@@ -824,13 +829,6 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/images/settings/ic-delete.svg" timestamp="1491855303228">
-        <mark key="'" line="2" column="82" />
-        <mark key="[" line="2" column="83" />
-        <mark key="]" line="2" column="81" />
-        <mark key="." line="2" column="81" />
-        <mark key="^" line="2" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/package.json" timestamp="1491505958061">
         <mark key="'" line="129" column="4" />
@@ -1008,7 +1006,7 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491855321365">
+      <file name="/Dummy.txt" timestamp="1491855430192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -1418,6 +1416,12 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1491837922374">
+        <mark key="'" line="530" column="24" />
+        <mark key="[" line="541" column="0" />
+        <mark key="]" line="541" column="0" />
+        <mark key="." line="541" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/.gitignore" timestamp="1479750010562">
         <mark key="'" line="13" column="0" />
@@ -2152,6 +2156,12 @@
         <mark key="^" line="141" column="11" />
         <mark key="." line="141" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/SLSModal.js" timestamp="1491839271460">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/SellerActions/RemoveModal.js" timestamp="1490733701203">
         <mark key="'" line="84" column="16" />
         <mark key="[" line="6" column="25" />
@@ -2280,8 +2290,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/Tile/TileFooter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/TileBase.less" />
       <jump line="100" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/Settings/TileBase.less" />
-      <jump line="2" column="82" filename="$USER_HOME$/workspace/sls-react/src/images/settings/ic-delete.svg" />
-      <jump line="2" column="81" filename="$USER_HOME$/workspace/sls-react/src/images/settings/ic-mode-edit.svg" />
+      <jump line="2" column="114" filename="$USER_HOME$/workspace/sls-react/src/images/settings/ic-delete.svg" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/sls-react/src/images/settings/ic-mode-edit.svg" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2999,31 +3009,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9zdHJpcGUuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gR2VuZXJhdG9yOiBza2V0Y2h0b29sIDQxICgzNTMyNikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+MEZFRDhFMjAtNTdDMi00OUZCLUIwNkItMEQ5RUI1NzE2MzEzPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBza2V0Y2h0b29sLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIDwhLS0gR2VuZXJhdG9yOiBza2V0Y2h0b29sIDQxICgzNTMyNikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+QUNDNkIzQTAtQzNBNy00QzhBLTk1MEEtNDJDRTE4MzgxQ0U3PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBza2V0Y2h0b29sLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwhLS0gR2VuZXJhdG9yOiBza2V0Y2h0b29sIDQxICgzNTMyNikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+MEZFRDhFMjAtNTdDMi00OUZCLUIwNkItMEQ5RUI1NzE2MzEzPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBza2V0Y2h0b29sLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBvcGFjaXR5OiAwLjk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3ZnLAogICAgICBnLAogICAgICBwYXRoIHsK</text>
+        <text encoding="base64">ICAgIDwhLS0gR2VuZXJhdG9yOiBza2V0Y2h0b29sIDQxICgzNTMyNikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+MEZFRDhFMjAtNTdDMi00OUZCLUIwNkItMEQ5RUI1NzE2MzEzPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBza2V0Y2h0b29sLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gR2VuZXJhdG9yOiBza2V0Y2h0b29sIDQxICgzNTMyNikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+QUNDNkIzQTAtQzNBNy00QzhBLTk1MEEtNDJDRTE4MzgxQ0U3PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBza2V0Y2h0b29sLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKiBSdWxlcyBiZWxvdyBub3QgaW1wbGVtZW50ZWQgaW4gYnJvd3NlcnMgeWV0ICovCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgc3ZnLAogICAgICBnLAogICAgICBwYXRoIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiA4cHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChMKQo=</text>
+        <text encoding="base64">ICAvKiBSdWxlcyBiZWxvdyBub3QgaW1wbGVtZW50ZWQgaW4gYnJvd3NlcnMgeWV0ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
