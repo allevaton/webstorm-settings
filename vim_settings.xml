@@ -1262,8 +1262,8 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" timestamp="1492011682742">
-        <mark key="'" line="21" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" timestamp="1492012230687">
+        <mark key="'" line="105" column="6" />
         <mark key="[" line="8" column="52" />
         <mark key="]" line="8" column="52" />
         <mark key="." line="8" column="52" />
@@ -2273,8 +2273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="250" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="238" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="37" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="58" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
@@ -2288,7 +2286,6 @@
       <jump line="92" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="61" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
-      <jump line="63" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="39" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.less" />
       <jump line="79" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="62" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
@@ -2367,12 +2364,15 @@
       <jump line="94" column="34" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="17" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.less" />
       <jump line="0" column="208" filename="$USER_HOME$/workspace/sls-react/src/images/list/ic-add.svg" />
-      <jump line="84" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="8" column="52" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="72" column="32" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.less" />
       <jump line="57" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.less" />
+      <jump line="48" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
+      <jump line="84" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
+      <jump line="63" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
+      <jump line="105" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
