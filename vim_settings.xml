@@ -695,11 +695,12 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1492023098240">
-        <mark key="'" line="454" column="47" />
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="0" />
-        <mark key="." line="456" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1492024887508">
+        <mark key="'" line="493" column="77" />
+        <mark key="[" line="493" column="57" />
+        <mark key="]" line="493" column="77" />
+        <mark key="." line="493" column="77" />
+        <mark key="^" line="493" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/isImageLoaded.js" timestamp="1485540356258">
         <mark key="'" line="10" column="2" />
@@ -1024,10 +1025,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492023156500">
+      <file name="/Dummy.txt" timestamp="1492024922843">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" timestamp="1489586665076">
@@ -1260,8 +1261,8 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" timestamp="1492021044714">
-        <mark key="'" line="42" column="22" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" timestamp="1492024802710">
+        <mark key="'" line="95" column="8" />
         <mark key="[" line="8" column="52" />
         <mark key="]" line="8" column="52" />
         <mark key="." line="8" column="52" />
@@ -2269,10 +2270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.less" />
-      <jump line="60" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.less" />
-      <jump line="468" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
-      <jump line="41" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="102" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="88" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="9" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/Forms/ButtonLink.js" />
@@ -2291,7 +2288,6 @@
       <jump line="48" column="37" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="84" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="105" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
-      <jump line="95" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="43" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="50" column="30" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
@@ -2369,6 +2365,11 @@
       <jump line="1575" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1596" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1598" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="47" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
+      <jump line="62" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
+      <jump line="95" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
+      <jump line="490" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="493" column="77" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2420,7 +2421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>Remov</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3086,31 +3087,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoanNvbi5lcnJvcnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuZmllbGRzLmRldGFpbFtuZXh0LnR5cGVdKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yZW1vdmVkVmFyaWF0aW9ucy5wdXNoKHZhcmlhdGlvbi5pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5maWVsZHMuZGV0YWlsLCBuZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdmFyaWF0aW9uID0gdGhpcy52YXJpYXRpb25zW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndmFyaWF0aW9ucycsIHZhcmlhdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yZW1vdmVkVmFyaWF0aW9ucy5wdXNoKGluZGV4KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBpZiAodmFyaWF0aW9ucyAmJiB2YXJpYXRpb25zLmxlbmd0aCA+IDApIHsKICAgICAgdGhpcy5tdWx0aXBsZU9wdGlvbnNBdmFpbGFibGUgPSB0cnVlOwogICAgICB0aGlzLnZhcmlhdGlvbnMgPSB2YXJpYXRpb25zLm1hcCh2YXJpYXRpb24gPT4gewogICAgICAgIHJldHVybiB7CiAgICAgICAgICBpZDogdmFyaWF0aW9uLmlkLAogICAgICAgICAgbmFtZTogdmFyaWF0aW9uLm5hbWUsCiAgICAgICAgICBxdWFudGl0eTogdmFyaWF0aW9uLnF1YW50aXR5LAogICAgICAgICAgLi4udmFyaWF0aW9uLmRldGFpbHMucmVkdWNlKChwcmV2LCBuZXh0KSA9PiB7CiAgICAgICAgICAgIHRoaXMuZmllbGRzLmRldGFpbFtuZXh0LnR5cGVdID0gJ211bHRpcGxlJzsKCiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgLi4ucHJldiwKICAgICAgICAgICAgICBbbmV4dC50eXBlXTogbmV4dC5zbHVnCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sIHt9KQogICAgICAgIH0KICAgICAgfSkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuZmllbGRzLmRldGFpbFtuZXh0LnR5cGVdKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpZWxkcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5maWVsZHMuZGV0YWlsLCBuZXh0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpZWxkcwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndmFyaWF0aW9ucycsIHZhcmlhdGlvbnMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
