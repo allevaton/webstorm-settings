@@ -695,8 +695,8 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1492105320417">
-        <mark key="'" line="432" column="12" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" timestamp="1492107142193">
+        <mark key="'" line="516" column="4" />
         <mark key="[" line="458" column="16" />
         <mark key="]" line="458" column="12" />
         <mark key="." line="458" column="12" />
@@ -1025,10 +1025,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492098280412">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1492107222258">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" timestamp="1489586665076">
@@ -1170,11 +1170,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1492092722265">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1492107174823">
+        <mark key="'" line="89" column="12" />
+        <mark key="[" line="206" column="14" />
+        <mark key="]" line="206" column="14" />
+        <mark key="." line="206" column="14" />
         <mark key="^" line="37" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetricLength.js" timestamp="1489592179615">
@@ -1261,8 +1261,8 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" timestamp="1492095881688">
-        <mark key="'" line="19" column="4" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" timestamp="1492107145742">
+        <mark key="'" line="111" column="69" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -1706,12 +1706,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1492098306739">
-        <mark key="'" line="1569" column="4" />
-        <mark key="[" line="1565" column="0" />
-        <mark key="]" line="1565" column="0" />
-        <mark key="." line="1565" column="0" />
-        <mark key="^" line="1584" column="78" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1492107195161">
+        <mark key="'" line="1595" column="8" />
+        <mark key="[" line="1572" column="0" />
+        <mark key="]" line="1572" column="0" />
+        <mark key="^" line="1571" column="1" />
+        <mark key="." line="1572" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
@@ -2269,24 +2269,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="446" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
-      <jump line="455" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
-      <jump line="198" column="43" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="109" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
-      <jump line="88" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
-      <jump line="91" column="33" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="34" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="130" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="151" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/sls-react/src/hoc/listFlowControl.js" />
-      <jump line="35" column="45" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="105" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="126" column="14" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="147" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="77" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="119" column="10" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
@@ -2310,7 +2293,6 @@
       <jump line="16" column="21" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="44" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="84" column="26" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
-      <jump line="206" column="49" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="182" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="40" column="36" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
@@ -2369,6 +2351,24 @@
       <jump line="456" column="14" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="476" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
       <jump line="432" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="437" column="15" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="530" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="516" column="4" filename="$USER_HOME$/workspace/sls-react/src/store/ListFlow.js" />
+      <jump line="111" column="69" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
+      <jump line="43" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="147" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="206" column="13" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="271" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="68" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="89" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="1590" column="36" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1599" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1587" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1572" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1595" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2420,7 +2420,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2hpbGQg</text>
+        <text encoding="base64">dmFyaWFibGUg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3086,25 +3086,25 @@
         <text encoding="base64">ICAmOmZpcnN0LWNoaWxkIC5kZWxldGUgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygncG9zdGluZyB2YXJpYXRpb24nLCBwb3N0YWJsZVZhcmlhdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLyoqCiAgICogQHBhcmFtIHtudW1iZXJ8b2JqZWN0fSB2YXJpYXRpb24KICAgKi8KICBAYWN0aW9uIGRlbGV0ZVZhcmlhdGlvbiA9ICh2YXJpYXRpb24pID0+IHsKICAgIGNvbnN0IGlkID0gdHlwZW9mIHZhcmlhdGlvbiA9PT0gJ251bWJlcicgPyB2YXJpYXRpb24gOiB2YXJpYXRpb24uaWQ7CgogICAgcmV0dXJuIHRoaXMuc2VjdXJlQXBpKGAvaXRlbXMvJHt0aGlzLmxpc3RmbG93Lml0ZW1EZXRhaWwuaWR9L3ZhcmlhdGlvbnMvJHtpZH1gLCB7CiAgICAgIG1ldGhvZDogJ0RFTEVURScKICAgIH0pOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNob3dWYXJpYXRpb25zT3B0aW9ucyA9IHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpc21vYmlsZScsIHN0b3JlLmhlYWRlclR5cGUpOwo=</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygncG9zdGluZyB2YXJpYXRpb24nLCBwb3N0YWJsZVZhcmlhdGlvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9fQogICAgICAgICAgICA8L01lZGlhUXVlcnk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lZGlhUXVlcnkgbWF4V2lkdGg9ezc2OH0+CiAgICAgICAgICAgICAge2lzTW9iaWxlID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpc21vYmlsZScsIHN0b3JlLmhlYWRlclR5cGUpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB9fQogICAgICAgICAgICA8L01lZGlhUXVlcnk+Cg==</text>
