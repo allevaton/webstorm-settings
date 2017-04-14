@@ -1025,8 +1025,8 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492178618354">
-        <mark key="[" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1492178918831">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="0" />
@@ -1170,12 +1170,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1492178530850">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="58" column="73" />
-        <mark key="]" line="58" column="73" />
-        <mark key="." line="58" column="73" />
-        <mark key="^" line="58" column="73" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" timestamp="1492178901396">
+        <mark key="'" line="45" column="15" />
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+        <mark key="^" line="45" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetricLength.js" timestamp="1489592179615">
         <mark key="'" line="3" column="1" />
@@ -2270,10 +2270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1599" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1572" column="2" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1595" column="8" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="62" column="1" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="16" column="32" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="69" column="4" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/client.js" />
@@ -2307,7 +2303,6 @@
       <jump line="111" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="56" column="22" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
       <jump line="57" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/Variations/VariationsPanel.js" />
-      <jump line="60" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="120" column="20" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="163" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="170" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
@@ -2370,6 +2365,11 @@
       <jump line="64" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="67" column="53" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="60" column="6" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
+      <jump line="60" column="7" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="44" column="58" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="52" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="53" column="2" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
+      <jump line="45" column="15" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2421,7 +2421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -3086,35 +3086,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAb2JzZXJ2YWJsZSB2YXJpYXRpb25zID0gW3sKICAgIG5hbWU6ICcnLAogICAgcXVhbnRpdHk6IDEKICB9XTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ewogICAgICAgIG5hbWU6ICcnLAogICAgICAgIHF1YW50aXR5OiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgLy8gSWYgdGhlcmUgYXJlIG5vIHZhcmlhdGlvbnMsIGFkZCBvbmUKICAgICAgICBpZiAoc3RvcmUubGlzdGZsb3cudmFyaWF0aW9ucy5sZW5ndGggPT09IDApIHsKICAgICAgICAgIHN0b3JlLmxpc3RmbG93LnZhcmlhdGlvbnMucHVzaChzdG9yZS5saXN0Zmxvdy5jcmVhdGVWYXJpYXRpb24oKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ewogICAgICAgIG5hbWU6ICcnLAogICAgICAgIHF1YW50aXR5OiA=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">MQogICAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
     name: '',
     quantity: 1
   }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlZGl0IG1vZGUnKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaScpOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgfSkK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
