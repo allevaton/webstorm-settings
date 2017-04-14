@@ -1019,10 +1019,10 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492186550699">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1492186587671">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/utils/conversion/toMetric.js" timestamp="1489586665076">
@@ -1696,8 +1696,8 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1492186549581">
-        <mark key="'" line="1610" column="57" />
+      <file name="$USER_HOME$/workspace/sls-react/src/store/Store.js" timestamp="1492186594522">
+        <mark key="'" line="1601" column="6" />
         <mark key="[" line="1611" column="42" />
         <mark key="]" line="1611" column="44" />
         <mark key="^" line="1611" column="44" />
@@ -2244,7 +2244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="25" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="251" column="33" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="159" column="8" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
       <jump line="327" column="18" filename="$USER_HOME$/workspace/sls-react/src/components/SellerOnboarding/SellerOnboardingPage.js" />
@@ -2339,11 +2338,12 @@
       <jump line="1602" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1611" column="44" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1604" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
-      <jump line="1601" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1593" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1591" column="12" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1589" column="10" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
       <jump line="1610" column="57" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1580" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
+      <jump line="1601" column="6" filename="$USER_HOME$/workspace/sls-react/src/store/Store.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2395,7 +2395,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.listflow.removedVariations.filter(Boolean);</text>
+        <text encoding="base64">ZXJyb3Ig</text>
       </register>
       <register name="m" type="4">
         <keys>
