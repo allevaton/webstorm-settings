@@ -27,17 +27,12 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/styles/main.less" timestamp="1491834413423">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" timestamp="1492195463954">
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.less" timestamp="1492443444941">
         <mark key="'" line="206" column="4" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
+        <mark key="[" line="215" column="1" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+        <mark key="^" line="215" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/common/components/CompanyPage/Investor.less" timestamp="1476902494240">
         <mark key="'" line="5" column="0" />
@@ -59,12 +54,6 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.less" timestamp="1491934180308">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/api/request.ts" timestamp="1486076155157">
         <mark key="'" line="23" column="3" />
@@ -1458,12 +1447,6 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ItemDetailsPage.js" timestamp="1491837922374">
-        <mark key="'" line="530" column="24" />
-        <mark key="[" line="541" column="0" />
-        <mark key="]" line="541" column="0" />
-        <mark key="." line="541" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/.gitignore" timestamp="1479750010562">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="18" column="0" />
@@ -1562,8 +1545,8 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1492195466358">
-        <mark key="'" line="251" column="0" />
+      <file name="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" timestamp="1492443447928">
+        <mark key="'" line="278" column="0" />
         <mark key="[" line="248" column="75" />
         <mark key="]" line="248" column="86" />
         <mark key="." line="248" column="86" />
@@ -1715,12 +1698,6 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
         <mark key="^" line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/ListFlow/InfoPanelList.js" timestamp="1491921320152">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sls-react/src/components/Link/Link.js" timestamp="1484936279240">
         <mark key="'" line="36" column="4" />
@@ -2227,12 +2204,6 @@
         <mark key="^" line="141" column="11" />
         <mark key="." line="141" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sls-react/src/components/Modal/SLSModal.js" timestamp="1491839271460">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sls-react/src/actions/test.spec.js" timestamp="1491915974663">
         <mark key="'" line="9" column="62" />
         <mark key="[" line="9" column="59" />
@@ -2283,8 +2254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
-      <jump line="202" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ItemInfoForm.js" />
       <jump line="71" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
       <jump line="28" column="3" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sls-react/src/store/User.js" />
@@ -2383,6 +2352,8 @@
       <jump line="122" column="46" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="120" column="16" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
       <jump line="123" column="12" filename="$USER_HOME$/workspace/sls-react/src/components/ListFlow/ListFlowPage.js" />
+      <jump line="251" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
+      <jump line="278" column="0" filename="$USER_HOME$/workspace/sls-react/src/components/ItemDetails/ActionBox.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
