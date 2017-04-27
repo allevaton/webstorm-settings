@@ -4,7 +4,7 @@
     <property name="created">2017-04-26T14:48:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-04-26T14:49:16</property>
+    <property name="modified">2017-04-27T14:57:34</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -461,6 +461,11 @@
         <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="82b1ff" />
+      </value>
+    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -824,7 +829,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="82b1ff" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
