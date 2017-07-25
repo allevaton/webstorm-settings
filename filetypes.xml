@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".configloaderrc" type="JSON" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="ToggleSlider" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="noDataInboxMessages" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
