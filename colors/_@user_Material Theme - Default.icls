@@ -1,13 +1,13 @@
 <scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="2.5" />
   <metaInfo>
     <property name="created">2017-04-26T14:48:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-10-20T16:03:58</property>
+    <property name="modified">2017-12-01T13:28:06</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="30" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
@@ -53,6 +53,7 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
+    <option name="VISUAL_INDENT_GUIDE" value="3b4950" />
     <option name="WHITESPACES" value="2e3c43" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="99b89d" />
   </colors>
