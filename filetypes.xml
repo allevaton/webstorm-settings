@@ -11,6 +11,7 @@
       <mapping pattern="reduxFormError" type="PLAIN_TEXT" />
       <mapping pattern="FavoriteIcon" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="buildItemPayload" type="PLAIN_TEXT" />
       <mapping pattern="noDataInboxMessages" type="PLAIN_TEXT" />
       <mapping pattern="MobileCheckboxUnchecked" type="PLAIN_TEXT" />
       <mapping pattern="ToggleSlider" type="PLAIN_TEXT" />
